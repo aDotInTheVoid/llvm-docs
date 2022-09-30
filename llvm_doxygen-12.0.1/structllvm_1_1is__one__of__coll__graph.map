@@ -1,0 +1,4 @@
+<map id="llvm::is_one_of&lt; T, Ts &gt;" name="llvm::is_one_of&lt; T, Ts &gt;">
+<area shape="rect" id="node1" title="traits class for checking whether type T is one of any of the given types in the variadic list." alt="" coords="5,95,139,136"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="49,5,95,32"/>
+</map>

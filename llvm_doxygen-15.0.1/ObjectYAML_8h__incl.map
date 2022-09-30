@@ -1,0 +1,52 @@
+<map id="include/llvm/ObjectYAML/ObjectYAML.h" name="include/llvm/ObjectYAML/ObjectYAML.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2483,5,2666,47"/>
+<area shape="rect" id="node2" href="$ArchiveYAML_8h.html" title=" " alt="" coords="2612,177,2844,203"/>
+<area shape="rect" id="node3" href="$YAMLTraits_8h.html" title=" " alt="" coords="2479,348,2670,375"/>
+<area shape="rect" id="node10" title=" " alt="" coords="321,647,399,673"/>
+<area shape="rect" id="node28" href="$COFFYAML_8h.html" title=" " alt="" coords="1884,95,2103,121"/>
+<area shape="rect" id="node33" href="$DXContainerYAML_8h.html" title=" " alt="" coords="3654,169,3871,211"/>
+<area shape="rect" id="node34" href="$ELFYAML_8h.html" title=" " alt="" coords="2934,95,3141,121"/>
+<area shape="rect" id="node38" href="$MachOYAML_8h.html" title=" " alt="" coords="3323,95,3551,121"/>
+<area shape="rect" id="node41" href="$MinidumpYAML_8h.html" title=" " alt="" coords="3429,169,3630,211"/>
+<area shape="rect" id="node44" href="$OffloadYAML_8h.html" title=" " alt="" coords="1427,177,1658,203"/>
+<area shape="rect" id="node46" href="$WasmYAML_8h.html" title=" " alt="" coords="806,177,1029,203"/>
+<area shape="rect" id="node49" href="$XCOFFYAML_8h.html" title=" " alt="" coords="2311,177,2537,203"/>
+<area shape="rect" id="node26" href="$YAML_8h.html" title=" " alt="" coords="2866,266,3049,293"/>
+<area shape="rect" id="node27" href="$MapVector_8h.html" title=" " alt="" coords="854,497,1021,524"/>
+<area shape="rect" id="node4" href="$BitVector_8h.html" title=" " alt="" coords="2995,497,3151,524"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2517,647,2587,673"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title=" " alt="" coords="1566,572,1719,599"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1618,647,1667,673"/>
+<area shape="rect" id="node9" href="$SmallVector_8h.html" title=" " alt="" coords="1750,572,1925,599"/>
+<area shape="rect" id="node11" href="$StringExtras_8h.html" title=" " alt="" coords="3717,423,3894,449"/>
+<area shape="rect" id="node12" href="$StringRef_8h.html" title=" " alt="" coords="3313,572,3471,599"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3852,647,3911,673"/>
+<area shape="rect" id="node14" href="$Twine_8h.html" title=" " alt="" coords="3633,497,3767,524"/>
+<area shape="rect" id="node15" href="$StringMap_8h.html" title=" " alt="" coords="1209,423,1373,449"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title=" " alt="" coords="2984,423,3152,449"/>
+<area shape="rect" id="node17" href="$Allocator_8h.html" title=" " alt="" coords="1816,497,1995,524"/>
+<area shape="rect" id="node18" href="$Endian_8h.html" title=" " alt="" coords="4045,497,4211,524"/>
+<area shape="rect" id="node19" href="$SMLoc_8h.html" title=" " alt="" coords="2333,572,2496,599"/>
+<area shape="rect" id="node20" href="$Support_2SourceMgr_8h.html" title=" " alt="" coords="2069,497,2259,524"/>
+<area shape="rect" id="node21" title=" " alt="" coords="633,572,695,599"/>
+<area shape="rect" id="node22" href="$YAMLParser_8h.html" title=" " alt="" coords="2240,423,2435,449"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2435,497,2485,524"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2521,572,2629,599"/>
+<area shape="rect" id="node25" href="$raw__ostream_8h.html" title=" " alt="" coords="2611,497,2818,524"/>
+<area shape="rect" id="node6" title=" " alt="" coords="4597,572,4664,599"/>
+<area shape="rect" id="node29" href="$BinaryFormat_2COFF_8h.html" title=" " alt="" coords="1852,348,2044,375"/>
+<area shape="rect" id="node30" href="$CodeViewYAMLDebugSections_8h.html" title=" " alt="" coords="2061,259,2262,300"/>
+<area shape="rect" id="node31" href="$CodeViewYAMLTypeHashing_8h.html" title=" " alt="" coords="1682,169,1883,211"/>
+<area shape="rect" id="node32" href="$CodeViewYAMLTypes_8h.html" title=" " alt="" coords="1026,259,1227,300"/>
+<area shape="rect" id="node35" href="$BinaryFormat_2ELF_8h.html" title=" " alt="" coords="4337,497,4517,524"/>
+<area shape="rect" id="node36" href="$ELFTypes_8h.html" title=" " alt="" coords="4214,423,4386,449"/>
+<area shape="rect" id="node37" href="$DWARFYAML_8h.html" title=" " alt="" coords="3122,177,3353,203"/>
+<area shape="rect" id="node39" href="$BinaryFormat_2MachO_8h.html" title=" " alt="" coords="5074,177,5278,203"/>
+<area shape="rect" id="node40" title=" " alt="" coords="5102,266,5319,293"/>
+<area shape="rect" id="node42" href="$BinaryFormat_2Minidump_8h.html" title=" " alt="" coords="4116,348,4340,375"/>
+<area shape="rect" id="node43" href="$Object_2Minidump_8h.html" title=" " alt="" coords="3989,266,4168,293"/>
+<area shape="rect" id="node45" href="$OffloadBinary_8h.html" title=" " alt="" coords="1191,348,1391,375"/>
+<area shape="rect" id="node47" href="$BinaryFormat_2Wasm_8h.html" title=" " alt="" coords="1543,497,1742,524"/>
+<area shape="rect" id="node48" href="$Casting_8h.html" title=" " alt="" coords="1197,497,1368,524"/>
+<area shape="rect" id="node50" href="$XCOFF_8h.html" title=" " alt="" coords="2337,266,2537,293"/>
+</map>

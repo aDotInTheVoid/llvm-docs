@@ -1,0 +1,9 @@
+<map id="llvm::GlobalStatus" name="llvm::GlobalStatus">
+<area shape="rect" id="node1" title="As we analyze each global, keep track of some information about it." alt="" coords="280,316,423,343"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="162,183,256,209"/>
+<area shape="rect" id="node3" title=" " alt="" coords="6,5,63,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="207,5,288,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="287,183,411,209"/>
+<area shape="rect" id="node6" title=" " alt="" coords="436,183,486,209"/>
+<area shape="rect" id="node7" title=" " alt="" coords="646,183,740,209"/>
+</map>

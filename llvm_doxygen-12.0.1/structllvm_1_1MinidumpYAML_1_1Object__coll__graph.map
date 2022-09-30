@@ -1,0 +1,9 @@
+<map id="llvm::MinidumpYAML::Object" name="llvm::MinidumpYAML::Object">
+<area shape="rect" id="node1" title="The top level structure representing a minidump object, consisting of a minidump header,..." alt="" coords="620,181,765,222"/>
+<area shape="rect" id="node2" href="$structllvm_1_1minidump_1_1Header.html" title="The minidump header is the first part of a minidump file." alt="" coords="349,145,509,172"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,169,61"/>
+<area shape="rect" id="node4" title=" " alt="" coords="53,85,121,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,189,169,245"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="53,269,121,296"/>
+<area shape="rect" id="node7" title=" " alt="" coords="340,196,519,252"/>
+</map>

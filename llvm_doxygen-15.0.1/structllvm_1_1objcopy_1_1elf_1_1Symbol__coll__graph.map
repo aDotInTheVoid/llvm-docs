@@ -1,0 +1,14 @@
+<map id="llvm::objcopy::elf::Symbol" name="llvm::objcopy::elf::Symbol">
+<area shape="rect" id="node1" title=" " alt="" coords="259,659,394,700"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="191,102,265,129"/>
+<area shape="rect" id="node7" href="$classllvm_1_1objcopy_1_1elf_1_1SectionBase.html" title=" " alt="" coords="259,525,394,567"/>
+<area shape="rect" id="node8" href="$classllvm_1_1objcopy_1_1elf_1_1Segment.html" title=" " alt="" coords="497,347,631,388"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="804,102,879,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="45,354,96,381"/>
+<area shape="rect" id="node5" title=" " alt="" coords="140,354,199,381"/>
+<area shape="rect" id="node6" title=" " alt="" coords="419,533,485,559"/>
+<area shape="rect" id="node9" title=" " alt="" coords="505,95,780,136"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="290,102,481,129"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="308,5,463,32"/>
+<area shape="rect" id="node12" title=" " alt="" coords="975,533,1116,559"/>
+</map>

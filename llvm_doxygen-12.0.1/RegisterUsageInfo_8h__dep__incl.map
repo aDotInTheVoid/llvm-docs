@@ -1,0 +1,6 @@
+<map id="include/llvm/CodeGen/RegisterUsageInfo.h" name="include/llvm/CodeGen/RegisterUsageInfo.h">
+<area shape="rect" id="node1" title="This pass is required to take advantage of the interprocedural register allocation infrastructure." alt="" coords="229,5,379,47"/>
+<area shape="rect" id="node2" href="$RegisterUsageInfo_8cpp.html" title=" " alt="" coords="5,95,189,136"/>
+<area shape="rect" id="node3" href="$RegUsageInfoCollector_8cpp.html" title=" " alt="" coords="213,95,395,136"/>
+<area shape="rect" id="node4" href="$RegUsageInfoPropagate_8cpp.html" title=" " alt="" coords="419,95,600,136"/>
+</map>

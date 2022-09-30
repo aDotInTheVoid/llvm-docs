@@ -1,0 +1,12 @@
+<map id="llvm::CompileUnit::DIEInfo" name="llvm::CompileUnit::DIEInfo">
+<area shape="rect" id="node1" title="Information gathered about a DIE in the object file." alt="" coords="254,467,389,508"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DeclContext.html" title="A DeclContext is a named program scope that is used for ODR uniquing of types." alt="" coords="43,333,170,360"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DIE.html" title="A structured debug information entry." alt="" coords="195,333,272,360"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IntrusiveBackListNode.html" title=" " alt="" coords="11,257,197,284"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="5,139,203,195"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer." alt="" coords="20,5,188,61"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DIEValueList.html" title="A list of DIE values." alt="" coords="221,257,352,284"/>
+<area shape="rect" id="node8" title=" " alt="" coords="296,333,357,360"/>
+<area shape="rect" id="node9" href="$classuint32__t.html" title=" " alt="" coords="387,333,455,360"/>
+<area shape="rect" id="node10" href="$classbool.html" title=" " alt="" coords="490,333,537,360"/>
+</map>

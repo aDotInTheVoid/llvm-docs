@@ -1,0 +1,25 @@
+<map id="llvm::ELFYAML::Section" name="llvm::ELFYAML::Section">
+<area shape="rect" id="node1" title=" " alt="" coords="212,589,377,615"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ELFYAML_1_1ARMIndexTableSection.html" title=" " alt="" coords="428,5,643,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ELFYAML_1_1AddrsigSection.html" title=" " alt="" coords="430,71,641,98"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ELFYAML_1_1BBAddrMapSection.html" title=" " alt="" coords="440,123,631,164"/>
+<area shape="rect" id="node6" href="$structllvm_1_1ELFYAML_1_1CallGraphProfileSection.html" title=" " alt="" coords="446,188,625,229"/>
+<area shape="rect" id="node7" href="$structllvm_1_1ELFYAML_1_1DependentLibrariesSection.html" title=" " alt="" coords="443,253,627,295"/>
+<area shape="rect" id="node8" href="$structllvm_1_1ELFYAML_1_1DynamicSection.html" title=" " alt="" coords="427,319,644,346"/>
+<area shape="rect" id="node9" href="$structllvm_1_1ELFYAML_1_1GnuHashSection.html" title=" " alt="" coords="425,370,645,397"/>
+<area shape="rect" id="node10" href="$structllvm_1_1ELFYAML_1_1GroupSection.html" title=" " alt="" coords="435,421,635,447"/>
+<area shape="rect" id="node11" href="$structllvm_1_1ELFYAML_1_1HashSection.html" title=" " alt="" coords="437,471,633,498"/>
+<area shape="rect" id="node12" href="$structllvm_1_1ELFYAML_1_1LinkerOptionsSection.html" title=" " alt="" coords="435,523,635,564"/>
+<area shape="rect" id="node13" href="$structllvm_1_1ELFYAML_1_1MipsABIFlags.html" title=" " alt="" coords="434,589,637,615"/>
+<area shape="rect" id="node14" href="$structllvm_1_1ELFYAML_1_1NoBitsSection.html" title=" " alt="" coords="433,639,638,666"/>
+<area shape="rect" id="node15" href="$structllvm_1_1ELFYAML_1_1NoteSection.html" title=" " alt="" coords="439,690,632,717"/>
+<area shape="rect" id="node16" href="$structllvm_1_1ELFYAML_1_1RawContentSection.html" title=" " alt="" coords="439,741,632,783"/>
+<area shape="rect" id="node17" href="$structllvm_1_1ELFYAML_1_1RelocationSection.html" title=" " alt="" coords="444,807,627,848"/>
+<area shape="rect" id="node18" href="$structllvm_1_1ELFYAML_1_1RelrSection.html" title=" " alt="" coords="441,873,629,899"/>
+<area shape="rect" id="node19" href="$structllvm_1_1ELFYAML_1_1StackSizesSection.html" title=" " alt="" coords="442,924,629,965"/>
+<area shape="rect" id="node20" href="$structllvm_1_1ELFYAML_1_1SymtabShndxSection.html" title=" " alt="" coords="434,989,637,1031"/>
+<area shape="rect" id="node21" href="$structllvm_1_1ELFYAML_1_1SymverSection.html" title=" " alt="" coords="431,1055,640,1082"/>
+<area shape="rect" id="node22" href="$structllvm_1_1ELFYAML_1_1VerdefSection.html" title=" " alt="" coords="434,1106,637,1133"/>
+<area shape="rect" id="node23" href="$structllvm_1_1ELFYAML_1_1VerneedSection.html" title=" " alt="" coords="429,1157,641,1183"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ELFYAML_1_1Chunk.html" title=" " alt="" coords="5,589,164,615"/>
+</map>

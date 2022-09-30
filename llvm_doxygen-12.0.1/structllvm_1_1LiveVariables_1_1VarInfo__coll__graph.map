@@ -1,0 +1,5 @@
+<map id="llvm::LiveVariables::VarInfo" name="llvm::LiveVariables::VarInfo">
+<area shape="rect" id="node1" title="VarInfo &#45; This represents the regions where a virtual register is live in the program." alt="" coords="113,109,244,151"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SparseBitVector.html" title=" " alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="179,13,376,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::ReplayInlineAdvisor" name="llvm::ReplayInlineAdvisor">
+<area shape="rect" id="node1" title="Replay inline advisor that uses optimization remarks from inlining of previous build to guide current..." alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InlineAdvisor.html" title="Interface for deciding whether to inline a call site or not." alt="" coords="28,5,172,32"/>
+</map>

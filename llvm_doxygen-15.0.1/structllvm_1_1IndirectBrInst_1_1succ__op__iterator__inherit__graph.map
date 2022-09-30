@@ -1,0 +1,8 @@
+<map id="llvm::IndirectBrInst::succ_op_iterator" name="llvm::IndirectBrInst::succ_op_iterator">
+<area shape="rect" id="node1" title="Iterator type that casts an operand to a basic block." alt="" coords="2509,214,2656,255"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="2231,185,2460,285"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="1447,111,1676,196"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,249,255,319"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="852,233,1423,509"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1700,305,1975,375"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="15,136,182,177"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="247,5,395,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="247,71,395,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="247,136,395,177"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="247,201,395,243"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="240,267,403,308"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="246,332,397,373"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallString.html" title="SmallString &#45; A SmallString is just a SmallVector with methods and accessors that make it work better..." alt="" coords="468,97,613,139"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="455,163,627,190"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="468,215,613,256"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="451,281,631,307"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="468,332,613,373"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="451,398,631,425"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="455,449,627,475"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="451,499,631,526"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="455,550,627,577"/>
+<area shape="rect" id="node17" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="5,201,192,243"/>
+</map>

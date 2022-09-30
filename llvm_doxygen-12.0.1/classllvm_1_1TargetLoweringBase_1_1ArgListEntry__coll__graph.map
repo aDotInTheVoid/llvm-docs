@@ -1,0 +1,11 @@
+<map id="llvm::TargetLoweringBase::ArgListEntry" name="llvm::TargetLoweringBase::ArgListEntry">
+<area shape="rect" id="node1" title=" " alt="" coords="308,537,479,579"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="5,301,88,328"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="115,95,189,121"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="221,301,307,328"/>
+<area shape="rect" id="node4" href="$structllvm_1_1MaybeAlign.html" title="This struct is a compact representation of a valid (power of two) or undefined (0) alignment." alt="" coords="332,301,455,328"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="316,95,471,121"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title=" " alt="" coords="326,5,461,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SDValue.html" title="Unlike LLVM values, Selection DAG nodes may return multiple values as the result of a computation." alt="" coords="479,301,583,328"/>
+<area shape="rect" id="node9" href="$classbool.html" title=" " alt="" coords="607,301,654,328"/>
+</map>

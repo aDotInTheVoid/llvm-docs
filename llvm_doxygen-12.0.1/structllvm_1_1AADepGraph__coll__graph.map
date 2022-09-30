@@ -1,0 +1,6 @@
+<map id="llvm::AADepGraph" name="llvm::AADepGraph">
+<area shape="rect" id="node1" title="The data structure for the dependency graph." alt="" coords="21,303,152,329"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AADepGraphNode.html" title="}" alt="" coords="5,213,168,240"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="8,109,165,151"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TinyPtrVector.html" title="TinyPtrVector &#45; This class is specialized for cases where there are normally 0 or 1 element in a vect..." alt="" coords="20,5,153,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::orc::Platform" name="llvm::orc::Platform">
+<area shape="rect" id="node1" title="Platforms set up standard symbols and mediate interactions between dynamic initializers (e...." alt="" coords="28,5,171,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1MachOPlatform.html" title="Mediates between MachO initialization and ExecutionSession state." alt="" coords="5,80,193,107"/>
+</map>

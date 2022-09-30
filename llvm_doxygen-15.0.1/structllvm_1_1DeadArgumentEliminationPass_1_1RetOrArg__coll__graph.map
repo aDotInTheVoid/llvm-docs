@@ -1,0 +1,6 @@
+<map id="llvm::DeadArgumentEliminationPass::RetOrArg" name="llvm::DeadArgumentEliminationPass::RetOrArg">
+<area shape="rect" id="node1" title="Struct that represents (part of) either a return value or a function argument." alt="" coords="6,95,237,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="81,5,162,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="186,5,243,32"/>
+</map>

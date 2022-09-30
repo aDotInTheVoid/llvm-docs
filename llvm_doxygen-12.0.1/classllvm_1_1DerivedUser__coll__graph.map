@@ -1,0 +1,6 @@
+<map id="llvm::DerivedUser" name="llvm::DerivedUser">
+<area shape="rect" id="node1" title="Extension point for the Value hierarchy." alt="" coords="5,364,132,391"/>
+<area shape="rect" id="node2" href="$classllvm_1_1User.html" title=" " alt="" coords="27,288,110,315"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="25,212,112,239"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="31,5,106,32"/>
+</map>

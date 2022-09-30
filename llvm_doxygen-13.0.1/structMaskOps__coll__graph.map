@@ -1,0 +1,9 @@
+<map id="MaskOps" name="MaskOps">
+<area shape="rect" id="node1" title="This is used by foldAnyOrAllBitsSet() to capture a source value (Root) and the bit indexes (Mask) nee..." alt="" coords="144,287,227,313"/>
+<area shape="rect" id="node2" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers." alt="" coords="8,183,101,209"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="138,183,233,209"/>
+<area shape="rect" id="node5" title=" " alt="" coords="157,5,214,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="337,5,418,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="257,183,308,209"/>
+</map>

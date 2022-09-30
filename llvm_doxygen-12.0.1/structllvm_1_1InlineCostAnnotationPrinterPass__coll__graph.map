@@ -1,0 +1,7 @@
+<map id="llvm::InlineCostAnnotationPrinterPass" name="llvm::InlineCostAnnotationPrinterPass">
+<area shape="rect" id="node1" title=" " alt="" coords="107,375,281,416"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,256,199,312"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="23,5,160,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream." alt="" coords="228,271,357,297"/>
+<area shape="rect" id="node5" title=" " alt="" coords="219,13,377,39"/>
+</map>

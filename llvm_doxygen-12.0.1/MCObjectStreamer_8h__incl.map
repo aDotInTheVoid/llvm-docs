@@ -1,0 +1,52 @@
+<map id="include/llvm/MC/MCObjectStreamer.h" name="include/llvm/MC/MCObjectStreamer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1575,5,1753,47"/>
+<area shape="rect" id="node2" href="$SetVector_8h.html" title=" " alt="" coords="2649,326,2797,353"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title=" " alt="" coords="2954,483,3115,509"/>
+<area shape="rect" id="node31" href="$MCAssembler_8h.html" title=" " alt="" coords="3832,95,4000,121"/>
+<area shape="rect" id="node38" href="$MCSection_8h.html" title=" " alt="" coords="3829,244,3979,271"/>
+<area shape="rect" id="node47" href="$MCStreamer_8h.html" title=" " alt="" coords="5010,95,5169,121"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title=" " alt="" coords="2909,408,3051,435"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="4403,707,4565,733"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1424,632,1499,659"/>
+<area shape="rect" id="node12" title=" " alt="" coords="4883,632,4949,659"/>
+<area shape="rect" id="node22" title=" " alt="" coords="838,632,901,659"/>
+<area shape="rect" id="node25" href="$STLExtras_8h.html" title=" " alt="" coords="2718,483,2871,509"/>
+<area shape="rect" id="node28" title=" " alt="" coords="5317,483,5374,509"/>
+<area shape="rect" id="node29" href="$DenseSet_8h.html" title=" " alt="" coords="1286,408,1434,435"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2995,707,3077,733"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1523,632,1589,659"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2131,632,2227,659"/>
+<area shape="rect" id="node23" title=" " alt="" coords="4031,632,4102,659"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="397,632,568,659"/>
+<area shape="rect" id="node6" title=" " alt="" coords="848,707,901,733"/>
+<area shape="rect" id="node8" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="5707,632,5898,659"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title=" " alt="" coords="3904,557,4083,584"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3681,632,3743,659"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3549,632,3603,659"/>
+<area shape="rect" id="node17" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="3254,557,3423,584"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2730,632,2790,659"/>
+<area shape="rect" id="node19" href="$type__traits_8h.html" title=" " alt="" coords="2950,632,3122,659"/>
+<area shape="rect" id="node24" title=" " alt="" coords="4126,632,4173,659"/>
+<area shape="rect" id="node9" title=" " alt="" coords="6181,707,6235,733"/>
+<area shape="rect" id="node13" title=" " alt="" coords="6279,632,6340,659"/>
+<area shape="rect" id="node26" href="$Optional_8h.html" title=" " alt="" coords="4309,557,4448,584"/>
+<area shape="rect" id="node27" href="$iterator_8h.html" title=" " alt="" coords="499,557,629,584"/>
+<area shape="rect" id="node30" href="$DenseMap_8h.html" title=" " alt="" coords="3261,483,3416,509"/>
+<area shape="rect" id="node32" href="$SmallPtrSet_8h.html" title=" " alt="" coords="2461,557,2621,584"/>
+<area shape="rect" id="node33" href="$StringRef_8h.html" title=" " alt="" coords="4236,408,4380,435"/>
+<area shape="rect" id="node34" href="$BinaryFormat_2MachO_8h.html" title=" " alt="" coords="5485,326,5672,353"/>
+<area shape="rect" id="node36" href="$MCDirectives_8h.html" title=" " alt="" coords="4005,169,4169,196"/>
+<area shape="rect" id="node37" href="$MCDwarf_8h.html" title=" " alt="" coords="4921,169,5061,196"/>
+<area shape="rect" id="node40" href="$MCFragment_8h.html" title=" " alt="" coords="4109,326,4270,353"/>
+<area shape="rect" id="node41" href="$MCFixup_8h.html" title=" " alt="" coords="5797,408,5936,435"/>
+<area shape="rect" id="node44" href="$MCLinkerOptimizationHint_8h.html" title=" " alt="" coords="4751,319,4953,360"/>
+<area shape="rect" id="node45" href="$MCSymbol_8h.html" title=" " alt="" coords="4537,244,4687,271"/>
+<area shape="rect" id="node46" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[...." alt="" coords="6073,244,6258,271"/>
+<area shape="rect" id="node35" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="5025,408,5164,435"/>
+<area shape="rect" id="node39" href="$ilist_8h.html" title=" " alt="" coords="1161,557,1271,584"/>
+<area shape="rect" id="node42" href="$Alignment_8h.html" title=" " alt="" coords="4596,483,4764,509"/>
+<area shape="rect" id="node43" href="$SectionKind_8h.html" title=" " alt="" coords="3826,326,3982,353"/>
+<area shape="rect" id="node48" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="5703,483,5825,509"/>
+<area shape="rect" id="node49" href="$MCPseudoProbe_8h.html" title=" " alt="" coords="4502,169,4687,196"/>
+<area shape="rect" id="node50" href="$MCWinEH_8h.html" title=" " alt="" coords="5747,244,5895,271"/>
+</map>

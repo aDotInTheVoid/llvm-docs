@@ -1,0 +1,7 @@
+<map id="llvm::pdb::PDBSymbolTypeDimension" name="llvm::pdb::PDBSymbolTypeDimension">
+<area shape="rect" id="node1" title=" " alt="" coords="158,185,355,227"/>
+<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1PDBSymbol.html" title="PDBSymbol defines the base of the inheritance hierarchy for concrete symbol types (e...." alt="" coords="173,109,340,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1IPDBRawSymbol.html" title="IPDBRawSymbol defines an interface used to represent an arbitrary symbol." alt="" coords="5,13,204,39"/>
+<area shape="rect" id="node4" title=" " alt="" coords="228,13,285,39"/>
+<area shape="rect" id="node5" title=" " alt="" coords="309,5,476,47"/>
+</map>

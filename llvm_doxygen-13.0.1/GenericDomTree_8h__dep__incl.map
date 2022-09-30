@@ -1,0 +1,52 @@
+<map id="include/llvm/Support/GenericDomTree.h" name="include/llvm/Support/GenericDomTree.h">
+<area shape="rect" id="node1" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph." alt="" coords="6909,5,7065,47"/>
+<area shape="rect" id="node2" href="$DominanceFrontier_8h.html" title=" " alt="" coords="6141,95,6303,136"/>
+<area shape="rect" id="node3" href="$DominanceFrontierImpl_8h.html" title=" " alt="" coords="5808,191,5999,233"/>
+<area shape="rect" id="node4" href="$MachineDominanceFrontier_8h.html" title=" " alt="" coords="5729,288,5945,329"/>
+<area shape="rect" id="node17" href="$MachineDominators_8h.html" title=" " alt="" coords="3997,288,4167,329"/>
+<area shape="rect" id="node42" href="$Dominators_8h.html" title=" " alt="" coords="6882,102,7093,129"/>
+<area shape="rect" id="node43" href="$SampleProfileLoaderBaseImpl_8h.html" title="This file provides the interface for the sampled PGO profile loader base implementation." alt="" coords="6714,184,6941,240"/>
+<area shape="rect" id="node44" href="$SampleProfile_8cpp.html" title=" " alt="" coords="6957,288,7100,329"/>
+<area shape="rect" id="node45" href="$SimpleLoopUnswitch_8cpp.html" title=" " alt="" coords="7066,191,7255,233"/>
+<area shape="rect" id="node46" href="$LoopUnroll_8cpp.html" title=" " alt="" coords="7280,191,7428,233"/>
+<area shape="rect" id="node47" href="$LoopUnrollAndJam_8cpp.html" title=" " alt="" coords="7453,191,7626,233"/>
+<area shape="rect" id="node48" href="$GenericDomTreeConstruction_8h.html" title="Generic dominator tree construction &#45; this file provides routines to construct immediate dominator in..." alt="" coords="4316,95,4544,136"/>
+<area shape="rect" id="node49" href="$GenericIteratedDominanceFrontier_8h.html" title="Compute iterated dominance frontiers using a linear time algorithm." alt="" coords="7701,95,7964,136"/>
+<area shape="rect" id="node50" href="$DomTreeUpdater_8cpp.html" title=" " alt="" coords="7989,102,8226,129"/>
+<area shape="rect" id="node13" href="$DominanceFrontier_8cpp.html" title=" " alt="" coords="6097,295,6347,322"/>
+<area shape="rect" id="node14" href="$RegionInfoImpl_8h.html" title=" " alt="" coords="6023,191,6184,233"/>
+<area shape="rect" id="node15" href="$MachineFunctionPass_8cpp.html" title=" " alt="" coords="6475,191,6689,233"/>
+<area shape="rect" id="node16" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="6260,199,6451,225"/>
+<area shape="rect" id="node6" href="$MachineDominanceFrontier_8cpp.html" title=" " alt="" coords="6631,377,6866,419"/>
+<area shape="rect" id="node5" href="$MachineRegionInfo_8h.html" title=" " alt="" coords="5754,377,5919,419"/>
+<area shape="rect" id="node7" href="$RDFGraph_8cpp.html" title=" " alt="" coords="5944,385,6143,411"/>
+<area shape="rect" id="node8" href="$RDFLiveness_8cpp.html" title=" " alt="" coords="6167,385,6383,411"/>
+<area shape="rect" id="node9" href="$HexagonOptAddrMode_8cpp.html" title=" " alt="" coords="6407,377,6607,419"/>
+<area shape="rect" id="node10" href="$HexagonRDFOpt_8cpp.html" title=" " alt="" coords="5077,377,5239,419"/>
+<area shape="rect" id="node11" href="$WebAssemblyExceptionInfo_8cpp.html" title="This file implements WebAssemblyException information analysis." alt="" coords="5263,377,5498,419"/>
+<area shape="rect" id="node12" href="$X86LoadValueInjectionLoadHardening_8cpp.html" title=" " alt="" coords="5523,377,5729,419"/>
+<area shape="rect" id="node18" href="$LazyMachineBlockFrequencyInfo_8h.html" title="===&#45; LazyMachineBlockFrequencyInfo.h &#45; Lazy Block Frequency &#45;*&#45; C++ &#45;*–===//" alt="" coords="4038,377,4289,419"/>
+<area shape="rect" id="node19" href="$MachineCombiner_8cpp.html" title=" " alt="" coords="3909,474,4159,501"/>
+<area shape="rect" id="node20" href="$MachinePipeliner_8h.html" title=" " alt="" coords="4363,377,4529,419"/>
+<area shape="rect" id="node21" href="$MachinePipeliner_8cpp.html" title=" " alt="" coords="4210,474,4453,501"/>
+<area shape="rect" id="node22" href="$MachinePostDominators_8h.html" title=" " alt="" coords="4603,377,4801,419"/>
+<area shape="rect" id="node23" href="$MIRFSDiscriminator_8h.html" title=" " alt="" coords="4498,467,4663,508"/>
+<area shape="rect" id="node24" href="$MachineSink_8cpp.html" title=" " alt="" coords="4716,474,4931,501"/>
+<area shape="rect" id="node25" href="$AsmPrinter_8cpp.html" title=" " alt="" coords="4876,377,5053,419"/>
+<area shape="rect" id="node26" href="$EarlyIfConversion_8cpp.html" title=" " alt="" coords="5,385,252,411"/>
+<area shape="rect" id="node27" href="$CombinerHelper_8cpp.html" title=" " alt="" coords="277,377,447,419"/>
+<area shape="rect" id="node28" href="$InlineSpiller_8cpp.html" title=" " alt="" coords="471,385,679,411"/>
+<area shape="rect" id="node29" href="$LiveDebugVariables_8cpp.html" title=" " alt="" coords="703,385,965,411"/>
+<area shape="rect" id="node30" href="$LiveIntervalCalc_8cpp.html" title=" " alt="" coords="989,377,1172,419"/>
+<area shape="rect" id="node31" href="$LiveIntervals_8cpp.html" title=" " alt="" coords="1197,385,1413,411"/>
+<area shape="rect" id="node32" href="$LiveRangeCalc_8cpp.html" title=" " alt="" coords="1437,385,1665,411"/>
+<area shape="rect" id="node33" href="$MachineBasicBlock_8cpp.html" title=" " alt="" coords="1690,377,1885,419"/>
+<area shape="rect" id="node34" href="$MachineCSE_8cpp.html" title=" " alt="" coords="1909,385,2121,411"/>
+<area shape="rect" id="node35" href="$MachineDominators_8cpp.html" title=" " alt="" coords="2145,385,2408,411"/>
+<area shape="rect" id="node36" href="$MachineLICM_8cpp.html" title=" " alt="" coords="2433,385,2651,411"/>
+<area shape="rect" id="node37" href="$MachineLoopInfo_8cpp.html" title=" " alt="" coords="2675,385,2918,411"/>
+<area shape="rect" id="node38" href="$MachineScheduler_8cpp.html" title=" " alt="" coords="2942,385,3193,411"/>
+<area shape="rect" id="node39" href="$PeepholeOptimizer_8cpp.html" title=" " alt="" coords="3217,385,3472,411"/>
+<area shape="rect" id="node40" href="$PHIElimination_8cpp.html" title=" " alt="" coords="3496,385,3724,411"/>
+<area shape="rect" id="node41" href="$PostRASchedulerList_8cpp.html" title=" " alt="" coords="3748,377,3963,419"/>
+</map>

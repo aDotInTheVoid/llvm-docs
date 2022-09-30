@@ -1,0 +1,13 @@
+<map id="llvm::SplitAnalysis::BlockInfo" name="llvm::SplitAnalysis::BlockInfo">
+<area shape="rect" id="node1" title="Additional information about basic blocks where the current variable is live." alt="" coords="2249,70,2379,111"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SlotIndex.html" title="SlotIndex &#45; An opaque wrapper around machine indexes." alt="" coords="2009,17,2118,44"/>
+<area shape="rect" id="node3" href="$classbool.html" title=" " alt="" coords="2040,77,2087,104"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineBasicBlock.html" title=" " alt="" coords="1979,128,2148,155"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="1733,113,1929,169"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="829,90,961,131"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1147,153,1316,194"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="589,75,780,146"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,97,183,124"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="232,122,372,163"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="1365,145,1549,201"/>
+</map>

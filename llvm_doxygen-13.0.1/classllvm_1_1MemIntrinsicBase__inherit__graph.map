@@ -1,0 +1,45 @@
+<map id="llvm::MemIntrinsicBase&lt; Derived &gt;" name="llvm::MemIntrinsicBase&lt; Derived &gt;">
+<area shape="rect" id="node1" title="Common base class for all memory intrinsics." alt="" coords="2825,135,3001,177"/>
+<area shape="rect" id="node19" href="$classllvm_1_1MemIntrinsicBase.html" title=" " alt="" coords="3218,63,3394,105"/>
+<area shape="rect" id="node28" href="$classllvm_1_1MemIntrinsicBase.html" title=" " alt="" coords="3215,135,3397,177"/>
+<area shape="rect" id="node36" href="$classllvm_1_1MemIntrinsicBase.html" title=" " alt="" coords="3218,205,3394,246"/>
+<area shape="rect" id="node2" href="$classllvm_1_1IntrinsicInst.html" title="A wrapper class for inspecting calls to intrinsic functions." alt="" coords="2641,143,2776,169"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CallInst.html" title="This class represents a function call, abstracting a target machine&#39;s calling convention." alt="" coords="2484,143,2592,169"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CallBase.html" title="Base class for all callable instructions (InvokeInst and CallInst) Holds everything related to callin..." alt="" coords="2319,143,2435,169"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Instruction.html" title=" " alt="" coords="2141,143,2269,169"/>
+<area shape="rect" id="node6" href="$classllvm_1_1User.html" title=" " alt="" coords="1968,109,2057,136"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="1555,109,1649,136"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="1933,160,2092,216"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1241,233,1452,274"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="615,275,819,346"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,311,133,337"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="200,206,359,247"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="612,181,821,251"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="625,86,808,157"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="871,195,1020,237"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1252,167,1441,209"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="1501,160,1703,216"/>
+<area shape="rect" id="node18" title=" " alt="" coords="183,53,376,80"/>
+<area shape="rect" id="node20" href="$classllvm_1_1MemIntrinsic.html" title="This is the common base class for memset/memcpy/memmove." alt="" coords="3470,64,3614,91"/>
+<area shape="rect" id="node21" href="$classllvm_1_1MemSetBase.html" title=" " alt="" coords="3687,5,3947,32"/>
+<area shape="rect" id="node23" href="$classllvm_1_1MemTransferBase.html" title=" " alt="" coords="3729,57,3905,98"/>
+<area shape="rect" id="node22" href="$classllvm_1_1MemSetInst.html" title="This class wraps the llvm.memset intrinsic." alt="" coords="4035,5,4172,32"/>
+<area shape="rect" id="node24" href="$classllvm_1_1MemTransferInst.html" title="This class wraps the llvm.memcpy/memmove intrinsics." alt="" coords="4019,64,4187,91"/>
+<area shape="rect" id="node25" href="$classllvm_1_1MemCpyInst.html" title="This class wraps the llvm.memcpy intrinsic." alt="" coords="4289,35,4430,61"/>
+<area shape="rect" id="node27" href="$classllvm_1_1MemMoveInst.html" title="This class wraps the llvm.memmove intrinsic." alt="" coords="4283,85,4435,112"/>
+<area shape="rect" id="node26" href="$classllvm_1_1MemCpyInlineInst.html" title="This class wraps the llvm.memcpy.inline intrinsic." alt="" coords="4508,35,4685,61"/>
+<area shape="rect" id="node29" href="$classllvm_1_1AtomicMemIntrinsic.html" title=" " alt="" coords="3447,143,3637,169"/>
+<area shape="rect" id="node30" href="$classllvm_1_1MemSetBase.html" title=" " alt="" coords="3713,122,3920,163"/>
+<area shape="rect" id="node32" href="$classllvm_1_1MemTransferBase.html" title=" " alt="" coords="3725,187,3908,229"/>
+<area shape="rect" id="node31" href="$classllvm_1_1AtomicMemSetInst.html" title="This class represents atomic memset intrinsic." alt="" coords="4012,129,4195,156"/>
+<area shape="rect" id="node33" href="$classllvm_1_1AtomicMemTransferInst.html" title=" " alt="" coords="3996,195,4211,221"/>
+<area shape="rect" id="node34" href="$classllvm_1_1AtomicMemCpyInst.html" title="This class represents the atomic memcpy intrinsic i.e." alt="" coords="4266,175,4453,201"/>
+<area shape="rect" id="node35" href="$classllvm_1_1AtomicMemMoveInst.html" title="This class represents the atomic memmove intrinsic i.e." alt="" coords="4260,225,4459,252"/>
+<area shape="rect" id="node37" href="$classllvm_1_1AnyMemIntrinsic.html" title=" " alt="" coords="3457,260,3627,287"/>
+<area shape="rect" id="node38" href="$classllvm_1_1MemSetBase.html" title=" " alt="" coords="3707,253,3926,294"/>
+<area shape="rect" id="node40" href="$classllvm_1_1MemTransferBase.html" title=" " alt="" coords="3729,318,3905,359"/>
+<area shape="rect" id="node39" href="$classllvm_1_1AnyMemSetInst.html" title="This class represents any memset intrinsic." alt="" coords="4022,260,4185,287"/>
+<area shape="rect" id="node41" href="$classllvm_1_1AnyMemTransferInst.html" title=" " alt="" coords="4007,325,4200,352"/>
+<area shape="rect" id="node42" href="$classllvm_1_1AnyMemCpyInst.html" title="This class represents any memcpy intrinsic i.e." alt="" coords="4276,285,4443,312"/>
+<area shape="rect" id="node43" href="$classllvm_1_1AnyMemMoveInst.html" title="This class represents any memmove intrinsic i.e." alt="" coords="4271,336,4448,363"/>
+</map>

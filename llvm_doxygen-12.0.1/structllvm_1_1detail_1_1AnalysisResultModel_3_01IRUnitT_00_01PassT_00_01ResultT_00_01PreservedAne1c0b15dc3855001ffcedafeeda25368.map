@@ -1,0 +1,5 @@
+<map id="llvm::detail::AnalysisResultModel&lt; IRUnitT, PassT, ResultT, PreservedAnalysesT, InvalidatorT, false &gt;" name="llvm::detail::AnalysisResultModel&lt; IRUnitT, PassT, ResultT, PreservedAnalysesT, InvalidatorT, false &gt;">
+<area shape="rect" id="node1" title="Specialization of AnalysisResultModel which provides the default invalidate functionality." alt="" coords="341,31,564,102"/>
+<area shape="rect" id="node2" href="$structllvm_1_1detail_1_1AnalysisResultConcept.html" title="Abstract concept of an analysis result." alt="" coords="5,5,252,61"/>
+<area shape="rect" id="node3" title=" " alt="" coords="95,85,162,112"/>
+</map>

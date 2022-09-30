@@ -1,0 +1,5 @@
+<map id="llvm::PatternMatch::specific_intval&lt; AllowUndefs &gt;" name="llvm::PatternMatch::specific_intval&lt; AllowUndefs &gt;">
+<area shape="rect" id="node1" title="Match a specified integer value or vector of all elements of that value." alt="" coords="5,213,240,255"/>
+<area shape="rect" id="node2" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers." alt="" coords="76,124,169,151"/>
+<area shape="rect" id="node3" href="$classuint64__t.html" title=" " alt="" coords="85,5,160,32"/>
+</map>

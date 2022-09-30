@@ -1,0 +1,4 @@
+<map id="llvm::AVRSubtarget" name="llvm::AVRSubtarget">
+<area shape="rect" id="node1" title="A specific AVR target MCU." alt="" coords="13,80,161,107"/>
+<area shape="rect" id="node2" href="$classAVRGenSubtargetInfo.html" title=" " alt="" coords="5,5,168,32"/>
+</map>

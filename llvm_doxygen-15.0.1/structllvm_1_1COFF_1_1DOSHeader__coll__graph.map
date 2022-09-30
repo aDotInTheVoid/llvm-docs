@@ -1,0 +1,5 @@
+<map id="llvm::COFF::DOSHeader" name="llvm::COFF::DOSHeader">
+<area shape="rect" id="node1" title="The DOS compatible header at the front of all PEs." alt="" coords="59,241,235,268"/>
+<area shape="rect" id="node2" href="$classuint16__t.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="213,5,288,32"/>
+</map>

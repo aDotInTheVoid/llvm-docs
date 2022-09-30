@@ -1,0 +1,10 @@
+<map id="llvm::jitlink::MachOLinkGraphBuilder::NormalizedSection" name="llvm::jitlink::MachOLinkGraphBuilder::NormalizedSection">
+<area shape="rect" id="node1" title=" " alt="" coords="396,166,635,207"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ExecutorAddr.html" title="Represents an address in the executor process." alt="" coords="27,5,201,32"/>
+<area shape="rect" id="node3" href="$classuint64__t.html" title=" " alt="" coords="77,64,151,91"/>
+<area shape="rect" id="node4" href="$classllvm_1_1jitlink_1_1Section.html" title="Represents an object file section." alt="" coords="38,115,190,141"/>
+<area shape="rect" id="node5" title=" " alt="" coords="89,168,139,195"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="77,219,151,245"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,270,223,311"/>
+<area shape="rect" id="node8" title=" " alt="" coords="85,336,143,363"/>
+</map>

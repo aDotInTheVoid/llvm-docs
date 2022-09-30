@@ -1,0 +1,29 @@
+<map id="include/llvm/Analysis/ReplayInlineAdvisor.h" name="include/llvm/Analysis/ReplayInlineAdvisor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1604,5,1756,47"/>
+<area shape="rect" id="node2" href="$Inliner_8h.html" title=" " alt="" coords="1300,95,1460,136"/>
+<area shape="rect" id="node25" href="$InlineAdvisor_8cpp.html" title=" " alt="" coords="1484,102,1676,129"/>
+<area shape="rect" id="node26" href="$ReplayInlineAdvisor_8cpp.html" title=" " alt="" coords="1700,95,1863,136"/>
+<area shape="rect" id="node27" href="$SampleProfile_8cpp.html" title=" " alt="" coords="1887,95,2019,136"/>
+<area shape="rect" id="node3" href="$PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="1152,184,1291,225"/>
+<area shape="rect" id="node17" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="674,281,857,307"/>
+<area shape="rect" id="node22" href="$AlwaysInliner_8cpp.html" title=" " alt="" coords="1315,184,1445,225"/>
+<area shape="rect" id="node23" href="$Inliner_8cpp.html" title=" " alt="" coords="1469,184,1600,225"/>
+<area shape="rect" id="node24" href="$InlineSimple_8cpp.html" title=" " alt="" coords="1624,184,1755,225"/>
+<area shape="rect" id="node4" href="$Config_8h.html" title=" " alt="" coords="881,281,1053,307"/>
+<area shape="rect" id="node15" href="$LTOBackend_8cpp.html" title=" " alt="" coords="974,527,1141,553"/>
+<area shape="rect" id="node16" href="$SpeculateAnalyses_8cpp.html" title=" " alt="" coords="1128,273,1315,315"/>
+<area shape="rect" id="node18" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="1339,273,1573,315"/>
+<area shape="rect" id="node19" href="$BPFTargetMachine_8cpp.html" title=" " alt="" coords="1598,273,1767,315"/>
+<area shape="rect" id="node20" href="$HexagonTargetMachine_8cpp.html" title=" " alt="" coords="1792,273,1979,315"/>
+<area shape="rect" id="node21" href="$NVPTXTargetMachine_8cpp.html" title=" " alt="" coords="2003,273,2213,315"/>
+<area shape="rect" id="node5" href="$LTO_8h.html" title=" " alt="" coords="627,363,786,389"/>
+<area shape="rect" id="node6" href="$Caching_8h.html" title=" " alt="" coords="19,445,200,471"/>
+<area shape="rect" id="node8" href="$LTOModule_8h.html" title=" " alt="" coords="309,437,470,479"/>
+<area shape="rect" id="node9" href="$LTOCodeGenerator_8cpp.html" title=" " alt="" coords="169,527,373,553"/>
+<area shape="rect" id="node11" href="$ThinLTOCodeGenerator_8h.html" title=" " alt="" coords="494,437,669,479"/>
+<area shape="rect" id="node12" href="$ThinLTOCodeGenerator_8cpp.html" title=" " alt="" coords="580,527,809,553"/>
+<area shape="rect" id="node13" href="$LTOBackend_8h.html" title=" " alt="" coords="795,445,1003,471"/>
+<area shape="rect" id="node14" href="$LTO_8cpp.html" title=" " alt="" coords="834,527,950,553"/>
+<area shape="rect" id="node7" href="$Caching_8cpp.html" title=" " alt="" coords="5,527,144,553"/>
+<area shape="rect" id="node10" href="$LTOModule_8cpp.html" title=" " alt="" coords="397,527,555,553"/>
+</map>

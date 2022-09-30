@@ -1,0 +1,7 @@
+<map id="llvm::DWARFYAML::Ranges" name="llvm::DWARFYAML::Ranges">
+<area shape="rect" id="node1" title="Class that describes a single range list inside the .debug_ranges section." alt="" coords="609,78,797,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="321,5,504,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title=" " alt="" coords="343,71,482,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,111,140,138"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="343,136,482,177"/>
+</map>

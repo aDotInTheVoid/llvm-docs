@@ -1,0 +1,12 @@
+<map id="llvm::Type" name="llvm::Type">
+<area shape="rect" id="node1" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="5,157,95,184"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayType.html" title="Class to represent array types." alt="" coords="183,5,307,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1dxil_1_1TypedPointerType.html" title=" " alt="" coords="143,56,348,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FunctionType.html" title="Class to represent function types." alt="" coords="173,107,317,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1IntegerType.html" title="Class to represent integer types." alt="" coords="178,157,313,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerType.html" title="Class to represent pointers." alt="" coords="178,208,313,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StructType.html" title="Class to represent struct types." alt="" coords="182,259,309,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1VectorType.html" title="Base class of all SIMD vector types." alt="" coords="180,309,311,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1FixedVectorType.html" title="Class to represent fixed width SIMD vectors." alt="" coords="407,284,571,311"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ScalableVectorType.html" title="Class to represent scalable SIMD vectors." alt="" coords="396,335,581,361"/>
+</map>

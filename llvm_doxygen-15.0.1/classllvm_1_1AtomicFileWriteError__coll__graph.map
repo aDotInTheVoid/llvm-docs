@@ -1,0 +1,8 @@
+<map id="llvm::AtomicFileWriteError" name="llvm::AtomicFileWriteError">
+<area shape="rect" id="node1" title=" " alt="" coords="155,289,350,316"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,204,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="26,5,173,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="121,81,296,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="227,193,278,219"/>
+<area shape="rect" id="node6" title=" " alt="" coords="303,193,360,219"/>
+</map>

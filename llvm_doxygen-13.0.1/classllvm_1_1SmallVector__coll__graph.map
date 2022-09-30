@@ -1,0 +1,7 @@
+<map id="llvm::SmallVector&lt; T, N &gt;" name="llvm::SmallVector&lt; T, N &gt;">
+<area shape="rect" id="node1" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="868,31,1016,73"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="597,5,801,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="579,56,819,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,72,56,99"/>
+<area shape="rect" id="node5" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="169,99,356,141"/>
+</map>

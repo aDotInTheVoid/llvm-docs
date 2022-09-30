@@ -1,0 +1,5 @@
+<map id="llvm::PackedVectorBase&lt; T, BitNum, BitVectorTy, isSigned &gt;" name="llvm::PackedVectorBase&lt; T, BitNum, BitVectorTy, isSigned &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,21,176,77"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PackedVectorBase.html" title=" " alt="" coords="365,14,529,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PackedVector.html" title="Store a vector of values using a specific number of bits for each value." alt="" coords="579,29,759,70"/>
+</map>

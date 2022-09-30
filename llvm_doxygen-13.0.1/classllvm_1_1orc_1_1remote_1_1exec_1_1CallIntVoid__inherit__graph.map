@@ -1,0 +1,5 @@
+<map id="llvm::orc::remote::exec::CallIntVoid" name="llvm::orc::remote::exec::CallIntVoid">
+<area shape="rect" id="node1" title="Call an &#39;int32_t()&#39;&#45;type function on the remote, returns the called function&#39;s return value." alt="" coords="51,244,194,285"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="5,139,240,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="21,5,224,61"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="llvm::ms_demangle::Node" name="llvm::ms_demangle::Node">
+<area shape="rect" id="node1" title=" " alt="" coords="5,666,180,693"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1IdentifierNode.html" title=" " alt="" coords="269,300,412,341"/>
+<area shape="rect" id="node12" href="$structllvm_1_1ms__demangle_1_1IntegerLiteralNode.html" title=" " alt="" coords="269,528,412,569"/>
+<area shape="rect" id="node13" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title=" " alt="" coords="269,593,412,635"/>
+<area shape="rect" id="node14" href="$structllvm_1_1ms__demangle_1_1QualifiedNameNode.html" title=" " alt="" coords="269,659,412,700"/>
+<area shape="rect" id="node15" href="$structllvm_1_1ms__demangle_1_1SymbolNode.html" title=" " alt="" coords="269,724,412,765"/>
+<area shape="rect" id="node21" href="$structllvm_1_1ms__demangle_1_1TemplateParameterReferenceNode.html" title=" " alt="" coords="228,789,453,831"/>
+<area shape="rect" id="node22" href="$structllvm_1_1ms__demangle_1_1TypeNode.html" title=" " alt="" coords="269,1083,412,1124"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1ConversionOperatorIdentifierNode.html" title=" " alt="" coords="501,5,720,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ms__demangle_1_1DynamicStructorIdentifierNode.html" title=" " alt="" coords="510,71,711,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ms__demangle_1_1IntrinsicFunctionIdentifierNode.html" title=" " alt="" coords="511,136,710,177"/>
+<area shape="rect" id="node6" href="$structllvm_1_1ms__demangle_1_1LiteralOperatorIdentifierNode.html" title=" " alt="" coords="517,201,705,243"/>
+<area shape="rect" id="node7" href="$structllvm_1_1ms__demangle_1_1LocalStaticGuardIdentifierNode.html" title=" " alt="" coords="509,267,712,308"/>
+<area shape="rect" id="node8" href="$structllvm_1_1ms__demangle_1_1NamedIdentifierNode.html" title=" " alt="" coords="538,332,683,373"/>
+<area shape="rect" id="node9" href="$structllvm_1_1ms__demangle_1_1RttiBaseClassDescriptorNode.html" title=" " alt="" coords="511,397,710,439"/>
+<area shape="rect" id="node10" href="$structllvm_1_1ms__demangle_1_1StructorIdentifierNode.html" title=" " alt="" coords="536,463,685,504"/>
+<area shape="rect" id="node11" href="$structllvm_1_1ms__demangle_1_1VcallThunkIdentifierNode.html" title=" " alt="" coords="527,528,694,569"/>
+<area shape="rect" id="node16" href="$structllvm_1_1ms__demangle_1_1EncodedStringLiteralNode.html" title=" " alt="" coords="524,593,697,635"/>
+<area shape="rect" id="node17" href="$structllvm_1_1ms__demangle_1_1FunctionSymbolNode.html" title=" " alt="" coords="537,659,684,700"/>
+<area shape="rect" id="node18" href="$structllvm_1_1ms__demangle_1_1LocalStaticGuardVariableNode.html" title=" " alt="" coords="511,724,710,765"/>
+<area shape="rect" id="node19" href="$structllvm_1_1ms__demangle_1_1SpecialTableSymbolNode.html" title=" " alt="" coords="525,789,696,831"/>
+<area shape="rect" id="node20" href="$structllvm_1_1ms__demangle_1_1VariableSymbolNode.html" title=" " alt="" coords="539,855,682,896"/>
+<area shape="rect" id="node23" href="$structllvm_1_1ms__demangle_1_1ArrayTypeNode.html" title=" " alt="" coords="539,920,682,961"/>
+<area shape="rect" id="node24" href="$structllvm_1_1ms__demangle_1_1CustomTypeNode.html" title=" " alt="" coords="539,985,682,1027"/>
+<area shape="rect" id="node25" href="$structllvm_1_1ms__demangle_1_1FunctionSignatureNode.html" title=" " alt="" coords="531,1051,690,1092"/>
+<area shape="rect" id="node27" href="$structllvm_1_1ms__demangle_1_1IntrinsicNode.html" title=" " alt="" coords="539,1116,682,1157"/>
+<area shape="rect" id="node28" href="$structllvm_1_1ms__demangle_1_1PointerTypeNode.html" title=" " alt="" coords="539,1181,682,1223"/>
+<area shape="rect" id="node29" href="$structllvm_1_1ms__demangle_1_1PrimitiveTypeNode.html" title=" " alt="" coords="539,1247,682,1288"/>
+<area shape="rect" id="node30" href="$structllvm_1_1ms__demangle_1_1TagTypeNode.html" title=" " alt="" coords="539,1312,682,1353"/>
+<area shape="rect" id="node26" href="$structllvm_1_1ms__demangle_1_1ThunkSignatureNode.html" title=" " alt="" coords="768,1051,912,1092"/>
+</map>

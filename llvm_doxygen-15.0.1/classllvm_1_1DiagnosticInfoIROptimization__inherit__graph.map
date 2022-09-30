@@ -1,0 +1,12 @@
+<map id="llvm::DiagnosticInfoIROptimization" name="llvm::DiagnosticInfoIROptimization">
+<area shape="rect" id="node1" title="Common features for diagnostics dealing with optimization remarks that are used by IR passes." alt="" coords="755,101,1005,127"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DiagnosticInfoOptimizationFailure.html" title="Diagnostic information for optimization failures." alt="" coords="1053,5,1291,47"/>
+<area shape="rect" id="node6" href="$classllvm_1_1OptimizationRemark.html" title="Diagnostic information for applied optimization remarks." alt="" coords="1075,71,1269,98"/>
+<area shape="rect" id="node7" href="$classllvm_1_1OptimizationRemarkAnalysis.html" title="Diagnostic information for optimization analysis remarks." alt="" coords="1075,123,1269,164"/>
+<area shape="rect" id="node10" href="$classllvm_1_1OptimizationRemarkMissed.html" title="Diagnostic information for missed&#45;optimization remarks." alt="" coords="1075,188,1269,229"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks that are used by both IR and MIR pa..." alt="" coords="437,101,707,127"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfoWithLocationBase.html" title="Common features for diagnostics with an associated location." alt="" coords="207,93,389,135"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend." alt="" coords="5,101,159,127"/>
+<area shape="rect" id="node8" href="$classllvm_1_1OptimizationRemarkAnalysisAliasing.html" title="Diagnostic information for optimization analysis remarks related to pointer aliasing." alt="" coords="1339,91,1533,132"/>
+<area shape="rect" id="node9" href="$classllvm_1_1OptimizationRemarkAnalysisFPCommute.html" title="Diagnostic information for optimization analysis remarks related to floating&#45;point non&#45;commutativity." alt="" coords="1339,156,1533,197"/>
+</map>

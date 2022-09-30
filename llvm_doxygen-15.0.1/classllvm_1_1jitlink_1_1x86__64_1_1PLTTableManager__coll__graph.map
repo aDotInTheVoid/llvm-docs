@@ -1,0 +1,8 @@
+<map id="llvm::jitlink::x86_64::PLTTableManager" name="llvm::jitlink::x86_64::PLTTableManager">
+<area shape="rect" id="node1" title="Procedure Linkage Table Builder." alt="" coords="1133,64,1300,105"/>
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1TableManager.html" title=" " alt="" coords="620,5,815,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1jitlink_1_1TableManager.html" title="A CRTP base for tables that are built on demand, e.g." alt="" coords="5,35,200,76"/>
+<area shape="rect" id="node5" href="$classllvm_1_1jitlink_1_1TableManager.html" title=" " alt="" coords="401,64,596,105"/>
+<area shape="rect" id="node4" href="$classllvm_1_1jitlink_1_1x86__64_1_1GOTTableManager.html" title="Global Offset Table Builder." alt="" coords="839,64,1011,105"/>
+<area shape="rect" id="node6" href="$classllvm_1_1jitlink_1_1Section.html" title="Represents an object file section." alt="" coords="849,130,1001,157"/>
+</map>

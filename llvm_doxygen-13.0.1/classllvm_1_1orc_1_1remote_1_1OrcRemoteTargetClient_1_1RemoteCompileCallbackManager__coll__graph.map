@@ -1,0 +1,4 @@
+<map id="llvm::orc::remote::OrcRemoteTargetClient::RemoteCompileCallbackManager" name="llvm::orc::remote::OrcRemoteTargetClient::RemoteCompileCallbackManager">
+<area shape="rect" id="node1" title="Remote compile callback manager." alt="" coords="5,95,253,151"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1JITCompileCallbackManager.html" title="Target&#45;independent base class for compile callback management." alt="" coords="23,5,235,47"/>
+</map>

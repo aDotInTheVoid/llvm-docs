@@ -1,0 +1,52 @@
+<map id="lib/IR/LegacyPassManager.cpp" name="lib/IR/LegacyPassManager.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3794,5,3998,32"/>
+<area shape="rect" id="node2" href="$LegacyPassManager_8h.html" title=" " alt="" coords="4909,379,5110,405"/>
+<area shape="rect" id="node7" href="$MapVector_8h.html" title=" " alt="" coords="2431,379,2585,405"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2927,528,3001,555"/>
+<area shape="rect" id="node18" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3405,528,3595,555"/>
+<area shape="rect" id="node21" href="$Statistic_8h.html" title=" " alt="" coords="5468,379,5607,405"/>
+<area shape="rect" id="node23" href="$DiagnosticInfo_8h.html" title=" " alt="" coords="1781,229,1944,256"/>
+<area shape="rect" id="node31" href="$raw__ostream_8h.html" title=" " alt="" coords="812,379,999,405"/>
+<area shape="rect" id="node33" href="$IRPrintingPasses_8h.html" title="This file defines passes to print out IR in various granularities." alt="" coords="4482,80,4662,107"/>
+<area shape="rect" id="node35" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="3807,379,3929,405"/>
+<area shape="rect" id="node36" href="$Debug_8h.html" title=" " alt="" coords="4633,379,4783,405"/>
+<area shape="rect" id="node37" href="$TimeProfiler_8h.html" title=" " alt="" coords="2905,229,3087,256"/>
+<area shape="rect" id="node38" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="3199,304,3337,331"/>
+<area shape="rect" id="node39" href="$LLVMContext_8h.html" title=" " alt="" coords="5236,379,5393,405"/>
+<area shape="rect" id="node40" href="$LegacyPassManagers_8h.html" title=" " alt="" coords="2762,379,2971,405"/>
+<area shape="rect" id="node41" href="$LegacyPassNameParser_8h.html" title=" " alt="" coords="825,229,1050,256"/>
+<area shape="rect" id="node42" href="$CommandLine_8h.html" title=" " alt="" coords="1631,304,1825,331"/>
+<area shape="rect" id="node43" href="$ManagedStatic_8h.html" title=" " alt="" coords="4258,379,4457,405"/>
+<area shape="rect" id="node44" href="$PassTimingInfo_8h.html" title="This header defines classes/functions to handle pass execution timing information with interfaces for..." alt="" coords="2660,304,2831,331"/>
+<area shape="rect" id="node45" href="$Timer_8h.html" title=" " alt="" coords="1985,379,2129,405"/>
+<area shape="rect" id="node46" href="$PrintPasses_8h.html" title=" " alt="" coords="2154,379,2305,405"/>
+<area shape="rect" id="node47" href="$StructuralHash_8h.html" title=" " alt="" coords="5454,80,5621,107"/>
+<area shape="rect" id="node48" href="$Chrono_8h.html" title=" " alt="" coords="5523,155,5677,181"/>
+<area shape="rect" id="node49" href="$Mutex_8h.html" title=" " alt="" coords="5,155,152,181"/>
+<area shape="rect" id="node50" title=" " alt="" coords="5645,80,5749,107"/>
+<area shape="rect" id="node3" href="$Pass_8h.html" title=" " alt="" coords="1768,453,1859,480"/>
+<area shape="rect" id="node5" href="$CBindingWrapping_8h.html" title=" " alt="" coords="4872,453,5091,480"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1786,603,1841,629"/>
+<area shape="rect" id="node6" href="$Types_8h.html" title=" " alt="" coords="5120,528,5227,555"/>
+<area shape="rect" id="node8" href="$DenseMap_8h.html" title=" " alt="" coords="2545,453,2700,480"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1428,528,1495,555"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2234,528,2299,555"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2661,528,2723,555"/>
+<area shape="rect" id="node15" title=" " alt="" coords="776,528,859,555"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3025,528,3079,555"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title=" " alt="" coords="2927,453,3089,480"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3139,453,3197,480"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title=" " alt="" coords="3845,603,4008,629"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4714,677,4881,704"/>
+<area shape="rect" id="node19" title=" " alt="" coords="4150,528,4221,555"/>
+<area shape="rect" id="node22" title=" " alt="" coords="5165,453,5227,480"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title=" " alt="" coords="3857,453,3996,480"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title=" " alt="" coords="1984,453,2128,480"/>
+<area shape="rect" id="node26" href="$Twine_8h.html" title=" " alt="" coords="1377,379,1503,405"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1277,453,1339,480"/>
+<area shape="rect" id="node28" href="$DebugLoc_8h.html" title=" " alt="" coords="1113,304,1252,331"/>
+<area shape="rect" id="node29" href="$TypeSize_8h.html" title=" " alt="" coords="573,379,737,405"/>
+<area shape="rect" id="node30" href="$YAMLTraits_8h.html" title=" " alt="" coords="1327,304,1505,331"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1679,379,1758,405"/>
+<area shape="rect" id="node34" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="3437,155,3595,181"/>
+</map>

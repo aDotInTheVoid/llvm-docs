@@ -1,0 +1,7 @@
+<map id="LLVMOrcCSymbolAliasMapPair" name="LLVMOrcCSymbolAliasMapPair">
+<area shape="rect" id="node1" title="Represents a pair of a symbol name and SymbolAliasMapEntry." alt="" coords="5,288,225,315"/>
+<area shape="rect" id="node2" href="$structLLVMOrcCSymbolAliasMapEntry.html" title="Represents a SymbolAliasMapEntry." alt="" coords="128,199,359,225"/>
+<area shape="rect" id="node3" title=" " alt="" coords="57,109,115,136"/>
+<area shape="rect" id="node4" href="$structLLVMJITSymbolFlags.html" title="Represents the linkage flags for a symbol definition." alt="" coords="165,109,321,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="210,5,277,32"/>
+</map>

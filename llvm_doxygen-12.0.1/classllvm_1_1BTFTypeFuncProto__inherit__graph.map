@@ -1,0 +1,4 @@
+<map id="llvm::BTFTypeFuncProto" name="llvm::BTFTypeFuncProto">
+<area shape="rect" id="node1" title="Handle function pointer." alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BTFTypeBase.html" title="The base class for BTF type generation." alt="" coords="20,5,157,32"/>
+</map>

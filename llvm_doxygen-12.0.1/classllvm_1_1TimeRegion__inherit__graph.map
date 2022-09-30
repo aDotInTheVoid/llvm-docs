@@ -1,0 +1,4 @@
+<map id="llvm::TimeRegion" name="llvm::TimeRegion">
+<area shape="rect" id="node1" title="The TimeRegion class is used as a helper class to call the startTimer() and stopTimer() methods of th..." alt="" coords="28,5,151,32"/>
+<area shape="rect" id="node2" href="$structllvm_1_1NamedRegionTimer.html" title="This class is basically a combination of TimeRegion and Timer." alt="" coords="5,80,173,107"/>
+</map>

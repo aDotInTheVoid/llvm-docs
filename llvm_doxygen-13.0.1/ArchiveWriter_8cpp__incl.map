@@ -1,0 +1,52 @@
+<map id="lib/Object/ArchiveWriter.cpp" name="lib/Object/ArchiveWriter.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2271,5,2474,32"/>
+<area shape="rect" id="node2" href="$ArchiveWriter_8h.html" title=" " alt="" coords="2133,80,2334,107"/>
+<area shape="rect" id="node3" href="$Archive_8h.html" title=" " alt="" coords="2022,244,2184,271"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title=" " alt="" coords="2266,319,2423,345"/>
+<area shape="rect" id="node8" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="1555,483,1766,509"/>
+<area shape="rect" id="node22" href="$ArrayRef_8h.html" title=" " alt="" coords="1327,319,1482,345"/>
+<area shape="rect" id="node27" href="$StringMap_8h.html" title=" " alt="" coords="357,162,521,189"/>
+<area shape="rect" id="node31" href="$Magic_8h.html" title=" " alt="" coords="3418,244,3617,271"/>
+<area shape="rect" id="node33" href="$LLVMContext_8h.html" title=" " alt="" coords="3860,162,4029,189"/>
+<area shape="rect" id="node38" href="$llvm_2Object_2Error_8h.html" title=" " alt="" coords="3626,162,3769,189"/>
+<area shape="rect" id="node39" href="$ObjectFile_8h.html" title=" " alt="" coords="3240,80,3419,107"/>
+<area shape="rect" id="node40" href="$SymbolicFile_8h.html" title=" " alt="" coords="2856,162,3052,189"/>
+<area shape="rect" id="node41" href="$Format_8h.html" title=" " alt="" coords="2269,244,2436,271"/>
+<area shape="rect" id="node42" href="$Alignment_8h.html" title=" " alt="" coords="186,401,374,427"/>
+<area shape="rect" id="node43" href="$EndianStream_8h.html" title=" " alt="" coords="1373,162,1585,189"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title=" " alt="" coords="1730,244,1937,271"/>
+<area shape="rect" id="node45" href="$Errc_8h.html" title=" " alt="" coords="3620,80,3767,107"/>
+<area shape="rect" id="node46" href="$Path_8h.html" title=" " alt="" coords="3092,244,3242,271"/>
+<area shape="rect" id="node47" href="$SmallVectorMemoryBuffer_8h.html" title=" " alt="" coords="1610,155,1796,196"/>
+<area shape="rect" id="node48" href="$ToolOutputFile_8h.html" title=" " alt="" coords="1842,80,2057,107"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3842,80,3892,107"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3916,80,3991,107"/>
+<area shape="rect" id="node6" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2912,483,3102,509"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1488,557,1547,584"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1840,483,1926,509"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1159,483,1228,509"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3423,483,3490,509"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3127,483,3204,509"/>
+<area shape="rect" id="node21" title=" " alt="" coords="960,401,1022,427"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title=" " alt="" coords="2370,401,2532,427"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2690,557,2750,584"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title=" " alt="" coords="59,557,238,584"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2246,483,2317,509"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2422,483,2480,509"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1253,483,1345,509"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2096,483,2163,509"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1369,483,1480,509"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2737,483,2808,509"/>
+<area shape="rect" id="node23" href="$Hashing_8h.html" title=" " alt="" coords="1589,401,1740,427"/>
+<area shape="rect" id="node24" href="$None_8h.html" title=" " alt="" coords="1229,401,1361,427"/>
+<area shape="rect" id="node25" href="$SmallVector_8h.html" title=" " alt="" coords="1917,401,2092,427"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1148,401,1204,427"/>
+<area shape="rect" id="node28" href="$StringMapEntry_8h.html" title=" " alt="" coords="1442,244,1638,271"/>
+<area shape="rect" id="node29" href="$AllocatorBase_8h.html" title="This file defines MallocAllocator." alt="" coords="242,319,452,345"/>
+<area shape="rect" id="node30" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="551,393,732,435"/>
+<area shape="rect" id="node32" title=" " alt="" coords="3469,319,3577,345"/>
+<area shape="rect" id="node34" href="$Types_8h.html" title=" " alt="" coords="4284,319,4400,345"/>
+<area shape="rect" id="node35" href="$DiagnosticHandler_8h.html" title=" " alt="" coords="2663,244,2866,271"/>
+<area shape="rect" id="node36" href="$CBindingWrapping_8h.html" title=" " alt="" coords="4301,244,4542,271"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3996,244,4226,271"/>
+</map>

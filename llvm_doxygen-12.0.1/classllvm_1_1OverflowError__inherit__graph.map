@@ -1,0 +1,6 @@
+<map id="llvm::OverflowError" name="llvm::OverflowError">
+<area shape="rect" id="node1" title="Class to represent an overflow error that might result when manipulating a value." alt="" coords="22,276,155,303"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,172,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="16,5,151,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="105,81,264,123"/>
+</map>

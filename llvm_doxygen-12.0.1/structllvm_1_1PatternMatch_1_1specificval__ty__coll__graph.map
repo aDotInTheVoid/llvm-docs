@@ -1,0 +1,5 @@
+<map id="llvm::PatternMatch::specificval_ty" name="llvm::PatternMatch::specificval_ty">
+<area shape="rect" id="node1" title="Match a specified Value*." alt="" coords="5,301,137,343"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="28,212,115,239"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="34,5,109,32"/>
+</map>

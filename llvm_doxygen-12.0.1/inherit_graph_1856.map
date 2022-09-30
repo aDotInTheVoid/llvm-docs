@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1legacy_1_1PassManagerBase.html" title="PassManagerBase &#45; An abstract interface to allow code to add passes to a pass manager without having ..." alt="" coords="5,42,215,69"/>
+<area shape="rect" id="node2" href="$classllvm_1_1legacy_1_1FunctionPassManager.html" title="FunctionPassManager manages FunctionPasses." alt="" coords="263,5,441,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1legacy_1_1PassManager.html" title="PassManager manages ModulePassManagers." alt="" coords="263,71,441,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DebugifyCustomPassManager.html" title="DebugifyCustomPassManager wraps each pass with the debugify passes if needed." alt="" coords="489,64,672,105"/>
+</map>

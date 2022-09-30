@@ -1,0 +1,12 @@
+<map id="llvm::GlobalValue" name="llvm::GlobalValue">
+<area shape="rect" id="node1" title=" " alt="" coords="247,229,385,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1GlobalIndirectSymbol.html" title=" " alt="" coords="119,304,318,331"/>
+<area shape="rect" id="node8" href="$classllvm_1_1GlobalObject.html" title=" " alt="" coords="342,304,485,331"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="257,155,375,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1User.html" title=" " alt="" coords="271,80,361,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="269,5,363,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1GlobalAlias.html" title=" " alt="" coords="5,379,139,405"/>
+<area shape="rect" id="node7" href="$classllvm_1_1GlobalIFunc.html" title=" " alt="" coords="163,379,298,405"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Function.html" title=" " alt="" coords="345,379,460,405"/>
+<area shape="rect" id="node10" href="$classllvm_1_1GlobalVariable.html" title=" " alt="" coords="484,379,639,405"/>
+</map>

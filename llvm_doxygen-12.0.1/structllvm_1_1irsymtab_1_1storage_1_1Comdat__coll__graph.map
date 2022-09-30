@@ -1,0 +1,8 @@
+<map id="llvm::irsymtab::storage::Comdat" name="llvm::irsymtab::storage::Comdat">
+<area shape="rect" id="node1" title="This is equivalent to an IR comdat." alt="" coords="851,49,1005,90"/>
+<area shape="rect" id="node2" href="$structllvm_1_1irsymtab_1_1storage_1_1Str.html" title="A reference to a string in the string table." alt="" coords="583,56,763,83"/>
+<area shape="rect" id="node3" href="$structllvm_1_1support_1_1detail_1_1packed__endian__specific__integral.html" title=" " alt="" coords="300,34,495,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,191,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="75,56,121,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="70,107,126,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::PointerAlignElem" name="llvm::PointerAlignElem">
+<area shape="rect" id="node1" title="Layout pointer alignment element." alt="" coords="22,124,177,151"/>
+<area shape="rect" id="node2" href="$classuint32__t.html" title=" " alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment." alt="" coords="118,5,201,32"/>
+</map>

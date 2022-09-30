@@ -1,0 +1,52 @@
+<map id="lib/Target/WebAssembly/WebAssemblyFrameLowering.h" name="lib/Target/WebAssembly/WebAssemblyFrameLowering.h">
+<area shape="rect" id="node1" title="This class implements WebAssembly&#45;specific bits of TargetFrameLowering class." alt="" coords="5730,5,5961,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyFrameLowering_8cpp.html" title="This file contains the WebAssembly implementation of TargetFrameLowering class." alt="" coords="6241,399,6487,441"/>
+<area shape="rect" id="node3" href="$WebAssemblyRegisterInfo_8cpp.html" title="This file contains the WebAssembly implementation of the TargetRegisterInfo class." alt="" coords="5,399,229,441"/>
+<area shape="rect" id="node4" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget." alt="" coords="5749,95,5942,136"/>
+<area shape="rect" id="node5" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions." alt="" coords="3489,184,3765,240"/>
+<area shape="rect" id="node14" href="$WebAssemblyArgumentMove_8cpp.html" title="This file moves ARGUMENT instructions after ScheduleDAG scheduling." alt="" coords="640,399,885,441"/>
+<area shape="rect" id="node16" href="$WebAssemblyCFGSort_8cpp.html" title="This file implements a CFG sorting pass." alt="" coords="5375,295,5574,337"/>
+<area shape="rect" id="node17" href="$WebAssemblyDebugFixup_8cpp.html" title="Several prior passes may &quot;stackify&quot; registers, here we ensure any references in such registers in deb..." alt="" coords="910,399,1133,441"/>
+<area shape="rect" id="node19" href="$WebAssemblyExplicitLocals_8cpp.html" title="This file converts any remaining registers into WebAssembly locals." alt="" coords="1157,399,1392,441"/>
+<area shape="rect" id="node20" href="$WebAssemblyFastISel_8cpp.html" title="This file defines the WebAssembly&#45;specific support for the FastISel class." alt="" coords="6777,399,6972,441"/>
+<area shape="rect" id="node22" href="$WebAssemblyFixIrreducibleControlFlow_8cpp.html" title="This file implements a pass that removes irreducible control flow." alt="" coords="5599,288,5852,344"/>
+<area shape="rect" id="node23" href="$WebAssemblyInstrInfo_8cpp.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class." alt="" coords="1417,399,1615,441"/>
+<area shape="rect" id="node25" href="$WebAssemblyISelLowering_8cpp.html" title="This file implements the WebAssemblyTargetLowering class." alt="" coords="2741,399,2969,441"/>
+<area shape="rect" id="node26" href="$WebAssemblyLateEHPrepare_8cpp.html" title="Does various transformations for exception handling." alt="" coords="5877,295,6118,337"/>
+<area shape="rect" id="node27" href="$WebAssemblyLowerBrUnless_8cpp.html" title="This file lowers br_unless into br_if with an inverted condition." alt="" coords="1640,399,1883,441"/>
+<area shape="rect" id="node29" href="$WebAssemblyAsmPrinter_8h.html" title=" " alt="" coords="3609,399,3810,441"/>
+<area shape="rect" id="node31" href="$WebAssemblyCFGStackify_8cpp.html" title="This file implements a CFG stacking pass." alt="" coords="4982,399,5205,441"/>
+<area shape="rect" id="node32" href="$WebAssemblyMachineFunctionInfo_8cpp.html" title="This file implements WebAssembly&#45;specific per&#45;machine&#45;function information." alt="" coords="5229,399,5509,441"/>
+<area shape="rect" id="node33" href="$WebAssemblyMCLowerPrePass_8cpp.html" title="Some information in MC lowering / asm printing gets generated as instructions get emitted,..." alt="" coords="4170,399,4425,441"/>
+<area shape="rect" id="node34" href="$WebAssemblyMemIntrinsicResults_8cpp.html" title="This file implements an optimization pass using memory intrinsic results." alt="" coords="4449,399,4727,441"/>
+<area shape="rect" id="node35" href="$WebAssemblyOptimizeLiveIntervals_8cpp.html" title="Optimize LiveIntervals for use in a post&#45;RA context." alt="" coords="5533,399,5821,441"/>
+<area shape="rect" id="node36" href="$WebAssemblyPeephole_8cpp.html" title="Late peephole optimizations for WebAssembly." alt="" coords="4752,399,4957,441"/>
+<area shape="rect" id="node37" href="$WebAssemblyPrepareForLiveIntervals_8cpp.html" title="Fix up code to meet LiveInterval&#39;s requirements." alt="" coords="1907,399,2205,441"/>
+<area shape="rect" id="node38" href="$WebAssemblyRegNumbering_8cpp.html" title="This file implements a pass which assigns WebAssembly register numbers for CodeGen virtual registers." alt="" coords="2229,399,2472,441"/>
+<area shape="rect" id="node39" href="$WebAssemblyRegStackify_8cpp.html" title="This file implements a register stacking pass." alt="" coords="2497,399,2717,441"/>
+<area shape="rect" id="node40" href="$WebAssemblyReplacePhysRegs_8cpp.html" title="This file implements a pass that replaces physical registers with virtual registers." alt="" coords="3886,399,4146,441"/>
+<area shape="rect" id="node44" href="$WebAssemblyRuntimeLibcallSignatures_8cpp.html" title="This file contains signature information for runtime libcalls." alt="" coords="254,399,565,441"/>
+<area shape="rect" id="node45" href="$WebAssemblySubtarget_8cpp.html" title="This file implements the WebAssembly&#45;specific subclass of TargetSubtarget." alt="" coords="6143,295,6351,337"/>
+<area shape="rect" id="node46" href="$WebAssemblyNullifyDebugValueLists_8cpp.html" title="Nullify DBG_VALUE_LISTs instructions as a temporary measure before we implement DBG_VALUE_LIST handli..." alt="" coords="6730,184,6969,240"/>
+<area shape="rect" id="node47" href="$WebAssemblyTargetMachine_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetMachine." alt="" coords="7146,295,7371,337"/>
+<area shape="rect" id="node6" href="$WebAssemblyAsmParser_8cpp.html" title="This file is part of the WebAssembly Assembler." alt="" coords="4658,295,4945,337"/>
+<area shape="rect" id="node7" href="$WebAssemblyAsmTypeCheck_8cpp.html" title="This file is part of the WebAssembly Assembler." alt="" coords="1768,288,2019,344"/>
+<area shape="rect" id="node8" href="$WebAssemblyAsmBackend_8cpp.html" title="This file implements the WebAssemblyAsmBackend class." alt="" coords="2347,288,2591,344"/>
+<area shape="rect" id="node9" href="$WebAssemblyInstPrinter_8cpp.html" title="Print MCInst instructions to wasm format." alt="" coords="2993,392,3231,448"/>
+<area shape="rect" id="node10" href="$WebAssemblyMCCodeEmitter_8cpp.html" title="This file implements the WebAssemblyMCCodeEmitter class." alt="" coords="2905,288,3175,344"/>
+<area shape="rect" id="node11" href="$WebAssemblyMCTargetDesc_8cpp.html" title="This file provides WebAssembly&#45;specific target descriptions." alt="" coords="3199,288,3475,344"/>
+<area shape="rect" id="node12" href="$WebAssemblyTargetStreamer_8cpp.html" title="This file defines WebAssembly&#45;specific target streamer classes." alt="" coords="3499,288,3754,344"/>
+<area shape="rect" id="node13" href="$WebAssemblyWasmObjectWriter_8cpp.html" title="This file handles Wasm&#45;specific object emission, converting LLVM&#39;s internal fixups into the appropria..." alt="" coords="3778,288,4033,344"/>
+<area shape="rect" id="node15" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="3740,496,3956,537"/>
+<area shape="rect" id="node18" href="$WebAssemblyExceptionInfo_8cpp.html" title="This file implements WebAssemblyException information analysis." alt="" coords="4057,295,4292,337"/>
+<area shape="rect" id="node21" href="$WebAssemblyFixBrTableDefaults_8cpp.html" title=" " alt="" coords="4316,295,4583,337"/>
+<area shape="rect" id="node24" href="$WebAssemblyISelDAGToDAG_8cpp.html" title="This file defines an instruction selector for the WebAssembly target." alt="" coords="6511,399,6753,441"/>
+<area shape="rect" id="node28" href="$WebAssemblyMachineFunctionInfo_8h.html" title="This file declares WebAssembly&#45;specific per&#45;machine&#45;function information." alt="" coords="2615,295,2881,337"/>
+<area shape="rect" id="node41" href="$WebAssemblySetP2AlignOperands_8cpp.html" title="This file sets the p2align operands on load and store instructions." alt="" coords="3256,399,3533,441"/>
+<area shape="rect" id="node42" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine." alt="" coords="5845,399,6085,441"/>
+<area shape="rect" id="node43" href="$WebAssemblyRuntimeLibcallSignatures_8h.html" title="This file provides signature information for runtime libcalls." alt="" coords="840,295,1136,337"/>
+<area shape="rect" id="node30" href="$WebAssemblyMCInstLower_8cpp.html" title="This file contains code to lower WebAssembly MachineInstrs to their corresponding MCInst records." alt="" coords="3473,496,3701,537"/>
+<area shape="rect" id="node48" href="$WebAssemblyLowerEmscriptenEHSjLj_8cpp.html" title="This file lowers exception&#45;related instructions and setjmp/longjmp function calls in order to use Ems..." alt="" coords="7047,392,7307,448"/>
+<area shape="rect" id="node49" href="$WebAssemblySelectionDAGInfo_8cpp.html" title="This file implements the WebAssemblySelectionDAGInfo class." alt="" coords="7332,399,7591,441"/>
+<area shape="rect" id="node50" href="$WebAssemblyTargetObjectFile_8cpp.html" title="This file defines the functions of the WebAssembly&#45;specific subclass of TargetLoweringObjectFile." alt="" coords="7615,399,7865,441"/>
+</map>

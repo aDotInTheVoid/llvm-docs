@@ -1,0 +1,13 @@
+<map id="LOHInfo" name="LOHInfo">
+<area shape="rect" id="node1" title="State tracked per register." alt="" coords="2264,80,2335,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="2029,5,2127,32"/>
+<area shape="rect" id="node3" href="$classbool.html" title=" " alt="" coords="2055,80,2101,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineInstr.html" title="Representation of each machine instruction." alt="" coords="2013,155,2143,181"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="1779,133,1964,203"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="829,118,961,159"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1147,181,1316,222"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="589,103,780,174"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,125,183,152"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="232,150,372,191"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="1365,173,1549,229"/>
+</map>

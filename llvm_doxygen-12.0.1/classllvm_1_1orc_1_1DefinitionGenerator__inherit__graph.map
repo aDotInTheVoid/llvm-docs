@@ -1,0 +1,7 @@
+<map id="llvm::orc::DefinitionGenerator" name="llvm::orc::DefinitionGenerator">
+<area shape="rect" id="node1" title="Definition generators can be attached to JITDylibs to generate new definitions for otherwise unresolv..." alt="" coords="5,101,197,127"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1DynamicLibrarySearchGenerator.html" title="A utility class to expose symbols found via dlsym to the JIT." alt="" coords="259,5,431,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1ReexportsGenerator.html" title="ReexportsGenerator can be used with JITDylib::addGenerator to automatically re&#45;export a subset of the..." alt="" coords="246,71,443,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1StaticLibraryDefinitionGenerator.html" title="A utility class to expose symbols from a static library." alt="" coords="267,123,422,164"/>
+<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1TPCDynamicLibrarySearchGenerator.html" title=" " alt="" coords="245,188,444,229"/>
+</map>

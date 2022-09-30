@@ -1,0 +1,5 @@
+<map id="llvm::PPCRegisterBankInfo" name="llvm::PPCRegisterBankInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="17,155,198,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PPCGenRegisterBankInfo.html" title=" " alt="" coords="5,80,209,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RegisterBankInfo.html" title="Holds all the information related to register banks." alt="" coords="30,5,185,32"/>
+</map>

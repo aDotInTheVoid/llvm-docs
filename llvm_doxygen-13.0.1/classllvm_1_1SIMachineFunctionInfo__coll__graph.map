@@ -1,0 +1,15 @@
+<map id="llvm::SIMachineFunctionInfo" name="llvm::SIMachineFunctionInfo">
+<area shape="rect" id="node1" title="This class keeps track of the SPI_SP_INPUT_ADDR config register, which tells the hardware which inter..." alt="" coords="1179,408,1385,435"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AMDGPUMachineFunction.html" title=" " alt="" coords="711,229,939,256"/>
+<area shape="rect" id="node3" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="302,5,497,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="362,56,437,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,221,56,248"/>
+<area shape="rect" id="node7" href="$structllvm_1_1AMDGPU_1_1SIModeRegisterDefaults.html" title=" " alt="" coords="285,229,513,270"/>
+<area shape="rect" id="node6" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment." alt="" coords="353,295,445,321"/>
+<area shape="rect" id="node8" title=" " alt="" coords="359,349,440,376"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MapVector.html" title=" " alt="" coords="733,360,917,416"/>
+<area shape="rect" id="node10" href="$classllvm_1_1MapVector.html" title="This class implements a map that also provides access to all stored values in a deterministic order." alt="" coords="284,402,515,443"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="768,445,881,472"/>
+<area shape="rect" id="node12" href="$classllvm_1_1Optional.html" title=" " alt="" coords="744,505,905,532"/>
+<area shape="rect" id="node13" href="$classllvm_1_1Optional.html" title=" " alt="" coords="323,505,475,532"/>
+</map>

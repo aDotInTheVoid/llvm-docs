@@ -1,0 +1,8 @@
+<map id="llvm::SparseSet&lt; ValueT, KeyFunctorT, SparseT &gt;" name="llvm::SparseSet&lt; ValueT, KeyFunctorT, SparseT &gt;">
+<area shape="rect" id="node1" title="SparseSet &#45; Fast set implementation for objects that can be identified by small unsigned keys." alt="" coords="5,138,176,179"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SparseSet.html" title=" " alt="" coords="374,5,575,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SparseSet.html" title=" " alt="" coords="379,85,571,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SparseSet.html" title=" " alt="" coords="372,137,577,178"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SparseSet.html" title=" " alt="" coords="379,202,571,243"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SparseSet.html" title=" " alt="" coords="377,268,572,295"/>
+</map>

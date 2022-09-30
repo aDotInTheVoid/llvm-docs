@@ -1,0 +1,52 @@
+<map id="include/llvm/XRay/Trace.h" name="include/llvm/XRay/Trace.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4994,5,5169,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="4957,603,5019,629"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5087,453,5145,480"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title=" " alt="" coords="3224,379,3368,405"/>
+<area shape="rect" id="node30" href="$DataExtractor_8h.html" title=" " alt="" coords="3903,80,4094,107"/>
+<area shape="rect" id="node33" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="3249,155,3388,181"/>
+<area shape="rect" id="node50" href="$XRayRecord_8h.html" title=" " alt="" coords="5220,379,5391,405"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title=" " alt="" coords="1850,453,2003,480"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="4059,677,4221,704"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1263,677,1345,704"/>
+<area shape="rect" id="node12" title=" " alt="" coords="688,677,741,704"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2479,603,2545,629"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="848,603,1019,629"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3143,603,3217,629"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1501,603,1566,629"/>
+<area shape="rect" id="node23" title=" " alt="" coords="5097,677,5151,704"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3280,603,3333,629"/>
+<area shape="rect" id="node29" title=" " alt="" coords="4428,603,4489,629"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title=" " alt="" coords="2727,528,2865,555"/>
+<area shape="rect" id="node14" title=" " alt="" coords="753,603,823,629"/>
+<area shape="rect" id="node16" href="$iterator_8h.html" title=" " alt="" coords="1239,528,1369,555"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1094,603,1157,629"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1799,528,1972,555"/>
+<area shape="rect" id="node22" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4514,603,4705,629"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3937,603,3997,629"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1997,528,2075,555"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2100,528,2196,555"/>
+<area shape="rect" id="node28" title=" " alt="" coords="708,528,759,555"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title=" " alt="" coords="2710,603,2882,629"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3589,603,3635,629"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3986,752,4153,779"/>
+<area shape="rect" id="node9" title=" " alt="" coords="4177,752,4245,779"/>
+<area shape="rect" id="node31" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="1351,379,1524,405"/>
+<area shape="rect" id="node32" href="$llvm-c_2DataTypes_8h.html" title=" " alt="" coords="1234,453,1369,480"/>
+<area shape="rect" id="node34" href="$llvm-c_2Error_8h.html" title=" " alt="" coords="4782,229,4882,256"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title=" " alt="" coords="2990,453,3151,480"/>
+<area shape="rect" id="node39" href="$StringExtras_8h.html" title=" " alt="" coords="3107,229,3269,256"/>
+<area shape="rect" id="node42" href="$Twine_8h.html" title=" " alt="" coords="4105,304,4231,331"/>
+<area shape="rect" id="node43" href="$AlignOf_8h.html" title=" " alt="" coords="145,379,298,405"/>
+<area shape="rect" id="node44" href="$Debug_8h.html" title=" " alt="" coords="4456,229,4605,256"/>
+<area shape="rect" id="node45" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer." alt="" coords="195,304,349,331"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2473,379,2569,405"/>
+<area shape="rect" id="node47" href="$Format_8h.html" title=" " alt="" coords="1573,304,1723,331"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title=" " alt="" coords="3225,304,3412,331"/>
+<area shape="rect" id="node35" href="$ExternC_8h.html" title=" " alt="" coords="4773,304,4891,331"/>
+<area shape="rect" id="node37" href="$MathExtras_8h.html" title=" " alt="" coords="3396,528,3575,555"/>
+<area shape="rect" id="node38" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="4055,528,4225,555"/>
+<area shape="rect" id="node40" href="$ArrayRef_8h.html" title=" " alt="" coords="2129,379,2271,405"/>
+<area shape="rect" id="node41" href="$SmallString_8h.html" title=" " alt="" coords="2991,304,3150,331"/>
+<area shape="rect" id="node48" title=" " alt="" coords="1565,379,1622,405"/>
+</map>

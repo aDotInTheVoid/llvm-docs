@@ -1,0 +1,51 @@
+<map id="llvm::User" name="llvm::User">
+<area shape="rect" id="node1" title=" " alt="" coords="140,639,223,665"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="281,157,387,184"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DerivedUser.html" title="Extension point for the Value hierarchy." alt="" coords="271,473,397,500"/>
+<area shape="rect" id="node14" href="$classllvm_1_1Instruction.html" title=" " alt="" coords="277,968,391,995"/>
+<area shape="rect" id="node41" href="$classllvm_1_1Operator.html" title="This is a utility class that provides an abstraction for the common functionality between Instruction..." alt="" coords="282,1932,386,1959"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="5,639,92,665"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BlockAddress.html" title="The address of a basic block." alt="" coords="483,5,618,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ConstantAggregate.html" title="Base class for aggregate constants (with operands)." alt="" coords="467,56,634,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ConstantData.html" title="Base class for constants with no operands." alt="" coords="483,107,618,133"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ConstantExpr.html" title="A constant value that is initialized with an expression using other constant values." alt="" coords="483,157,618,184"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DSOLocalEquivalent.html" title="Wrapper for a function that represents a value that functionally represents the original function." alt="" coords="463,208,638,235"/>
+<area shape="rect" id="node11" href="$classllvm_1_1GlobalValue.html" title=" " alt="" coords="489,259,612,285"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ConstantArray.html" title="ConstantArray &#45; Constant Array Declarations." alt="" coords="706,31,845,57"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ConstantStruct.html" title=" " alt="" coords="704,81,847,108"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MemoryAccess.html" title=" " alt="" coords="477,309,624,336"/>
+<area shape="rect" id="node15" href="$classllvm_1_1AtomicCmpXchgInst.html" title="An instruction that atomically checks whether a specified value is in a memory location,..." alt="" coords="463,360,638,387"/>
+<area shape="rect" id="node16" href="$classllvm_1_1AtomicRMWInst.html" title="an instruction that atomically reads a memory location, combines it with another value,..." alt="" coords="475,411,626,437"/>
+<area shape="rect" id="node17" href="$classllvm_1_1BinaryOperator.html" title=" " alt="" coords="479,461,622,488"/>
+<area shape="rect" id="node18" href="$classllvm_1_1BranchInst.html" title="Conditional or Unconditional Branch instruction." alt="" coords="492,512,609,539"/>
+<area shape="rect" id="node19" href="$classllvm_1_1CallBase.html" title="Base class for all callable instructions (InvokeInst and CallInst) Holds everything related to callin..." alt="" coords="497,563,604,589"/>
+<area shape="rect" id="node20" href="$classllvm_1_1CatchReturnInst.html" title=" " alt="" coords="477,613,625,640"/>
+<area shape="rect" id="node21" href="$classllvm_1_1CatchSwitchInst.html" title=" " alt="" coords="475,664,626,691"/>
+<area shape="rect" id="node22" href="$classllvm_1_1CleanupReturnInst.html" title=" " alt="" coords="469,715,632,741"/>
+<area shape="rect" id="node23" href="$classllvm_1_1CmpInst.html" title="This class is the base class for the comparison instructions." alt="" coords="499,765,603,792"/>
+<area shape="rect" id="node24" href="$classllvm_1_1ExtractElementInst.html" title="This instruction extracts a single (scalar) element from a VectorType value." alt="" coords="467,816,634,843"/>
+<area shape="rect" id="node25" href="$classllvm_1_1FenceInst.html" title="An instruction for ordering other memory operations." alt="" coords="495,867,607,893"/>
+<area shape="rect" id="node26" href="$classllvm_1_1FuncletPadInst.html" title=" " alt="" coords="479,917,622,944"/>
+<area shape="rect" id="node27" href="$classllvm_1_1GetElementPtrInst.html" title="an instruction for type&#45;safe pointer arithmetic to access elements of arrays and structs" alt="" coords="469,968,632,995"/>
+<area shape="rect" id="node28" href="$classllvm_1_1IndirectBrInst.html" title="Indirect Branch Instruction." alt="" coords="485,1019,617,1045"/>
+<area shape="rect" id="node29" href="$classllvm_1_1InsertElementInst.html" title="This instruction inserts a single (scalar) element into a VectorType value." alt="" coords="471,1069,630,1096"/>
+<area shape="rect" id="node30" href="$classllvm_1_1InsertValueInst.html" title="This instruction inserts a struct field of array element value into an aggregate value." alt="" coords="479,1120,622,1147"/>
+<area shape="rect" id="node31" href="$classllvm_1_1LandingPadInst.html" title="The landingpad instruction holds all of the information necessary to generate correct exception handl..." alt="" coords="479,1171,623,1197"/>
+<area shape="rect" id="node32" href="$classllvm_1_1PHINode.html" title=" " alt="" coords="497,1221,604,1248"/>
+<area shape="rect" id="node33" href="$classllvm_1_1ResumeInst.html" title="Resume the propagation of an exception." alt="" coords="489,1272,613,1299"/>
+<area shape="rect" id="node34" href="$classllvm_1_1ReturnInst.html" title="Return a value (possibly void), from a function." alt="" coords="493,1323,608,1349"/>
+<area shape="rect" id="node35" href="$classllvm_1_1SelectInst.html" title="This class represents the LLVM &#39;select&#39; instruction." alt="" coords="494,1373,607,1400"/>
+<area shape="rect" id="node36" href="$classllvm_1_1ShuffleVectorInst.html" title="This instruction constructs a fixed permutation of two input vectors." alt="" coords="474,1424,627,1451"/>
+<area shape="rect" id="node37" href="$classllvm_1_1StoreInst.html" title="An instruction for storing to memory." alt="" coords="497,1475,604,1501"/>
+<area shape="rect" id="node38" href="$classllvm_1_1SwitchInst.html" title="Multiway switch." alt="" coords="493,1525,609,1552"/>
+<area shape="rect" id="node39" href="$classllvm_1_1UnaryInstruction.html" title=" " alt="" coords="475,1576,626,1603"/>
+<area shape="rect" id="node40" href="$classllvm_1_1UnreachableInst.html" title="This function has undefined behavior." alt="" coords="476,1627,625,1653"/>
+<area shape="rect" id="node42" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="472,1677,629,1733"/>
+<area shape="rect" id="node43" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="472,1757,629,1813"/>
+<area shape="rect" id="node44" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="472,1837,629,1893"/>
+<area shape="rect" id="node45" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="472,1917,629,1973"/>
+<area shape="rect" id="node46" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="472,1997,629,2053"/>
+<area shape="rect" id="node47" href="$classllvm_1_1FPMathOperator.html" title="Utility class for floating point operations which can have information about relaxed accuracy require..." alt="" coords="475,2077,626,2104"/>
+<area shape="rect" id="node48" href="$classllvm_1_1OverflowingBinaryOperator.html" title="Utility class for integer operators which may exhibit overflow &#45; Add, Sub, Mul, and Shl." alt="" coords="445,2128,656,2155"/>
+<area shape="rect" id="node49" href="$classllvm_1_1PossiblyExactOperator.html" title="A udiv or sdiv instruction, which can be marked as &quot;exact&quot;, indicating that no bits are destroyed." alt="" coords="457,2179,644,2205"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Transforms/Utils/LoopUnrollRuntime.cpp" name="lib/Transforms/Utils/LoopUnrollRuntime.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3130,5,3309,47"/>
+<area shape="rect" id="node2" href="$SmallPtrSet_8h.html" title=" " alt="" coords="2091,437,2265,464"/>
+<area shape="rect" id="node15" href="$Statistic_8h.html" title=" " alt="" coords="5045,355,5196,382"/>
+<area shape="rect" id="node19" href="$LoopIterator_8h.html" title=" " alt="" coords="1361,102,1565,129"/>
+<area shape="rect" id="node23" title=" " alt="" coords="839,512,925,539"/>
+<area shape="rect" id="node28" href="$ScalarEvolution_8h.html" title=" " alt="" coords="1590,102,1817,129"/>
+<area shape="rect" id="node37" href="$BasicBlock_8h.html" title=" " alt="" coords="3858,437,4013,464"/>
+<area shape="rect" id="node38" href="$Dominators_8h.html" title=" " alt="" coords="687,273,847,300"/>
+<area shape="rect" id="node39" href="$MDBuilder_8h.html" title=" " alt="" coords="5,191,156,218"/>
+<area shape="rect" id="node40" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="3291,191,3438,218"/>
+<area shape="rect" id="node41" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="4067,102,4199,129"/>
+<area shape="rect" id="node42" href="$CommandLine_8h.html" title=" " alt="" coords="3112,273,3327,300"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title=" " alt="" coords="2765,355,2972,382"/>
+<area shape="rect" id="node44" href="$Debug_8h.html" title=" " alt="" coords="4815,102,4978,129"/>
+<area shape="rect" id="node45" href="$llvm_2Transforms_2Utils_8h.html" title=" " alt="" coords="5002,102,5175,129"/>
+<area shape="rect" id="node46" href="$BasicBlockUtils_8h.html" title=" " alt="" coords="3637,95,3799,136"/>
+<area shape="rect" id="node47" href="$Cloning_8h.html" title=" " alt="" coords="4605,348,4767,389"/>
+<area shape="rect" id="node48" href="$LoopUtils_8h.html" title=" " alt="" coords="5200,95,5361,136"/>
+<area shape="rect" id="node49" href="$ScalarEvolutionExpander_8h.html" title=" " alt="" coords="2979,184,3177,225"/>
+<area shape="rect" id="node50" href="$UnrollLoop_8h.html" title=" " alt="" coords="1053,184,1215,225"/>
+<area shape="rect" id="node3" href="$EpochTracker_8h.html" title=" " alt="" coords="1779,512,1961,539"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="2315,587,2494,613"/>
+<area shape="rect" id="node6" href="$ReverseIteration_8h.html" title=" " alt="" coords="1986,512,2215,539"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title=" " alt="" coords="1240,512,1431,539"/>
+<area shape="rect" id="node8" title=" " alt="" coords="620,587,680,613"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2573,512,2642,539"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3431,512,3501,539"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2681,512,2747,539"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1586,512,1653,539"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2787,512,2897,539"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4079,512,4149,539"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3709,661,3895,688"/>
+<area shape="rect" id="node16" title=" " alt="" coords="5095,437,5162,464"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4715,512,4793,539"/>
+<area shape="rect" id="node18" title=" " alt="" coords="4392,437,4455,464"/>
+<area shape="rect" id="node20" href="$PostOrderIterator_8h.html" title=" " alt="" coords="2013,273,2223,300"/>
+<area shape="rect" id="node25" href="$LoopInfo_8h.html" title=" " alt="" coords="1376,191,1559,218"/>
+<area shape="rect" id="node21" href="$Optional_8h.html" title=" " alt="" coords="1888,355,2041,382"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title=" " alt="" coords="2899,437,3073,464"/>
+<area shape="rect" id="node22" href="$Hashing_8h.html" title=" " alt="" coords="941,437,1092,464"/>
+<area shape="rect" id="node26" href="$DenseMap_8h.html" title=" " alt="" coords="1341,273,1508,300"/>
+<area shape="rect" id="node27" href="$DenseMapInfo_8h.html" title=" " alt="" coords="911,355,1103,382"/>
+<area shape="rect" id="node29" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1731,437,1863,464"/>
+<area shape="rect" id="node30" href="$ArrayRef_8h.html" title=" " alt="" coords="3655,355,3810,382"/>
+<area shape="rect" id="node31" href="$FoldingSet_8h.html" title=" " alt="" coords="2421,355,2588,382"/>
+<area shape="rect" id="node32" href="$PointerIntPair_8h.html" title=" " alt="" coords="1319,437,1503,464"/>
+<area shape="rect" id="node33" href="$SetVector_8h.html" title=" " alt="" coords="3840,273,3999,300"/>
+<area shape="rect" id="node34" href="$ConstantRange_8h.html" title=" " alt="" coords="1941,191,2124,218"/>
+<area shape="rect" id="node35" href="$InstrTypes_8h.html" title=" " alt="" coords="3453,273,3604,300"/>
+<area shape="rect" id="node36" href="$Function_8h.html" title=" " alt="" coords="3935,355,4074,382"/>
+</map>

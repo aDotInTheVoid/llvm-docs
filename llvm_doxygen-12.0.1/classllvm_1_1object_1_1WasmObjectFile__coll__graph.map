@@ -1,0 +1,7 @@
+<map id="llvm::object::WasmObjectFile" name="llvm::object::WasmObjectFile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,323,199,349"/>
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1ObjectFile.html" title="This class is the base class for all object file types." alt="" coords="24,247,180,273"/>
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1SymbolicFile.html" title=" " alt="" coords="16,171,188,197"/>
+<area shape="rect" id="node4" href="$classllvm_1_1object_1_1Binary.html" title=" " alt="" coords="35,95,169,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MemoryBufferRef.html" title=" " alt="" coords="24,5,180,32"/>
+</map>

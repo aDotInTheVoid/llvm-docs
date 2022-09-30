@@ -1,0 +1,6 @@
+<map id="llvm::remarks::RemarkLocation" name="llvm::remarks::RemarkLocation">
+<area shape="rect" id="node1" title="The debug location used to track a remark back to the source file." alt="" coords="5,199,211,225"/>
+<area shape="rect" id="node2" href="$classunsigned.html" title=" " alt="" coords="11,95,85,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="115,95,223,121"/>
+<area shape="rect" id="node4" href="$classsize__t.html" title=" " alt="" coords="141,5,197,32"/>
+</map>

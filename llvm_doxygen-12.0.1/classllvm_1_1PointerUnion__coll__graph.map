@@ -1,0 +1,5 @@
+<map id="llvm::PointerUnion&lt; PTs &gt;" name="llvm::PointerUnion&lt; PTs &gt;">
+<area shape="rect" id="node1" title="A discriminated union of two or more pointer types, with the discriminator in the low bit of the poin..." alt="" coords="709,87,839,129"/>
+<area shape="rect" id="node2" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title=" " alt="" coords="431,43,660,173"/>
+<area shape="rect" id="node3" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title=" " alt="" coords="5,80,204,136"/>
+</map>

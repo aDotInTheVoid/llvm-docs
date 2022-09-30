@@ -1,0 +1,4 @@
+<map id="llvm::orc::ObjectLinkingLayer::Plugin" name="llvm::orc::ObjectLinkingLayer::Plugin">
+<area shape="rect" id="node1" title="Plugin instances can be added to the ObjectLinkingLayer to receive callbacks when code is loaded or e..." alt="" coords="29,5,187,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1EHFrameRegistrationPlugin.html" title=" " alt="" coords="5,95,211,136"/>
+</map>

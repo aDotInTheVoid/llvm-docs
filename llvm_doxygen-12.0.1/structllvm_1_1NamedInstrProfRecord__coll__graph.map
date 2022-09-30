@@ -1,0 +1,9 @@
+<map id="llvm::NamedInstrProfRecord" name="llvm::NamedInstrProfRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="151,184,338,211"/>
+<area shape="rect" id="node2" href="$structllvm_1_1InstrProfRecord.html" title="Profiling information for a single function." alt="" coords="5,95,151,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="15,5,141,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="175,95,243,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="267,95,305,121"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="431,95,539,121"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title=" " alt="" coords="457,5,513,32"/>
+</map>

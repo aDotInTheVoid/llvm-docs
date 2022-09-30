@@ -1,0 +1,14 @@
+<map id="lib/Target/WebAssembly/Utils/WebAssemblyTypeUtilities.h" name="lib/Target/WebAssembly/Utils/WebAssemblyTypeUtilities.h">
+<area shape="rect" id="node1" title="This file contains the declaration of the WebAssembly&#45;specific type parsing utility functions." alt="" coords="1491,5,1737,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyAsmParser_8cpp.html" title="This file is part of the WebAssembly Assembler." alt="" coords="5,102,292,143"/>
+<area shape="rect" id="node3" href="$WebAssemblyAsmTypeCheck_8cpp.html" title="This file is part of the WebAssembly Assembler." alt="" coords="317,95,567,151"/>
+<area shape="rect" id="node4" href="$WebAssemblyDisassembler_8cpp.html" title="This file is part of the WebAssembly Disassembler." alt="" coords="592,102,919,143"/>
+<area shape="rect" id="node5" href="$WebAssemblyInstPrinter_8cpp.html" title="Print MCInst instructions to wasm format." alt="" coords="943,95,1181,151"/>
+<area shape="rect" id="node6" href="$WebAssemblyTargetStreamer_8cpp.html" title="This file defines WebAssembly&#45;specific target streamer classes." alt="" coords="1205,95,1460,151"/>
+<area shape="rect" id="node7" href="$WebAssemblyTypeUtilities_8cpp.html" title="This file implements several utility functions for WebAssembly type parsing." alt="" coords="1484,102,1744,143"/>
+<area shape="rect" id="node8" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="1769,102,1985,143"/>
+<area shape="rect" id="node9" href="$WebAssemblyCFGStackify_8cpp.html" title="This file implements a CFG stacking pass." alt="" coords="2009,102,2232,143"/>
+<area shape="rect" id="node10" href="$WebAssemblyISelLowering_8cpp.html" title="This file implements the WebAssemblyTargetLowering class." alt="" coords="2256,102,2484,143"/>
+<area shape="rect" id="node11" href="$WebAssemblyMachineFunctionInfo_8cpp.html" title="This file implements WebAssembly&#45;specific per&#45;machine&#45;function information." alt="" coords="2509,102,2789,143"/>
+<area shape="rect" id="node12" href="$WebAssemblyMCInstLower_8cpp.html" title="This file contains code to lower WebAssembly MachineInstrs to their corresponding MCInst records." alt="" coords="2813,102,3041,143"/>
+</map>

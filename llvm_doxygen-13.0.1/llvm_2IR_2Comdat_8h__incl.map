@@ -1,0 +1,19 @@
+<map id="include/llvm/IR/Comdat.h" name="include/llvm/IR/Comdat.h">
+<area shape="rect" id="node1" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM." alt="" coords="302,5,489,32"/>
+<area shape="rect" id="node2" href="$Types_8h.html" title=" " alt="" coords="259,155,375,181"/>
+<area shape="rect" id="node8" href="$CBindingWrapping_8h.html" title=" " alt="" coords="355,80,596,107"/>
+<area shape="rect" id="node3" href="$llvm-c_2DataTypes_8h.html" title=" " alt="" coords="79,229,226,256"/>
+<area shape="rect" id="node7" href="$ExternC_8h.html" title=" " alt="" coords="251,229,382,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,304,92,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="116,304,187,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="211,304,307,331"/>
+<area shape="rect" id="node9" href="$Casting_8h.html" title=" " alt="" coords="534,155,705,181"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title=" " alt="" coords="331,304,510,331"/>
+<area shape="rect" id="node13" href="$type__traits_8h.html" title=" " alt="" coords="457,229,648,256"/>
+<area shape="rect" id="node14" title=" " alt="" coords="629,304,721,331"/>
+<area shape="rect" id="node16" title=" " alt="" coords="723,229,793,256"/>
+<area shape="rect" id="node17" title=" " alt="" coords="817,229,894,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="251,379,436,405"/>
+<area shape="rect" id="node12" title=" " alt="" coords="461,379,535,405"/>
+<area shape="rect" id="node15" title=" " alt="" coords="535,304,595,331"/>
+</map>

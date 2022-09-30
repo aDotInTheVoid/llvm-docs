@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,5,245,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="293,5,533,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ShouldRunExtraVectorPasses.html" title="A marker to determine if extra passes after loop vectorization should be run." alt="" coords="581,5,784,47"/>
+</map>

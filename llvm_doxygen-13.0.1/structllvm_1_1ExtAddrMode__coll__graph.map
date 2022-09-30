@@ -1,0 +1,5 @@
+<map id="llvm::ExtAddrMode" name="llvm::ExtAddrMode">
+<area shape="rect" id="node1" title="Used to describe addressing mode similar to ExtAddrMode in CodeGenPrepare." alt="" coords="28,109,175,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="107,5,221,32"/>
+</map>

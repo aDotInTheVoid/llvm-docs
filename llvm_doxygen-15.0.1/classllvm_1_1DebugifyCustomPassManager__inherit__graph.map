@@ -1,0 +1,5 @@
+<map id="llvm::DebugifyCustomPassManager" name="llvm::DebugifyCustomPassManager">
+<area shape="rect" id="node1" title="DebugifyCustomPassManager wraps each pass with the debugify passes if needed." alt="" coords="21,155,217,196"/>
+<area shape="rect" id="node2" href="$classllvm_1_1legacy_1_1PassManager.html" title="PassManager manages ModulePassManagers." alt="" coords="21,80,216,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1legacy_1_1PassManagerBase.html" title="PassManagerBase &#45; An abstract interface to allow code to add passes to a pass manager without having ..." alt="" coords="5,5,232,32"/>
+</map>

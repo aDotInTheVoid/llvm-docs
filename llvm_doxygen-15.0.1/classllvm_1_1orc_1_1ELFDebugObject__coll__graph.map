@@ -1,0 +1,6 @@
+<map id="llvm::orc::ELFDebugObject" name="llvm::orc::ELFDebugObject">
+<area shape="rect" id="node1" title="The current implementation of ELFDebugObject replicates the approach used in RuntimeDyld: It patches ..." alt="" coords="85,185,279,212"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1DebugObject.html" title="The plugin creates a debug object from when JITLink starts processing the corresponding LinkGraph." alt="" coords="97,109,267,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1jitlink_1_1JITLinkMemoryManager.html" title="Manages allocations of JIT memory." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="231,13,288,39"/>
+</map>

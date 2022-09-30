@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,5,213,76"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="261,20,417,61"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ExtraVectorPassManager.html" title="A pass manager to run a set of extra function simplification passes after vectorization,..." alt="" coords="465,27,685,54"/>
+</map>

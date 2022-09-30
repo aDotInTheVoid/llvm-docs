@@ -1,0 +1,23 @@
+<map id="LLVM&#45;C: C interface to LLVM" name="LLVM&#45;C: C interface to LLVM">
+<area shape="rect" id="node1" href="$group__LLVMCInitialization.html" title=" " alt="" coords="203,5,367,31"/>
+<area shape="rect" id="node2" href="$group__LLVMCTLTO.html" title="// endgoup LLVMCLTO" alt="" coords="247,55,322,80"/>
+<area shape="rect" id="node3" href="$group__LLVMCExecutionEngine.html" title=" " alt="" coords="218,104,351,129"/>
+<area shape="rect" id="node4" href="$group__LLVMCCorePassManagers.html" title=" " alt="" coords="225,153,344,179"/>
+<area shape="rect" id="node5" href="$group__LLVMCObject.html" title=" " alt="" coords="214,203,355,243"/>
+<area shape="rect" id="node6" href="$group__LLVMCCoreModuleProvider.html" title=" " alt="" coords="217,268,352,293"/>
+<area shape="rect" id="node7" href="$group__LLVMCCorePassRegistry.html" title=" " alt="" coords="230,317,339,343"/>
+<area shape="rect" id="node8" href="$group__LLVMCCoreMemoryBuffers.html" title=" " alt="" coords="221,367,348,392"/>
+<area shape="rect" id="node9" href="$group__LLVMCTransforms.html" title=" " alt="" coords="237,416,332,441"/>
+<area shape="rect" id="node10" href="$group__LLVMCDisassembler.html" title=" " alt="" coords="229,465,340,491"/>
+<area shape="rect" id="node11" href="$group__LLVMCCoreInstructionBuilder.html" title="An instruction builder represents a point within a basic block and is the exclusive means of building..." alt="" coords="211,515,359,540"/>
+<area shape="rect" id="node12" href="$group__LLVMCLTO.html" title=" " alt="" coords="261,564,308,589"/>
+<area shape="rect" id="node13" href="$group__LLVMCREMARKS.html" title=" " alt="" coords="245,613,325,639"/>
+<area shape="rect" id="node14" href="$group__LLVMCTarget.html" title=" " alt="" coords="213,663,356,688"/>
+<area shape="rect" id="node15" href="$group__LLVMCBitWriter.html" title=" " alt="" coords="243,712,327,737"/>
+<area shape="rect" id="node16" href="$group__LLVMCCore.html" title="This modules provide an interface to libLLVMCore, which implements the LLVM intermediate representati..." alt="" coords="259,761,311,787"/>
+<area shape="rect" id="node17" href="$group__LLVMCAnalysis.html" title=" " alt="" coords="246,811,323,836"/>
+<area shape="rect" id="node18" href="$group__LLVMCError.html" title=" " alt="" coords="227,860,342,885"/>
+<area shape="rect" id="node19" title="This module exposes parts of the LLVM library as a C API." alt="" coords="5,483,155,523"/>
+<area shape="rect" id="node20" href="$group__LLVMCBitReader.html" title=" " alt="" coords="239,909,330,935"/>
+<area shape="rect" id="node21" href="$group__LLVMCCoreThreading.html" title="Handle the structures needed to make LLVM safe for multithreading." alt="" coords="241,959,328,984"/>
+</map>

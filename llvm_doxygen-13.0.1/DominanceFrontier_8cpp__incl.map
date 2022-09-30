@@ -1,0 +1,52 @@
+<map id="lib/Analysis/DominanceFrontier.cpp" name="lib/Analysis/DominanceFrontier.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2824,5,3075,32"/>
+<area shape="rect" id="node2" href="$DominanceFrontier_8h.html" title=" " alt="" coords="2987,169,3237,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="35,841,221,868"/>
+<area shape="rect" id="node7" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="3010,244,3179,271"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title=" " alt="" coords="423,767,601,793"/>
+<area shape="rect" id="node21" href="$Function_8h.html" title=" " alt="" coords="2168,393,2307,420"/>
+<area shape="rect" id="node41" href="$Pass_8h.html" title=" " alt="" coords="2295,319,2391,345"/>
+<area shape="rect" id="node42" href="$Debug_8h.html" title=" " alt="" coords="5191,319,5353,345"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title=" " alt="" coords="2922,617,3129,644"/>
+<area shape="rect" id="node46" href="$DominanceFrontierImpl_8h.html" title=" " alt="" coords="4198,80,4437,121"/>
+<area shape="rect" id="node47" href="$Dominators_8h.html" title=" " alt="" coords="3861,169,4021,196"/>
+<area shape="rect" id="node50" href="$InitializePasses_8h.html" title=" " alt="" coords="5445,87,5611,114"/>
+<area shape="rect" id="node3" href="$GraphTraits_8h.html" title=" " alt="" coords="4487,543,4659,569"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3815,916,3875,943"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2748,841,2817,868"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2492,692,2543,719"/>
+<area shape="rect" id="node43" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph." alt="" coords="3848,468,4077,495"/>
+<area shape="rect" id="node45" title=" " alt="" coords="4937,393,4980,420"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3338,841,3529,868"/>
+<area shape="rect" id="node8" href="$DenseMap_8h.html" title=" " alt="" coords="3482,543,3649,569"/>
+<area shape="rect" id="node16" href="$STLExtras_8h.html" title=" " alt="" coords="1496,767,1659,793"/>
+<area shape="rect" id="node17" title=" " alt="" coords="636,841,713,868"/>
+<area shape="rect" id="node18" href="$SmallPtrSet_8h.html" title=" " alt="" coords="4634,692,4809,719"/>
+<area shape="rect" id="node19" href="$StringRef_8h.html" title=" " alt="" coords="1905,692,2063,719"/>
+<area shape="rect" id="node20" href="$TinyPtrVector_8h.html" title=" " alt="" coords="3959,767,4143,793"/>
+<area shape="rect" id="node37" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="2770,319,2902,345"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3234,393,3297,420"/>
+<area shape="rect" id="node39" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="2978,319,3195,345"/>
+<area shape="rect" id="node40" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="499,617,719,644"/>
+<area shape="rect" id="node9" href="$DenseMapInfo_8h.html" title=" " alt="" coords="3356,617,3548,644"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4322,841,4393,868"/>
+<area shape="rect" id="node10" href="$Hashing_8h.html" title=" " alt="" coords="3074,692,3225,719"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1615,841,1681,868"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2359,767,2417,793"/>
+<area shape="rect" id="node22" href="$DenseSet_8h.html" title=" " alt="" coords="3411,468,3571,495"/>
+<area shape="rect" id="node23" href="$Twine_8h.html" title=" " alt="" coords="1998,617,2133,644"/>
+<area shape="rect" id="node24" href="$ilist__node_8h.html" title=" " alt="" coords="2157,617,2318,644"/>
+<area shape="rect" id="node25" href="$Argument_8h.html" title=" " alt="" coords="2114,543,2262,569"/>
+<area shape="rect" id="node26" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2445,617,2593,644"/>
+<area shape="rect" id="node28" href="$Value_8h.html" title=" " alt="" coords="1701,617,1821,644"/>
+<area shape="rect" id="node29" href="$Casting_8h.html" title=" " alt="" coords="997,692,1168,719"/>
+<area shape="rect" id="node30" href="$BasicBlock_8h.html" title=" " alt="" coords="2287,543,2441,569"/>
+<area shape="rect" id="node31" href="$SymbolTableListTraits_8h.html" title=" " alt="" coords="3927,617,4153,644"/>
+<area shape="rect" id="node32" href="$CallingConv_8h.html" title=" " alt="" coords="1622,468,1783,495"/>
+<area shape="rect" id="node33" href="$DerivedTypes_8h.html" title=" " alt="" coords="1353,617,1525,644"/>
+<area shape="rect" id="node34" href="$GlobalObject_8h.html" title=" " alt="" coords="2007,468,2175,495"/>
+<area shape="rect" id="node35" href="$GlobalValue_8h.html" title=" " alt="" coords="1403,543,1565,569"/>
+<area shape="rect" id="node36" href="$OperandTraits_8h.html" title=" " alt="" coords="1807,468,1982,495"/>
+<area shape="rect" id="node48" href="$DepthFirstIterator_8h.html" title=" " alt="" coords="4599,319,4811,345"/>
+<area shape="rect" id="node49" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="4045,319,4155,345"/>
+</map>

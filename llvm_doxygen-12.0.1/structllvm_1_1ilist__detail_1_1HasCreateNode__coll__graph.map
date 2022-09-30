@@ -1,0 +1,4 @@
+<map id="llvm::ilist_detail::HasCreateNode&lt; TraitsT, NodeT &gt;" name="llvm::ilist_detail::HasCreateNode&lt; TraitsT, NodeT &gt;">
+<area shape="rect" id="node1" title="Type trait to check for a traits class that has a createNode member." alt="" coords="5,95,184,151"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="71,5,118,32"/>
+</map>

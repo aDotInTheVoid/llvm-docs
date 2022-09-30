@@ -1,0 +1,7 @@
+<map id="SetCCInfo" name="SetCCInfo">
+<area shape="rect" id="node1" title="Helper structure to keep track of SetCC information." alt="" coords="111,199,198,225"/>
+<area shape="rect" id="node2" href="$structGenericSetCCInfo.html" title="Helper structure to keep track of ISD::SET_CC operands." alt="" coords="5,109,141,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="48,5,136,32"/>
+<area shape="rect" id="node5" href="$structAArch64SetCCInfo.html" title="Helper structure to keep track of a SET_CC lowered into AArch64 code." alt="" coords="166,109,306,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="165,5,222,32"/>
+</map>

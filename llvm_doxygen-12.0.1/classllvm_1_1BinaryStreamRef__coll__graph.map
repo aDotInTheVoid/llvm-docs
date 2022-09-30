@@ -1,0 +1,10 @@
+<map id="llvm::BinaryStreamRef" name="llvm::BinaryStreamRef">
+<area shape="rect" id="node1" title="BinaryStreamRef is to BinaryStream what ArrayRef is to an Array." alt="" coords="231,393,386,420"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BinaryStreamRefBase.html" title=" " alt="" coords="192,303,425,344"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BinaryStreamRefBase.html" title="Common stuff for mutable and immutable StreamRefs." alt="" coords="217,184,401,225"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,95,177,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="24,5,159,32"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="201,95,269,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="293,95,471,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="495,95,597,121"/>
+</map>

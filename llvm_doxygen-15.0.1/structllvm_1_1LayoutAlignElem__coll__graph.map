@@ -1,0 +1,5 @@
+<map id="llvm::LayoutAlignElem" name="llvm::LayoutAlignElem">
+<area shape="rect" id="node1" title="Layout alignment element." alt="" coords="21,109,191,136"/>
+<area shape="rect" id="node2" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="121,5,203,32"/>
+</map>

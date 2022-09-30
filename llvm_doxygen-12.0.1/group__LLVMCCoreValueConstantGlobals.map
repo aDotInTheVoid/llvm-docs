@@ -1,0 +1,5 @@
+<map id="Global Values" name="Global Values">
+<area shape="rect" id="node1" title="This group contains functions that operate on global values." alt="" coords="136,5,239,31"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueWithAlignment.html" title="Functions in this group only apply to values with alignment, i.e." alt="" coords="287,5,436,31"/>
+<area shape="rect" id="node2" href="$group__LLVMCCoreValueConstant.html" title="This section contains APIs for interacting with LLVMValueRef that correspond to llvm::Constant instan..." alt="" coords="5,5,88,31"/>
+</map>

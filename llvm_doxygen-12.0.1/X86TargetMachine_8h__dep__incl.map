@@ -1,0 +1,18 @@
+<map id="lib/Target/X86/X86TargetMachine.h" name="lib/Target/X86/X86TargetMachine.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1387,5,1552,47"/>
+<area shape="rect" id="node2" href="$X86FastISel_8cpp.html" title=" " alt="" coords="5,102,208,129"/>
+<area shape="rect" id="node3" href="$X86FrameLowering_8cpp.html" title=" " alt="" coords="232,102,475,129"/>
+<area shape="rect" id="node4" href="$X86IndirectBranchTracking_8cpp.html" title=" " alt="" coords="499,95,671,136"/>
+<area shape="rect" id="node5" href="$X86InstrInfo_8cpp.html" title=" " alt="" coords="696,102,899,129"/>
+<area shape="rect" id="node6" href="$X86InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for X86." alt="" coords="923,95,1114,136"/>
+<area shape="rect" id="node7" href="$X86ISelDAGToDAG_8cpp.html" title=" " alt="" coords="1138,95,1331,136"/>
+<area shape="rect" id="node8" href="$X86ISelLowering_8cpp.html" title=" " alt="" coords="1355,102,1583,129"/>
+<area shape="rect" id="node9" href="$X86LegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for X86." alt="" coords="1607,95,1787,136"/>
+<area shape="rect" id="node10" href="$X86LoadValueInjectionLoadHardening_8cpp.html" title=" " alt="" coords="1812,95,2001,136"/>
+<area shape="rect" id="node11" href="$X86PartialReduction_8cpp.html" title=" " alt="" coords="2026,95,2193,136"/>
+<area shape="rect" id="node12" href="$X86Subtarget_8cpp.html" title=" " alt="" coords="2217,102,2426,129"/>
+<area shape="rect" id="node13" href="$X86TargetMachine_8cpp.html" title=" " alt="" coords="2359,184,2524,225"/>
+<area shape="rect" id="node14" href="$X86TargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the X86 target machine." alt="" coords="2545,95,2711,136"/>
+<area shape="rect" id="node15" href="$X86InstCombineIntrinsic_8cpp.html" title="This file implements a TargetTransformInfo analysis pass specific to the X86 target machine." alt="" coords="2548,184,2751,225"/>
+<area shape="rect" id="node16" href="$X86TargetTransformInfo_8cpp.html" title="This file implements a TargetTransformInfo analysis pass specific to the X86 target machine." alt="" coords="2775,184,2940,225"/>
+</map>

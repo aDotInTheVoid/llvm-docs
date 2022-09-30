@@ -1,0 +1,5 @@
+<map id="llvm::yaml::WebAssemblyFunctionInfo" name="llvm::yaml::WebAssemblyFunctionInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="64,95,309,121"/>
+<area shape="rect" id="node2" href="$structllvm_1_1yaml_1_1MachineFunctionInfo.html" title="Targets should override this in a way that mirrors the implementation of llvm::MachineFunctionInfo." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node3" href="$classbool.html" title=" " alt="" coords="241,5,287,32"/>
+</map>

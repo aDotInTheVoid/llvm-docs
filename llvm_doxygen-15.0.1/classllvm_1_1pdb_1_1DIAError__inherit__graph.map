@@ -1,0 +1,8 @@
+<map id="llvm::pdb::DIAError" name="llvm::pdb::DIAError">
+<area shape="rect" id="node1" title="Base class for errors originating in DIA SDK, e.g. COM calls." alt="" coords="135,441,280,468"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="113,351,301,392"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringError.html" title="This class wraps a string in an Error." alt="" coords="82,275,210,301"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,220,212"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="33,5,179,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="128,81,303,123"/>
+</map>

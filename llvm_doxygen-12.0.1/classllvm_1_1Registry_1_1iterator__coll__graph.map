@@ -1,0 +1,7 @@
+<map id="llvm::Registry&lt; T &gt;::iterator" name="llvm::Registry&lt; T &gt;::iterator">
+<area shape="rect" id="node1" title="Iterators for registry entries." alt="" coords="877,79,1012,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="679,65,828,135"/>
+<area shape="rect" id="node3" title=" " alt="" coords="282,5,439,91"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="249,115,472,186"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,130,200,171"/>
+</map>

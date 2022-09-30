@@ -1,0 +1,8 @@
+<map id="llvm::AADereferenceable" name="llvm::AADereferenceable">
+<area shape="rect" id="node1" title="An abstract interface for all dereferenceable attribute." alt="" coords="768,59,935,85"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="535,37,719,107"/>
+<area shape="rect" id="node3" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute." alt="" coords="135,83,313,125"/>
+<area shape="rect" id="node4" href="$classBaseType.html" title=" " alt="" coords="5,33,85,60"/>
+<area shape="rect" id="node6" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="161,18,287,59"/>
+<area shape="rect" id="node5" href="$classStateTy.html" title=" " alt="" coords="12,92,79,119"/>
+</map>

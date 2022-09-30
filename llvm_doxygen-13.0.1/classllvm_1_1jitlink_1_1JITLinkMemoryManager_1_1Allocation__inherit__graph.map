@@ -1,0 +1,5 @@
+<map id="llvm::jitlink::JITLinkMemoryManager::Allocation" name="llvm::jitlink::JITLinkMemoryManager::Allocation">
+<area shape="rect" id="node1" title="Represents an allocation created by the memory manager." alt="" coords="5,53,207,94"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1OrcRPCEPCJITLinkMemoryManager_1_1OrcRPCAllocation.html" title=" " alt="" coords="255,5,513,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetClient_1_1RPCMMAlloc.html" title=" " alt="" coords="297,85,471,141"/>
+</map>

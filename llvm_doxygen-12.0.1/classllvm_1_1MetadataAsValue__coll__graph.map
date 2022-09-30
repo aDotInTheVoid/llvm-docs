@@ -1,0 +1,5 @@
+<map id="llvm::MetadataAsValue" name="llvm::MetadataAsValue">
+<area shape="rect" id="node1" title="Metadata wrapper in the Value hierarchy." alt="" coords="5,288,161,315"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="40,212,127,239"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="46,5,121,32"/>
+</map>

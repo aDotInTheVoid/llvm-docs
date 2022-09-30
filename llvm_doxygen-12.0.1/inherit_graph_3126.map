@@ -1,0 +1,107 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,1767,143,1808"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,5,407,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="243,71,414,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="245,136,413,177"/>
+<area shape="rect" id="node8" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,201,407,243"/>
+<area shape="rect" id="node10" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="236,267,421,308"/>
+<area shape="rect" id="node12" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="215,332,442,373"/>
+<area shape="rect" id="node14" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,397,407,439"/>
+<area shape="rect" id="node16" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,463,407,504"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="250,528,407,569"/>
+<area shape="rect" id="node20" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="221,593,437,635"/>
+<area shape="rect" id="node22" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,659,407,700"/>
+<area shape="rect" id="node24" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="230,724,427,765"/>
+<area shape="rect" id="node26" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,789,407,831"/>
+<area shape="rect" id="node28" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="216,855,441,896"/>
+<area shape="rect" id="node30" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,920,407,961"/>
+<area shape="rect" id="node32" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="225,985,432,1027"/>
+<area shape="rect" id="node34" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="229,1051,428,1121"/>
+<area shape="rect" id="node36" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,1145,407,1187"/>
+<area shape="rect" id="node38" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,1211,407,1252"/>
+<area shape="rect" id="node40" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="238,1276,419,1317"/>
+<area shape="rect" id="node42" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="221,1341,436,1383"/>
+<area shape="rect" id="node44" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="201,1407,457,1448"/>
+<area shape="rect" id="node46" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="234,1472,423,1513"/>
+<area shape="rect" id="node48" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="247,1537,411,1579"/>
+<area shape="rect" id="node50" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="191,1603,467,1644"/>
+<area shape="rect" id="node52" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="245,1668,412,1709"/>
+<area shape="rect" id="node54" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,1733,407,1775"/>
+<area shape="rect" id="node56" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,1799,407,1840"/>
+<area shape="rect" id="node58" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="227,1864,431,1905"/>
+<area shape="rect" id="node60" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="235,1929,422,1971"/>
+<area shape="rect" id="node62" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="238,1995,419,2036"/>
+<area shape="rect" id="node64" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,2060,407,2101"/>
+<area shape="rect" id="node66" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="239,2125,419,2167"/>
+<area shape="rect" id="node68" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,2191,407,2232"/>
+<area shape="rect" id="node70" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,2256,407,2297"/>
+<area shape="rect" id="node72" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="243,2321,414,2363"/>
+<area shape="rect" id="node74" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="226,2387,431,2428"/>
+<area shape="rect" id="node76" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="243,2452,414,2493"/>
+<area shape="rect" id="node78" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,2517,407,2559"/>
+<area shape="rect" id="node80" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,2583,407,2624"/>
+<area shape="rect" id="node82" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,2648,407,2689"/>
+<area shape="rect" id="node84" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="247,2713,410,2755"/>
+<area shape="rect" id="node86" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="226,2779,431,2820"/>
+<area shape="rect" id="node88" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="234,2844,423,2885"/>
+<area shape="rect" id="node90" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="225,2909,432,2951"/>
+<area shape="rect" id="node92" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,2975,407,3016"/>
+<area shape="rect" id="node94" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="251,3040,407,3081"/>
+<area shape="rect" id="node96" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="245,3105,412,3147"/>
+<area shape="rect" id="node98" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="220,3171,437,3227"/>
+<area shape="rect" id="node100" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="257,3252,400,3293"/>
+<area shape="rect" id="node101" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="257,3317,400,3359"/>
+<area shape="rect" id="node102" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="213,3383,445,3439"/>
+<area shape="rect" id="node104" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="217,3463,440,3549"/>
+<area shape="rect" id="node105" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="251,3573,407,3615"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LoopAnalysis.html" title="Analysis pass that exposes the LoopInfo for a function." alt="" coords="561,13,692,39"/>
+<area shape="rect" id="node5" href="$classllvm_1_1InlineAdvisorAnalysis.html" title="The InlineAdvisorAnalysis is a module pass because the InlineAdvisor needs to capture state right bef..." alt="" coords="537,78,716,105"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DependenceAnalysis.html" title="AnalysisPass to compute dependence information in a function." alt="" coords="539,143,715,170"/>
+<area shape="rect" id="node9" href="$classllvm_1_1VerifierAnalysis.html" title="Check a module for errors, and report separate error states for IR and debug info errors." alt="" coords="555,209,698,235"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ScalarEvolutionAnalysis.html" title="Analysis pass that exposes the ScalarEvolution for a function." alt="" coords="530,274,723,301"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ModuleSummaryIndexAnalysis.html" title="Analysis pass to provide the ModuleSummaryIndex object." alt="" coords="534,332,719,373"/>
+<area shape="rect" id="node15" href="$classllvm_1_1LoopNestAnalysis.html" title="This analysis provides information for a loop nest." alt="" coords="547,405,706,431"/>
+<area shape="rect" id="node17" href="$classllvm_1_1GlobalsAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="569,470,685,497"/>
+<area shape="rect" id="node19" href="$classllvm_1_1RegionInfoAnalysis.html" title="Analysis pass that exposes the RegionInfo for a function." alt="" coords="544,535,709,562"/>
+<area shape="rect" id="node21" href="$classllvm_1_1MemoryDependenceAnalysis.html" title="An analysis that produces MemoryDependenceResults for a function." alt="" coords="515,601,739,627"/>
+<area shape="rect" id="node23" href="$classllvm_1_1CFLSteensAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="557,666,696,693"/>
+<area shape="rect" id="node25" href="$classllvm_1_1BranchProbabilityAnalysis.html" title="Analysis pass which computes BranchProbabilityInfo." alt="" coords="524,731,729,758"/>
+<area shape="rect" id="node27" href="$classllvm_1_1BasicAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="574,797,679,823"/>
+<area shape="rect" id="node29" href="$classllvm_1_1ASanGlobalsMetadataAnalysis.html" title="The ASanGlobalsMetadataAnalysis initializes and returns a GlobalsMetadata object." alt="" coords="535,855,719,896"/>
+<area shape="rect" id="node31" href="$classllvm_1_1AMDGPUAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="562,927,691,954"/>
+<area shape="rect" id="node33" href="$classllvm_1_1PostDominatorTreeAnalysis.html" title="Analysis pass which computes a PostDominatorTree." alt="" coords="519,993,734,1019"/>
+<area shape="rect" id="node35" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title="An analysis over an &quot;inner&quot; IR unit that provides access to an analysis manager over a &quot;outer&quot; IR uni..." alt="" coords="534,1058,719,1114"/>
+<area shape="rect" id="node37" href="$classllvm_1_1LazyValueAnalysis.html" title="Analysis to compute lazy value information." alt="" coords="545,1153,709,1179"/>
+<area shape="rect" id="node39" href="$classllvm_1_1AAManager.html" title="A manager for alias analyses." alt="" coords="565,1218,688,1245"/>
+<area shape="rect" id="node41" href="$classllvm_1_1DemandedBitsAnalysis.html" title="An analysis that produces DemandedBits for a function." alt="" coords="532,1283,721,1310"/>
+<area shape="rect" id="node43" href="$classllvm_1_1PassInstrumentationAnalysis.html" title="Pseudo&#45;analysis pass that exposes the PassInstrumentation to pass managers." alt="" coords="539,1341,714,1383"/>
+<area shape="rect" id="node45" href="$classllvm_1_1OptimizationRemarkEmitterAnalysis.html" title=" " alt="" coords="540,1407,713,1448"/>
+<area shape="rect" id="node47" href="$classllvm_1_1BlockFrequencyAnalysis.html" title="Analysis pass which computes BlockFrequencyInfo." alt="" coords="528,1479,725,1506"/>
+<area shape="rect" id="node49" href="$classllvm_1_1AssumptionAnalysis.html" title="A function analysis which provides an AssumptionCache." alt="" coords="541,1545,713,1571"/>
+<area shape="rect" id="node51" href="$classllvm_1_1FunctionAnalysisManagerCGSCCProxy.html" title="A proxy from a FunctionAnalysisManager to an SCC." alt="" coords="525,1603,728,1644"/>
+<area shape="rect" id="node53" href="$classllvm_1_1LoopAccessAnalysis.html" title="This analysis provides dependence information for the memory accesses of a loop." alt="" coords="539,1675,714,1702"/>
+<area shape="rect" id="node55" href="$classllvm_1_1DDGAnalysis.html" title="Analysis pass that builds the DDG for a loop." alt="" coords="560,1741,693,1767"/>
+<area shape="rect" id="node57" href="$classllvm_1_1TargetIRAnalysis.html" title="Analysis pass providing the TargetTransformInfo." alt="" coords="550,1806,703,1833"/>
+<area shape="rect" id="node59" href="$classllvm_1_1StackSafetyGlobalAnalysis.html" title="This pass performs the global (interprocedural) stack safety analysis (new pass manager)." alt="" coords="521,1871,733,1898"/>
+<area shape="rect" id="node61" href="$classllvm_1_1MachineModuleAnalysis.html" title="An analysis that produces MachineInfo for a module." alt="" coords="529,1937,724,1963"/>
+<area shape="rect" id="node63" href="$classllvm_1_1LazyCallGraphAnalysis.html" title="An analysis pass which computes the call graph for a module." alt="" coords="532,2002,721,2029"/>
+<area shape="rect" id="node65" href="$classllvm_1_1IVUsersAnalysis.html" title="Analysis pass that exposes the IVUsers for a loop." alt="" coords="551,2067,702,2094"/>
+<area shape="rect" id="node67" href="$classllvm_1_1DominatorTreeAnalysis.html" title="Analysis pass which computes a DominatorTree." alt="" coords="533,2133,721,2159"/>
+<area shape="rect" id="node69" href="$classllvm_1_1CallGraphAnalysis.html" title="An analysis pass to compute the CallGraph for a Module." alt="" coords="547,2198,707,2225"/>
+<area shape="rect" id="node71" href="$classllvm_1_1CFLAndersAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="557,2263,697,2290"/>
+<area shape="rect" id="node73" href="$classllvm_1_1MemorySSAAnalysis.html" title="An analysis that produces MemorySSA for a function." alt="" coords="537,2329,716,2355"/>
+<area shape="rect" id="node75" href="$classllvm_1_1DominanceFrontierAnalysis.html" title="Analysis pass which computes a DominanceFrontier." alt="" coords="520,2394,733,2421"/>
+<area shape="rect" id="node77" href="$classllvm_1_1TargetLibraryAnalysis.html" title="Analysis pass providing the TargetLibraryInfo." alt="" coords="537,2459,716,2486"/>
+<area shape="rect" id="node79" href="$classllvm_1_1SCEVAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="573,2525,681,2551"/>
+<area shape="rect" id="node81" href="$classllvm_1_1ScopedNoAliasAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="545,2590,708,2617"/>
+<area shape="rect" id="node83" href="$classllvm_1_1PhiValuesAnalysis.html" title="The analysis pass which yields a PhiValues." alt="" coords="546,2655,707,2682"/>
+<area shape="rect" id="node85" href="$classllvm_1_1IRSimilarityAnalysis.html" title="An analysis pass that runs and returns the IRSimilarityIdentifier run on the Module." alt="" coords="541,2721,712,2747"/>
+<area shape="rect" id="node87" href="$classllvm_1_1FunctionPropertiesAnalysis.html" title=" " alt="" coords="545,2779,709,2820"/>
+<area shape="rect" id="node89" href="$classllvm_1_1ProfileSummaryAnalysis.html" title="An analysis pass based on the new PM to deliver ProfileSummaryInfo." alt="" coords="528,2851,725,2878"/>
+<area shape="rect" id="node91" href="$classllvm_1_1InlineSizeEstimatorAnalysis.html" title=" " alt="" coords="543,2909,710,2951"/>
+<area shape="rect" id="node93" href="$classllvm_1_1objcarc_1_1ObjCARCAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="537,2982,716,3009"/>
+<area shape="rect" id="node95" href="$classllvm_1_1TypeBasedAA.html" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="558,3047,695,3074"/>
+<area shape="rect" id="node97" href="$classllvm_1_1StackSafetyAnalysis.html" title="StackSafetyInfo wrapper for the new pass manager." alt="" coords="539,3113,714,3139"/>
+<area shape="rect" id="node99" href="$classllvm_1_1InnerAnalysisManagerProxy.html" title="An analysis over an &quot;outer&quot; IR unit that provides access to an analysis manager over an &quot;inner&quot; IR un..." alt="" coords="535,3171,718,3227"/>
+<area shape="rect" id="node103" href="$classllvm_1_1MachineFunctionPassManager.html" title="MachineFunctionPassManager adds/removes below features to/from the base PassManager template instanti..." alt="" coords="535,3391,718,3432"/>
+</map>

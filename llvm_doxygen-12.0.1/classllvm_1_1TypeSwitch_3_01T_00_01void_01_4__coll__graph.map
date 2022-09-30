@@ -1,0 +1,6 @@
+<map id="llvm::TypeSwitch&lt; T, void &gt;" name="llvm::TypeSwitch&lt; T, void &gt;">
+<area shape="rect" id="node1" title="Specialization of TypeSwitch for void returning callables." alt="" coords="24,319,169,360"/>
+<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1TypeSwitchBase.html" title=" " alt="" coords="5,213,188,269"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1TypeSwitchBase.html" title=" " alt="" coords="16,95,177,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="77,5,116,32"/>
+</map>

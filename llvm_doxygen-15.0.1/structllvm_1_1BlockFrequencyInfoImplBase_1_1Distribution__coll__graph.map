@@ -1,0 +1,13 @@
+<map id="llvm::BlockFrequencyInfoImplBase::Distribution" name="llvm::BlockFrequencyInfoImplBase::Distribution">
+<area shape="rect" id="node1" title="Distribution of unscaled probability weight." alt="" coords="1539,64,1725,105"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="1294,13,1369,39"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1257,64,1405,105"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="947,64,1113,105"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="597,77,801,103"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="956,129,1104,171"/>
+<area shape="rect" id="node6" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="605,5,792,47"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,85,56,111"/>
+<area shape="rect" id="node8" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="169,77,356,119"/>
+<area shape="rect" id="node10" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="579,134,819,190"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1306,130,1357,157"/>
+</map>

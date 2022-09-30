@@ -1,0 +1,5 @@
+<map id="llvm::ilist_alloc_traits&lt; IndexListEntry &gt;" name="llvm::ilist_alloc_traits&lt; IndexListEntry &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="17,200,161,241"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ilist__noalloc__traits.html" title=" " alt="" coords="5,109,172,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ilist__noalloc__traits.html" title="Custom traits to do nothing on deletion." alt="" coords="25,5,152,47"/>
+</map>

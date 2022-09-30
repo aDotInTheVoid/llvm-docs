@@ -1,0 +1,4 @@
+<map id="llvm::orc::OrcRPCEPCJITLinkMemoryManager&lt; OrcRPCEPCImplT &gt;" name="llvm::orc::OrcRPCEPCJITLinkMemoryManager&lt; OrcRPCEPCImplT &gt;">
+<area shape="rect" id="node1" title="JITLinkMemoryManager implementation for a process connected via an ORC RPC endpoint." alt="" coords="5,95,279,136"/>
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1JITLinkMemoryManager.html" title="Manages allocations of JIT memory." alt="" coords="41,5,243,47"/>
+</map>

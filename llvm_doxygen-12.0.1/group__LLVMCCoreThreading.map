@@ -1,0 +1,4 @@
+<map id="Threading" name="Threading">
+<area shape="rect" id="node1" href="$group__LLVMC.html" title="This module exposes parts of the LLVM library as a C API." alt="" coords="5,5,148,45"/>
+<area shape="rect" id="node2" title="Handle the structures needed to make LLVM safe for multithreading." alt="" coords="196,13,275,38"/>
+</map>

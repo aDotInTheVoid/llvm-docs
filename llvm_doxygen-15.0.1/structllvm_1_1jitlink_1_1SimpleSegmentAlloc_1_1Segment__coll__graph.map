@@ -1,0 +1,5 @@
+<map id="llvm::jitlink::SimpleSegmentAlloc::Segment" name="llvm::jitlink::SimpleSegmentAlloc::Segment">
+<area shape="rect" id="node1" title="Describes a segment to be allocated." alt="" coords="5,95,212,136"/>
+<area shape="rect" id="node2" href="$classsize__t.html" title=" " alt="" coords="23,5,83,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment." alt="" coords="120,5,212,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::LinearPolySize&lt; LeafTy &gt;" name="llvm::LinearPolySize&lt; LeafTy &gt;">
+<area shape="rect" id="node1" title="LinearPolySize is a base class to represent sizes." alt="" coords="95,96,249,137"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="5,200,160,241"/>
+<area shape="rect" id="node5" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="184,200,339,241"/>
+<area shape="rect" id="node2" href="$classllvm_1_1UnivariateLinearPolyBase.html" title="UnivariateLinearPolyBase is a base class for ElementCount and TypeSize." alt="" coords="75,5,269,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ElementCount.html" title=" " alt="" coords="7,291,158,317"/>
+<area shape="rect" id="node6" href="$classllvm_1_1TypeSize.html" title=" " alt="" coords="203,291,319,317"/>
+</map>

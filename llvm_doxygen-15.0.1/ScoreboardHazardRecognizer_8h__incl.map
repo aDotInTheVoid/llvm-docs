@@ -1,0 +1,16 @@
+<map id="include/llvm/CodeGen/ScoreboardHazardRecognizer.h" name="include/llvm/CodeGen/ScoreboardHazardRecognizer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="409,5,637,47"/>
+<area shape="rect" id="node2" href="$ScheduleHazardRecognizer_8h.html" title=" " alt="" coords="31,95,253,136"/>
+<area shape="rect" id="node3" href="$MCInstrItineraries_8h.html" title=" " alt="" coords="278,102,486,129"/>
+<area shape="rect" id="node11" title=" " alt="" coords="469,259,538,285"/>
+<area shape="rect" id="node13" title=" " alt="" coords="561,102,632,129"/>
+<area shape="rect" id="node14" title=" " alt="" coords="657,102,723,129"/>
+<area shape="rect" id="node4" href="$MCSchedule_8h.html" title=" " alt="" coords="204,184,376,211"/>
+<area shape="rect" id="node12" title=" " alt="" coords="401,184,486,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,259,191,285"/>
+<area shape="rect" id="node6" href="$Support_2DataTypes_8h.html" title=" " alt="" coords="215,259,405,285"/>
+<area shape="rect" id="node7" href="$c_2DataTypes_8h.html" title=" " alt="" coords="237,333,383,360"/>
+<area shape="rect" id="node8" title=" " alt="" coords="164,408,251,435"/>
+<area shape="rect" id="node9" title=" " alt="" coords="275,408,345,435"/>
+<area shape="rect" id="node10" title=" " alt="" coords="370,408,466,435"/>
+</map>

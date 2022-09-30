@@ -1,0 +1,5 @@
+<map id="llvm::CGSCCToFunctionPassAdaptor" name="llvm::CGSCCToFunctionPassAdaptor">
+<area shape="rect" id="node1" title="Adaptor that maps from a SCC to its functions." alt="" coords="23,200,218,241"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,109,236,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="52,5,189,47"/>
+</map>

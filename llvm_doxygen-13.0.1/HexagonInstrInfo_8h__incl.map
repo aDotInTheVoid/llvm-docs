@@ -1,0 +1,52 @@
+<map id="lib/Target/Hexagon/HexagonInstrInfo.h" name="lib/Target/Hexagon/HexagonInstrInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="916,5,1067,47"/>
+<area shape="rect" id="node2" href="$HexagonBaseInfo_8h.html" title=" " alt="" coords="217,95,427,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="989,616,1055,643"/>
+<area shape="rect" id="node7" title=" " alt="" coords="295,273,477,300"/>
+<area shape="rect" id="node8" href="$ArrayRef_8h.html" title=" " alt="" coords="3771,445,3926,471"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title=" " alt="" coords="3391,534,3565,561"/>
+<area shape="rect" id="node32" title=" " alt="" coords="4687,534,4749,561"/>
+<area shape="rect" id="node33" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1785,348,1993,389"/>
+<area shape="rect" id="node43" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="2219,95,2406,136"/>
+<area shape="rect" id="node49" href="$ValueTypes_8h.html" title=" " alt="" coords="317,445,519,471"/>
+<area shape="rect" id="node50" href="$MachineValueType_8h.html" title=" " alt="" coords="481,527,681,568"/>
+<area shape="rect" id="node3" href="$HexagonDepITypes_8h.html" title=" " alt="" coords="268,191,427,218"/>
+<area shape="rect" id="node4" href="$HexagonMCTargetDesc_8h.html" title=" " alt="" coords="5,184,244,225"/>
+<area shape="rect" id="node6" title=" " alt="" coords="211,765,270,792"/>
+<area shape="rect" id="node9" href="$Hashing_8h.html" title=" " alt="" coords="2449,616,2600,643"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title=" " alt="" coords="1973,765,2151,792"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4377,765,4469,792"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3155,691,3241,717"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1366,691,1435,717"/>
+<area shape="rect" id="node18" href="$None_8h.html" title=" " alt="" coords="3649,534,3781,561"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2151,616,2221,643"/>
+<area shape="rect" id="node25" title=" " alt="" coords="4132,616,4243,643"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1751,616,1821,643"/>
+<area shape="rect" id="node28" title=" " alt="" coords="4419,616,4497,643"/>
+<area shape="rect" id="node30" href="$STLExtras_8h.html" title=" " alt="" coords="3806,534,3969,561"/>
+<area shape="rect" id="node31" title=" " alt="" coords="4403,534,4459,561"/>
+<area shape="rect" id="node10" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="1459,691,1670,717"/>
+<area shape="rect" id="node12" href="$type__traits_8h.html" title=" " alt="" coords="3316,691,3507,717"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3448,765,3508,792"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2770,691,2837,717"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2727,616,2917,643"/>
+<area shape="rect" id="node21" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="2993,616,3179,643"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3583,691,3648,717"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3684,616,3771,643"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3795,616,3854,643"/>
+<area shape="rect" id="node29" title=" " alt="" coords="3255,616,3304,643"/>
+<area shape="rect" id="node34" href="$GraphTraits_8h.html" title=" " alt="" coords="2871,445,3043,471"/>
+<area shape="rect" id="node35" href="$ilist_8h.html" title=" " alt="" coords="1790,534,1913,561"/>
+<area shape="rect" id="node36" href="$SparseBitVector_8h.html" title=" " alt="" coords="1414,534,1614,561"/>
+<area shape="rect" id="node37" href="$MachineInstr_8h.html" title=" " alt="" coords="2118,445,2331,471"/>
+<area shape="rect" id="node39" href="$DebugLoc_8h.html" title=" " alt="" coords="1937,534,2085,561"/>
+<area shape="rect" id="node40" href="$MachineInstrBundleIterator_8h.html" title=" " alt="" coords="1739,437,1942,479"/>
+<area shape="rect" id="node41" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="1695,691,1872,717"/>
+<area shape="rect" id="node42" href="$BranchProbability_8h.html" title=" " alt="" coords="1329,445,1563,471"/>
+<area shape="rect" id="node38" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2363,534,2555,561"/>
+<area shape="rect" id="node44" href="$DenseMap_8h.html" title=" " alt="" coords="3067,445,3233,471"/>
+<area shape="rect" id="node45" href="$MIRFormatter_8h.html" title=" " alt="" coords="857,355,1075,382"/>
+<area shape="rect" id="node46" href="$MachineCombinerPattern_8h.html" title=" " alt="" coords="3700,184,3936,225"/>
+<area shape="rect" id="node47" href="$MachineFunction_8h.html" title=" " alt="" coords="2731,273,2971,300"/>
+<area shape="rect" id="node48" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="1970,184,2173,225"/>
+</map>

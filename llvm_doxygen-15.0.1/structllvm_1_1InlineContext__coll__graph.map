@@ -1,0 +1,5 @@
+<map id="llvm::InlineContext" name="llvm::InlineContext">
+<area shape="rect" id="node1" title="Provides context on when an inline advisor is constructed in the pipeline (e.g., link phase,..." alt="" coords="78,95,225,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="180,5,267,32"/>
+</map>

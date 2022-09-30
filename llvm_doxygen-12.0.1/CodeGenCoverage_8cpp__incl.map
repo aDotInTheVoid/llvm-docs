@@ -1,0 +1,52 @@
+<map id="lib/Support/CodeGenCoverage.cpp" name="lib/Support/CodeGenCoverage.cpp">
+<area shape="rect" id="node1" title="This file implements the CodeGenCoverage class." alt="" coords="2986,5,3210,32"/>
+<area shape="rect" id="node2" href="$CodeGenCoverage_8h.html" title=" " alt="" coords="3656,80,3877,107"/>
+<area shape="rect" id="node23" href="$Endian_8h.html" title=" " alt="" coords="1031,386,1182,413"/>
+<area shape="rect" id="node25" href="$FileSystem_8h.html" title=" " alt="" coords="1289,229,1465,256"/>
+<area shape="rect" id="node38" href="$MemoryBuffer_8h.html" title=" " alt="" coords="1942,304,2135,331"/>
+<area shape="rect" id="node42" href="$Mutex_8h.html" title=" " alt="" coords="4458,80,4605,107"/>
+<area shape="rect" id="node45" href="$Process_8h.html" title="Provides a library for accessing information about this process and other processes on the operating ..." alt="" coords="3266,80,3424,107"/>
+<area shape="rect" id="node49" href="$ScopedPrinter_8h.html" title=" " alt="" coords="2887,304,3080,331"/>
+<area shape="rect" id="node50" href="$ToolOutputFile_8h.html" title=" " alt="" coords="4196,304,4390,331"/>
+<area shape="rect" id="node3" href="$BitVector_8h.html" title=" " alt="" coords="3968,229,4112,256"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title=" " alt="" coords="2950,386,3092,413"/>
+<area shape="rect" id="node6" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3022,550,3193,577"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title=" " alt="" coords="2465,550,2644,577"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3644,632,3718,659"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3473,632,3540,659"/>
+<area shape="rect" id="node14" title=" " alt="" coords="673,632,734,659"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2713,632,2774,659"/>
+<area shape="rect" id="node20" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2686,304,2862,331"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title=" " alt="" coords="2734,468,2895,495"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="2242,632,2405,659"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2133,632,2216,659"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1818,550,1883,577"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3471,550,3542,577"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3275,468,3332,495"/>
+<area shape="rect" id="node9" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="1551,550,1742,577"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3420,707,3587,733"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1426,632,1480,659"/>
+<area shape="rect" id="node21" href="$APSInt_8h.html" title=" " alt="" coords="3319,386,3451,413"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title=" " alt="" coords="1905,468,2049,495"/>
+<area shape="rect" id="node24" href="$SwapByteOrder_8h.html" title=" " alt="" coords="1020,468,1222,495"/>
+<area shape="rect" id="node26" href="$SmallString_8h.html" title=" " alt="" coords="1842,386,2000,413"/>
+<area shape="rect" id="node27" href="$Twine_8h.html" title=" " alt="" coords="1489,386,1614,413"/>
+<area shape="rect" id="node28" href="$Chrono_8h.html" title=" " alt="" coords="1159,304,1312,331"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1308,386,1363,413"/>
+<area shape="rect" id="node30" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="2486,304,2625,331"/>
+<area shape="rect" id="node31" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer." alt="" coords="3628,386,3782,413"/>
+<area shape="rect" id="node32" title=" " alt="" coords="3764,468,3860,495"/>
+<area shape="rect" id="node35" href="$UniqueID_8h.html" title=" " alt="" coords="92,543,257,584"/>
+<area shape="rect" id="node36" href="$MD5_8h.html" title=" " alt="" coords="996,304,1134,331"/>
+<area shape="rect" id="node37" title=" " alt="" coords="408,304,463,331"/>
+<area shape="rect" id="node33" href="$raw__ostream_8h.html" title=" " alt="" coords="2638,386,2825,413"/>
+<area shape="rect" id="node34" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="3458,468,3632,495"/>
+<area shape="rect" id="node39" href="$Types_8h.html" title=" " alt="" coords="585,468,692,495"/>
+<area shape="rect" id="node40" href="$CBindingWrapping_8h.html" title=" " alt="" coords="636,386,854,413"/>
+<area shape="rect" id="node41" href="$MemoryBufferRef_8h.html" title=" " alt="" coords="2076,379,2259,420"/>
+<area shape="rect" id="node43" href="$Threading_8h.html" title=" " alt="" coords="4349,155,4517,181"/>
+<area shape="rect" id="node44" title=" " alt="" coords="4585,229,4644,256"/>
+<area shape="rect" id="node46" href="$Optional_8h.html" title=" " alt="" coords="4252,468,4390,495"/>
+<area shape="rect" id="node47" href="$AllocatorBase_8h.html" title="This file defines MallocAllocator." alt="" coords="2201,155,2393,181"/>
+<area shape="rect" id="node48" href="$Program_8h.html" title=" " alt="" coords="3708,155,3868,181"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="llvm::LegacyInlinerBase" name="llvm::LegacyInlinerBase">
+<area shape="rect" id="node1" title="This class contains all of the helper code which is used to perform the inlining operations that do n..." alt="" coords="1092,115,1253,142"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CallGraphSCCPass.html" title=" " alt="" coords="289,6,459,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="5,31,89,58"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ModulePass.html" title="ModulePass class &#45; This class is used to implement unstructured interprocedural optimizations and ana..." alt="" coords="139,56,265,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ImportedFunctionsInliningStatistics.html" title="Calculate and dump ThinLTO specific inliner stats." alt="" coords="695,108,899,149"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ProfileSummaryInfo.html" title="Analysis providing profile information." alt="" coords="711,174,882,200"/>
+<area shape="rect" id="node6" title=" " alt="" coords="726,224,867,280"/>
+<area shape="rect" id="node7" href="$classllvm_1_1AssumptionCacheTracker.html" title="An immutable pass that tracks lazily created AssumptionCache objects." alt="" coords="695,56,898,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ImmutablePass.html" title="ImmutablePass class &#45; This class is used to provide information that does not need to be run." alt="" coords="483,56,628,83"/>
+<area shape="rect" id="node10" title=" " alt="" coords="532,107,579,134"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Target/NVPTX/NVPTXSubtarget.cpp" name="lib/Target/NVPTX/NVPTXSubtarget.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="4493,5,4747,32"/>
+<area shape="rect" id="node2" href="$NVPTXSubtarget_8h.html" title=" " alt="" coords="4553,155,4687,181"/>
+<area shape="rect" id="node48" title=" " alt="" coords="5650,229,5841,256"/>
+<area shape="rect" id="node49" href="$NVPTXTargetMachine_8h.html" title=" " alt="" coords="4291,80,4453,107"/>
+<area shape="rect" id="node3" href="$NVPTX_8h.html" title=" " alt="" coords="4967,699,5046,726"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4441,1095,4495,1121"/>
+<area shape="rect" id="node18" href="$NVPTXFrameLowering_8h.html" title=" " alt="" coords="2119,617,2286,644"/>
+<area shape="rect" id="node24" href="$NVPTXISelLowering_8h.html" title=" " alt="" coords="4279,229,4431,256"/>
+<area shape="rect" id="node33" href="$DataLayout_8h.html" title=" " alt="" coords="1049,543,1191,569"/>
+<area shape="rect" id="node35" href="$NVPTXInstrInfo_8h.html" title=" " alt="" coords="4810,617,4937,644"/>
+<area shape="rect" id="node36" href="$NVPTXRegisterInfo_8h.html" title=" " alt="" coords="4663,699,4811,726"/>
+<area shape="rect" id="node41" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="2943,379,3169,420"/>
+<area shape="rect" id="node42" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="2666,692,2867,733"/>
+<area shape="rect" id="node4" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="2994,789,3153,815"/>
+<area shape="rect" id="node13" href="$Pass_8h.html" title=" " alt="" coords="5172,871,5263,897"/>
+<area shape="rect" id="node15" href="$CodeGen_8h.html" title=" " alt="" coords="4213,871,4379,897"/>
+<area shape="rect" id="node16" title=" " alt="" coords="4701,789,4883,815"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4908,789,5068,815"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title=" " alt="" coords="1839,945,1993,972"/>
+<area shape="rect" id="node8" title=" " alt="" coords="673,1095,740,1121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1766,1020,1837,1047"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2739,1020,2792,1047"/>
+<area shape="rect" id="node12" href="$StringRef_8h.html" title=" " alt="" coords="2220,871,2364,897"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3605,945,3662,972"/>
+<area shape="rect" id="node6" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3837,1020,4027,1047"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1659,1095,1720,1121"/>
+<area shape="rect" id="node19" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="2131,692,2314,733"/>
+<area shape="rect" id="node20" href="$TypeSize_8h.html" title=" " alt="" coords="959,789,1123,815"/>
+<area shape="rect" id="node21" href="$ArrayRef_8h.html" title=" " alt="" coords="1599,871,1740,897"/>
+<area shape="rect" id="node23" href="$MathExtras_8h.html" title=" " alt="" coords="896,1020,1075,1047"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title=" " alt="" coords="1450,945,1611,972"/>
+<area shape="rect" id="node25" href="$SelectionDAG_8h.html" title=" " alt="" coords="1749,386,1950,413"/>
+<area shape="rect" id="node32" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code." alt="" coords="1887,304,2094,331"/>
+<area shape="rect" id="node26" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="820,945,943,972"/>
+<area shape="rect" id="node27" href="$MachineMemOperand_8h.html" title=" " alt="" coords="1655,543,1902,569"/>
+<area shape="rect" id="node30" href="$Casting_8h.html" title=" " alt="" coords="425,789,580,815"/>
+<area shape="rect" id="node31" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="1817,468,2055,495"/>
+<area shape="rect" id="node28" href="$DerivedTypes_8h.html" title=" " alt="" coords="1158,617,1317,644"/>
+<area shape="rect" id="node29" href="$Type_8h.html" title=" " alt="" coords="815,699,921,726"/>
+<area shape="rect" id="node34" href="$Alignment_8h.html" title=" " alt="" coords="628,945,796,972"/>
+<area shape="rect" id="node40" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="3177,781,3348,823"/>
+<area shape="rect" id="node37" href="$ManagedStringPool_8h.html" title=" " alt="" coords="4505,871,4652,897"/>
+<area shape="rect" id="node38" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="1959,781,2153,823"/>
+<area shape="rect" id="node39" title=" " alt="" coords="4607,789,4676,815"/>
+<area shape="rect" id="node43" href="$PBQPRAConstraint_8h.html" title=" " alt="" coords="2642,871,2875,897"/>
+<area shape="rect" id="node44" href="$ScheduleDAGMutation_8h.html" title=" " alt="" coords="3775,789,4025,815"/>
+<area shape="rect" id="node45" href="$SchedulerRegistry_8h.html" title=" " alt="" coords="3524,789,3751,815"/>
+<area shape="rect" id="node46" href="$MCSubtargetInfo_8h.html" title=" " alt="" coords="2583,789,2767,815"/>
+<area shape="rect" id="node47" href="$Triple_8h.html" title=" " alt="" coords="3407,871,3529,897"/>
+<area shape="rect" id="node50" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="4143,468,4329,495"/>
+</map>

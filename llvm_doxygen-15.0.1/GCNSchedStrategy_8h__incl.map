@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/GCNSchedStrategy.h" name="lib/Target/AMDGPU/GCNSchedStrategy.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1152,5,1369,47"/>
+<area shape="rect" id="node2" href="$GCNRegPressure_8h.html" title=" " alt="" coords="924,95,1068,121"/>
+<area shape="rect" id="node42" href="$MapVector_8h.html" title=" " alt="" coords="2194,341,2361,367"/>
+<area shape="rect" id="node43" href="$MachineScheduler_8h.html" title=" " alt="" coords="4259,95,4507,121"/>
+<area shape="rect" id="node3" href="$GCNSubtarget_8h.html" title=" " alt="" coords="692,177,818,203"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1370,587,1455,613"/>
+<area shape="rect" id="node21" href="$LiveIntervals_8h.html" title=" " alt="" coords="3185,177,3400,203"/>
+<area shape="rect" id="node4" href="$AMDGPUCallLowering_8h.html" title=" " alt="" coords="388,259,565,285"/>
+<area shape="rect" id="node5" href="$AMDGPUSubtarget_8h.html" title=" " alt="" coords="589,259,745,285"/>
+<area shape="rect" id="node6" href="$SIFrameLowering_8h.html" title=" " alt="" coords="770,259,916,285"/>
+<area shape="rect" id="node7" href="$SIISelLowering_8h.html" title=" " alt="" coords="941,259,1070,285"/>
+<area shape="rect" id="node8" href="$SIInstrInfo_8h.html" title=" " alt="" coords="2488,259,2588,285"/>
+<area shape="rect" id="node19" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="876,333,1122,375"/>
+<area shape="rect" id="node20" title=" " alt="" coords="144,259,363,285"/>
+<area shape="rect" id="node9" href="$TargetSchedule_8h.html" title=" " alt="" coords="2487,341,2716,367"/>
+<area shape="rect" id="node10" href="$SmallVector_8h.html" title=" " alt="" coords="2453,512,2628,539"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title=" " alt="" coords="3811,661,3990,688"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4284,587,4354,613"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3512,587,3582,613"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2657,587,2728,613"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2779,587,2856,613"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2225,587,2317,613"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1686,587,1746,613"/>
+<area shape="rect" id="node22" href="$ArrayRef_8h.html" title=" " alt="" coords="3450,430,3604,457"/>
+<area shape="rect" id="node24" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="5191,587,5402,613"/>
+<area shape="rect" id="node25" title=" " alt="" coords="4880,587,4947,613"/>
+<area shape="rect" id="node27" href="$IndexedMap_8h.html" title=" " alt="" coords="3197,430,3374,457"/>
+<area shape="rect" id="node28" href="$LiveInterval_8h.html" title=" " alt="" coords="2904,259,3110,285"/>
+<area shape="rect" id="node29" href="$SlotIndexes_8h.html" title=" " alt="" coords="1964,341,2170,367"/>
+<area shape="rect" id="node34" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="4975,423,5183,464"/>
+<area shape="rect" id="node35" href="$LaneBitmask_8h.html" title=" " alt="" coords="5585,512,5762,539"/>
+<area shape="rect" id="node37" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="1298,423,1526,464"/>
+<area shape="rect" id="node38" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="4830,333,5042,375"/>
+<area shape="rect" id="node40" href="$CommandLine_8h.html" title=" " alt="" coords="4056,259,4270,285"/>
+<area shape="rect" id="node23" href="$STLExtras_8h.html" title=" " alt="" coords="3007,512,3170,539"/>
+<area shape="rect" id="node26" title=" " alt="" coords="4917,512,4980,539"/>
+<area shape="rect" id="node30" href="$DenseMap_8h.html" title=" " alt="" coords="1984,430,2150,457"/>
+<area shape="rect" id="node31" href="$DenseMapInfo_8h.html" title=" " alt="" coords="3700,512,3892,539"/>
+<area shape="rect" id="node32" href="$EpochTracker_8h.html" title=" " alt="" coords="4018,512,4201,539"/>
+<area shape="rect" id="node33" href="$AlignOf_8h.html" title=" " alt="" coords="1855,512,2023,539"/>
+<area shape="rect" id="node36" title=" " alt="" coords="4783,512,4842,539"/>
+<area shape="rect" id="node39" href="$StringRef_8h.html" title=" " alt="" coords="3932,430,4090,457"/>
+<area shape="rect" id="node41" href="$Twine_8h.html" title=" " alt="" coords="4368,341,4502,367"/>
+<area shape="rect" id="node44" href="$APInt_8h.html" title=" " alt="" coords="5940,512,6072,539"/>
+<area shape="rect" id="node45" href="$BitVector_8h.html" title=" " alt="" coords="3578,341,3734,367"/>
+<area shape="rect" id="node46" href="$MachinePassRegistry_8h.html" title=" " alt="" coords="4212,169,4415,211"/>
+<area shape="rect" id="node47" href="$RegisterPressure_8h.html" title=" " alt="" coords="4903,259,5143,285"/>
+<area shape="rect" id="node48" href="$ScheduleDAG_8h.html" title=" " alt="" coords="4315,259,4534,285"/>
+<area shape="rect" id="node49" href="$ScheduleDAGInstrs_8h.html" title=" " alt="" coords="4738,177,4993,203"/>
+<area shape="rect" id="node50" href="$ScheduleDAGMutation_8h.html" title=" " alt="" coords="3912,177,4188,203"/>
+</map>

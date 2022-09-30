@@ -1,0 +1,19 @@
+<map id="include/llvm/TextAPI/ArchitectureSet.h" name="include/llvm/TextAPI/ArchitectureSet.h">
+<area shape="rect" id="node1" title=" " alt="" coords="423,5,578,47"/>
+<area shape="rect" id="node2" href="$InterfaceFile_8h.html" title=" " alt="" coords="366,273,521,315"/>
+<area shape="rect" id="node9" href="$TextStub_8cpp.html" title=" " alt="" coords="265,459,443,486"/>
+<area shape="rect" id="node10" href="$TextStubCommon_8h.html" title=" " alt="" coords="70,370,291,397"/>
+<area shape="rect" id="node12" href="$Symbol_8h.html" title=" " alt="" coords="661,184,815,225"/>
+<area shape="rect" id="node14" href="$llvm_2TextAPI_2Target_8h.html" title=" " alt="" coords="423,95,578,136"/>
+<area shape="rect" id="node16" href="$Architecture_8cpp.html" title=" " alt="" coords="653,102,853,129"/>
+<area shape="rect" id="node17" href="$ArchitectureSet_8cpp.html" title=" " alt="" coords="877,95,1050,136"/>
+<area shape="rect" id="node3" href="$TapiFile_8h.html" title=" " alt="" coords="695,363,843,404"/>
+<area shape="rect" id="node4" href="$TapiUniversal_8h.html" title=" " alt="" coords="532,452,680,493"/>
+<area shape="rect" id="node8" href="$InterfaceFile_8cpp.html" title=" " alt="" coords="467,370,670,397"/>
+<area shape="rect" id="node7" href="$TapiFile_8cpp.html" title=" " alt="" coords="743,459,907,486"/>
+<area shape="rect" id="node5" href="$Binary_8cpp.html" title=" " alt="" coords="427,541,582,568"/>
+<area shape="rect" id="node6" href="$TapiUniversal_8cpp.html" title=" " alt="" coords="606,541,809,568"/>
+<area shape="rect" id="node11" href="$TextStubCommon_8cpp.html" title=" " alt="" coords="5,459,241,486"/>
+<area shape="rect" id="node13" href="$Symbol_8cpp.html" title=" " alt="" coords="653,281,823,307"/>
+<area shape="rect" id="node15" href="$TextAPI_2Target_8cpp.html" title=" " alt="" coords="475,191,636,218"/>
+</map>

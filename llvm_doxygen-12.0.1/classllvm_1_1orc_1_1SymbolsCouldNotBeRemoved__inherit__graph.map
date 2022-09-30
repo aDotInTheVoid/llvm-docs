@@ -1,0 +1,6 @@
+<map id="llvm::orc::SymbolsCouldNotBeRemoved" name="llvm::orc::SymbolsCouldNotBeRemoved">
+<area shape="rect" id="node1" title="Used to notify clients that a set of symbols could not be removed." alt="" coords="5,276,192,317"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="15,185,182,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="26,5,161,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="115,81,274,123"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::COFF::Auxiliary" name="llvm::COFF::Auxiliary">
+<area shape="rect" id="node1" title=" " alt="" coords="617,277,767,304"/>
+<area shape="rect" id="node2" href="$structllvm_1_1COFF_1_1AuxiliaryWeakExternal.html" title=" " alt="" coords="269,119,452,161"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="5,272,73,299"/>
+<area shape="rect" id="node5" href="$structllvm_1_1COFF_1_1AuxiliarybfAndefSymbol.html" title=" " alt="" coords="263,219,458,261"/>
+<area shape="rect" id="node7" href="$structllvm_1_1COFF_1_1AuxiliaryFunctionDefinition.html" title=" " alt="" coords="261,419,460,461"/>
+<area shape="rect" id="node9" href="$structllvm_1_1COFF_1_1AuxiliarySectionDefinition.html" title=" " alt="" coords="264,330,457,371"/>
+<area shape="rect" id="node4" title=" " alt="" coords="9,67,70,93"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,432,73,459"/>
+<area shape="rect" id="node8" title=" " alt="" coords="16,555,63,581"/>
+</map>

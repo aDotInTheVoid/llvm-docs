@@ -1,0 +1,6 @@
+<map id="llvm::coverage::RawCoverageMappingReader" name="llvm::coverage::RawCoverageMappingReader">
+<area shape="rect" id="node1" title="Reader for the raw coverage mapping data." alt="" coords="5,275,223,316"/>
+<area shape="rect" id="node2" href="$classllvm_1_1coverage_1_1RawCoverageReader.html" title="Base class for the raw coverage mapping and filenames data readers." alt="" coords="5,184,223,225"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="55,95,173,121"/>
+<area shape="rect" id="node4" href="$classsize__t.html" title=" " alt="" coords="84,5,144,32"/>
+</map>

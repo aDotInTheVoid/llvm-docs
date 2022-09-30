@@ -1,0 +1,52 @@
+<map id="include/llvm/Support/ManagedStatic.h" name="include/llvm/Support/ManagedStatic.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3327,5,3483,47"/>
+<area shape="rect" id="node2" href="$OptBisect_8h.html" title="This file declares the interface for bisecting optimizations." alt="" coords="234,109,433,136"/>
+<area shape="rect" id="node4" href="$LLVMContextImpl_8cpp.html" title=" " alt="" coords="5,206,205,233"/>
+<area shape="rect" id="node5" href="$CommandLine_8h.html" title=" " alt="" coords="1697,102,1853,143"/>
+<area shape="rect" id="node6" href="$BitcodeReader_8cpp.html" title=" " alt="" coords="461,199,608,240"/>
+<area shape="rect" id="node7" href="$MetadataLoader_8cpp.html" title=" " alt="" coords="633,199,791,240"/>
+<area shape="rect" id="node8" href="$LegacyPassManager_8cpp.html" title=" " alt="" coords="815,206,1033,233"/>
+<area shape="rect" id="node9" href="$PassTimingInfo_8cpp.html" title=" " alt="" coords="1057,206,1242,233"/>
+<area shape="rect" id="node10" href="$Value_8cpp.html" title=" " alt="" coords="1267,206,1389,233"/>
+<area shape="rect" id="node11" href="$LTO_8cpp.html" title=" " alt="" coords="1414,206,1535,233"/>
+<area shape="rect" id="node12" href="$InstrProf_8cpp.html" title=" " alt="" coords="1559,206,1758,233"/>
+<area shape="rect" id="node13" href="$SampleProf_8cpp.html" title=" " alt="" coords="1783,206,2001,233"/>
+<area shape="rect" id="node14" href="$CommandLine_8cpp.html" title=" " alt="" coords="2026,206,2243,233"/>
+<area shape="rect" id="node15" href="$Debug_8cpp.html" title=" " alt="" coords="2268,206,2433,233"/>
+<area shape="rect" id="node16" href="$DebugCounter_8cpp.html" title=" " alt="" coords="2458,206,2673,233"/>
+<area shape="rect" id="node17" href="$Signals_8cpp.html" title=" " alt="" coords="2697,206,2868,233"/>
+<area shape="rect" id="node18" href="$Statistic_8cpp.html" title=" " alt="" coords="2892,206,3068,233"/>
+<area shape="rect" id="node19" href="$Timer_8cpp.html" title=" " alt="" coords="3092,206,3252,233"/>
+<area shape="rect" id="node20" href="$WithColor_8cpp.html" title=" " alt="" coords="3276,206,3463,233"/>
+<area shape="rect" id="node21" href="$PassManagerBuilder_8cpp.html" title=" " alt="" coords="3487,199,3671,240"/>
+<area shape="rect" id="node22" href="$SelectionDAG_8cpp.html" title=" " alt="" coords="2333,102,2528,143"/>
+<area shape="rect" id="node23" href="$CodeViewError_8cpp.html" title=" " alt="" coords="2552,102,2731,143"/>
+<area shape="rect" id="node24" href="$MSFError_8cpp.html" title=" " alt="" coords="2755,109,2986,136"/>
+<area shape="rect" id="node25" href="$DIAError_8cpp.html" title=" " alt="" coords="3010,102,3177,143"/>
+<area shape="rect" id="node26" href="$GenericError_8cpp.html" title=" " alt="" coords="3201,102,3396,143"/>
+<area shape="rect" id="node27" href="$RawError_8cpp.html" title=" " alt="" coords="3420,102,3607,143"/>
+<area shape="rect" id="node28" href="$GDBRegistrationListener_8cpp.html" title=" " alt="" coords="3631,102,3843,143"/>
+<area shape="rect" id="node29" href="$ExternalFunctions_8cpp.html" title=" " alt="" coords="3868,102,4111,143"/>
+<area shape="rect" id="node30" href="$JITLink_8cpp.html" title=" " alt="" coords="4135,102,4284,143"/>
+<area shape="rect" id="node31" href="$OrcError_8cpp.html" title=" " alt="" coords="4309,102,4489,143"/>
+<area shape="rect" id="node32" href="$JITLoaderGDB_8cpp.html" title=" " alt="" coords="4513,95,4719,151"/>
+<area shape="rect" id="node33" href="$PerfJITEventListener_8cpp.html" title=" " alt="" coords="4744,95,4939,151"/>
+<area shape="rect" id="node34" href="$RuntimeDyld_8cpp.html" title=" " alt="" coords="4963,102,5189,143"/>
+<area shape="rect" id="node35" href="$ConstantFold_8cpp.html" title=" " alt="" coords="5213,109,5384,136"/>
+<area shape="rect" id="node36" href="$Constants_8cpp.html" title=" " alt="" coords="5409,109,5559,136"/>
+<area shape="rect" id="node37" href="$IR_2Core_8cpp.html" title=" " alt="" coords="5583,109,5699,136"/>
+<area shape="rect" id="node38" href="$PassRegistry_8cpp.html" title=" " alt="" coords="5723,109,5890,136"/>
+<area shape="rect" id="node39" href="$Object_2Error_8cpp.html" title=" " alt="" coords="5914,109,6059,136"/>
+<area shape="rect" id="node40" href="$CoverageMapping_8cpp.html" title=" " alt="" coords="6083,102,6263,143"/>
+<area shape="rect" id="node41" href="$CrashRecoveryContext_8cpp.html" title=" " alt="" coords="6288,102,6483,143"/>
+<area shape="rect" id="node42" href="$DynamicLibrary_8cpp.html" title=" " alt="" coords="6507,109,6731,136"/>
+<area shape="rect" id="node43" href="$Testing_2Support_2Error_8cpp.html" title=" " alt="" coords="6755,102,6898,143"/>
+<area shape="rect" id="node44" href="$InitLLVM_8cpp.html" title=" " alt="" coords="6923,109,7101,136"/>
+<area shape="rect" id="node45" href="$ManagedStatic_8cpp.html" title=" " alt="" coords="7126,109,7346,136"/>
+<area shape="rect" id="node46" href="$Parallel_8cpp.html" title=" " alt="" coords="7371,109,7541,136"/>
+<area shape="rect" id="node47" href="$PluginLoader_8cpp.html" title=" " alt="" coords="7566,109,7773,136"/>
+<area shape="rect" id="node48" href="$NVPTXUtilities_8cpp.html" title=" " alt="" coords="7797,109,8053,136"/>
+<area shape="rect" id="node49" href="$WebAssemblyRuntimeLibcallSignatures_8cpp.html" title="This file contains signature information for runtime libcalls." alt="" coords="8078,102,8389,143"/>
+<area shape="rect" id="node50" href="$X86InstrFMA3Info_8cpp.html" title=" " alt="" coords="8413,102,8619,143"/>
+<area shape="rect" id="node3" href="$StandardInstrumentations_8h.html" title="This header defines a class that provides bookkeeping for all standard (i.e in&#45;tree) pass instrumenta..." alt="" coords="230,199,437,240"/>
+</map>

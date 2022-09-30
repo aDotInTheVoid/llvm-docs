@@ -1,0 +1,17 @@
+<map id="llvm::yaml::FixedMachineStackObject" name="llvm::yaml::FixedMachineStackObject">
+<area shape="rect" id="node1" title="Serializable representation of the fixed stack object from the MachineFrameInfo class." alt="" coords="884,253,1053,294"/>
+<area shape="rect" id="node2" href="$structllvm_1_1yaml_1_1StringValue.html" title="A wrapper around std::string which contains a source range that&#39;s being set during parsing." alt="" coords="541,133,696,160"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SMRange.html" title="Represents a range in source code." alt="" coords="267,73,378,100"/>
+<area shape="rect" id="node12" href="$structllvm_1_1yaml_1_1UnsignedValue.html" title="A wrapper around unsigned which contains a source range that&#39;s being set during parsing." alt="" coords="531,51,707,77"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code." alt="" coords="25,73,120,100"/>
+<area shape="rect" id="node5" title=" " alt="" coords="295,141,350,168"/>
+<area shape="rect" id="node6" href="$structllvm_1_1MaybeAlign.html" title="This struct is a compact representation of a valid (power of two) or undefined (0) alignment." alt="" coords="557,184,680,211"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title=" " alt="" coords="245,192,400,219"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,192,140,219"/>
+<area shape="rect" id="node9" title=" " alt="" coords="585,235,653,261"/>
+<area shape="rect" id="node10" title=" " alt="" coords="588,285,649,312"/>
+<area shape="rect" id="node11" title=" " alt="" coords="575,336,663,363"/>
+<area shape="rect" id="node13" href="$classunsigned.html" title=" " alt="" coords="285,5,360,32"/>
+<area shape="rect" id="node14" href="$classbool.html" title=" " alt="" coords="595,403,642,429"/>
+<area shape="rect" id="node15" title=" " alt="" coords="591,453,646,480"/>
+</map>

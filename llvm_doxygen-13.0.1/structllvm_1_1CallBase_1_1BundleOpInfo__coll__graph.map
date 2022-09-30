@@ -1,0 +1,10 @@
+<map id="llvm::CallBase::BundleOpInfo" name="llvm::CallBase::BundleOpInfo">
+<area shape="rect" id="node1" title="Used to keep track of an operand bundle." alt="" coords="257,421,469,448"/>
+<area shape="rect" id="node2" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="213,317,372,359"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringMapEntryStorage.html" title=" " alt="" coords="188,199,397,240"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances." alt="" coords="197,5,388,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringMapEntryStorage.html" title="StringMapEntryStorage &#45; Holds the value in a StringMapEntry." alt="" coords="35,95,244,136"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title=" " alt="" coords="363,102,438,129"/>
+<area shape="rect" id="node8" href="$classllvm_1_1StringMapEntry.html" title="StringMapEntry &#45; This is used to represent one value that is inserted into a StringMap." alt="" coords="5,199,164,240"/>
+<area shape="rect" id="node7" title=" " alt="" coords="101,5,173,32"/>
+</map>

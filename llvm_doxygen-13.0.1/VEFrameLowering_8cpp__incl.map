@@ -1,0 +1,52 @@
+<map id="lib/Target/VE/VEFrameLowering.cpp" name="lib/Target/VE/VEFrameLowering.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1532,5,1783,32"/>
+<area shape="rect" id="node2" href="$VEFrameLowering_8h.html" title=" " alt="" coords="266,155,417,181"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title=" " alt="" coords="1783,915,1977,941"/>
+<area shape="rect" id="node25" href="$VEInstrInfo_8h.html" title=" " alt="" coords="599,155,705,181"/>
+<area shape="rect" id="node29" href="$MachineFunction_8h.html" title=" " alt="" coords="1931,415,2171,442"/>
+<area shape="rect" id="node34" href="$TargetOptions_8h.html" title=" " alt="" coords="3830,505,4031,531"/>
+<area shape="rect" id="node35" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="1295,319,1497,360"/>
+<area shape="rect" id="node37" href="$VEMachineFunctionInfo_8h.html" title=" " alt="" coords="1956,80,2143,107"/>
+<area shape="rect" id="node38" href="$VESubtarget_8h.html" title=" " alt="" coords="780,80,895,107"/>
+<area shape="rect" id="node42" href="$DataLayout_8h.html" title=" " alt="" coords="803,587,962,613"/>
+<area shape="rect" id="node44" href="$MachineFrameInfo_8h.html" title=" " alt="" coords="1075,751,1290,792"/>
+<area shape="rect" id="node46" href="$MachineModuleInfo_8h.html" title=" " alt="" coords="3424,661,3645,703"/>
+<area shape="rect" id="node47" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="3121,319,3348,360"/>
+<area shape="rect" id="node48" href="$RegisterScavenging_8h.html" title="This file declares the machine register scavenger class." alt="" coords="2649,237,2908,263"/>
+<area shape="rect" id="node49" href="$Function_8h.html" title=" " alt="" coords="1187,840,1325,867"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title=" " alt="" coords="2931,669,3146,695"/>
+<area shape="rect" id="node3" href="$VE_8h.html" title=" " alt="" coords="379,237,429,263"/>
+<area shape="rect" id="node4" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="1159,408,1358,449"/>
+<area shape="rect" id="node23" href="$TypeSize_8h.html" title=" " alt="" coords="499,669,677,695"/>
+<area shape="rect" id="node5" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1287,497,1495,539"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2542,840,2605,867"/>
+<area shape="rect" id="node6" href="$GraphTraits_8h.html" title=" " alt="" coords="1423,587,1595,613"/>
+<area shape="rect" id="node7" href="$ilist_8h.html" title=" " alt="" coords="1456,669,1579,695"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1693,989,1763,1016"/>
+<area shape="rect" id="node9" href="$MachineInstr_8h.html" title=" " alt="" coords="1135,587,1348,613"/>
+<area shape="rect" id="node20" title=" " alt="" coords="320,989,387,1016"/>
+<area shape="rect" id="node21" title=" " alt="" coords="831,915,889,941"/>
+<area shape="rect" id="node10" href="$MachineMemOperand_8h.html" title=" " alt="" coords="1158,669,1431,695"/>
+<area shape="rect" id="node13" href="$ArrayRecycler_8h.html" title=" " alt="" coords="1704,669,1915,695"/>
+<area shape="rect" id="node11" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="1518,758,1741,785"/>
+<area shape="rect" id="node12" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="923,840,1112,867"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title=" " alt="" coords="2997,840,3171,867"/>
+<area shape="rect" id="node17" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1867,758,2045,785"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title=" " alt="" coords="2996,989,3175,1016"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3809,915,3887,941"/>
+<area shape="rect" id="node18" href="$Alignment_8h.html" title=" " alt="" coords="1502,840,1690,867"/>
+<area shape="rect" id="node24" href="$ArrayRef_8h.html" title=" " alt="" coords="3157,758,3312,785"/>
+<area shape="rect" id="node26" href="$VERegisterInfo_8h.html" title=" " alt="" coords="621,237,752,263"/>
+<area shape="rect" id="node27" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1433,229,1620,271"/>
+<area shape="rect" id="node36" title=" " alt="" coords="454,237,597,263"/>
+<area shape="rect" id="node28" href="$DenseMap_8h.html" title=" " alt="" coords="2627,758,2794,785"/>
+<area shape="rect" id="node30" href="$BitVector_8h.html" title=" " alt="" coords="2243,669,2399,695"/>
+<area shape="rect" id="node31" href="$iterator_8h.html" title=" " alt="" coords="2242,505,2387,531"/>
+<area shape="rect" id="node32" href="$EHPersonalities_8h.html" title=" " alt="" coords="2411,505,2639,531"/>
+<area shape="rect" id="node33" href="$Recycler_8h.html" title=" " alt="" coords="1891,587,2067,613"/>
+<area shape="rect" id="node39" href="$VEISelLowering_8h.html" title=" " alt="" coords="441,155,575,181"/>
+<area shape="rect" id="node40" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="533,319,779,360"/>
+<area shape="rect" id="node41" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="3669,661,3891,703"/>
+<area shape="rect" id="node43" title=" " alt="" coords="780,155,956,181"/>
+<area shape="rect" id="node45" href="$Register_8h.html" title=" " alt="" coords="1355,915,1538,941"/>
+</map>

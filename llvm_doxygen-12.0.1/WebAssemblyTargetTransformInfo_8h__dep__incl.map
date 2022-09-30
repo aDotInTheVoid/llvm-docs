@@ -1,0 +1,5 @@
+<map id="lib/Target/WebAssembly/WebAssemblyTargetTransformInfo.h" name="lib/Target/WebAssembly/WebAssemblyTargetTransformInfo.h">
+<area shape="rect" id="node1" title="This file a TargetTransformInfo::Concept conforming object specific to the WebAssembly target machine..." alt="" coords="126,5,363,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine." alt="" coords="5,95,225,136"/>
+<area shape="rect" id="node3" href="$WebAssemblyTargetTransformInfo_8cpp.html" title="This file defines the WebAssembly&#45;specific TargetTransformInfo implementation." alt="" coords="250,95,501,136"/>
+</map>

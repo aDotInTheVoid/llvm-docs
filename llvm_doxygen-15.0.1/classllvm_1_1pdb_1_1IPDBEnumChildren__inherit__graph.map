@@ -1,0 +1,27 @@
+<map id="llvm::pdb::IPDBEnumChildren&lt; ChildType &gt;" name="llvm::pdb::IPDBEnumChildren&lt; ChildType &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,295,219,336"/>
+<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1ConcreteSymbolEnumerator.html" title=" " alt="" coords="435,5,634,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1NullEnumerator.html" title=" " alt="" coords="438,71,631,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="428,136,641,177"/>
+<area shape="rect" id="node7" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="428,201,641,243"/>
+<area shape="rect" id="node9" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="428,267,641,308"/>
+<area shape="rect" id="node11" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="428,332,641,373"/>
+<area shape="rect" id="node14" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="428,468,641,509"/>
+<area shape="rect" id="node20" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="428,549,641,591"/>
+<area shape="rect" id="node22" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="428,645,641,687"/>
+<area shape="rect" id="node24" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="428,772,641,813"/>
+<area shape="rect" id="node5" href="$classllvm_1_1pdb_1_1DIAEnumInjectedSources.html" title=" " alt="" coords="713,51,915,92"/>
+<area shape="rect" id="node6" href="$classllvm_1_1pdb_1_1NativeEnumInjectedSources.html" title=" " alt="" coords="703,116,925,157"/>
+<area shape="rect" id="node8" href="$classllvm_1_1pdb_1_1DIAEnumTables.html" title=" " alt="" coords="718,182,910,209"/>
+<area shape="rect" id="node10" href="$classllvm_1_1pdb_1_1DIAEnumSectionContribs.html" title=" " alt="" coords="715,233,913,275"/>
+<area shape="rect" id="node12" href="$classllvm_1_1pdb_1_1DIAEnumLineNumbers.html" title=" " alt="" coords="695,299,933,326"/>
+<area shape="rect" id="node13" href="$classllvm_1_1pdb_1_1NativeEnumLineNumbers.html" title=" " alt="" coords="715,351,913,392"/>
+<area shape="rect" id="node15" href="$classllvm_1_1pdb_1_1DIAEnumSymbols.html" title=" " alt="" coords="711,417,917,443"/>
+<area shape="rect" id="node16" href="$classllvm_1_1pdb_1_1NativeEnumGlobals.html" title=" " alt="" coords="704,467,924,494"/>
+<area shape="rect" id="node17" href="$classllvm_1_1pdb_1_1NativeEnumModules.html" title=" " alt="" coords="701,518,927,545"/>
+<area shape="rect" id="node18" href="$classllvm_1_1pdb_1_1NativeEnumSymbols.html" title=" " alt="" coords="701,569,927,595"/>
+<area shape="rect" id="node19" href="$classllvm_1_1pdb_1_1NativeEnumTypes.html" title=" " alt="" coords="710,619,918,646"/>
+<area shape="rect" id="node21" href="$classllvm_1_1pdb_1_1DIAEnumFrameData.html" title=" " alt="" coords="703,670,925,697"/>
+<area shape="rect" id="node23" href="$classllvm_1_1pdb_1_1DIAEnumSourceFiles.html" title=" " alt="" coords="717,721,911,763"/>
+<area shape="rect" id="node25" href="$classllvm_1_1pdb_1_1DIAEnumDebugStreams.html" title=" " alt="" coords="691,787,937,814"/>
+</map>

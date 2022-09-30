@@ -1,0 +1,11 @@
+<map id="llvm::objcopy::macho::Section" name="llvm::objcopy::macho::Section">
+<area shape="rect" id="node1" title=" " alt="" coords="647,193,808,234"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title=" " alt="" coords="293,7,491,33"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,7,157,33"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="355,64,429,91"/>
+<area shape="rect" id="node5" title=" " alt="" coords="297,115,487,157"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="355,281,429,308"/>
+<area shape="rect" id="node7" title=" " alt="" coords="363,356,421,383"/>
+<area shape="rect" id="node8" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="333,407,451,433"/>
+<area shape="rect" id="node9" href="$classsize__t.html" title=" " alt="" coords="51,407,111,433"/>
+</map>

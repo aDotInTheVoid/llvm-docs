@@ -1,0 +1,8 @@
+<map id="llvm::sampleprof::ProfiledCallGraphEdge" name="llvm::sampleprof::ProfiledCallGraphEdge">
+<area shape="rect" id="node1" title=" " alt="" coords="7,317,196,359"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="5,206,80,233"/>
+<area shape="rect" id="node3" href="$structllvm_1_1sampleprof_1_1ProfiledCallGraphNode.html" title=" " alt="" coords="104,199,293,240"/>
+<area shape="rect" id="node4" title=" " alt="" coords="28,95,239,136"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="262,102,381,129"/>
+<area shape="rect" id="node6" href="$classsize__t.html" title=" " alt="" coords="291,5,351,32"/>
+</map>

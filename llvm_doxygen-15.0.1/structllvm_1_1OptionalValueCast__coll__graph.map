@@ -1,0 +1,7 @@
+<map id="llvm::OptionalValueCast&lt; To, From, Derived &gt;" name="llvm::OptionalValueCast&lt; To, From, Derived &gt;">
+<area shape="rect" id="node1" title="This cast trait provides Optional&lt;T&gt; casting." alt="" coords="740,52,919,93"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="486,8,639,49"/>
+<area shape="rect" id="node3" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="35,5,193,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="435,76,691,147"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DefaultDoCastIfPossible.html" title="This cast trait just provides the default implementation of doCastIfPossible to make CastInfo special..." alt="" coords="5,95,223,136"/>
+</map>

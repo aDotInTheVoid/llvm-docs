@@ -1,0 +1,5 @@
+<map id="llvm::LegalizerHelper" name="llvm::LegalizerHelper">
+<area shape="rect" id="node1" title=" " alt="" coords="131,95,292,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1GISelChangeObserver.html" title="Abstract class that contains various methods for clients to notify about changes." alt="" coords="5,5,207,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineIRBuilder.html" title="Helper class to build MachineInstr." alt="" coords="231,5,405,32"/>
+</map>

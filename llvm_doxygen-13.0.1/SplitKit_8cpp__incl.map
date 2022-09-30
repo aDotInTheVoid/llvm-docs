@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/SplitKit.cpp" name="lib/CodeGen/SplitKit.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="4152,5,4331,32"/>
+<area shape="rect" id="node2" href="$SplitKit_8h.html" title=" " alt="" coords="2141,87,2222,114"/>
+<area shape="rect" id="node4" href="$None_8h.html" title=" " alt="" coords="4197,840,4329,867"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2777,989,2962,1016"/>
+<area shape="rect" id="node8" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="5715,840,5925,867"/>
+<area shape="rect" id="node9" title=" " alt="" coords="759,840,844,867"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4013,840,4083,867"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1533,840,1603,867"/>
+<area shape="rect" id="node12" title=" " alt="" coords="633,840,692,867"/>
+<area shape="rect" id="node14" href="$STLExtras_8h.html" title=" " alt="" coords="2968,691,3131,717"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3206,765,3261,792"/>
+<area shape="rect" id="node23" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1565,691,1744,717"/>
+<area shape="rect" id="node28" href="$MachineInstr_8h.html" title=" " alt="" coords="4556,616,4769,643"/>
+<area shape="rect" id="node29" href="$MachineOperand_8h.html" title=" " alt="" coords="4379,691,4619,717"/>
+<area shape="rect" id="node30" href="$TargetOpcodes_8h.html" title=" " alt="" coords="4999,691,5225,717"/>
+<area shape="rect" id="node31" href="$DebugLoc_8h.html" title=" " alt="" coords="5253,691,5401,717"/>
+<area shape="rect" id="node33" href="$raw__ostream_8h.html" title=" " alt="" coords="4097,691,4303,717"/>
+<area shape="rect" id="node37" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="4609,437,4821,479"/>
+<area shape="rect" id="node38" href="$Statistic_8h.html" title=" " alt="" coords="5950,840,6101,867"/>
+<area shape="rect" id="node39" href="$AliasAnalysis_8h.html" title=" " alt="" coords="1819,691,2032,717"/>
+<area shape="rect" id="node40" href="$LiveRangeEdit_8h.html" title=" " alt="" coords="3319,177,3542,203"/>
+<area shape="rect" id="node41" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="2800,348,3027,389"/>
+<area shape="rect" id="node42" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="2123,437,2344,479"/>
+<area shape="rect" id="node43" href="$MachineBlockFrequencyInfo_8h.html" title=" " alt="" coords="3867,80,4077,121"/>
+<area shape="rect" id="node44" href="$BlockFrequency_8h.html" title=" " alt="" coords="3905,177,4127,203"/>
+<area shape="rect" id="node45" href="$MachineDominators_8h.html" title=" " alt="" coords="5328,445,5589,471"/>
+<area shape="rect" id="node46" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="4507,348,4709,389"/>
+<area shape="rect" id="node47" href="$MachineLoopInfo_8h.html" title=" " alt="" coords="5099,437,5303,479"/>
+<area shape="rect" id="node48" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="4456,259,4643,300"/>
+<area shape="rect" id="node49" href="$VirtRegMap_8h.html" title=" " alt="" coords="4987,355,5194,382"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title=" " alt="" coords="6323,87,6485,114"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title=" " alt="" coords="2945,616,3100,643"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title=" " alt="" coords="2059,765,2234,792"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="2780,915,2959,941"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2453,840,2513,867"/>
+<area shape="rect" id="node18" href="$BitVector_8h.html" title=" " alt="" coords="2694,534,2850,561"/>
+<area shape="rect" id="node19" href="$DenseMap_8h.html" title=" " alt="" coords="1323,765,1490,792"/>
+<area shape="rect" id="node20" href="$DenseSet_8h.html" title=" " alt="" coords="875,691,1035,717"/>
+<area shape="rect" id="node21" href="$IntervalMap_8h.html" title=" " alt="" coords="1112,616,1288,643"/>
+<area shape="rect" id="node22" href="$PointerIntPair_8h.html" title=" " alt="" coords="347,765,531,792"/>
+<area shape="rect" id="node24" href="$SmallPtrSet_8h.html" title=" " alt="" coords="3285,765,3459,792"/>
+<area shape="rect" id="node25" href="$LiveInterval_8h.html" title=" " alt="" coords="1982,266,2189,293"/>
+<area shape="rect" id="node26" href="$SlotIndexes_8h.html" title=" " alt="" coords="1488,355,1693,382"/>
+<area shape="rect" id="node27" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="4856,527,5064,568"/>
+<area shape="rect" id="node32" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="4147,616,4325,643"/>
+<area shape="rect" id="node34" href="$MachineFunction_8h.html" title=" " alt="" coords="3027,445,3267,471"/>
+<area shape="rect" id="node35" href="$LiveIntervalCalc_8h.html" title=" " alt="" coords="2251,169,2445,211"/>
+<area shape="rect" id="node36" href="$LiveIntervals_8h.html" title=" " alt="" coords="2575,177,2790,203"/>
+<area shape="rect" id="node15" href="$Optional_8h.html" title=" " alt="" coords="2926,765,3079,792"/>
+<area shape="rect" id="node16" href="$STLForwardCompat_8h.html" title=" " alt="" coords="2907,840,3131,867"/>
+</map>

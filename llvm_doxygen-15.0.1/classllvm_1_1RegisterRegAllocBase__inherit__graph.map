@@ -1,0 +1,7 @@
+<map id="llvm::RegisterRegAllocBase&lt; SubClass &gt;" name="llvm::RegisterRegAllocBase&lt; SubClass &gt;">
+<area shape="rect" id="node1" title="RegisterRegAllocBase class &#45; Track the registration of register allocators." alt="" coords="6,200,209,241"/>
+<area shape="rect" id="node4" href="$classllvm_1_1RegisterRegAllocBase.html" title=" " alt="" coords="6,304,209,345"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryNode.html" title=" " alt="" coords="5,109,209,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistryNode.html" title="MachinePassRegistryNode &#45; Machine pass node stored in registration list." alt="" coords="9,5,206,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1RegisterRegAlloc.html" title=" " alt="" coords="22,395,193,421"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="llvm::objcopy::elf::IHexSectionWriter" name="llvm::objcopy::elf::IHexSectionWriter">
+<area shape="rect" id="node1" title=" " alt="" coords="125,471,273,512"/>
+<area shape="rect" id="node2" href="$classllvm_1_1objcopy_1_1elf_1_1IHexSectionWriterBase.html" title=" " alt="" coords="109,380,289,421"/>
+<area shape="rect" id="node3" href="$classllvm_1_1objcopy_1_1elf_1_1BinarySectionWriter.html" title=" " alt="" coords="14,276,174,317"/>
+<area shape="rect" id="node4" href="$classllvm_1_1objcopy_1_1elf_1_1SectionWriter.html" title=" " alt="" coords="27,185,161,227"/>
+<area shape="rect" id="node5" href="$classllvm_1_1objcopy_1_1elf_1_1SectionVisitor.html" title=" " alt="" coords="5,81,140,123"/>
+<area shape="rect" id="node6" href="$classllvm_1_1WritableMemoryBuffer.html" title="This class is an extension of MemoryBuffer, which allows copy&#45;on&#45;write access to the underlying conte..." alt="" coords="164,89,371,115"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MemoryBuffer.html" title="This interface provides simple read&#45;only access to a block of memory, and provides simple methods for..." alt="" coords="191,5,343,32"/>
+<area shape="rect" id="node8" href="$classuint64__t.html" title=" " alt="" coords="198,283,273,310"/>
+</map>

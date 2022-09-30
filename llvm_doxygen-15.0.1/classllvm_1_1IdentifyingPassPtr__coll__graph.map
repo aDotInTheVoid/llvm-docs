@@ -1,0 +1,5 @@
+<map id="llvm::IdentifyingPassPtr" name="llvm::IdentifyingPassPtr">
+<area shape="rect" id="node1" title="Discriminated union of Pass ID types." alt="" coords="10,95,185,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="118,5,175,32"/>
+</map>

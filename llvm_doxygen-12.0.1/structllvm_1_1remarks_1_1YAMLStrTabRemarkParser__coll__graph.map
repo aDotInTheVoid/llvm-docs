@@ -1,0 +1,13 @@
+<map id="llvm::remarks::YAMLStrTabRemarkParser" name="llvm::remarks::YAMLStrTabRemarkParser">
+<area shape="rect" id="node1" title="YAML with a string table to Remark parser." alt="" coords="940,207,1123,249"/>
+<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1YAMLRemarkParser.html" title="Regular YAML to Remark parser." alt="" coords="700,207,891,249"/>
+<area shape="rect" id="node3" href="$structllvm_1_1remarks_1_1RemarkParser.html" title="Parser used to parse a raw buffer to remarks::Remark objects." alt="" coords="375,43,569,69"/>
+<area shape="rect" id="node4" title=" " alt="" coords="41,5,104,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="45,75,100,101"/>
+<area shape="rect" id="node6" href="$classllvm_1_1yaml_1_1Stream.html" title="This class represents a YAML stream potentially containing multiple documents." alt="" coords="407,156,537,183"/>
+<area shape="rect" id="node7" href="$classllvm_1_1yaml_1_1document__iterator.html" title="Iterator abstraction for Documents over a Stream." alt="" coords="399,207,545,249"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title=" " alt="" coords="369,273,575,314"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,280,140,307"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SourceMgr.html" title="This owns the files read by a parser, handles include stacks, and handles diagnostic wrangling." alt="" coords="413,339,531,365"/>
+<area shape="rect" id="node11" title=" " alt="" coords="385,390,559,431"/>
+</map>

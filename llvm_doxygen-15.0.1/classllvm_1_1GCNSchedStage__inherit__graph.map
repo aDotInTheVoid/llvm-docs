@@ -1,0 +1,7 @@
+<map id="llvm::GCNSchedStage" name="llvm::GCNSchedStage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,169,108"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ClusteredLowOccStage.html" title=" " alt="" coords="219,5,427,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InitialScheduleStage.html" title=" " alt="" coords="227,56,419,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PreRARematStage.html" title=" " alt="" coords="234,107,413,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1UnclusteredRescheduleStage.html" title=" " alt="" coords="217,158,429,199"/>
+</map>

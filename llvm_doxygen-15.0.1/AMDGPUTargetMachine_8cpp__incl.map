@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/AMDGPUTargetMachine.cpp" name="lib/Target/AMDGPU/AMDGPUTargetMachine.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3035,5,3283,47"/>
+<area shape="rect" id="node2" href="$AMDGPUTargetMachine_8h.html" title=" " alt="" coords="23,191,211,218"/>
+<area shape="rect" id="node4" href="$TargetPassConfig_8h.html" title=" " alt="" coords="428,281,668,307"/>
+<area shape="rect" id="node6" href="$PassManager_8h.html" title=" " alt="" coords="1014,370,1183,397"/>
+<area shape="rect" id="node8" href="$AMDGPU_8h.html" title=" " alt="" coords="1387,191,1480,218"/>
+<area shape="rect" id="node9" href="$AMDGPUAliasAnalysis_8h.html" title=" " alt="" coords="1767,102,1947,129"/>
+<area shape="rect" id="node10" href="$AMDGPUExportClustering_8h.html" title=" " alt="" coords="1971,102,2173,129"/>
+<area shape="rect" id="node11" href="$AMDGPUIGroupLP_8h.html" title=" " alt="" coords="2197,102,2347,129"/>
+<area shape="rect" id="node12" href="$AMDGPUMacroFusion_8h.html" title=" " alt="" coords="2371,102,2546,129"/>
+<area shape="rect" id="node13" href="$AMDGPUTargetObjectFile_8h.html" title=" " alt="" coords="2570,102,2769,129"/>
+<area shape="rect" id="node14" href="$AMDGPUTargetTransformInfo_8h.html" title=" " alt="" coords="1369,102,1591,129"/>
+<area shape="rect" id="node15" href="$GCNIterativeScheduler_8h.html" title=" " alt="" coords="2793,102,2975,129"/>
+<area shape="rect" id="node16" href="$GCNSchedStrategy_8h.html" title=" " alt="" coords="2999,102,3153,129"/>
+<area shape="rect" id="node17" href="$GCNVOPDUtils_8h.html" title=" " alt="" coords="3177,102,3308,129"/>
+<area shape="rect" id="node18" href="$R600_8h.html" title=" " alt="" coords="3332,102,3399,129"/>
+<area shape="rect" id="node19" href="$R600TargetMachine_8h.html" title=" " alt="" coords="232,102,395,129"/>
+<area shape="rect" id="node20" href="$SIMachineFunctionInfo_8h.html" title=" " alt="" coords="27,102,208,129"/>
+<area shape="rect" id="node21" href="$SIMachineScheduler_8h.html" title=" " alt="" coords="3423,102,3587,129"/>
+<area shape="rect" id="node22" href="$AMDGPUTargetInfo_8h.html" title=" " alt="" coords="3612,102,3839,129"/>
+<area shape="rect" id="node23" href="$AMDGPUBaseInfo_8h.html" title=" " alt="" coords="3863,102,4047,129"/>
+<area shape="rect" id="node24" href="$CGSCCPassManager_8h.html" title=" " alt="" coords="692,281,948,307"/>
+<area shape="rect" id="node25" href="$CSEInfo_8h.html" title=" " alt="" coords="4071,95,4255,136"/>
+<area shape="rect" id="node26" href="$IRTranslator_8h.html" title=" " alt="" coords="1395,363,1579,404"/>
+<area shape="rect" id="node27" href="$InstructionSelect_8h.html" title=" " alt="" coords="4279,95,4463,136"/>
+<area shape="rect" id="node28" href="$Legalizer_8h.html" title=" " alt="" coords="4487,95,4671,136"/>
+<area shape="rect" id="node29" href="$Localizer_8h.html" title=" " alt="" coords="4695,95,4879,136"/>
+<area shape="rect" id="node30" href="$RegBankSelect_8h.html" title=" " alt="" coords="4903,95,5087,136"/>
+<area shape="rect" id="node31" href="$MIParser_8h.html" title=" " alt="" coords="1626,363,1809,404"/>
+<area shape="rect" id="node32" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="5111,102,5286,129"/>
+<area shape="rect" id="node33" href="$RegAllocRegistry_8h.html" title=" " alt="" coords="5310,102,5549,129"/>
+<area shape="rect" id="node34" title=" " alt="" coords="5573,102,5776,129"/>
+<area shape="rect" id="node35" href="$LegacyPassManager_8h.html" title=" " alt="" coords="5801,102,6015,129"/>
+<area shape="rect" id="node36" href="$PatternMatch_8h.html" title=" " alt="" coords="6040,102,6211,129"/>
+<area shape="rect" id="node37" href="$InitializePasses_8h.html" title=" " alt="" coords="6235,102,6402,129"/>
+<area shape="rect" id="node38" href="$TargetRegistry_8h.html" title=" " alt="" coords="6427,102,6611,129"/>
+<area shape="rect" id="node39" href="$Passes_2PassBuilder_8h.html" title=" " alt="" coords="520,191,709,218"/>
+<area shape="rect" id="node40" href="$Transforms_2IPO_8h.html" title=" " alt="" coords="6635,102,6800,129"/>
+<area shape="rect" id="node41" href="$AlwaysInliner_8h.html" title=" " alt="" coords="734,184,887,225"/>
+<area shape="rect" id="node42" href="$GlobalDCE_8h.html" title=" " alt="" coords="911,184,1065,225"/>
+<area shape="rect" id="node43" href="$Internalize_8h.html" title=" " alt="" coords="1089,184,1242,225"/>
+<area shape="rect" id="node44" href="$Transforms_2IPO_2PassManagerBuilder_8h.html" title=" " alt="" coords="6825,95,6994,136"/>
+<area shape="rect" id="node45" href="$Transforms_2Scalar_8h.html" title=" " alt="" coords="7018,102,7201,129"/>
+<area shape="rect" id="node46" href="$GVN_8h.html" title=" " alt="" coords="1471,273,1641,315"/>
+<area shape="rect" id="node47" href="$InferAddressSpaces_8h.html" title=" " alt="" coords="1225,273,1396,315"/>
+<area shape="rect" id="node48" href="$Transforms_2Utils_8h.html" title=" " alt="" coords="7225,102,7399,129"/>
+<area shape="rect" id="node49" href="$SimplifyLibCalls_8h.html" title=" " alt="" coords="7423,95,7585,136"/>
+<area shape="rect" id="node50" href="$Transforms_2Vectorize_8h.html" title=" " alt="" coords="7609,102,7812,129"/>
+<area shape="rect" id="node3" href="$GCNSubtarget_8h.html" title=" " alt="" coords="46,281,173,307"/>
+<area shape="rect" id="node5" href="$Target_2TargetMachine_8h.html" title=" " alt="" coords="197,281,403,307"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1069,452,1129,479"/>
+</map>

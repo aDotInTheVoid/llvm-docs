@@ -1,0 +1,5 @@
+<map id="llvm::CastInfo&lt; To, PointerUnion&lt; PTs... &gt; &gt;" name="llvm::CastInfo&lt; To, PointerUnion&lt; PTs... &gt; &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="755,29,943,70"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="485,14,705,85"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DefaultDoCastIfPossible.html" title="This cast trait just provides the default implementation of doCastIfPossible to make CastInfo special..." alt="" coords="5,29,223,70"/>
+</map>

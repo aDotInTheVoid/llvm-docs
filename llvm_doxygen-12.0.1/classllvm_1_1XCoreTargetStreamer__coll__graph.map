@@ -1,0 +1,5 @@
+<map id="llvm::XCoreTargetStreamer" name="llvm::XCoreTargetStreamer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,184,197"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface." alt="" coords="13,95,176,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCStreamer.html" title="Streaming machine code generation interface." alt="" coords="31,5,158,32"/>
+</map>

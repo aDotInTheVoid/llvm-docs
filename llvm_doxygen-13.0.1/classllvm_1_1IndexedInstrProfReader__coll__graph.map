@@ -1,0 +1,5 @@
+<map id="llvm::IndexedInstrProfReader" name="llvm::IndexedInstrProfReader">
+<area shape="rect" id="node1" title="Reader for the indexed binary instrprof format." alt="" coords="5,185,216,212"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InstrProfReader.html" title="Base class and interface for reading profiling data of any known instrprof format." alt="" coords="31,109,191,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="11,5,210,47"/>
+</map>

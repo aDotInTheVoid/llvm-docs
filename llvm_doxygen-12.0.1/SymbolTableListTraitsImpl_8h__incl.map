@@ -1,0 +1,52 @@
+<map id="lib/IR/SymbolTableListTraitsImpl.h" name="lib/IR/SymbolTableListTraitsImpl.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2069,5,2254,47"/>
+<area shape="rect" id="node2" href="$SymbolTableListTraits_8h.html" title=" " alt="" coords="575,244,782,271"/>
+<area shape="rect" id="node21" href="$ValueSymbolTable_8h.html" title=" " alt="" coords="2779,95,2965,121"/>
+<area shape="rect" id="node3" href="$ilist_8h.html" title=" " alt="" coords="670,319,781,345"/>
+<area shape="rect" id="node4" href="$simple__ilist_8h.html" title=" " alt="" coords="555,401,709,427"/>
+<area shape="rect" id="node13" title=" " alt="" coords="429,557,494,584"/>
+<area shape="rect" id="node7" title=" " alt="" coords="795,557,861,584"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1174,557,1237,584"/>
+<area shape="rect" id="node5" href="$ilist__base_8h.html" title=" " alt="" coords="277,483,424,509"/>
+<area shape="rect" id="node8" href="$ilist__iterator_8h.html" title=" " alt="" coords="499,483,658,509"/>
+<area shape="rect" id="node9" href="$ilist__node_8h.html" title=" " alt="" coords="207,557,353,584"/>
+<area shape="rect" id="node10" href="$ilist__node__options_8h.html" title=" " alt="" coords="321,632,455,673"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title=" " alt="" coords="3261,557,3424,584"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2065,557,2140,584"/>
+<area shape="rect" id="node19" title=" " alt="" coords="987,483,1066,509"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2076,639,2129,666"/>
+<area shape="rect" id="node6" href="$ilist__node__base_8h.html" title=" " alt="" coords="161,632,295,673"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1912,721,1995,748"/>
+<area shape="rect" id="node11" title=" " alt="" coords="167,721,340,748"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3189,639,3355,666"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3379,639,3447,666"/>
+<area shape="rect" id="node22" href="$StringMap_8h.html" title=" " alt="" coords="3007,169,3158,196"/>
+<area shape="rect" id="node24" href="$StringRef_8h.html" title=" " alt="" coords="2800,319,2944,345"/>
+<area shape="rect" id="node32" title=" " alt="" coords="3353,483,3415,509"/>
+<area shape="rect" id="node43" href="$Value_8h.html" title=" " alt="" coords="1946,244,2057,271"/>
+<area shape="rect" id="node23" href="$StringMapEntry_8h.html" title=" " alt="" coords="2921,244,3103,271"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2680,483,2776,509"/>
+<area shape="rect" id="node38" href="$AllocatorBase_8h.html" title="This file defines MallocAllocator." alt="" coords="3189,319,3381,345"/>
+<area shape="rect" id="node40" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="3693,393,3857,435"/>
+<area shape="rect" id="node25" href="$STLExtras_8h.html" title=" " alt="" coords="2155,401,2309,427"/>
+<area shape="rect" id="node29" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2227,557,2397,584"/>
+<area shape="rect" id="node31" title=" " alt="" coords="3003,557,3058,584"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2603,483,2656,509"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2952,401,3013,427"/>
+<area shape="rect" id="node26" href="$Optional_8h.html" title=" " alt="" coords="1675,483,1813,509"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1655,557,1726,584"/>
+<area shape="rect" id="node28" href="$iterator_8h.html" title=" " alt="" coords="1888,483,2019,509"/>
+<area shape="rect" id="node30" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3138,483,3329,509"/>
+<area shape="rect" id="node33" title=" " alt="" coords="3054,483,3114,509"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2144,483,2195,509"/>
+<area shape="rect" id="node39" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="3195,401,3365,427"/>
+<area shape="rect" id="node41" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="3641,483,3815,509"/>
+<area shape="rect" id="node42" href="$llvm-c_2DataTypes_8h.html" title=" " alt="" coords="3610,557,3745,584"/>
+<area shape="rect" id="node44" href="$Types_8h.html" title=" " alt="" coords="2472,483,2579,509"/>
+<area shape="rect" id="node46" href="$Use_8h.html" title="This defines the Use class." alt="" coords="2295,319,2398,345"/>
+<area shape="rect" id="node47" href="$CBindingWrapping_8h.html" title=" " alt="" coords="1912,401,2131,427"/>
+<area shape="rect" id="node48" href="$Casting_8h.html" title=" " alt="" coords="1445,483,1600,509"/>
+<area shape="rect" id="node49" href="$Alignment_8h.html" title=" " alt="" coords="1720,401,1888,427"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1841,319,1964,345"/>
+<area shape="rect" id="node45" href="$ExternC_8h.html" title=" " alt="" coords="2473,557,2591,584"/>
+</map>

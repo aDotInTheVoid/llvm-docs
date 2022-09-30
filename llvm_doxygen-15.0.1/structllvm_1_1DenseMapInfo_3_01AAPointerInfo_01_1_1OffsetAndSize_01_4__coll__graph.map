@@ -1,0 +1,5 @@
+<map id="llvm::DenseMapInfo&lt; AAPointerInfo ::OffsetAndSize &gt;" name="llvm::DenseMapInfo&lt; AAPointerInfo ::OffsetAndSize &gt;">
+<area shape="rect" id="node1" title="Helper that allows OffsetAndSize as a key in a DenseMap." alt="" coords="5,229,208,285"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="29,124,184,180"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="30,5,183,47"/>
+</map>

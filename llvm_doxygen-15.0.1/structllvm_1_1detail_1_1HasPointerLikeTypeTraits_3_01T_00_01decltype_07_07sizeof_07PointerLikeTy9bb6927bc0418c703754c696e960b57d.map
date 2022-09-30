@@ -1,0 +1,4 @@
+<map id="llvm::detail::HasPointerLikeTypeTraits&lt; T, decltype((sizeof(PointerLikeTypeTraits&lt; T &gt;)+sizeof(T)), void())&gt;" name="llvm::detail::HasPointerLikeTypeTraits&lt; T, decltype((sizeof(PointerLikeTypeTraits&lt; T &gt;)+sizeof(T)), void())&gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,219,165"/>
+<area shape="rect" id="node2" title=" " alt="" coords="83,5,141,32"/>
+</map>

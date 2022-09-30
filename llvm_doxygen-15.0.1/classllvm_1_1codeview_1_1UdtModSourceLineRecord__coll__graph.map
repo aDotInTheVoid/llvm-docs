@@ -1,0 +1,9 @@
+<map id="llvm::codeview::UdtModSourceLineRecord" name="llvm::codeview::UdtModSourceLineRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="207,243,430,284"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="5,139,208,165"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,170,32"/>
+<area shape="rect" id="node4" href="$classuint16__t.html" title=" " alt="" coords="232,139,307,165"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title=" " alt="" coords="331,139,405,165"/>
+<area shape="rect" id="node6" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="429,139,624,165"/>
+<area shape="rect" id="node7" title=" " alt="" coords="498,5,555,32"/>
+</map>

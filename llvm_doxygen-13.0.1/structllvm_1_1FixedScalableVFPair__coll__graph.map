@@ -1,0 +1,12 @@
+<map id="llvm::FixedScalableVFPair" name="llvm::FixedScalableVFPair">
+<area shape="rect" id="node1" title="A class that represents two vectorization factors (initialized with 0 by default)." alt="" coords="1527,175,1716,202"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ElementCount.html" title=" " alt="" coords="1255,175,1405,202"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="1051,168,1205,209"/>
+<area shape="rect" id="node4" href="$classllvm_1_1UnivariateLinearPolyBase.html" title=" " alt="" coords="681,128,876,169"/>
+<area shape="rect" id="node5" href="$structllvm_1_1LinearPolyBaseTypeTraits_3_01ElementCount_01_4.html" title=" " alt="" coords="315,5,504,47"/>
+<area shape="rect" id="node6" title=" " alt="" coords="44,73,125,99"/>
+<area shape="rect" id="node8" href="$classllvm_1_1UnivariateLinearPolyBase.html" title="UnivariateLinearPolyBase is a base class for ElementCount and TypeSize." alt="" coords="312,207,507,248"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,173,164,199"/>
+<area shape="rect" id="node10" href="$classllvm_1_1LinearPolySize.html" title="LinearPolySize is a base class to represent sizes." alt="" coords="701,200,856,241"/>
+<area shape="rect" id="node9" title=" " alt="" coords="47,261,123,287"/>
+</map>

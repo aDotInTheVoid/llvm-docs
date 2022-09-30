@@ -1,0 +1,7 @@
+<map id="llvm::OverflowingBinaryOperator" name="llvm::OverflowingBinaryOperator">
+<area shape="rect" id="node1" title="Utility class for integer operators which may exhibit overflow &#45; Add, Sub, Mul, and Shl." alt="" coords="5,440,216,467"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Operator.html" title="This is a utility class that provides an abstraction for the common functionality between Instruction..." alt="" coords="59,364,163,391"/>
+<area shape="rect" id="node3" href="$classllvm_1_1User.html" title=" " alt="" coords="69,288,152,315"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="67,212,154,239"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="73,5,148,32"/>
+</map>

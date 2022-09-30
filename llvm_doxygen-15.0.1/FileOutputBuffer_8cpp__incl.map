@@ -1,0 +1,52 @@
+<map id="lib/Support/FileOutputBuffer.cpp" name="lib/Support/FileOutputBuffer.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3324,5,3552,32"/>
+<area shape="rect" id="node2" href="$FileOutputBuffer_8h.html" title=" " alt="" coords="1669,80,1895,107"/>
+<area shape="rect" id="node35" title=" " alt="" coords="3104,386,3212,413"/>
+<area shape="rect" id="node39" href="$Errc_8h.html" title=" " alt="" coords="3895,155,4042,181"/>
+<area shape="rect" id="node40" href="$FileSystem_8h.html" title=" " alt="" coords="2972,80,3165,107"/>
+<area shape="rect" id="node49" href="$Memory_8h.html" title=" " alt="" coords="2022,304,2195,331"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3895,80,3970,107"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title=" " alt="" coords="1667,386,1825,413"/>
+<area shape="rect" id="node18" href="$Support_2DataTypes_8h.html" title=" " alt="" coords="501,386,690,413"/>
+<area shape="rect" id="node20" href="$Support_2Error_8h.html" title=" " alt="" coords="1475,155,1625,181"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title=" " alt="" coords="1885,468,2077,495"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2510,543,2579,569"/>
+<area shape="rect" id="node6" title=" " alt="" coords="776,543,847,569"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1599,543,1659,569"/>
+<area shape="rect" id="node9" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="2101,468,2330,495"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2268,543,2360,569"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title=" " alt="" coords="1467,468,1657,495"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title=" " alt="" coords="3335,468,3514,495"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1306,468,1391,495"/>
+<area shape="rect" id="node15" title=" " alt="" coords="778,468,845,495"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1223,468,1282,495"/>
+<area shape="rect" id="node17" title=" " alt="" coords="570,468,629,495"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2942,543,3009,569"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3583,543,3768,569"/>
+<area shape="rect" id="node19" href="$c_2DataTypes_8h.html" title=" " alt="" coords="399,468,546,495"/>
+<area shape="rect" id="node21" href="$c_2Error_8h.html" title=" " alt="" coords="757,229,866,256"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title=" " alt="" coords="1069,386,1244,413"/>
+<area shape="rect" id="node23" title=" " alt="" coords="45,468,111,495"/>
+<area shape="rect" id="node24" title=" " alt="" coords="187,468,273,495"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1122,468,1199,495"/>
+<area shape="rect" id="node26" title=" " alt="" coords="653,468,703,495"/>
+<area shape="rect" id="node27" href="$StringExtras_8h.html" title=" " alt="" coords="941,229,1119,256"/>
+<area shape="rect" id="node29" href="$Twine_8h.html" title=" " alt="" coords="2271,304,2405,331"/>
+<area shape="rect" id="node30" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="3389,386,3599,413"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1194,229,1389,256"/>
+<area shape="rect" id="node32" href="$AlignOf_8h.html" title=" " alt="" coords="2506,386,2674,413"/>
+<area shape="rect" id="node33" href="$Debug_8h.html" title=" " alt="" coords="1413,229,1575,256"/>
+<area shape="rect" id="node34" href="$ErrorOr_8h.html" title=" " alt="" coords="2656,304,2823,331"/>
+<area shape="rect" id="node36" href="$Format_8h.html" title=" " alt="" coords="699,304,865,331"/>
+<area shape="rect" id="node37" href="$raw__ostream_8h.html" title=" " alt="" coords="1053,304,1260,331"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3101,304,3164,331"/>
+<area shape="rect" id="node28" href="$SmallString_8h.html" title=" " alt="" coords="501,304,674,331"/>
+<area shape="rect" id="node41" href="$Chrono_8h.html" title=" " alt="" coords="3460,155,3627,181"/>
+<area shape="rect" id="node44" title=" " alt="" coords="3661,229,3719,256"/>
+<area shape="rect" id="node46" href="$UniqueID_8h.html" title=" " alt="" coords="1973,379,2154,420"/>
+<area shape="rect" id="node47" href="$MD5_8h.html" title=" " alt="" coords="2481,304,2632,331"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3107,155,3164,181"/>
+<area shape="rect" id="node42" href="$FormatProviders_8h.html" title=" " alt="" coords="2835,229,3063,256"/>
+<area shape="rect" id="node43" title=" " alt="" coords="3442,229,3509,256"/>
+<area shape="rect" id="node45" title=" " alt="" coords="3533,229,3585,256"/>
+</map>

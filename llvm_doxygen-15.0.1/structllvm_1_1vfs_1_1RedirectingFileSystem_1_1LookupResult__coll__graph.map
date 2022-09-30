@@ -1,0 +1,4 @@
+<map id="llvm::vfs::RedirectingFileSystem::LookupResult" name="llvm::vfs::RedirectingFileSystem::LookupResult">
+<area shape="rect" id="node1" title="Represents the result of a path lookup into the RedirectingFileSystem." alt="" coords="5,109,189,151"/>
+<area shape="rect" id="node2" href="$classllvm_1_1vfs_1_1RedirectingFileSystem_1_1Entry.html" title="A single file or directory in the VFS." alt="" coords="5,5,189,47"/>
+</map>

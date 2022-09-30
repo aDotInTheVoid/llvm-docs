@@ -1,0 +1,6 @@
+<map id="llvm::SIMachineFunctionInfo::SGPRSpillVGPRCSR" name="llvm::SIMachineFunctionInfo::SGPRSpillVGPRCSR">
+<area shape="rect" id="node1" title=" " alt="" coords="16,184,204,225"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="5,95,108,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title=" " alt="" coords="132,95,272,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title=" " alt="" coords="135,5,269,32"/>
+</map>

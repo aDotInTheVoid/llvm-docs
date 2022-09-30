@@ -1,0 +1,15 @@
+<map id="llvm::VPValue" name="llvm::VPValue">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,117,260"/>
+<area shape="rect" id="node2" href="$classllvm_1_1VPBlendRecipe.html" title="A recipe for vectorizing a phi&#45;node as a sequence of mask&#45;based select instructions." alt="" coords="187,5,345,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1VPInstruction.html" title="This is a concrete Recipe that models a single VPlan&#45;level instruction." alt="" coords="193,56,339,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1VPPredInstPHIRecipe.html" title="VPPredInstPHIRecipe is a recipe for generating the phi nodes needed when control converges back from ..." alt="" coords="169,107,363,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1VPReductionRecipe.html" title="A recipe to represent inloop reduction operations, performing a reduction on a vector operand into a ..." alt="" coords="173,157,359,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1VPReplicateRecipe.html" title="VPReplicateRecipe replicates a given instruction producing multiple scalar copies of the original sca..." alt="" coords="175,208,357,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1VPWidenCallRecipe.html" title="A recipe for widening Call instructions." alt="" coords="173,259,359,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1VPWidenGEPRecipe.html" title="A recipe for handling GEP instructions." alt="" coords="173,309,359,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1VPWidenPHIRecipe.html" title="A recipe for handling first order recurrences and pointer inductions." alt="" coords="175,360,357,387"/>
+<area shape="rect" id="node12" href="$classllvm_1_1VPWidenRecipe.html" title="VPWidenRecipe is a recipe for producing a copy of vector type its ingredient." alt="" coords="185,411,347,437"/>
+<area shape="rect" id="node13" href="$classllvm_1_1VPWidenSelectRecipe.html" title="A recipe for widening select instructions." alt="" coords="165,461,367,488"/>
+<area shape="rect" id="node10" href="$structllvm_1_1VPFirstOrderRecurrencePHIRecipe.html" title="A recipe for handling first&#45;order recurrence phis." alt="" coords="415,323,628,365"/>
+<area shape="rect" id="node11" href="$classllvm_1_1VPReductionPHIRecipe.html" title="A recipe for handling reduction phis." alt="" coords="418,389,625,416"/>
+</map>

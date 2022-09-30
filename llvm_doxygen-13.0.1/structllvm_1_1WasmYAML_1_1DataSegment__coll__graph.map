@@ -1,0 +1,11 @@
+<map id="llvm::WasmYAML::DataSegment" name="llvm::WasmYAML::DataSegment">
+<area shape="rect" id="node1" title=" " alt="" coords="103,216,333,243"/>
+<area shape="rect" id="node2" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob." alt="" coords="5,118,169,145"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="179,5,254,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1wasm_1_1WasmInitExpr.html" title=" " alt="" coords="380,118,576,145"/>
+<area shape="rect" id="node5" title=" " alt="" coords="278,5,417,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="441,5,515,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="539,5,606,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="630,5,697,32"/>
+<area shape="rect" id="node9" title=" " alt="" coords="721,5,787,32"/>
+</map>

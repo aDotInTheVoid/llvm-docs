@@ -1,0 +1,4 @@
+<map id="llvm::TargetTransformInfoImplBase" name="llvm::TargetTransformInfoImplBase">
+<area shape="rect" id="node1" title="Base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class." alt="" coords="5,95,195,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="71,5,129,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="llvm::LLVMRemarkSetupFileError" name="llvm::LLVMRemarkSetupFileError">
+<area shape="rect" id="node1" title=" " alt="" coords="1720,113,1924,155"/>
+<area shape="rect" id="node2" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="1400,72,1653,113"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="635,5,849,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="5,75,152,102"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="201,68,376,109"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="641,137,843,163"/>
+<area shape="rect" id="node6" title=" " alt="" coords="713,78,771,105"/>
+<area shape="rect" id="node8" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="929,128,1141,169"/>
+<area shape="rect" id="node7" title=" " alt="" coords="697,201,787,227"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1501,138,1552,165"/>
+</map>

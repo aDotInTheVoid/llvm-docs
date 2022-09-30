@@ -1,0 +1,4 @@
+<map id="llvm::TargetInstrInfo::RegSubRegPair" name="llvm::TargetInstrInfo::RegSubRegPair">
+<area shape="rect" id="node1" title="A pair composed of a register and a sub&#45;register index." alt="" coords="17,5,156,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1TargetInstrInfo_1_1RegSubRegPairAndIdx.html" title="A pair composed of a pair of a register and a sub&#45;register index, and another sub&#45;register index." alt="" coords="5,95,168,136"/>
+</map>

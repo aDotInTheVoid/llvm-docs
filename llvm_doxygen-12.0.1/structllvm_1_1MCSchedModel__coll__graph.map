@@ -1,0 +1,15 @@
+<map id="llvm::MCSchedModel" name="llvm::MCSchedModel">
+<area shape="rect" id="node1" title="Machine model for scheduling, bundling, and heuristics." alt="" coords="1080,449,1227,476"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MCProcResourceDesc.html" title="Define a kind of processor resource that will be modeled by the scheduler." alt="" coords="313,119,501,145"/>
+<area shape="rect" id="node3" title=" " alt="" coords="19,436,66,463"/>
+<area shape="rect" id="node6" href="$structllvm_1_1MCSchedClassDesc.html" title="Summarize the scheduling resources required for an instruction of a particular scheduling class." alt="" coords="319,475,495,501"/>
+<area shape="rect" id="node12" href="$structllvm_1_1MCRegisterFileDesc.html" title="A register file descriptor." alt="" coords="320,592,495,619"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,84,62,111"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="5,236,80,263"/>
+<area shape="rect" id="node11" href="$structllvm_1_1MCExtraProcessorInfo.html" title="Provide extra details about the machine processor." alt="" coords="728,423,915,449"/>
+<area shape="rect" id="node13" href="$structllvm_1_1MCRegisterCostEntry.html" title="Specify the cost of a register definition in terms of number of physical register allocated at regist..." alt="" coords="316,423,499,449"/>
+<area shape="rect" id="node7" title=" " alt="" coords="9,888,77,915"/>
+<area shape="rect" id="node9" href="$structllvm_1_1InstrItinerary.html" title="An itinerary represents the scheduling information for an instruction." alt="" coords="343,977,471,1004"/>
+<area shape="rect" id="node8" href="$classbool.html" title=" " alt="" coords="19,609,66,636"/>
+<area shape="rect" id="node10" title=" " alt="" coords="12,1023,73,1049"/>
+</map>

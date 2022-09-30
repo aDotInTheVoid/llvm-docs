@@ -1,0 +1,52 @@
+<map id="lib/Support/FileCollector.cpp" name="lib/Support/FileCollector.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1593,5,1795,32"/>
+<area shape="rect" id="node2" href="$FileCollector_8h.html" title=" " alt="" coords="2627,80,2828,107"/>
+<area shape="rect" id="node37" href="$FileSystem_8h.html" title=" " alt="" coords="1237,244,1431,271"/>
+<area shape="rect" id="node38" href="$SmallString_8h.html" title=" " alt="" coords="1415,401,1589,427"/>
+<area shape="rect" id="node39" href="$Twine_8h.html" title=" " alt="" coords="1104,401,1239,427"/>
+<area shape="rect" id="node46" href="$Path_8h.html" title=" " alt="" coords="3667,319,3817,345"/>
+<area shape="rect" id="node49" href="$Process_8h.html" title=" " alt="" coords="1734,80,1905,107"/>
+<area shape="rect" id="node3" href="$StringMap_8h.html" title=" " alt="" coords="3479,319,3643,345"/>
+<area shape="rect" id="node16" title=" " alt="" coords="705,579,763,606"/>
+<area shape="rect" id="node23" href="$StringSet_8h.html" title=" " alt="" coords="3531,162,3689,189"/>
+<area shape="rect" id="node24" href="$VirtualFileSystem_8h.html" title=" " alt="" coords="1969,155,2144,196"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3393,162,3457,189"/>
+<area shape="rect" id="node4" href="$StringMapEntry_8h.html" title=" " alt="" coords="2856,401,3052,427"/>
+<area shape="rect" id="node17" href="$iterator_8h.html" title=" " alt="" coords="3905,490,4051,517"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3841,579,3912,606"/>
+<area shape="rect" id="node19" href="$AllocatorBase_8h.html" title=" " alt="" coords="3619,490,3830,517"/>
+<area shape="rect" id="node20" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="3306,393,3487,435"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3333,579,3444,606"/>
+<area shape="rect" id="node5" href="$None_8h.html" title=" " alt="" coords="2860,490,2992,517"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title=" " alt="" coords="1263,490,1421,517"/>
+<area shape="rect" id="node7" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="1233,579,1462,606"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2515,661,2575,688"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title=" " alt="" coords="1106,661,1285,688"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1627,579,1713,606"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2238,579,2307,606"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1737,579,1808,606"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1537,579,1603,606"/>
+<area shape="rect" id="node9" title=" " alt="" coords="630,661,697,688"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,736,191,763"/>
+<area shape="rect" id="node21" href="$Support_2DataTypes_8h.html" title=" " alt="" coords="3305,490,3494,517"/>
+<area shape="rect" id="node25" href="$IntrusiveRefCntPtr_8h.html" title=" " alt="" coords="1597,483,1783,524"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1833,579,1910,606"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title=" " alt="" coords="3128,401,3281,427"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title=" " alt="" coords="1960,490,2135,517"/>
+<area shape="rect" id="node32" href="$Chrono_8h.html" title=" " alt="" coords="288,319,455,345"/>
+<area shape="rect" id="node33" title=" " alt="" coords="389,401,447,427"/>
+<area shape="rect" id="node34" href="$ErrorOr_8h.html" title=" " alt="" coords="2360,401,2527,427"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2637,490,2745,517"/>
+<area shape="rect" id="node36" href="$Errc_8h.html" title=" " alt="" coords="2533,244,2679,271"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2120,401,2183,427"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1423,319,1480,345"/>
+<area shape="rect" id="node47" href="$Support_2SourceMgr_8h.html" title=" " alt="" coords="2095,319,2285,345"/>
+<area shape="rect" id="node28" href="$type__traits_8h.html" title=" " alt="" coords="2383,579,2573,606"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1935,579,2000,606"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2127,579,2213,606"/>
+<area shape="rect" id="node40" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="877,490,1087,517"/>
+<area shape="rect" id="node41" href="$Support_2Error_8h.html" title=" " alt="" coords="1765,319,1916,345"/>
+<area shape="rect" id="node43" href="$UniqueID_8h.html" title=" " alt="" coords="445,572,626,613"/>
+<area shape="rect" id="node44" href="$MD5_8h.html" title=" " alt="" coords="675,401,825,427"/>
+<area shape="rect" id="node50" href="$Program_8h.html" title=" " alt="" coords="1606,162,1782,189"/>
+</map>

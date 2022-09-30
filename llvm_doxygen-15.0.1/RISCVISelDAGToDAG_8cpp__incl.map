@@ -1,0 +1,52 @@
+<map id="lib/Target/RISCV/RISCVISelDAGToDAG.cpp" name="lib/Target/RISCV/RISCVISelDAGToDAG.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2645,5,2837,47"/>
+<area shape="rect" id="node2" href="$RISCVISelDAGToDAG_8h.html" title=" " alt="" coords="608,95,777,121"/>
+<area shape="rect" id="node5" href="$RISCVMCTargetDesc_8h.html" title=" " alt="" coords="358,557,577,599"/>
+<area shape="rect" id="node23" href="$MathExtras_8h.html" title=" " alt="" coords="2123,647,2318,673"/>
+<area shape="rect" id="node27" title=" " alt="" coords="783,565,1005,591"/>
+<area shape="rect" id="node30" href="$RISCVISelLowering_8h.html" title=" " alt="" coords="2036,319,2192,345"/>
+<area shape="rect" id="node34" href="$Alignment_8h.html" title=" " alt="" coords="2928,565,3116,591"/>
+<area shape="rect" id="node42" href="$RISCVMatInt_8h.html" title=" " alt="" coords="2977,475,3189,502"/>
+<area shape="rect" id="node43" href="$RISCVMachineFunctionInfo_8h.html" title=" " alt="" coords="2637,169,2845,196"/>
+<area shape="rect" id="node45" href="$raw__ostream_8h.html" title=" " alt="" coords="3192,565,3399,591"/>
+<area shape="rect" id="node47" href="$MachineFrameInfo_8h.html" title=" " alt="" coords="3485,468,3700,509"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3512,95,3692,121"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title=" " alt="" coords="3717,95,3879,121"/>
+<area shape="rect" id="node50" href="$KnownBits_8h.html" title=" " alt="" coords="2395,475,2585,502"/>
+<area shape="rect" id="node3" href="$RISCV_8h.html" title=" " alt="" coords="984,393,1055,420"/>
+<area shape="rect" id="node28" href="$RISCVTargetMachine_8h.html" title=" " alt="" coords="517,169,685,196"/>
+<area shape="rect" id="node40" href="$SelectionDAGISel_8h.html" title=" " alt="" coords="517,393,759,420"/>
+<area shape="rect" id="node41" title=" " alt="" coords="709,169,871,196"/>
+<area shape="rect" id="node4" href="$RISCVBaseInfo_8h.html" title=" " alt="" coords="834,475,1061,502"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title=" " alt="" coords="2393,647,2550,673"/>
+<area shape="rect" id="node22" href="$SubtargetFeature_8h.html" title=" " alt="" coords="1720,565,1924,591"/>
+<area shape="rect" id="node6" title=" " alt="" coords="425,647,576,673"/>
+<area shape="rect" id="node7" href="$MCTargetOptions_8h.html" title=" " alt="" coords="1227,647,1430,673"/>
+<area shape="rect" id="node10" href="$Support_2DataTypes_8h.html" title=" " alt="" coords="1454,647,1643,673"/>
+<area shape="rect" id="node11" title=" " alt="" coords="737,721,814,748"/>
+<area shape="rect" id="node12" title=" " alt="" coords="23,647,213,673"/>
+<area shape="rect" id="node13" title=" " alt="" coords="237,647,401,673"/>
+<area shape="rect" id="node14" title=" " alt="" coords="651,647,849,673"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1273,721,1331,748"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1852,721,1915,748"/>
+<area shape="rect" id="node16" href="$Compiler_8h.html" title=" " alt="" coords="2514,721,2693,748"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3051,721,3121,748"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2833,721,2904,748"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2341,721,2407,748"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2431,721,2490,748"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2717,721,2809,748"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1157,721,1223,748"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2189,721,2252,748"/>
+<area shape="rect" id="node26" title=" " alt="" coords="3674,721,3741,748"/>
+<area shape="rect" id="node29" href="$RISCVSubtarget_8h.html" title=" " alt="" coords="846,244,982,271"/>
+<area shape="rect" id="node31" href="$CallingConvLower_8h.html" title=" " alt="" coords="3213,468,3409,509"/>
+<area shape="rect" id="node36" href="$SelectionDAG_8h.html" title=" " alt="" coords="2101,475,2319,502"/>
+<area shape="rect" id="node39" href="$TargetLowering_8h.html" title=" " alt="" coords="1999,393,2229,420"/>
+<area shape="rect" id="node32" href="$SmallVector_8h.html" title=" " alt="" coords="2676,647,2851,673"/>
+<area shape="rect" id="node33" href="$Register_8h.html" title=" " alt="" coords="3627,565,3809,591"/>
+<area shape="rect" id="node35" href="$Optional_8h.html" title=" " alt="" coords="2927,647,3080,673"/>
+<area shape="rect" id="node37" href="$APInt_8h.html" title=" " alt="" coords="2000,565,2132,591"/>
+<area shape="rect" id="node38" href="$MachineFunction_8h.html" title=" " alt="" coords="2309,565,2549,591"/>
+<area shape="rect" id="node44" href="$MIRYamlMapping_8h.html" title=" " alt="" coords="2661,475,2903,502"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3409,647,3517,673"/>
+</map>

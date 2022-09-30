@@ -1,0 +1,10 @@
+<map id="llvm::InstructionSelect" name="llvm::InstructionSelect">
+<area shape="rect" id="node1" title="This pass is responsible for selecting generic machine instructions to target&#45;specific instructions." alt="" coords="644,107,812,133"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="335,5,533,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations." alt="" coords="143,5,285,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ProfileSummaryInfo.html" title="Analysis providing profile information." alt="" coords="340,56,528,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1BlockFrequencyInfo.html" title="BlockFrequencyInfo pass uses BlockFrequencyInfoImpl implementation to estimate IR basic block frequen..." alt="" coords="341,107,527,133"/>
+<area shape="rect" id="node7" title=" " alt="" coords="409,157,459,184"/>
+<area shape="rect" id="node8" title=" " alt="" coords="405,208,463,235"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/ObjectYAML/CodeViewYAMLDebugSections.cpp" name="lib/ObjectYAML/CodeViewYAMLDebugSections.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2787,5,3053,47"/>
+<area shape="rect" id="node2" href="$CodeViewYAMLDebugSections_8h.html" title=" " alt="" coords="2146,273,2347,315"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title=" " alt="" coords="2044,691,2207,717"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2915,840,2984,867"/>
+<area shape="rect" id="node8" title=" " alt="" coords="417,840,495,867"/>
+<area shape="rect" id="node14" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="600,765,811,792"/>
+<area shape="rect" id="node15" title=" " alt="" coords="331,840,389,867"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1661,765,1747,792"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3251,765,3317,792"/>
+<area shape="rect" id="node22" title=" " alt="" coords="5463,765,5518,792"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3034,691,3097,717"/>
+<area shape="rect" id="node24" href="$StringRef_8h.html" title=" " alt="" coords="2305,616,2463,643"/>
+<area shape="rect" id="node25" href="$CodeView_8h.html" title=" " alt="" coords="3713,452,3903,493"/>
+<area shape="rect" id="node26" href="$Endian_8h.html" title=" " alt="" coords="4345,541,4511,568"/>
+<area shape="rect" id="node27" href="$DebugSubsection_8h.html" title=" " alt="" coords="3693,363,3883,404"/>
+<area shape="rect" id="node29" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="2082,459,2233,486"/>
+<area shape="rect" id="node30" href="$StringExtras_8h.html" title=" " alt="" coords="1322,541,1499,568"/>
+<area shape="rect" id="node31" href="$raw__ostream_8h.html" title=" " alt="" coords="1841,541,2047,568"/>
+<area shape="rect" id="node32" href="$YAMLTraits_8h.html" title=" " alt="" coords="1234,459,1425,486"/>
+<area shape="rect" id="node33" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1195,691,1373,717"/>
+<area shape="rect" id="node34" href="$BinaryFormat_2COFF_8h.html" title=" " alt="" coords="5593,102,5785,129"/>
+<area shape="rect" id="node35" href="$CodeViewError_8h.html" title=" " alt="" coords="1778,184,1969,225"/>
+<area shape="rect" id="node36" href="$DebugChecksumsSubsection_8h.html" title=" " alt="" coords="2487,273,2713,315"/>
+<area shape="rect" id="node37" href="$BinaryStreamReader_8h.html" title=" " alt="" coords="2741,363,2939,404"/>
+<area shape="rect" id="node38" href="$DebugCrossExSubsection_8h.html" title=" " alt="" coords="3256,273,3459,315"/>
+<area shape="rect" id="node39" href="$DebugCrossImpSubsection_8h.html" title=" " alt="" coords="2789,273,3001,315"/>
+<area shape="rect" id="node40" href="$DebugFrameDataSubsection_8h.html" title=" " alt="" coords="3538,273,3761,315"/>
+<area shape="rect" id="node41" href="$DebugInlineeLinesSubsection_8h.html" title=" " alt="" coords="4769,273,4999,315"/>
+<area shape="rect" id="node42" href="$Line_8h.html" title=" " alt="" coords="4973,363,5163,404"/>
+<area shape="rect" id="node43" href="$TypeIndex_8h.html" title=" " alt="" coords="5125,452,5315,493"/>
+<area shape="rect" id="node44" href="$DebugLinesSubsection_8h.html" title=" " alt="" coords="4199,273,4390,315"/>
+<area shape="rect" id="node45" href="$DebugStringTableSubsection_8h.html" title=" " alt="" coords="3901,273,4123,315"/>
+<area shape="rect" id="node46" href="$DebugSubsectionVisitor_8h.html" title=" " alt="" coords="3033,95,3225,136"/>
+<area shape="rect" id="node47" href="$StringsAndChecksums_8h.html" title=" " alt="" coords="3167,184,3358,225"/>
+<area shape="rect" id="node48" href="$DebugSymbolRVASubsection_8h.html" title=" " alt="" coords="4415,273,4641,315"/>
+<area shape="rect" id="node49" href="$DebugSymbolsSubsection_8h.html" title=" " alt="" coords="3025,273,3231,315"/>
+<area shape="rect" id="node50" href="$CodeViewYAMLSymbols_8h.html" title=" " alt="" coords="1298,363,1499,404"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title=" " alt="" coords="1701,616,1856,643"/>
+<area shape="rect" id="node28" href="$DebugSubsectionRecord_8h.html" title=" " alt="" coords="3117,363,3313,404"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1799,840,1870,867"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1091,840,1162,867"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1873,765,1983,792"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title=" " alt="" coords="1190,765,1343,792"/>
+<area shape="rect" id="node6" href="$STLForwardCompat_8h.html" title=" " alt="" coords="1381,840,1605,867"/>
+<area shape="rect" id="node9" href="$iterator_8h.html" title=" " alt="" coords="2161,765,2306,792"/>
+<area shape="rect" id="node10" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2299,840,2490,867"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2717,765,2912,792"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1571,765,1637,792"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3089,765,3175,792"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2533,765,2592,792"/>
+</map>

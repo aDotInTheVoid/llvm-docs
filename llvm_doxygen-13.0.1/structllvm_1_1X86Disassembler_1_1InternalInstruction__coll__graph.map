@@ -1,0 +1,22 @@
+<map id="llvm::X86Disassembler::InternalInstruction" name="llvm::X86Disassembler::InternalInstruction">
+<area shape="rect" id="node1" title="The x86 internal instruction, which is produced by the decoder." alt="" coords="883,482,1056,523"/>
+<area shape="rect" id="node2" title=" " alt="" coords="453,29,583,56"/>
+<area shape="rect" id="node3" title=" " alt="" coords="439,80,597,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="481,131,555,157"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="379,182,657,223"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="5,219,160,245"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="423,248,613,275"/>
+<area shape="rect" id="node7" href="$classuint16__t.html" title=" " alt="" coords="481,299,555,325"/>
+<area shape="rect" id="node8" title=" " alt="" coords="485,349,551,376"/>
+<area shape="rect" id="node9" href="$classsize__t.html" title=" " alt="" coords="488,400,548,427"/>
+<area shape="rect" id="node10" title=" " alt="" coords="481,451,555,477"/>
+<area shape="rect" id="node11" title=" " alt="" coords="493,541,543,568"/>
+<area shape="rect" id="node12" title=" " alt="" coords="485,728,551,755"/>
+<area shape="rect" id="node13" title=" " alt="" coords="467,779,569,805"/>
+<area shape="rect" id="node14" title=" " alt="" coords="450,829,586,856"/>
+<area shape="rect" id="node16" title=" " alt="" coords="483,884,553,911"/>
+<area shape="rect" id="node17" title=" " alt="" coords="479,941,557,968"/>
+<area shape="rect" id="node18" title=" " alt="" coords="489,992,547,1019"/>
+<area shape="rect" id="node19" title=" " alt="" coords="495,1093,541,1120"/>
+<area shape="rect" id="node20" title=" " alt="" coords="445,1144,591,1171"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::WritableBinaryStreamRef" name="llvm::WritableBinaryStreamRef">
+<area shape="rect" id="node1" title=" " alt="" coords="1332,129,1557,156"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BinaryStreamRefBase.html" title=" " alt="" coords="1076,115,1283,171"/>
+<area shape="rect" id="node3" href="$classllvm_1_1WritableBinaryStream.html" title="A BinaryStream which can be read from as well as written to." alt="" coords="636,7,839,33"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BinaryStream.html" title="An interface for accessing data in a stream&#45;like format, but which discourages copying." alt="" coords="319,7,467,33"/>
+<area shape="rect" id="node5" href="$classuint64__t.html" title=" " alt="" coords="355,147,430,173"/>
+<area shape="rect" id="node9" href="$classllvm_1_1BinaryStreamRefBase.html" title="Common stuff for mutable and immutable StreamRefs." alt="" coords="636,257,839,298"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title=" " alt="" coords="294,85,491,112"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,85,157,112"/>
+<area shape="rect" id="node8" href="$classstd_1_1shared__ptr_3_01WritableBinaryStream_01_4.html" title=" " alt="" coords="636,191,839,233"/>
+<area shape="rect" id="node10" title=" " alt="" coords="293,245,492,272"/>
+<area shape="rect" id="node11" title=" " alt="" coords="337,296,448,323"/>
+</map>

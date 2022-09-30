@@ -1,0 +1,10 @@
+<map id="llvm::windows_manifest::WindowsManifestError" name="llvm::windows_manifest::WindowsManifestError">
+<area shape="rect" id="node1" title=" " alt="" coords="246,469,427,511"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="173,379,362,420"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ECError.html" title="This class wraps a std::error_code in a Error." alt="" coords="214,289,321,316"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="171,185,364,212"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="131,5,278,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="55,81,229,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="389,185,439,212"/>
+<area shape="rect" id="node8" title=" " alt="" coords="55,185,146,212"/>
+</map>

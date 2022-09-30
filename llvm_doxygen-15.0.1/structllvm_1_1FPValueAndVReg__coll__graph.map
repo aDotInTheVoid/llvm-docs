@@ -1,0 +1,9 @@
+<map id="llvm::FPValueAndVReg" name="llvm::FPValueAndVReg">
+<area shape="rect" id="node1" title=" " alt="" coords="250,347,421,373"/>
+<area shape="rect" id="node2" href="$classllvm_1_1APFloat.html" title=" " alt="" coords="213,257,322,284"/>
+<area shape="rect" id="node3" href="$structllvm_1_1APFloatBase.html" title="A self&#45;contained host&#45; and target&#45;independent arbitrary&#45;precision floating&#45;point software implementat..." alt="" coords="134,153,275,180"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="253,5,335,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="300,153,360,180"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="347,257,460,284"/>
+</map>

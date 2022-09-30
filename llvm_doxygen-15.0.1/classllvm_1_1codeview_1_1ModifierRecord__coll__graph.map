@@ -1,0 +1,8 @@
+<map id="llvm::codeview::ModifierRecord" name="llvm::codeview::ModifierRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="204,228,385,269"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="5,139,208,165"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,170,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="232,139,357,165"/>
+<area shape="rect" id="node5" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="381,139,576,165"/>
+<area shape="rect" id="node6" title=" " alt="" coords="450,5,507,32"/>
+</map>

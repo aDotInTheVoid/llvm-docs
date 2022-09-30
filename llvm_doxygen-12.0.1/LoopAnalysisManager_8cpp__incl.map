@@ -1,0 +1,52 @@
+<map id="lib/Analysis/LoopAnalysisManager.cpp" name="lib/Analysis/LoopAnalysisManager.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1807,5,1977,47"/>
+<area shape="rect" id="node2" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses." alt="" coords="1459,184,1639,225"/>
+<area shape="rect" id="node31" href="$AssumptionCache_8h.html" title=" " alt="" coords="1135,184,1307,225"/>
+<area shape="rect" id="node33" href="$BasicAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s primary stateless and local alias analysis." alt="" coords="1161,95,1327,136"/>
+<area shape="rect" id="node36" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals." alt="" coords="2426,95,2598,136"/>
+<area shape="rect" id="node38" href="$LoopInfo_8h.html" title=" " alt="" coords="683,191,847,218"/>
+<area shape="rect" id="node43" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="3911,102,4100,129"/>
+<area shape="rect" id="node46" href="$Dominators_8h.html" title=" " alt="" coords="3060,191,3207,218"/>
+<area shape="rect" id="node48" href="$ScalarEvolution_8h.html" title=" " alt="" coords="1951,191,2155,218"/>
+<area shape="rect" id="node49" href="$ScalarEvolutionAliasAnalysis_8h.html" title="This is the interface for a SCEV&#45;based alias analysis." alt="" coords="2622,95,2815,136"/>
+<area shape="rect" id="node50" href="$PassManagerImpl_8h.html" title=" " alt="" coords="1441,102,1625,129"/>
+<area shape="rect" id="node3" href="$PostOrderIterator_8h.html" title=" " alt="" coords="2219,348,2410,375"/>
+<area shape="rect" id="node12" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1361,273,1519,300"/>
+<area shape="rect" id="node4" href="$GraphTraits_8h.html" title=" " alt="" coords="2638,423,2797,449"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3497,871,3668,897"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1771,945,1824,972"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title=" " alt="" coords="3980,423,4119,449"/>
+<area shape="rect" id="node9" href="$SmallPtrSet_8h.html" title=" " alt="" coords="668,423,828,449"/>
+<area shape="rect" id="node10" href="$SmallVector_8h.html" title=" " alt="" coords="1513,796,1674,823"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2322,871,2393,897"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1117,871,1192,897"/>
+<area shape="rect" id="node13" href="$DenseMap_8h.html" title=" " alt="" coords="549,572,704,599"/>
+<area shape="rect" id="node17" href="$Function_8h.html" title=" " alt="" coords="3469,423,3598,449"/>
+<area shape="rect" id="node28" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="3673,348,3794,375"/>
+<area shape="rect" id="node29" href="$Pass_8h.html" title=" " alt="" coords="2637,348,2728,375"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1699,348,1738,375"/>
+<area shape="rect" id="node14" href="$DenseMapInfo_8h.html" title=" " alt="" coords="1877,647,2053,673"/>
+<area shape="rect" id="node15" href="$ArrayRef_8h.html" title=" " alt="" coords="2013,721,2155,748"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3133,721,3195,748"/>
+<area shape="rect" id="node18" href="$DenseSet_8h.html" title=" " alt="" coords="918,497,1066,524"/>
+<area shape="rect" id="node19" href="$ilist__node_8h.html" title=" " alt="" coords="4391,721,4537,748"/>
+<area shape="rect" id="node20" href="$BasicBlock_8h.html" title=" " alt="" coords="4723,497,4869,524"/>
+<area shape="rect" id="node27" href="$Value_8h.html" title=" " alt="" coords="4034,721,4145,748"/>
+<area shape="rect" id="node21" href="$ilist_8h.html" title=" " alt="" coords="4909,572,5019,599"/>
+<area shape="rect" id="node23" href="$iterator_8h.html" title=" " alt="" coords="4713,721,4844,748"/>
+<area shape="rect" id="node24" href="$IR_2Instruction_8h.html" title=" " alt="" coords="4130,572,4270,599"/>
+<area shape="rect" id="node22" href="$simple__ilist_8h.html" title=" " alt="" coords="4865,647,5020,673"/>
+<area shape="rect" id="node25" href="$User_8h.html" title=" " alt="" coords="4431,647,4537,673"/>
+<area shape="rect" id="node26" href="$Use_8h.html" title="This defines the Use class." alt="" coords="4074,796,4177,823"/>
+<area shape="rect" id="node32" href="$ValueHandle_8h.html" title=" " alt="" coords="2203,273,2355,300"/>
+<area shape="rect" id="node34" href="$AliasAnalysis_8h.html" title=" " alt="" coords="2416,191,2608,218"/>
+<area shape="rect" id="node35" href="$MemoryLocation_8h.html" title="This file provides utility analysis objects describing memory locations." alt="" coords="2733,273,2944,300"/>
+<area shape="rect" id="node37" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4224,348,4363,375"/>
+<area shape="rect" id="node39" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="3288,348,3395,375"/>
+<area shape="rect" id="node40" href="$Instructions_8h.html" title=" " alt="" coords="3424,273,3571,300"/>
+<area shape="rect" id="node42" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1208,348,1371,375"/>
+<area shape="rect" id="node41" href="$Type_8h.html" title=" " alt="" coords="3005,348,3112,375"/>
+<area shape="rect" id="node44" href="$PHITransAddr_8h.html" title=" " alt="" coords="2946,497,3139,524"/>
+<area shape="rect" id="node45" href="$DerivedUser_8h.html" title=" " alt="" coords="4549,497,4699,524"/>
+<area shape="rect" id="node47" href="$Operator_8h.html" title=" " alt="" coords="4130,273,4259,300"/>
+</map>

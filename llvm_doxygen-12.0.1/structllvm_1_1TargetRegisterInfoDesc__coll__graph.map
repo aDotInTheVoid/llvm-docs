@@ -1,0 +1,5 @@
+<map id="llvm::TargetRegisterInfoDesc" name="llvm::TargetRegisterInfoDesc">
+<area shape="rect" id="node1" title="Extra information, not in MCRegisterDesc, about registers." alt="" coords="5,95,196,121"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="5,5,52,32"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="135,5,210,32"/>
+</map>

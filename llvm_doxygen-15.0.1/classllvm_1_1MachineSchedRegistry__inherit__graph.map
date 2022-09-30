@@ -1,0 +1,5 @@
+<map id="llvm::MachineSchedRegistry" name="llvm::MachineSchedRegistry">
+<area shape="rect" id="node1" title="MachineSchedRegistry provides a selection of available machine instruction schedulers." alt="" coords="15,229,222,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryNode.html" title=" " alt="" coords="5,124,232,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistryNode.html" title="MachinePassRegistryNode &#45; Machine pass node stored in registration list." alt="" coords="20,5,217,47"/>
+</map>

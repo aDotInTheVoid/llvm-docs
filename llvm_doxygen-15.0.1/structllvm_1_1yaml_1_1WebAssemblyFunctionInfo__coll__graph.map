@@ -1,0 +1,12 @@
+<map id="llvm::yaml::WebAssemblyFunctionInfo" name="llvm::yaml::WebAssemblyFunctionInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="1759,87,2031,113"/>
+<area shape="rect" id="node2" href="$structllvm_1_1yaml_1_1MachineFunctionInfo.html" title="Targets should override this in a way that mirrors the implementation of llvm::MachineFunctionInfo." alt="" coords="1359,5,1593,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1451,56,1501,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1401,109,1551,150"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1394,174,1558,215"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="739,89,943,218"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DebugEpochBase.html" title=" " alt="" coords="5,203,177,229"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="227,188,419,244"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="709,243,973,357"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1023,214,1233,255"/>
+</map>

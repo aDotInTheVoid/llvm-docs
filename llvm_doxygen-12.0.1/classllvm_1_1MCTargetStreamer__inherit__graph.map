@@ -1,0 +1,36 @@
+<map id="llvm::MCTargetStreamer" name="llvm::MCTargetStreamer">
+<area shape="rect" id="node1" title="Target specific streamer interface." alt="" coords="5,436,168,463"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64TargetStreamer.html" title=" " alt="" coords="233,56,426,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUTargetStreamer.html" title=" " alt="" coords="229,107,429,133"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ARCTargetStreamer.html" title=" " alt="" coords="244,157,415,184"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ARMTargetStreamer.html" title=" " alt="" coords="243,208,416,235"/>
+<area shape="rect" id="node10" href="$classllvm_1_1AVRTargetStreamer.html" title="A generic AVR target output stream." alt="" coords="245,259,414,285"/>
+<area shape="rect" id="node13" href="$classllvm_1_1HexagonTargetStreamer.html" title=" " alt="" coords="233,309,426,336"/>
+<area shape="rect" id="node14" href="$classllvm_1_1MSP430TargetELFStreamer.html" title=" " alt="" coords="221,360,438,387"/>
+<area shape="rect" id="node15" href="$classllvm_1_1MipsTargetStreamer.html" title=" " alt="" coords="244,411,415,437"/>
+<area shape="rect" id="node18" href="$classllvm_1_1NVPTXTargetStreamer.html" title="Implments NVPTX&#45;specific streamer." alt="" coords="235,461,423,488"/>
+<area shape="rect" id="node19" href="$classllvm_1_1PPCTargetStreamer.html" title=" " alt="" coords="245,512,414,539"/>
+<area shape="rect" id="node20" href="$classllvm_1_1RISCVTargetStreamer.html" title=" " alt="" coords="238,563,421,589"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SparcTargetStreamer.html" title=" " alt="" coords="241,613,418,640"/>
+<area shape="rect" id="node26" href="$classllvm_1_1VETargetStreamer.html" title=" " alt="" coords="249,664,410,691"/>
+<area shape="rect" id="node29" href="$classllvm_1_1WebAssemblyTargetStreamer.html" title="WebAssembly&#45;specific streamer interface, to implement support WebAssembly&#45;specific assembly directive..." alt="" coords="216,744,443,771"/>
+<area shape="rect" id="node33" href="$classllvm_1_1X86TargetStreamer.html" title="X86 target streamer implementing x86&#45;only assembly directives." alt="" coords="246,795,413,821"/>
+<area shape="rect" id="node34" href="$classllvm_1_1XCoreTargetStreamer.html" title=" " alt="" coords="240,845,419,872"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AArch64TargetELFStreamer.html" title=" " alt="" coords="508,5,725,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AArch64TargetWinCOFFStreamer.html" title=" " alt="" coords="491,56,743,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AMDGPUTargetAsmStreamer.html" title=" " alt="" coords="503,107,730,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1AMDGPUTargetELFStreamer.html" title=" " alt="" coords="505,157,729,184"/>
+<area shape="rect" id="node11" href="$classllvm_1_1AVRELFStreamer.html" title="A target streamer for an AVR ELF object file." alt="" coords="538,233,695,260"/>
+<area shape="rect" id="node12" href="$classllvm_1_1AVRTargetAsmStreamer.html" title="A target streamer for textual AVR assembly code." alt="" coords="519,284,715,311"/>
+<area shape="rect" id="node16" href="$classllvm_1_1MipsTargetAsmStreamer.html" title=" " alt="" coords="517,360,716,387"/>
+<area shape="rect" id="node17" href="$classllvm_1_1MipsTargetELFStreamer.html" title=" " alt="" coords="519,411,714,437"/>
+<area shape="rect" id="node21" href="$classllvm_1_1RISCVTargetAsmStreamer.html" title=" " alt="" coords="511,461,722,488"/>
+<area shape="rect" id="node22" href="$classllvm_1_1RISCVTargetELFStreamer.html" title=" " alt="" coords="513,512,720,539"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SparcTargetAsmStreamer.html" title=" " alt="" coords="515,563,719,589"/>
+<area shape="rect" id="node25" href="$classllvm_1_1SparcTargetELFStreamer.html" title=" " alt="" coords="516,613,717,640"/>
+<area shape="rect" id="node27" href="$classllvm_1_1VETargetAsmStreamer.html" title=" " alt="" coords="523,664,711,691"/>
+<area shape="rect" id="node28" href="$classllvm_1_1VETargetELFStreamer.html" title=" " alt="" coords="524,715,709,741"/>
+<area shape="rect" id="node30" href="$classllvm_1_1WebAssemblyTargetAsmStreamer.html" title="This part is for ascii assembly output." alt="" coords="516,766,717,807"/>
+<area shape="rect" id="node31" href="$classllvm_1_1WebAssemblyTargetNullStreamer.html" title="This part is for null output." alt="" coords="518,831,715,873"/>
+<area shape="rect" id="node32" href="$classllvm_1_1WebAssemblyTargetWasmStreamer.html" title="This part is for Wasm object output." alt="" coords="511,897,722,938"/>
+</map>

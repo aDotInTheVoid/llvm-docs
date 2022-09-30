@@ -1,0 +1,52 @@
+<map id="include/llvm/Analysis/ScalarEvolutionExpressions.h" name="include/llvm/Analysis/ScalarEvolutionExpressions.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3845,5,4043,47"/>
+<area shape="rect" id="node2" href="$LoopAccessAnalysis_8h.html" title=" " alt="" coords="1343,95,1502,136"/>
+<area shape="rect" id="node4" href="$TargetTransformInfoImpl_8h.html" title="This file provides helpers for the implementation of a TargetTransformInfo&#45;conforming class." alt="" coords="5,288,184,329"/>
+<area shape="rect" id="node5" href="$LoopAccessAnalysis_8cpp.html" title=" " alt="" coords="414,295,653,322"/>
+<area shape="rect" id="node6" href="$VectorUtils_8cpp.html" title=" " alt="" coords="208,295,389,322"/>
+<area shape="rect" id="node7" href="$LoopVectorize_8cpp.html" title=" " alt="" coords="1565,288,1726,329"/>
+<area shape="rect" id="node8" href="$SLPVectorizer_8cpp.html" title=" " alt="" coords="677,288,838,329"/>
+<area shape="rect" id="node14" href="$LoopIdiomRecognize_8cpp.html" title=" " alt="" coords="1971,191,2141,233"/>
+<area shape="rect" id="node15" href="$LoopLoadElimination_8cpp.html" title=" " alt="" coords="2165,191,2336,233"/>
+<area shape="rect" id="node17" href="$LoopUtils_8cpp.html" title=" " alt="" coords="2411,191,2546,233"/>
+<area shape="rect" id="node19" href="$LoopUnrollAnalyzer_8h.html" title=" " alt="" coords="4191,95,4340,136"/>
+<area shape="rect" id="node21" href="$ScalarEvolutionAliasAnalysis_8h.html" title="This is the interface for a SCEV&#45;based alias analysis." alt="" coords="2641,95,2847,136"/>
+<area shape="rect" id="node22" href="$IVDescriptors_8cpp.html" title=" " alt="" coords="2735,199,2932,225"/>
+<area shape="rect" id="node23" href="$ScalarEvolutionDivision_8h.html" title=" " alt="" coords="4415,95,4590,136"/>
+<area shape="rect" id="node24" href="$ScalarEvolution_8cpp.html" title=" " alt="" coords="5157,199,5363,225"/>
+<area shape="rect" id="node25" href="$ScalarEvolutionExpander_8h.html" title=" " alt="" coords="3465,95,3679,136"/>
+<area shape="rect" id="node26" href="$MVETailPredication_8cpp.html" title="Armv8.1m introduced MVE, M&#45;Profile Vector Extension, and low&#45;overhead branches to help accelerate DSP..." alt="" coords="2957,199,3209,225"/>
+<area shape="rect" id="node27" href="$HexagonLoopIdiomRecognition_8cpp.html" title=" " alt="" coords="3233,191,3463,233"/>
+<area shape="rect" id="node28" href="$PPCLoopInstrFormPrep_8cpp.html" title=" " alt="" coords="3488,191,3677,233"/>
+<area shape="rect" id="node29" href="$InductiveRangeCheckElimination_8cpp.html" title=" " alt="" coords="3752,191,3995,233"/>
+<area shape="rect" id="node30" href="$IndVarSimplify_8cpp.html" title=" " alt="" coords="4733,191,4878,233"/>
+<area shape="rect" id="node31" href="$LoopDataPrefetch_8cpp.html" title=" " alt="" coords="4019,191,4173,233"/>
+<area shape="rect" id="node32" href="$LoopPredication_8cpp.html" title=" " alt="" coords="4198,191,4343,233"/>
+<area shape="rect" id="node33" href="$LoopRerollPass_8cpp.html" title=" " alt="" coords="4367,191,4513,233"/>
+<area shape="rect" id="node34" href="$LoopStrengthReduce_8cpp.html" title=" " alt="" coords="4537,191,4709,233"/>
+<area shape="rect" id="node35" href="$SimplifyIndVar_8h.html" title=" " alt="" coords="4007,95,4167,136"/>
+<area shape="rect" id="node36" href="$Delinearization_8cpp.html" title=" " alt="" coords="4615,102,4817,129"/>
+<area shape="rect" id="node37" href="$DependenceAnalysis_8cpp.html" title=" " alt="" coords="4842,102,5081,129"/>
+<area shape="rect" id="node38" href="$IVUsers_8cpp.html" title=" " alt="" coords="5105,102,5271,129"/>
+<area shape="rect" id="node39" href="$Loads_8cpp.html" title=" " alt="" coords="5295,102,5447,129"/>
+<area shape="rect" id="node40" href="$LoopCacheAnalysis_8cpp.html" title="This file defines the implementation for the loop cache analysis." alt="" coords="5471,102,5702,129"/>
+<area shape="rect" id="node41" href="$LoopInfo_8cpp.html" title=" " alt="" coords="5726,102,5893,129"/>
+<area shape="rect" id="node42" href="$ScalarEvolutionNormalization_8cpp.html" title=" " alt="" coords="5917,95,6099,136"/>
+<area shape="rect" id="node43" href="$StackSafetyAnalysis_8cpp.html" title=" " alt="" coords="6123,95,6287,136"/>
+<area shape="rect" id="node44" href="$SafeStack_8cpp.html" title=" " alt="" coords="6312,102,6496,129"/>
+<area shape="rect" id="node45" href="$AArch64FalkorHWPFFix_8cpp.html" title=" " alt="" coords="6521,95,6711,136"/>
+<area shape="rect" id="node46" href="$AArch64StackTagging_8cpp.html" title=" " alt="" coords="6735,95,6915,136"/>
+<area shape="rect" id="node47" href="$AlignmentFromAssumptions_8cpp.html" title=" " alt="" coords="6939,95,7154,136"/>
+<area shape="rect" id="node48" href="$LoopFuse_8cpp.html" title="This file implements the loop fusion pass." alt="" coords="7178,95,7323,136"/>
+<area shape="rect" id="node49" href="$LoopInterchange_8cpp.html" title=" " alt="" coords="7348,95,7495,136"/>
+<area shape="rect" id="node50" href="$LoopPeel_8cpp.html" title=" " alt="" coords="7519,95,7654,136"/>
+<area shape="rect" id="node3" href="$VectorUtils_8h.html" title=" " alt="" coords="369,191,513,233"/>
+<area shape="rect" id="node9" href="$LoopVectorizationLegality_8h.html" title="This file defines the LoopVectorizationLegality class." alt="" coords="1552,184,1739,240"/>
+<area shape="rect" id="node10" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="1763,199,1946,225"/>
+<area shape="rect" id="node11" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations." alt="" coords="1107,191,1293,233"/>
+<area shape="rect" id="node12" href="$LoopAccessAnalysisPrinter_8cpp.html" title=" " alt="" coords="1317,191,1528,233"/>
+<area shape="rect" id="node13" href="$LoopDistribute_8cpp.html" title=" " alt="" coords="639,191,785,233"/>
+<area shape="rect" id="node16" href="$LoopVersioningLICM_8cpp.html" title=" " alt="" coords="809,191,981,233"/>
+<area shape="rect" id="node18" href="$LoopVersioning_8cpp.html" title=" " alt="" coords="2570,191,2710,233"/>
+<area shape="rect" id="node20" href="$LoopUnrollAnalyzer_8cpp.html" title=" " alt="" coords="4903,199,5132,225"/>
+</map>

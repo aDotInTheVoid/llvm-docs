@@ -1,0 +1,4 @@
+<map id="llvm::sys::UnicodeCharRange" name="llvm::sys::UnicodeCharRange">
+<area shape="rect" id="node1" title="Represents a closed range of Unicode code points [Lower, Upper]." alt="" coords="5,109,219,136"/>
+<area shape="rect" id="node2" href="$classuint32__t.html" title=" " alt="" coords="75,5,149,32"/>
+</map>

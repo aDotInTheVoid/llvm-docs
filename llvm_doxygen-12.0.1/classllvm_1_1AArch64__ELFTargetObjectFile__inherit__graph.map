@@ -1,0 +1,6 @@
+<map id="llvm::AArch64_ELFTargetObjectFile" name="llvm::AArch64_ELFTargetObjectFile">
+<area shape="rect" id="node1" title="This implementation is used for AArch64 ELF targets (Linux in particular)." alt="" coords="5,244,236,271"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title=" " alt="" coords="31,155,210,196"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFile.html" title=" " alt="" coords="21,80,221,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCObjectFileInfo.html" title=" " alt="" coords="43,5,199,32"/>
+</map>

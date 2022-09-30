@@ -1,0 +1,18 @@
+<map id="include/llvm/MCA/Stages" name="include/llvm/MCA/Stages">
+<area shape="rect" id="node1" href="dir_fbe0f53625974d46f52f6f50f19f6681.html" title="Stages" alt="" coords="80,52,152,100"/>
+<area shape="rect" id="node2" href="dir_3c463fb0a03f5ca9e2abd53334bc8356.html" title="MC" alt="" coords="56,244,128,292"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000263_000259.html" title="3" alt="" coords="94,218,103,233"/>
+<area shape="rect" id="node3" href="dir_ae1e398ac700924fa434b51c248a5531.html" title="Support" alt="" coords="5,340,77,388"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000263_000026.html" title="1" alt="" coords="42,314,52,328"/>
+<area shape="rect" id="node4" href="dir_32453792af2ba70c54e3ccae3a790d1b.html" title="ADT" alt="" coords="79,436,151,484"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000263_000007.html" title="5" alt="" coords="142,417,151,432"/>
+<area shape="rect" id="node5" href="dir_6174df76bdd178a8864b056604028b30.html" title="HardwareUnits" alt="" coords="106,148,225,196"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000263_000262.html" title="8" alt="" coords="148,121,157,135"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000259_000026.html" title="54" alt="" coords="61,321,78,335"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000259_000007.html" title="114" alt="" coords="105,409,131,424"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000026_000007.html" title="216" alt="" coords="71,409,96,424"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000007_000026.html" title="78" alt="" coords="64,400,81,415"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000262_000259.html" title="7" alt="" coords="123,227,132,242"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000262_000007.html" title="7" alt="" coords="126,412,135,427"/>
+<area shape="rect" id="clust1" href="dir_e10184ddeeb4432dba6c949335d8ab8d.html" title="MCA" alt="" coords="69,16,163,111"/>
+</map>

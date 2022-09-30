@@ -1,0 +1,8 @@
+<map id="llvm::WholeProgramDevirtPass" name="llvm::WholeProgramDevirtPass">
+<area shape="rect" id="node1" title=" " alt="" coords="217,228,424,255"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,109,204,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="36,5,173,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ModuleSummaryIndex.html" title="Class to hold module path string table and global value map, and encapsulate methods for operating on..." alt="" coords="228,117,413,143"/>
+<area shape="rect" id="node5" title=" " alt="" coords="287,13,355,39"/>
+<area shape="rect" id="node6" href="$classbool.html" title=" " alt="" coords="437,117,484,143"/>
+</map>

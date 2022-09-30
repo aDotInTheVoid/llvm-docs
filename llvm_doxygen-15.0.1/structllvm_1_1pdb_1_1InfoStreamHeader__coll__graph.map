@@ -1,0 +1,6 @@
+<map id="llvm::pdb::InfoStreamHeader" name="llvm::pdb::InfoStreamHeader">
+<area shape="rect" id="node1" title="The header preceding the global PDB Stream (Stream 1)" alt="" coords="459,44,669,71"/>
+<area shape="rect" id="node2" href="$structllvm_1_1codeview_1_1GUID.html" title="This represents the &#39;GUID&#39; type from windows.h." alt="" coords="168,7,331,33"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,7,72,33"/>
+<area shape="rect" id="node4" title=" " alt="" coords="155,67,344,123"/>
+</map>

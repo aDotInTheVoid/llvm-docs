@@ -1,0 +1,12 @@
+<map id="include/llvm/CodeGen/MachineSizeOpts.h" name="include/llvm/CodeGen/MachineSizeOpts.h">
+<area shape="rect" id="node1" title=" " alt="" coords="968,5,1119,47"/>
+<area shape="rect" id="node2" href="$BranchFolding_8cpp.html" title=" " alt="" coords="5,102,212,129"/>
+<area shape="rect" id="node3" href="$MachineBlockPlacement_8cpp.html" title=" " alt="" coords="236,95,416,136"/>
+<area shape="rect" id="node4" href="$MachineCombiner_8cpp.html" title=" " alt="" coords="440,102,668,129"/>
+<area shape="rect" id="node5" href="$MachineSizeOpts_8cpp.html" title=" " alt="" coords="692,102,917,129"/>
+<area shape="rect" id="node6" href="$TailDuplicator_8cpp.html" title=" " alt="" coords="942,102,1145,129"/>
+<area shape="rect" id="node7" href="$X86FixupBWInsts_8cpp.html" title="This file defines the pass that looks through the machine instructions late in the compilation,..." alt="" coords="1169,102,1405,129"/>
+<area shape="rect" id="node8" href="$X86FixupLEAs_8cpp.html" title=" " alt="" coords="1430,102,1649,129"/>
+<area shape="rect" id="node9" href="$X86OptimizeLEAs_8cpp.html" title=" " alt="" coords="1673,95,1853,136"/>
+<area shape="rect" id="node10" href="$X86PadShortFunction_8cpp.html" title=" " alt="" coords="1878,95,2062,136"/>
+</map>

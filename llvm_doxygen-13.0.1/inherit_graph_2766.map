@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1InstructionSelector.html" title="Provides the logic to select generic machine instructions." alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AMDGPUInstructionSelector.html" title=" " alt="" coords="235,5,475,32"/>
+</map>

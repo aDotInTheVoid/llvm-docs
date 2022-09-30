@@ -1,0 +1,4 @@
+<map id="AACaptureUseTracker" name="AACaptureUseTracker">
+<area shape="rect" id="node1" title="Attributor&#45;aware capture tracker." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CaptureTracker.html" title="This callback is used in conjunction with PointerMayBeCaptured." alt="" coords="9,5,165,32"/>
+</map>

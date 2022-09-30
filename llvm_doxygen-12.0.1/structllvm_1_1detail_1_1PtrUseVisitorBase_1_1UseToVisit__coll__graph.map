@@ -1,0 +1,7 @@
+<map id="llvm::detail::PtrUseVisitorBase::UseToVisit" name="llvm::detail::PtrUseVisitorBase::UseToVisit">
+<area shape="rect" id="node1" title="A struct of the data needed to visit a particular use." alt="" coords="30,257,201,299"/>
+<area shape="rect" id="node2" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers." alt="" coords="5,161,92,187"/>
+<area shape="rect" id="node3" title=" " alt="" coords="11,20,79,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="118,153,251,195"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer." alt="" coords="103,5,271,61"/>
+</map>

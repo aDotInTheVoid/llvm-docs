@@ -1,0 +1,8 @@
+<map id="llvm::ShouldRunExtraVectorPasses" name="llvm::ShouldRunExtraVectorPasses">
+<area shape="rect" id="node1" title="A marker to determine if extra passes after loop vectorization should be run." alt="" coords="1253,76,1456,117"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="936,35,1176,76"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="425,5,665,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,39,155,80"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="458,71,633,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AnalysisKey.html" title="A special type used by analysis passes to provide an address that identifies that particular analysis..." alt="" coords="987,101,1125,127"/>
+</map>

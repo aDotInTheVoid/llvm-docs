@@ -1,0 +1,7 @@
+<map id="llvm::OptimizationRemarkMissed" name="llvm::OptimizationRemarkMissed">
+<area shape="rect" id="node1" title="Diagnostic information for missed&#45;optimization remarks." alt="" coords="43,319,237,360"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticInfoIROptimization.html" title="Common features for diagnostics dealing with optimization remarks that are used by IR passes." alt="" coords="15,244,265,271"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks that are used by both IR and MIR pa..." alt="" coords="5,169,275,196"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DiagnosticInfoWithLocationBase.html" title="Common features for diagnostics with an associated location." alt="" coords="49,80,231,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend." alt="" coords="63,5,217,32"/>
+</map>

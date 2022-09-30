@@ -1,0 +1,8 @@
+<map id="llvm::UndefValue" name="llvm::UndefValue">
+<area shape="rect" id="node1" title="&#39;undef&#39; values are things that do not have specified contents." alt="" coords="12,516,133,543"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ConstantData.html" title="Base class for constants with no operands." alt="" coords="5,440,140,467"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="19,364,126,391"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title=" " alt="" coords="31,288,114,315"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="29,212,116,239"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title=" " alt="" coords="35,5,110,32"/>
+</map>

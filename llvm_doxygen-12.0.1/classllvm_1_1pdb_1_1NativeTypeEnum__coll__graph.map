@@ -1,0 +1,13 @@
+<map id="llvm::pdb::NativeTypeEnum" name="llvm::pdb::NativeTypeEnum">
+<area shape="rect" id="node1" title=" " alt="" coords="943,252,1125,279"/>
+<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1NativeRawSymbol.html" title=" " alt="" coords="645,103,836,129"/>
+<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1IPDBRawSymbol.html" title="IPDBRawSymbol defines an interface used to represent an arbitrary symbol." alt="" coords="216,107,400,133"/>
+<area shape="rect" id="node4" href="$classllvm_1_1pdb_1_1NativeSession.html" title=" " alt="" coords="225,5,391,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1pdb_1_1IPDBSession.html" title="IPDBSession defines an interface used to provide a context for querying debug information from a debu..." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="274,215,342,241"/>
+<area shape="rect" id="node11" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="653,219,829,245"/>
+<area shape="rect" id="node7" title=" " alt="" coords="253,56,363,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title=" " alt="" coords="645,335,836,377"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title=" " alt="" coords="241,292,375,319"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Optional.html" title=" " alt="" coords="651,270,830,311"/>
+</map>

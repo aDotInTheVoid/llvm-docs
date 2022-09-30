@@ -1,0 +1,51 @@
+<map id="llvm::orc::shared::RPCFunction&lt; DerivedFunc, FnT &gt;" name="llvm::orc::shared::RPCFunction&lt; DerivedFunc, FnT &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1823,195,1879"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="566,35,751,106"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="563,131,755,187"/>
+<area shape="rect" id="node6" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="533,211,785,267"/>
+<area shape="rect" id="node8" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="541,291,776,362"/>
+<area shape="rect" id="node10" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="550,386,767,457"/>
+<area shape="rect" id="node12" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="533,481,785,537"/>
+<area shape="rect" id="node14" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="551,561,766,617"/>
+<area shape="rect" id="node16" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="557,642,760,713"/>
+<area shape="rect" id="node18" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="573,737,744,807"/>
+<area shape="rect" id="node19" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="555,831,762,902"/>
+<area shape="rect" id="node20" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="544,926,773,997"/>
+<area shape="rect" id="node21" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="550,1021,767,1091"/>
+<area shape="rect" id="node22" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="539,1116,778,1172"/>
+<area shape="rect" id="node23" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="533,1197,784,1267"/>
+<area shape="rect" id="node24" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="547,1292,770,1348"/>
+<area shape="rect" id="node25" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="548,1372,769,1428"/>
+<area shape="rect" id="node26" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="557,1452,761,1537"/>
+<area shape="rect" id="node27" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="565,1562,753,1633"/>
+<area shape="rect" id="node28" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="523,1657,794,1743"/>
+<area shape="rect" id="node29" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="547,1767,770,1838"/>
+<area shape="rect" id="node30" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="545,1862,772,1933"/>
+<area shape="rect" id="node31" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="557,1957,761,2013"/>
+<area shape="rect" id="node32" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="549,2037,769,2093"/>
+<area shape="rect" id="node33" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="551,2117,766,2203"/>
+<area shape="rect" id="node34" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="549,2227,769,2312"/>
+<area shape="rect" id="node35" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="563,2337,755,2407"/>
+<area shape="rect" id="node36" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="573,2432,744,2517"/>
+<area shape="rect" id="node37" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="563,2542,754,2613"/>
+<area shape="rect" id="node38" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="552,2637,765,2693"/>
+<area shape="rect" id="node39" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="563,2718,755,2789"/>
+<area shape="rect" id="node40" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="557,2813,760,2869"/>
+<area shape="rect" id="node41" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="541,2894,776,2965"/>
+<area shape="rect" id="node42" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="545,2989,772,3045"/>
+<area shape="rect" id="node43" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="573,3069,744,3155"/>
+<area shape="rect" id="node44" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="571,3179,746,3264"/>
+<area shape="rect" id="node45" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="549,3288,768,3373"/>
+<area shape="rect" id="node46" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="517,3398,800,3498"/>
+<area shape="rect" id="node47" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="539,3522,778,3593"/>
+<area shape="rect" id="node48" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="563,3617,755,3687"/>
+<area shape="rect" id="node49" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="551,3712,767,3768"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1orcrpctpc_1_1WriteUInt8s.html" title=" " alt="" coords="883,50,1017,91"/>
+<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1orcrpctpc_1_1GetPageSize.html" title=" " alt="" coords="883,138,1017,179"/>
+<area shape="rect" id="node7" href="$classllvm_1_1orc_1_1orcrpctpc_1_1FinalizeMem.html" title=" " alt="" coords="883,218,1017,259"/>
+<area shape="rect" id="node9" href="$classllvm_1_1orc_1_1remote_1_1stubs_1_1EmitTrampolineBlock.html" title="EmitTrampolineBlock result is (BlockAddr, NumTrampolines)." alt="" coords="857,306,1043,347"/>
+<area shape="rect" id="node11" href="$classllvm_1_1orc_1_1remote_1_1stubs_1_1CreateIndirectStubsOwner.html" title="Creates an indirect stub owner on the remote." alt="" coords="861,393,1039,449"/>
+<area shape="rect" id="node13" href="$classllvm_1_1orc_1_1orcrpctpc_1_1ReleaseMem.html" title=" " alt="" coords="883,489,1017,530"/>
+<area shape="rect" id="node15" href="$classllvm_1_1orc_1_1remote_1_1exec_1_1CallIntVoid.html" title="Call an &#39;int32_t()&#39;&#45;type function on the remote, returns the called function&#39;s return value." alt="" coords="886,569,1014,610"/>
+<area shape="rect" id="node17" href="$classllvm_1_1orc_1_1remote_1_1mem_1_1DestroyRemoteAllocator.html" title="Destroys a remote allocator, freeing any memory allocated by it." alt="" coords="849,657,1051,698"/>
+</map>

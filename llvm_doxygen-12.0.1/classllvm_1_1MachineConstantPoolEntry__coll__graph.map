@@ -1,0 +1,11 @@
+<map id="llvm::MachineConstantPoolEntry" name="llvm::MachineConstantPoolEntry">
+<area shape="rect" id="node1" title="This class is a data container for one entry in a MachineConstantPool." alt="" coords="275,468,458,509"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="5,371,112,398"/>
+<area shape="rect" id="node3" href="$classllvm_1_1User.html" title=" " alt="" coords="17,288,100,315"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="15,212,102,239"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="21,5,96,32"/>
+<area shape="rect" id="node6" href="$classbool.html" title=" " alt="" coords="137,371,183,398"/>
+<area shape="rect" id="node7" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment." alt="" coords="293,371,376,398"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MachineConstantPoolValue.html" title="Abstract base class for all machine specific constantpool value subclasses." alt="" coords="401,364,583,405"/>
+<area shape="rect" id="node9" title=" " alt="" coords="607,371,718,398"/>
+</map>

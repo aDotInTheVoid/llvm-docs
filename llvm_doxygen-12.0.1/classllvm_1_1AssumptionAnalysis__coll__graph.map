@@ -1,0 +1,6 @@
+<map id="llvm::AssumptionAnalysis" name="llvm::AssumptionAnalysis">
+<area shape="rect" id="node1" title="A function analysis which provides an AssumptionCache." alt="" coords="5,291,177,317"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="9,200,173,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="17,5,155,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="108,96,264,137"/>
+</map>

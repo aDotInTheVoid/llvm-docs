@@ -1,0 +1,11 @@
+<map id="llvm::codeview::RegisterSym" name="llvm::codeview::RegisterSym">
+<area shape="rect" id="node1" title=" " alt="" coords="704,108,915,135"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1SymbolRecord.html" title=" " alt="" coords="344,7,567,33"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,7,151,33"/>
+<area shape="rect" id="node4" title=" " alt="" coords="411,57,499,84"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title=" " alt="" coords="418,108,493,135"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="396,159,515,185"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title=" " alt="" coords="48,148,108,175"/>
+<area shape="rect" id="node8" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="358,219,553,245"/>
+<area shape="rect" id="node9" title=" " alt="" coords="49,237,107,264"/>
+</map>

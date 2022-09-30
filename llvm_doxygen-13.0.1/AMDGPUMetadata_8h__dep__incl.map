@@ -1,0 +1,11 @@
+<map id="include/llvm/Support/AMDGPUMetadata.h" name="include/llvm/Support/AMDGPUMetadata.h">
+<area shape="rect" id="node1" title="AMDGPU metadata definitions and in&#45;memory representations." alt="" coords="764,5,923,47"/>
+<area shape="rect" id="node2" href="$AMDGPUMetadataVerifier_8cpp.html" title="Implements a verifier for AMDGPU HSA metadata." alt="" coords="5,95,260,136"/>
+<area shape="rect" id="node3" href="$AMDGPUMetadata_8cpp.html" title="AMDGPU metadata definitions and in&#45;memory representations." alt="" coords="284,102,528,129"/>
+<area shape="rect" id="node4" href="$AMDGPUHSAMetadataStreamer_8h.html" title="AMDGPU HSA Metadata Streamer." alt="" coords="553,95,851,136"/>
+<area shape="rect" id="node7" href="$AMDGPUAsmParser_8cpp.html" title=" " alt="" coords="875,95,1094,136"/>
+<area shape="rect" id="node8" href="$AMDGPUTargetStreamer_8cpp.html" title=" " alt="" coords="1118,95,1361,136"/>
+<area shape="rect" id="node9" href="$AMDGPUPALMetadata_8cpp.html" title="This class has methods called by AMDGPUAsmPrinter to accumulate and print the PAL metadata." alt="" coords="1385,95,1582,136"/>
+<area shape="rect" id="node5" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code." alt="" coords="437,184,674,225"/>
+<area shape="rect" id="node6" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer." alt="" coords="698,184,997,225"/>
+</map>

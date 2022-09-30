@@ -1,0 +1,6 @@
+<map id="llvm::orc::remote::OrcRemoteTargetClient::RemoteTrampolinePool" name="llvm::orc::remote::OrcRemoteTargetClient::RemoteTrampolinePool">
+<area shape="rect" id="node1" title=" " alt="" coords="25,171,207,227"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1TrampolinePool.html" title="Base class for pools of compiler re&#45;entry trampolines." alt="" coords="23,95,209,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,69,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="94,5,295,32"/>
+</map>

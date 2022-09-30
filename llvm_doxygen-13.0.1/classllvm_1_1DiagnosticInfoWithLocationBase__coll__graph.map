@@ -1,0 +1,4 @@
+<map id="llvm::DiagnosticInfoWithLocationBase" name="llvm::DiagnosticInfoWithLocationBase">
+<area shape="rect" id="node1" title="Common features for diagnostics with an associated location." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend." alt="" coords="20,5,173,32"/>
+</map>

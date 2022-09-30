@@ -1,0 +1,5 @@
+<map id="include/llvm/CodeGen/GlobalISel/LegalizationArtifactCombiner.h" name="include/llvm/CodeGen/GlobalISel/LegalizationArtifactCombiner.h">
+<area shape="rect" id="node1" title=" " alt="" coords="82,5,285,61"/>
+<area shape="rect" id="node2" href="$Legalizer_8cpp.html" title=" " alt="" coords="5,109,164,151"/>
+<area shape="rect" id="node3" href="$MipsRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for Mips." alt="" coords="189,109,375,151"/>
+</map>

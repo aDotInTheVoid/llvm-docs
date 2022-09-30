@@ -1,0 +1,6 @@
+<map id="llvm::jitlink::JITLinkError" name="llvm::jitlink::JITLinkError">
+<area shape="rect" id="node1" title="Base class for errors originating in JIT linker, e.g." alt="" coords="5,276,184,303"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="8,185,181,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="16,5,163,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="111,81,286,123"/>
+</map>

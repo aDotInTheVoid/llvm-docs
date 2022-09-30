@@ -1,0 +1,5 @@
+<map id="llvm::orc::TargetProcessControl::MemoryAccess" name="llvm::orc::TargetProcessControl::MemoryAccess">
+<area shape="rect" id="node1" title="APIs for manipulating memory in the target process." alt="" coords="5,39,169,80"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1OrcRPCTPCMemoryAccess.html" title="TargetProcessControl::MemoryAccess implementation for a process connected via an ORC RPC endpoint." alt="" coords="217,5,420,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1SelfTargetProcessControl.html" title="A TargetProcessControl implementation targeting the current process." alt="" coords="225,71,412,112"/>
+</map>

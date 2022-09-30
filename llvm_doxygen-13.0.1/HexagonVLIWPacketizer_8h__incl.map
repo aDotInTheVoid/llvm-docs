@@ -1,0 +1,52 @@
+<map id="lib/Target/Hexagon/HexagonVLIWPacketizer.h" name="lib/Target/Hexagon/HexagonVLIWPacketizer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4269,5,4464,47"/>
+<area shape="rect" id="node2" href="$DFAPacketizer_8h.html" title=" " alt="" coords="4092,95,4312,121"/>
+<area shape="rect" id="node24" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2221,169,2429,211"/>
+<area shape="rect" id="node36" title=" " alt="" coords="5762,423,5824,449"/>
+<area shape="rect" id="node46" href="$ScheduleDAG_8h.html" title=" " alt="" coords="4360,177,4578,203"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title=" " alt="" coords="3103,348,3270,375"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2489,497,2556,524"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4154,572,4214,599"/>
+<area shape="rect" id="node37" href="$ScheduleDAGMutation_8h.html" title=" " alt="" coords="2755,177,3031,203"/>
+<area shape="rect" id="node38" href="$Automaton_8h.html" title=" " alt="" coords="4275,266,4468,293"/>
+<area shape="rect" id="node41" title=" " alt="" coords="5457,497,5534,524"/>
+<area shape="rect" id="node44" title=" " alt="" coords="4169,348,4220,375"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title=" " alt="" coords="3300,423,3492,449"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1089,497,1158,524"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3848,497,3919,524"/>
+<area shape="rect" id="node9" href="$EpochTracker_8h.html" title=" " alt="" coords="2636,423,2819,449"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title=" " alt="" coords="649,423,817,449"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1280,572,1372,599"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title=" " alt="" coords="1632,647,1810,673"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title=" " alt="" coords="841,423,1036,449"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3158,497,3225,524"/>
+<area shape="rect" id="node15" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="4908,497,5094,524"/>
+<area shape="rect" id="node18" href="$ReverseIteration_8h.html" title=" " alt="" coords="2945,423,3174,449"/>
+<area shape="rect" id="node19" href="$type__traits_8h.html" title=" " alt="" coords="1492,497,1683,524"/>
+<area shape="rect" id="node20" title=" " alt="" coords="4470,497,4556,524"/>
+<area shape="rect" id="node21" title=" " alt="" coords="5170,497,5280,524"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2688,497,2759,524"/>
+<area shape="rect" id="node23" title=" " alt="" coords="4580,497,4630,524"/>
+<area shape="rect" id="node16" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="5061,572,5272,599"/>
+<area shape="rect" id="node17" title=" " alt="" coords="5764,647,5822,673"/>
+<area shape="rect" id="node25" href="$GraphTraits_8h.html" title=" " alt="" coords="4548,266,4720,293"/>
+<area shape="rect" id="node26" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="4162,497,4352,524"/>
+<area shape="rect" id="node27" href="$ilist_8h.html" title=" " alt="" coords="1789,348,1912,375"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1810,497,1896,524"/>
+<area shape="rect" id="node30" href="$SparseBitVector_8h.html" title=" " alt="" coords="2088,348,2288,375"/>
+<area shape="rect" id="node31" href="$MachineInstr_8h.html" title=" " alt="" coords="2585,266,2798,293"/>
+<area shape="rect" id="node32" href="$DebugLoc_8h.html" title=" " alt="" coords="2363,348,2511,375"/>
+<area shape="rect" id="node33" href="$MachineInstrBundleIterator_8h.html" title=" " alt="" coords="1461,259,1664,300"/>
+<area shape="rect" id="node34" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="42,348,219,375"/>
+<area shape="rect" id="node35" href="$BranchProbability_8h.html" title=" " alt="" coords="2225,423,2460,449"/>
+<area shape="rect" id="node28" href="$simple__ilist_8h.html" title=" " alt="" coords="1622,423,1796,449"/>
+<area shape="rect" id="node39" href="$ArrayRef_8h.html" title=" " alt="" coords="4756,348,4910,375"/>
+<area shape="rect" id="node40" href="$SmallVector_8h.html" title=" " alt="" coords="4751,423,4926,449"/>
+<area shape="rect" id="node42" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="4294,348,4473,375"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2739,348,2802,375"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2826,348,2950,375"/>
+<area shape="rect" id="node47" href="$BitVector_8h.html" title=" " alt="" coords="3795,266,3951,293"/>
+<area shape="rect" id="node48" href="$PointerIntPair_8h.html" title=" " alt="" coords="1364,423,1548,449"/>
+<area shape="rect" id="node49" href="$iterator_8h.html" title=" " alt="" coords="4023,423,4168,449"/>
+<area shape="rect" id="node50" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code." alt="" coords="4745,266,4974,293"/>
+</map>

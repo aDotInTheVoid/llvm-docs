@@ -1,0 +1,52 @@
+<map id="lib/Analysis/LoopNestAnalysis.cpp" name="lib/Analysis/LoopNestAnalysis.cpp">
+<area shape="rect" id="node1" title="The implementation for the loop nest analysis." alt="" coords="850,5,1073,32"/>
+<area shape="rect" id="node2" href="$LoopNestAnalysis_8h.html" title="This file defines the interface for the loop nest analysis." alt="" coords="1448,155,1667,181"/>
+<area shape="rect" id="node36" href="$BreadthFirstIterator_8h.html" title=" " alt="" coords="383,393,587,420"/>
+<area shape="rect" id="node38" href="$Statistic_8h.html" title=" " alt="" coords="892,393,1031,420"/>
+<area shape="rect" id="node40" href="$PostDominators_8h.html" title=" " alt="" coords="191,155,401,181"/>
+<area shape="rect" id="node43" href="$ValueTracking_8h.html" title=" " alt="" coords="3335,80,3529,107"/>
+<area shape="rect" id="node3" href="$STLExtras_8h.html" title=" " alt="" coords="2967,393,3121,420"/>
+<area shape="rect" id="node25" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses." alt="" coords="1218,229,1398,271"/>
+<area shape="rect" id="node34" href="$LoopInfo_8h.html" title=" " alt="" coords="1725,237,1889,263"/>
+<area shape="rect" id="node4" href="$Optional_8h.html" title=" " alt="" coords="1736,468,1875,495"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4651,543,4717,569"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2151,543,2222,569"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1779,617,1832,644"/>
+<area shape="rect" id="node11" href="$iterator_8h.html" title=" " alt="" coords="3368,468,3499,495"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="1085,543,1256,569"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3243,543,3317,569"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4045,543,4110,569"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2059,543,2122,569"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3937,543,4020,569"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3019,468,3192,495"/>
+<area shape="rect" id="node18" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="5057,543,5247,569"/>
+<area shape="rect" id="node19" title=" " alt="" coords="5157,468,5219,495"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2901,543,2961,569"/>
+<area shape="rect" id="node21" title=" " alt="" coords="4193,468,4271,495"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2655,543,2751,569"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3796,543,3849,569"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1899,468,1949,495"/>
+<area shape="rect" id="node5" href="$None_8h.html" title=" " alt="" coords="1435,543,1557,569"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="3600,617,3763,644"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1791,692,1958,719"/>
+<area shape="rect" id="node26" href="$PostOrderIterator_8h.html" title=" " alt="" coords="1207,393,1398,420"/>
+<area shape="rect" id="node31" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1727,319,1886,345"/>
+<area shape="rect" id="node27" href="$GraphTraits_8h.html" title=" " alt="" coords="523,468,682,495"/>
+<area shape="rect" id="node28" href="$SmallPtrSet_8h.html" title=" " alt="" coords="2429,468,2589,495"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title=" " alt="" coords="3702,468,3863,495"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1147,468,1205,495"/>
+<area shape="rect" id="node32" href="$DenseMap_8h.html" title=" " alt="" coords="3523,468,3677,495"/>
+<area shape="rect" id="node33" href="$Pass_8h.html" title=" " alt="" coords="116,393,207,420"/>
+<area shape="rect" id="node35" href="$DenseSet_8h.html" title=" " alt="" coords="2441,393,2589,420"/>
+<area shape="rect" id="node37" title=" " alt="" coords="289,468,346,495"/>
+<area shape="rect" id="node39" title=" " alt="" coords="960,468,1021,495"/>
+<area shape="rect" id="node41" href="$DepthFirstIterator_8h.html" title=" " alt="" coords="673,393,868,420"/>
+<area shape="rect" id="node42" href="$Dominators_8h.html" title=" " alt="" coords="5,237,152,263"/>
+<area shape="rect" id="node44" href="$ArrayRef_8h.html" title=" " alt="" coords="3051,319,3192,345"/>
+<area shape="rect" id="node45" href="$SmallSet_8h.html" title=" " alt="" coords="4230,393,4373,420"/>
+<area shape="rect" id="node46" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="3469,237,3608,263"/>
+<area shape="rect" id="node47" href="$DataLayout_8h.html" title=" " alt="" coords="4745,237,4887,263"/>
+<area shape="rect" id="node48" href="$InstrTypes_8h.html" title=" " alt="" coords="3254,155,3394,181"/>
+<area shape="rect" id="node49" href="$Intrinsics_8h.html" title=" " alt="" coords="1913,237,2045,263"/>
+<area shape="rect" id="node50" href="$Operator_8h.html" title=" " alt="" coords="3101,155,3230,181"/>
+</map>

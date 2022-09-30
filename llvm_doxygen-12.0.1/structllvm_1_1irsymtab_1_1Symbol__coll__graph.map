@@ -1,0 +1,7 @@
+<map id="llvm::irsymtab::Symbol" name="llvm::irsymtab::Symbol">
+<area shape="rect" id="node1" title="This represents a symbol that has been read from a storage::Symbol and possibly a storage::Uncommon." alt="" coords="79,228,235,255"/>
+<area shape="rect" id="node2" href="$classuint32__t.html" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="137,95,176,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="216,95,324,121"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title=" " alt="" coords="242,5,298,32"/>
+</map>

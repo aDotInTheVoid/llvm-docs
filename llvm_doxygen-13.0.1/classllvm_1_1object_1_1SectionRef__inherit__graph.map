@@ -1,0 +1,4 @@
+<map id="llvm::object::SectionRef" name="llvm::object::SectionRef">
+<area shape="rect" id="node1" title="This is a value type class that represents a single section in the list of sections in the object fil..." alt="" coords="16,5,193,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1ELFSectionRef.html" title=" " alt="" coords="5,80,204,107"/>
+</map>

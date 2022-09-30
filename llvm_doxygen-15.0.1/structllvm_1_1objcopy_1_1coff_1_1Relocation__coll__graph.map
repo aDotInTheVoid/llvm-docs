@@ -1,0 +1,8 @@
+<map id="llvm::objcopy::coff::Relocation" name="llvm::objcopy::coff::Relocation">
+<area shape="rect" id="node1" title=" " alt="" coords="629,42,771,83"/>
+<area shape="rect" id="node2" href="$classsize__t.html" title=" " alt="" coords="70,9,130,36"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="373,49,491,76"/>
+<area shape="rect" id="node3" href="$structllvm_1_1object_1_1coff__relocation.html" title=" " alt="" coords="367,101,497,142"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,83,195,139"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,163,195,219"/>
+</map>

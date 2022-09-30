@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::RPCFunctionIdAllocator&lt; T, typename &gt;" name="llvm::orc::shared::RPCFunctionIdAllocator&lt; T, typename &gt;">
+<area shape="rect" id="node1" title="Allocates RPC function ids during autonegotiation." alt="" coords="5,45,179,101"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunctionIdAllocator.html" title=" " alt="" coords="336,5,509,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunctionIdAllocator.html" title=" " alt="" coords="336,85,509,141"/>
+</map>

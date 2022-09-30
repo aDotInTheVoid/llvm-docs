@@ -1,0 +1,52 @@
+<map id="lib/DebugInfo/CodeView/DebugLinesSubsection.cpp" name="lib/DebugInfo/CodeView/DebugLinesSubsection.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3156,5,3341,47"/>
+<area shape="rect" id="node2" href="$DebugLinesSubsection_8h.html" title=" " alt="" coords="1645,95,1820,136"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3562,1004,3629,1031"/>
+<area shape="rect" id="node12" title=" " alt="" coords="495,1004,557,1031"/>
+<area shape="rect" id="node18" href="$CodeView_8h.html" title=" " alt="" coords="1489,273,1664,315"/>
+<area shape="rect" id="node25" href="$BinaryStreamWriter_8h.html" title=" " alt="" coords="925,273,1105,315"/>
+<area shape="rect" id="node26" href="$ArrayRef_8h.html" title=" " alt="" coords="2797,855,2938,881"/>
+<area shape="rect" id="node37" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="1591,631,1730,657"/>
+<area shape="rect" id="node45" href="$BinaryStreamReader_8h.html" title=" " alt="" coords="2592,273,2772,315"/>
+<area shape="rect" id="node47" href="$CodeViewError_8h.html" title=" " alt="" coords="4167,541,4341,583"/>
+<area shape="rect" id="node48" href="$DebugChecksumsSubsection_8h.html" title=" " alt="" coords="2321,95,2531,136"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title=" " alt="" coords="2171,855,2315,881"/>
+<area shape="rect" id="node20" href="$Endian_8h.html" title=" " alt="" coords="1769,459,1920,486"/>
+<area shape="rect" id="node24" href="$DebugSubsection_8h.html" title=" " alt="" coords="1521,184,1696,225"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1123,929,1180,956"/>
+<area shape="rect" id="node33" href="$BinaryStreamArray_8h.html" title=" " alt="" coords="2336,363,2516,404"/>
+<area shape="rect" id="node35" href="$BinaryStreamRef_8h.html" title=" " alt="" coords="747,452,927,493"/>
+<area shape="rect" id="node44" href="$Line_8h.html" title=" " alt="" coords="1832,273,2007,315"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title=" " alt="" coords="1712,929,1865,956"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="3382,1079,3545,1105"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4644,1079,4699,1105"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1999,1004,2074,1031"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2099,1004,2164,1031"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1106,1079,1189,1105"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1794,1079,1847,1105"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1362,1004,1535,1031"/>
+<area shape="rect" id="node6" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3789,1004,3980,1031"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2239,1004,2335,1031"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2912,1004,2975,1031"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1661,1004,1732,1031"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1882,370,1957,397"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1306,370,1445,397"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1469,370,1623,397"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1647,370,1807,397"/>
+<area shape="rect" id="node36" href="$BinaryStreamError_8h.html" title=" " alt="" coords="1571,541,1751,583"/>
+<area shape="rect" id="node27" href="$Hashing_8h.html" title=" " alt="" coords="2863,929,3002,956"/>
+<area shape="rect" id="node29" href="$None_8h.html" title=" " alt="" coords="3178,929,3301,956"/>
+<area shape="rect" id="node30" href="$SmallVector_8h.html" title=" " alt="" coords="2627,929,2788,956"/>
+<area shape="rect" id="node31" title=" " alt="" coords="3325,929,3375,956"/>
+<area shape="rect" id="node28" href="$type__traits_8h.html" title=" " alt="" coords="2563,1004,2735,1031"/>
+<area shape="rect" id="node34" href="$Alignment_8h.html" title=" " alt="" coords="4466,929,4634,956"/>
+<area shape="rect" id="node38" href="$llvm-c_2Error_8h.html" title=" " alt="" coords="1611,705,1711,732"/>
+<area shape="rect" id="node39" href="$StringExtras_8h.html" title=" " alt="" coords="2502,705,2665,732"/>
+<area shape="rect" id="node40" href="$Twine_8h.html" title=" " alt="" coords="2654,780,2779,807"/>
+<area shape="rect" id="node41" href="$AlignOf_8h.html" title=" " alt="" coords="903,1004,1056,1031"/>
+<area shape="rect" id="node42" href="$Debug_8h.html" title=" " alt="" coords="1735,705,1885,732"/>
+<area shape="rect" id="node43" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer." alt="" coords="893,929,1047,956"/>
+<area shape="rect" id="node46" href="$ConvertUTF_8h.html" title=" " alt="" coords="4261,929,4442,956"/>
+<area shape="rect" id="node49" href="$DenseMap_8h.html" title=" " alt="" coords="2397,929,2551,956"/>
+<area shape="rect" id="node50" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="3551,855,3714,881"/>
+</map>

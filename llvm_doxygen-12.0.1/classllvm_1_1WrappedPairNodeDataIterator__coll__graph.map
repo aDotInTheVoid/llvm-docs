@@ -1,0 +1,10 @@
+<map id="llvm::WrappedPairNodeDataIterator&lt; ItType, NodeRef, DataRef &gt;" name="llvm::WrappedPairNodeDataIterator&lt; ItType, NodeRef, DataRef &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="2607,422,2793,478"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="2315,393,2557,507"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="387,413,610,484"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="1273,157,1772,433"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,428,200,469"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1829,260,2077,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="249,5,748,281"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1461,106,1584,133"/>
+</map>

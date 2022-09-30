@@ -1,0 +1,26 @@
+<map id="llvm::orc::remote::OrcRemoteTargetClient" name="llvm::orc::remote::OrcRemoteTargetClient">
+<area shape="rect" id="node1" title="This class provides utilities (including memory manager, indirect stubs manager, and compile callback..." alt="" coords="2177,685,2336,726"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1SingleThreadedRPCEndpoint.html" title=" " alt="" coords="1933,677,2128,733"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1RPCEndpointBase.html" title="Contains primitive utilities for defining, calling and handling calls to remote procedures." alt="" coords="766,669,975,739"/>
+<area shape="rect" id="node16" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1RPCEndpointBase.html" title=" " alt="" coords="1241,357,1468,443"/>
+<area shape="rect" id="node4" title=" " alt="" coords="340,755,516,797"/>
+<area shape="rect" id="node5" title=" " alt="" coords="361,821,495,862"/>
+<area shape="rect" id="node6" title=" " alt="" coords="341,886,515,927"/>
+<area shape="rect" id="node7" title=" " alt="" coords="383,463,473,489"/>
+<area shape="rect" id="node8" title=" " alt="" coords="399,229,457,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="335,514,521,555"/>
+<area shape="rect" id="node10" href="$classbool.html" title=" " alt="" coords="405,291,451,317"/>
+<area shape="rect" id="node11" title=" " alt="" coords="383,381,473,408"/>
+<area shape="rect" id="node12" href="$classllvm_1_1orc_1_1shared_1_1RPCFunctionIdAllocator.html" title=" " alt="" coords="347,580,509,636"/>
+<area shape="rect" id="node13" href="$classllvm_1_1orc_1_1shared_1_1RPCFunctionIdAllocator.html" title="Allocates RPC function ids during autonegotiation." alt="" coords="5,360,168,416"/>
+<area shape="rect" id="node24" href="$classllvm_1_1orc_1_1shared_1_1RPCFunctionIdAllocator.html" title=" " alt="" coords="567,140,729,196"/>
+<area shape="rect" id="node14" title=" " alt="" coords="313,661,543,731"/>
+<area shape="rect" id="node15" href="$classllvm_1_1orc_1_1shared_1_1SingleThreadedRPCEndpoint.html" title=" " alt="" coords="1517,514,1708,585"/>
+<area shape="rect" id="node17" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1SequenceNumberManager.html" title=" " alt="" coords="763,73,978,129"/>
+<area shape="rect" id="node18" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1SequenceNumberManager.html" title=" " alt="" coords="321,73,535,129"/>
+<area shape="rect" id="node19" href="$classstd_1_1map_3_01uint32__t_00_01std_1_1unique__ptr_3_01llvm_1_1orc_1_1shared_1_1detail_1_1Res2a3ecdcdfa1f8ced857ccbc2908f2b41.html" title=" " alt="" coords="756,406,985,477"/>
+<area shape="rect" id="node20" href="$classstd_1_1map_3_01uint32__t_00_01WrappedHandlerFn_01_4.html" title=" " alt="" coords="753,501,988,528"/>
+<area shape="rect" id="node21" href="$classuint32__t.html" title=" " alt="" coords="837,552,905,579"/>
+<area shape="rect" id="node22" href="$classstd_1_1map_3_01const_01char_01_5_00_01uint32__t_01_4.html" title=" " alt="" coords="804,603,937,645"/>
+<area shape="rect" id="node23" href="$classstd_1_1map_3_01std_1_1string_00_01uint32__t_01_4.html" title=" " alt="" coords="779,23,962,49"/>
+</map>

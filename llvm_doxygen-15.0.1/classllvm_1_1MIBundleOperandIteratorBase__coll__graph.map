@@ -1,0 +1,5 @@
+<map id="llvm::MIBundleOperandIteratorBase&lt; ValueT &gt;" name="llvm::MIBundleOperandIteratorBase&lt; ValueT &gt;">
+<area shape="rect" id="node1" title="MIBundleOperandIteratorBase &#45; Iterator that visits all operands in a bundle of MachineInstrs." alt="" coords="784,29,1007,70"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="496,14,735,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,14,255,85"/>
+</map>

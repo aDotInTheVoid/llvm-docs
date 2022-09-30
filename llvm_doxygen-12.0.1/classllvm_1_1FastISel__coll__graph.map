@@ -1,0 +1,52 @@
+<map id="llvm::FastISel" name="llvm::FastISel">
+<area shape="rect" id="node1" title="This is a fast&#45;path instruction selection class that generates poor code and doesn&#39;t support illegal ..." alt="" coords="1184,2369,1287,2396"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineFunction.html" title=" " alt="" coords="466,947,619,973"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FunctionLoweringInfo.html" title="FunctionLoweringInfo &#45; This contains information that is global to a function that is used when lower..." alt="" coords="867,1716,1044,1743"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,958,204,999"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="67,804,142,831"/>
+<area shape="rect" id="node34" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine." alt="" coords="886,435,1025,461"/>
+<area shape="rect" id="node35" href="$classllvm_1_1TargetOptions.html" title=" " alt="" coords="475,544,610,571"/>
+<area shape="rect" id="node50" href="$classllvm_1_1TargetInstrInfo.html" title="TargetInstrInfo &#45; Interface to description of machine instruction set." alt="" coords="687,819,825,845"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="31,1023,178,1065"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="466,2177,619,2233"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="18,1805,191,1861"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="462,2257,623,2313"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="462,1259,623,1301"/>
+<area shape="rect" id="node14" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="462,997,623,1053"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="462,1602,623,1643"/>
+<area shape="rect" id="node18" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="445,1951,640,2007"/>
+<area shape="rect" id="node20" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="453,2031,632,2073"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="462,2097,623,2153"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="9,1967,200,2009"/>
+<area shape="rect" id="node10" title=" " alt="" coords="476,1179,609,1235"/>
+<area shape="rect" id="node12" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="458,1325,627,1366"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DenseSet.html" title=" " alt="" coords="469,1390,617,1431"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="476,1456,609,1512"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="477,1537,609,1578"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SmallPtrSet.html" title=" " alt="" coords="463,1668,623,1724"/>
+<area shape="rect" id="node22" href="$classbool.html" title=" " alt="" coords="519,2337,566,2364"/>
+<area shape="rect" id="node23" href="$classllvm_1_1BranchProbabilityInfo.html" title="Analysis providing branch probability information." alt="" coords="453,1748,632,1775"/>
+<area shape="rect" id="node24" href="$classllvm_1_1MachineRegisterInfo.html" title="MachineRegisterInfo &#45; Keep track of information for virtual and physical registers,..." alt="" coords="456,2388,629,2415"/>
+<area shape="rect" id="node25" href="$classllvm_1_1TargetLowering.html" title="This class defines information used to lower LLVM code to legal SelectionDAG operators that the targe..." alt="" coords="472,2439,613,2465"/>
+<area shape="rect" id="node26" href="$classllvm_1_1MachineBasicBlock.html" title=" " alt="" coords="458,1799,627,1825"/>
+<area shape="rect" id="node27" href="$classllvm_1_1Function.html" title=" " alt="" coords="491,1849,595,1876"/>
+<area shape="rect" id="node29" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="491,1900,594,1927"/>
+<area shape="rect" id="node30" href="$classllvm_1_1LegacyDivergenceAnalysis.html" title=" " alt="" coords="437,1077,648,1104"/>
+<area shape="rect" id="node31" href="$classllvm_1_1BitVector.html" title=" " alt="" coords="489,1128,596,1155"/>
+<area shape="rect" id="node32" href="$classllvm_1_1MachineFrameInfo.html" title="The MachineFrameInfo class represents an abstract stack frame until prolog/epilog code is inserted." alt="" coords="874,2493,1037,2520"/>
+<area shape="rect" id="node33" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="503,2493,582,2520"/>
+<area shape="rect" id="node36" title=" " alt="" coords="76,105,133,132"/>
+<area shape="rect" id="node37" title=" " alt="" coords="77,244,132,271"/>
+<area shape="rect" id="node38" title=" " alt="" coords="465,245,620,286"/>
+<area shape="rect" id="node39" title=" " alt="" coords="465,310,620,351"/>
+<area shape="rect" id="node40" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information." alt="" coords="497,376,588,403"/>
+<area shape="rect" id="node41" title=" " alt="" coords="465,427,620,469"/>
+<area shape="rect" id="node42" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it." alt="" coords="483,753,602,780"/>
+<area shape="rect" id="node43" title=" " alt="" coords="517,493,569,520"/>
+<area shape="rect" id="node44" title=" " alt="" coords="465,595,620,637"/>
+<area shape="rect" id="node45" href="$classllvm_1_1MachineConstantPool.html" title="The MachineConstantPool class keeps track of constants referenced by a function which must be spilled..." alt="" coords="864,2544,1047,2571"/>
+<area shape="rect" id="node46" href="$classllvm_1_1TargetLibraryInfo.html" title="Provides information about what library functions are available for the current target." alt="" coords="879,2595,1031,2621"/>
+<area shape="rect" id="node47" href="$classllvm_1_1DebugLoc.html" title="A debug info location." alt="" coords="899,2645,1012,2672"/>
+<area shape="rect" id="node48" href="$classllvm_1_1MachineInstr.html" title="Representation of each machine instruction." alt="" coords="891,2697,1020,2724"/>
+<area shape="rect" id="node49" href="$classllvm_1_1TargetRegisterInfo.html" title="TargetRegisterInfo base class &#45; We assume that the target defines a static array of TargetRegisterDes..." alt="" coords="875,2748,1035,2775"/>
+</map>

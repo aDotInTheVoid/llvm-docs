@@ -1,0 +1,6 @@
+<map id="llvm::coverage::CounterExpression" name="llvm::coverage::CounterExpression">
+<area shape="rect" id="node1" title="A Counter expression is a value that represents an arithmetic operation with two counters." alt="" coords="5,243,231,269"/>
+<area shape="rect" id="node2" title=" " alt="" coords="30,139,105,165"/>
+<area shape="rect" id="node3" href="$structllvm_1_1coverage_1_1Counter.html" title="A Counter is an abstract value that describes how to compute the execution count for a region of code..." alt="" coords="129,139,289,165"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="171,5,246,32"/>
+</map>

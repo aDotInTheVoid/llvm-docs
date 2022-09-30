@@ -1,0 +1,8 @@
+<map id="llvm::SmallVectorBase&lt; Size_T &gt;" name="llvm::SmallVectorBase&lt; Size_T &gt;">
+<area shape="rect" id="node1" title="This is all the stuff common to all SmallVectors." alt="" coords="5,48,175,89"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="377,41,549,97"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD." alt="" coords="599,5,796,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="887,43,1084,84"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1133,9,1331,51"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateBase_3_01T_00_01true_01_4.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = true&gt; &#45; This is where we put method implementations that ..." alt="" coords="1133,75,1331,116"/>
+</map>

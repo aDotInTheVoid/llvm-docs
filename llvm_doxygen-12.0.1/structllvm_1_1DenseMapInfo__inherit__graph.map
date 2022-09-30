@@ -1,0 +1,12 @@
+<map id="llvm::DenseMapInfo&lt; T &gt;" name="llvm::DenseMapInfo&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,176,170"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="371,5,510,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="363,71,519,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="371,136,510,177"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="371,201,510,243"/>
+<area shape="rect" id="node9" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="371,267,510,308"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IRSimilarity_1_1IRInstructionDataTraits.html" title=" " alt="" coords="584,71,747,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DeclMapInfo.html" title="Info type for the DenseMap storing the DeclContext pointers." alt="" coords="601,143,729,170"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DenseMapInfo_3_01IRPosition_01_4.html" title="Helper that allows IRPosition as a key in a DenseMap." alt="" coords="596,201,735,243"/>
+<area shape="rect" id="node10" href="$structllvm_1_1MachineInstrExpressionTrait.html" title="Special DenseMapInfo traits to compare MachineInstr* by value of the instruction rather than by point..." alt="" coords="568,267,763,308"/>
+</map>

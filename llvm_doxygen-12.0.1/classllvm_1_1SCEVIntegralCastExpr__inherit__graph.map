@@ -1,0 +1,9 @@
+<map id="llvm::SCEVIntegralCastExpr" name="llvm::SCEVIntegralCastExpr">
+<area shape="rect" id="node1" title="This is the base class for unary integral cast operator classes." alt="" coords="203,229,391,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SCEVSignExtendExpr.html" title="This class represents a sign extension of a small integer value to a larger integer value." alt="" coords="5,304,189,331"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SCEVTruncateExpr.html" title="This class represents a truncation of an integer value to a smaller integer value." alt="" coords="213,304,381,331"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SCEVZeroExtendExpr.html" title="This class represents a zero extension of a small integer value to a larger integer value." alt="" coords="406,304,591,331"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SCEVCastExpr.html" title="This is the base class for unary cast operator classes." alt="" coords="225,155,369,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SCEV.html" title="This class represents an analyzed expression in the program." alt="" coords="252,80,343,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="240,5,355,32"/>
+</map>

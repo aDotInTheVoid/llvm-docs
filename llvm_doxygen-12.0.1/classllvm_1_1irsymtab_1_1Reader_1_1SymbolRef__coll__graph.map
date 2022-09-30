@@ -1,0 +1,8 @@
+<map id="llvm::irsymtab::Reader::SymbolRef" name="llvm::irsymtab::Reader::SymbolRef">
+<area shape="rect" id="node1" title="Ephemeral symbols produced by Reader::symbols() and Reader::module_symbols()." alt="" coords="80,304,233,345"/>
+<area shape="rect" id="node2" href="$structllvm_1_1irsymtab_1_1Symbol.html" title="This represents a symbol that has been read from a storage::Symbol and possibly a storage::Uncommon." alt="" coords="79,228,235,255"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="137,95,176,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="216,95,324,121"/>
+<area shape="rect" id="node6" href="$classsize__t.html" title=" " alt="" coords="242,5,298,32"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Object/SymbolSize.cpp" name="lib/Object/SymbolSize.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2019,5,2210,32"/>
+<area shape="rect" id="node2" href="$SymbolSize_8h.html" title=" " alt="" coords="1604,80,1793,107"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title=" " alt="" coords="2553,543,2716,569"/>
+<area shape="rect" id="node35" href="$Object_2COFF_8h.html" title=" " alt="" coords="4519,80,4665,107"/>
+<area shape="rect" id="node42" href="$ELFObjectFile_8h.html" title=" " alt="" coords="2369,80,2570,107"/>
+<area shape="rect" id="node48" href="$Object_2MachO_8h.html" title=" " alt="" coords="759,80,918,107"/>
+<area shape="rect" id="node49" href="$Object_2Wasm_8h.html" title=" " alt="" coords="1886,80,2039,107"/>
+<area shape="rect" id="node50" href="$XCOFFObjectFile_8h.html" title=" " alt="" coords="4273,80,4495,107"/>
+<area shape="rect" id="node3" href="$ObjectFile_8h.html" title=" " alt="" coords="1543,155,1721,181"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title=" " alt="" coords="2849,468,3007,495"/>
+<area shape="rect" id="node9" title=" " alt="" coords="4700,692,4769,719"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1380,692,1457,719"/>
+<area shape="rect" id="node13" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="441,692,631,719"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1227,617,1293,644"/>
+<area shape="rect" id="node25" href="$Triple_8h.html" title=" " alt="" coords="549,393,683,420"/>
+<area shape="rect" id="node26" href="$Binary_8h.html" title=" " alt="" coords="1390,311,1543,338"/>
+<area shape="rect" id="node27" href="$llvm_2Object_2Error_8h.html" title=" " alt="" coords="1958,393,2101,420"/>
+<area shape="rect" id="node28" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="1950,468,2101,495"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1126,543,1234,569"/>
+<area shape="rect" id="node31" href="$MemoryBuffer_8h.html" title=" " alt="" coords="1720,393,1933,420"/>
+<area shape="rect" id="node33" href="$SymbolicFile_8h.html" title=" " alt="" coords="867,229,1063,256"/>
+<area shape="rect" id="node34" href="$Casting_8h.html" title=" " alt="" coords="4349,617,4520,644"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3650,767,3742,793"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1925,767,1985,793"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4125,692,4195,719"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3179,617,3264,644"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3288,617,3347,644"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title=" " alt="" coords="2397,617,2550,644"/>
+<area shape="rect" id="node7" href="$STLForwardCompat_8h.html" title=" " alt="" coords="2677,692,2901,719"/>
+<area shape="rect" id="node12" href="$iterator_8h.html" title=" " alt="" coords="2755,617,2901,644"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2531,692,2602,719"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1621,617,1816,644"/>
+<area shape="rect" id="node17" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3709,617,3920,644"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2043,617,2109,644"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2133,617,2219,644"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3574,617,3685,644"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2574,617,2629,644"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title=" " alt="" coords="3355,543,3530,569"/>
+<area shape="rect" id="node32" href="$ArrayRef_8h.html" title=" " alt="" coords="3552,468,3707,495"/>
+<area shape="rect" id="node36" href="$BinaryFormat_2COFF_8h.html" title=" " alt="" coords="5261,155,5453,181"/>
+<area shape="rect" id="node37" href="$SubtargetFeature_8h.html" title=" " alt="" coords="2710,155,2914,181"/>
+<area shape="rect" id="node38" href="$CVDebugRecord_8h.html" title=" " alt="" coords="4731,229,4949,256"/>
+<area shape="rect" id="node39" href="$Endian_8h.html" title=" " alt="" coords="4691,393,4856,420"/>
+<area shape="rect" id="node40" href="$BinaryByteStream_8h.html" title=" " alt="" coords="2557,311,2797,338"/>
+<area shape="rect" id="node41" href="$ConvertUTF_8h.html" title=" " alt="" coords="4483,468,4679,495"/>
+<area shape="rect" id="node43" href="$BinaryFormat_2ELF_8h.html" title=" " alt="" coords="2379,393,2559,420"/>
+<area shape="rect" id="node44" href="$Object_2ELF_8h.html" title=" " alt="" coords="2937,229,3071,256"/>
+<area shape="rect" id="node45" href="$ELFTypes_8h.html" title=" " alt="" coords="2923,311,3095,338"/>
+<area shape="rect" id="node46" href="$ARMAttributeParser_8h.html" title=" " alt="" coords="3953,304,4149,345"/>
+<area shape="rect" id="node47" href="$ELFAttributes_8h.html" title=" " alt="" coords="3598,393,3805,420"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="include/llvm/CodeGen/GlobalISel/Localizer.h" name="include/llvm/CodeGen/GlobalISel/Localizer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="323,5,475,47"/>
+<area shape="rect" id="node2" href="$Localizer_8cpp.html" title="This file implements the Localizer class." alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node3" href="$AArch64TargetMachine_8cpp.html" title=" " alt="" coords="189,95,375,136"/>
+<area shape="rect" id="node4" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="399,95,634,136"/>
+<area shape="rect" id="node5" href="$PPCTargetMachine_8cpp.html" title=" " alt="" coords="658,95,821,136"/>
+</map>

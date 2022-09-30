@@ -1,0 +1,14 @@
+<map id="lib/Target/WebAssembly/WebAssemblyTargetMachine.h" name="lib/Target/WebAssembly/WebAssemblyTargetMachine.h">
+<area shape="rect" id="node1" title="This file declares the WebAssembly&#45;specific subclass of TargetMachine." alt="" coords="1134,5,1359,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="5,102,221,143"/>
+<area shape="rect" id="node3" href="$WebAssemblyFastISel_8cpp.html" title="This file defines the WebAssembly&#45;specific support for the FastISel class." alt="" coords="245,102,440,143"/>
+<area shape="rect" id="node4" href="$WebAssemblyFrameLowering_8cpp.html" title="This file contains the WebAssembly implementation of TargetFrameLowering class." alt="" coords="464,102,709,143"/>
+<area shape="rect" id="node5" href="$WebAssemblyISelDAGToDAG_8cpp.html" title="This file defines an instruction selector for the WebAssembly target." alt="" coords="734,102,975,143"/>
+<area shape="rect" id="node6" href="$WebAssemblyISelLowering_8cpp.html" title="This file implements the WebAssemblyTargetLowering class." alt="" coords="999,102,1227,143"/>
+<area shape="rect" id="node7" href="$WebAssemblyLowerEmscriptenEHSjLj_8cpp.html" title="This file lowers exception&#45;related instructions and setjmp/longjmp function calls in order to use Ems..." alt="" coords="1251,95,1511,151"/>
+<area shape="rect" id="node8" href="$WebAssemblySelectionDAGInfo_8cpp.html" title="This file implements the WebAssemblySelectionDAGInfo class." alt="" coords="1536,102,1795,143"/>
+<area shape="rect" id="node9" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine." alt="" coords="1793,199,2033,240"/>
+<area shape="rect" id="node10" href="$WebAssemblyTargetObjectFile_8cpp.html" title="This file defines the functions of the WebAssembly&#45;specific subclass of TargetLoweringObjectFile." alt="" coords="1869,102,2120,143"/>
+<area shape="rect" id="node11" href="$WebAssemblyTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the WebAssembly target machine..." alt="" coords="2145,102,2405,143"/>
+<area shape="rect" id="node12" href="$WebAssemblyTargetTransformInfo_8cpp.html" title="This file defines the WebAssembly&#45;specific TargetTransformInfo implementation." alt="" coords="2137,199,2412,240"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::LatencyPriorityQueue" name="llvm::LatencyPriorityQueue">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,204,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SchedulingPriorityQueue.html" title="This interface is used to plug different priorities computation algorithms into the list scheduler." alt="" coords="16,5,193,47"/>
+</map>

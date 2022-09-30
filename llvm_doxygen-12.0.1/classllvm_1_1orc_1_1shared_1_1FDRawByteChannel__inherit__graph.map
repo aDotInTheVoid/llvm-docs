@@ -1,0 +1,4 @@
+<map id="llvm::orc::shared::FDRawByteChannel" name="llvm::orc::shared::FDRawByteChannel">
+<area shape="rect" id="node1" title="Serialization channel that reads from and writes from file descriptors." alt="" coords="5,95,147,136"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RawByteChannel.html" title="Interface for byte&#45;streams to be used with ORC Serialization." alt="" coords="13,5,139,47"/>
+</map>

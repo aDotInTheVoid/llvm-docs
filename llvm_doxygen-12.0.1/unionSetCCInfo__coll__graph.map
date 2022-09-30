@@ -1,0 +1,7 @@
+<map id="SetCCInfo" name="SetCCInfo">
+<area shape="rect" id="node1" title="Helper structure to keep track of SetCC information." alt="" coords="105,199,188,225"/>
+<area shape="rect" id="node2" href="$structGenericSetCCInfo.html" title="Helper structure to keep track of ISD::SET_CC operands." alt="" coords="5,109,133,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SDValue.html" title="Unlike LLVM values, Selection DAG nodes may return multiple values as the result of a computation." alt="" coords="35,5,139,32"/>
+<area shape="rect" id="node5" href="$structAArch64SetCCInfo.html" title="Helper structure to keep track of a SET_CC lowered into AArch64 code." alt="" coords="157,109,291,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="173,5,257,32"/>
+</map>

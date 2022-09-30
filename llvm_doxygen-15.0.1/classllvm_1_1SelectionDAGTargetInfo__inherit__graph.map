@@ -1,0 +1,13 @@
+<map id="llvm::SelectionDAGTargetInfo" name="llvm::SelectionDAGTargetInfo">
+<area shape="rect" id="node1" title="Targets can subclass this to parameterize the SelectionDAG lowering and instruction selection process..." alt="" coords="5,233,219,260"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64SelectionDAGInfo.html" title=" " alt="" coords="269,5,495,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ARMSelectionDAGInfo.html" title=" " alt="" coords="281,56,483,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AVRSelectionDAGInfo.html" title="Holds information about the AVR instruction selection DAG." alt="" coords="283,107,481,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BPFSelectionDAGInfo.html" title=" " alt="" coords="283,157,481,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1HexagonSelectionDAGInfo.html" title=" " alt="" coords="267,208,497,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1LanaiSelectionDAGInfo.html" title=" " alt="" coords="278,259,486,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SystemZSelectionDAGInfo.html" title=" " alt="" coords="267,309,497,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1WebAssemblySelectionDAGInfo.html" title=" " alt="" coords="277,361,487,402"/>
+<area shape="rect" id="node10" href="$classllvm_1_1X86SelectionDAGInfo.html" title=" " alt="" coords="283,427,481,453"/>
+<area shape="rect" id="node11" href="$classllvm_1_1XCoreSelectionDAGInfo.html" title=" " alt="" coords="277,477,487,504"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::IRSimilarityAnalysis" name="llvm::IRSimilarityAnalysis">
+<area shape="rect" id="node1" title="An analysis pass that runs and returns the IRSimilarityIdentifier run on the Module." alt="" coords="101,304,292,331"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="105,213,288,255"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,109,188,151"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="122,5,271,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="212,109,387,151"/>
+</map>

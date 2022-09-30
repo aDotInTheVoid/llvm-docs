@@ -1,0 +1,12 @@
+<map id="llvm::ELFYAML::SectionHeaderTable" name="llvm::ELFYAML::SectionHeaderTable">
+<area shape="rect" id="node1" title=" " alt="" coords="936,111,1143,153"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ELFYAML_1_1Chunk.html" title=" " alt="" coords="728,164,887,191"/>
+<area shape="rect" id="node3" title=" " alt="" coords="399,116,486,143"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title=" " alt="" coords="373,218,512,259"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,65,140,92"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title=" " alt="" coords="545,73,695,100"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Optional.html" title=" " alt="" coords="536,5,704,61"/>
+<area shape="rect" id="node6" href="$classbool.html" title=" " alt="" coords="419,167,466,193"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="389,291,497,317"/>
+<area shape="rect" id="node8" href="$classsize__t.html" title=" " alt="" coords="45,291,101,317"/>
+</map>

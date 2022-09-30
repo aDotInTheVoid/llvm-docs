@@ -1,0 +1,4 @@
+<map id="llvm::ConvergingVLIWScheduler" name="llvm::ConvergingVLIWScheduler">
+<area shape="rect" id="node1" title="ConvergingVLIWScheduler shrinks the unscheduled zone using heuristics to balance the schedule." alt="" coords="5,80,236,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI." alt="" coords="17,5,225,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::IRSimilarityAnalysisPrinterPass" name="llvm::IRSimilarityAnalysisPrinterPass">
+<area shape="rect" id="node1" title="Printer pass that uses IRSimilarityAnalysis." alt="" coords="14,229,185,271"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,124,193,180"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="31,5,168,47"/>
+</map>

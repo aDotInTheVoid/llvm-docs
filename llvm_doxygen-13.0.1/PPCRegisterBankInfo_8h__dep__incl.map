@@ -1,0 +1,6 @@
+<map id="lib/Target/PowerPC/GISel/PPCRegisterBankInfo.h" name="lib/Target/PowerPC/GISel/PPCRegisterBankInfo.h">
+<area shape="rect" id="node1" title="This file declares the targeting of the RegisterBankInfo class for PowerPC." alt="" coords="275,5,488,47"/>
+<area shape="rect" id="node2" href="$PPCInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for PowerPC." alt="" coords="5,95,243,136"/>
+<area shape="rect" id="node3" href="$PPCRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for PowerPC." alt="" coords="267,95,495,136"/>
+<area shape="rect" id="node4" href="$PPCSubtarget_8cpp.html" title=" " alt="" coords="519,95,662,136"/>
+</map>

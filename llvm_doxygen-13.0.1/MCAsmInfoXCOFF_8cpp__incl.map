@@ -1,0 +1,52 @@
+<map id="lib/MC/MCAsmInfoXCOFF.cpp" name="lib/MC/MCAsmInfoXCOFF.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2815,5,3025,32"/>
+<area shape="rect" id="node2" href="$MCAsmInfoXCOFF_8h.html" title=" " alt="" coords="1995,80,2203,107"/>
+<area shape="rect" id="node38" href="$StringExtras_8h.html" title=" " alt="" coords="4401,155,4578,181"/>
+<area shape="rect" id="node44" href="$CommandLine_8h.html" title=" " alt="" coords="2813,155,3027,181"/>
+<area shape="rect" id="node3" href="$MCAsmInfo_8h.html" title=" " alt="" coords="1133,155,1299,181"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title=" " alt="" coords="4165,304,4323,331"/>
+<area shape="rect" id="node32" href="$MCDirectives_8h.html" title=" " alt="" coords="5,229,184,256"/>
+<area shape="rect" id="node33" href="$MCTargetOptions_8h.html" title=" " alt="" coords="1115,229,1317,256"/>
+<area shape="rect" id="node37" title=" " alt="" coords="209,379,271,405"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title=" " alt="" coords="2491,379,2653,405"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title=" " alt="" coords="3148,677,3327,704"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5336,677,5395,704"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1633,677,1725,704"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3499,677,3559,704"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2876,603,2961,629"/>
+<area shape="rect" id="node15" title=" " alt="" coords="4219,603,4288,629"/>
+<area shape="rect" id="node16" title=" " alt="" coords="4603,603,4669,629"/>
+<area shape="rect" id="node23" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3743,528,3934,555"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1570,528,1641,555"/>
+<area shape="rect" id="node31" title=" " alt="" coords="3825,453,3884,480"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title=" " alt="" coords="3394,453,3547,480"/>
+<area shape="rect" id="node8" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3591,603,3801,629"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3251,603,3306,629"/>
+<area shape="rect" id="node19" href="$STLForwardCompat_8h.html" title=" " alt="" coords="2235,528,2459,555"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2733,528,2811,555"/>
+<area shape="rect" id="node22" href="$iterator_8h.html" title=" " alt="" coords="1902,453,2047,480"/>
+<area shape="rect" id="node25" title=" " alt="" coords="803,528,874,555"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1716,528,1911,555"/>
+<area shape="rect" id="node27" title=" " alt="" coords="4673,528,4740,555"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2838,453,2903,480"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2927,453,3014,480"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1158,453,1269,480"/>
+<area shape="rect" id="node7" href="$Hashing_8h.html" title=" " alt="" coords="3239,528,3390,555"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title=" " alt="" coords="3037,603,3227,629"/>
+<area shape="rect" id="node18" href="$None_8h.html" title=" " alt="" coords="4213,528,4345,555"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3618,528,3667,555"/>
+<area shape="rect" id="node34" href="$ArrayRef_8h.html" title=" " alt="" coords="1165,304,1320,331"/>
+<area shape="rect" id="node35" href="$SmallVector_8h.html" title=" " alt="" coords="3178,379,3353,405"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1157,379,1213,405"/>
+<area shape="rect" id="node39" href="$APSInt_8h.html" title=" " alt="" coords="5302,304,5442,331"/>
+<area shape="rect" id="node42" href="$SmallString_8h.html" title=" " alt="" coords="3232,229,3405,256"/>
+<area shape="rect" id="node43" href="$Twine_8h.html" title=" " alt="" coords="4679,229,4814,256"/>
+<area shape="rect" id="node40" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="5018,528,5150,555"/>
+<area shape="rect" id="node41" title=" " alt="" coords="5236,603,5303,629"/>
+<area shape="rect" id="node45" href="$SmallPtrSet_8h.html" title=" " alt="" coords="907,379,1082,405"/>
+<area shape="rect" id="node48" href="$StringMap_8h.html" title=" " alt="" coords="651,379,815,405"/>
+<area shape="rect" id="node49" href="$ManagedStatic_8h.html" title=" " alt="" coords="1395,304,1613,331"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title=" " alt="" coords="4318,229,4525,256"/>
+<area shape="rect" id="node46" href="$EpochTracker_8h.html" title=" " alt="" coords="2174,453,2357,480"/>
+<area shape="rect" id="node47" href="$ReverseIteration_8h.html" title=" " alt="" coords="904,453,1133,480"/>
+</map>

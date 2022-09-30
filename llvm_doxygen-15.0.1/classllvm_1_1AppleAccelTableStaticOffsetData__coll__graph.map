@@ -1,0 +1,7 @@
+<map id="llvm::AppleAccelTableStaticOffsetData" name="llvm::AppleAccelTableStaticOffsetData">
+<area shape="rect" id="node1" title="Accelerator table data implementation for simple Apple accelerator tables with a DIE offset but no ac..." alt="" coords="197,171,399,212"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AppleAccelTableData.html" title="A base class for different implementations of Data classes for Apple Accelerator Tables." alt="" coords="5,81,201,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AccelTableData.html" title="Interface which the different types of accelerator table data have to conform." alt="" coords="24,5,183,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="226,81,370,108"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title=" " alt="" coords="394,81,469,108"/>
+</map>

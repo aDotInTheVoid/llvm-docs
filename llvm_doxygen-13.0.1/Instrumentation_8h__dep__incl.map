@@ -1,0 +1,46 @@
+<map id="include/llvm/Transforms/Instrumentation.h" name="include/llvm/Transforms/Instrumentation.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4238,5,4417,47"/>
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title=" " alt="" coords="1579,102,1785,129"/>
+<area shape="rect" id="node3" href="$llvm_2Passes_2PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="1809,95,1960,136"/>
+<area shape="rect" id="node18" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="2849,191,3040,218"/>
+<area shape="rect" id="node24" href="$GCOVProfiler_8h.html" title="This file provides the interface for the GCOV style profiler pass." alt="" coords="2830,95,3059,136"/>
+<area shape="rect" id="node25" href="$GCOVProfiling_8cpp.html" title=" " alt="" coords="3068,184,3291,225"/>
+<area shape="rect" id="node26" href="$InstrProfiling_8h.html" title="This file provides the interface for LLVM&#39;s PGO Instrumentation lowering pass." alt="" coords="2527,95,2755,136"/>
+<area shape="rect" id="node28" href="$SanitizerCoverage_8h.html" title=" " alt="" coords="3084,95,3349,136"/>
+<area shape="rect" id="node29" href="$SanitizerCoverage_8cpp.html" title=" " alt="" coords="3323,184,3545,225"/>
+<area shape="rect" id="node30" href="$AddressSanitizer_8cpp.html" title=" " alt="" coords="3476,95,3699,136"/>
+<area shape="rect" id="node31" href="$CGProfile_8cpp.html" title=" " alt="" coords="3723,95,3945,136"/>
+<area shape="rect" id="node32" href="$DataFlowSanitizer_8cpp.html" title="This file is a part of DataFlowSanitizer, a generalised dynamic data flow analysis." alt="" coords="3969,95,4192,136"/>
+<area shape="rect" id="node33" href="$HWAddressSanitizer_8cpp.html" title="This file is a part of HWAddressSanitizer, an address sanity checker based on tagged addressing." alt="" coords="4216,95,4439,136"/>
+<area shape="rect" id="node34" href="$IndirectCallPromotion_8cpp.html" title=" " alt="" coords="4463,95,4685,136"/>
+<area shape="rect" id="node35" href="$InstrOrderFile_8cpp.html" title=" " alt="" coords="4709,95,4932,136"/>
+<area shape="rect" id="node36" href="$Instrumentation_8cpp.html" title=" " alt="" coords="4956,95,5179,136"/>
+<area shape="rect" id="node37" href="$MemorySanitizer_8cpp.html" title="This file is a part of MemorySanitizer, a detector of uninitialized reads." alt="" coords="5203,95,5425,136"/>
+<area shape="rect" id="node38" href="$MemProfiler_8cpp.html" title=" " alt="" coords="5449,95,5672,136"/>
+<area shape="rect" id="node39" href="$PGOInstrumentation_8cpp.html" title=" " alt="" coords="5696,95,5919,136"/>
+<area shape="rect" id="node40" href="$PGOMemOPSizeOpt_8cpp.html" title=" " alt="" coords="5943,95,6165,136"/>
+<area shape="rect" id="node41" href="$ThreadSanitizer_8cpp.html" title=" " alt="" coords="6189,95,6412,136"/>
+<area shape="rect" id="node42" href="$PassManagerBuilder_8cpp.html" title=" " alt="" coords="6437,95,6621,136"/>
+<area shape="rect" id="node43" href="$SampleProfile_8cpp.html" title=" " alt="" coords="6645,95,6788,136"/>
+<area shape="rect" id="node44" href="$SampleProfileProbe_8cpp.html" title=" " alt="" coords="6812,95,6992,136"/>
+<area shape="rect" id="node4" href="$Config_8h.html" title=" " alt="" coords="870,191,1057,218"/>
+<area shape="rect" id="node13" href="$ThinLTOCodeGenerator_8cpp.html" title=" " alt="" coords="1136,437,1383,464"/>
+<area shape="rect" id="node16" href="$LTOBackend_8cpp.html" title=" " alt="" coords="686,437,862,464"/>
+<area shape="rect" id="node17" href="$SpeculateAnalyses_8cpp.html" title=" " alt="" coords="1398,184,1601,225"/>
+<area shape="rect" id="node19" href="$PassBuilderBindings_8cpp.html" title="This file defines the C bindings to the new pass manager." alt="" coords="1625,191,1873,218"/>
+<area shape="rect" id="node20" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="1897,184,2145,225"/>
+<area shape="rect" id="node21" href="$BPFTargetMachine_8cpp.html" title=" " alt="" coords="2169,184,2347,225"/>
+<area shape="rect" id="node22" href="$HexagonTargetMachine_8cpp.html" title=" " alt="" coords="2372,184,2579,225"/>
+<area shape="rect" id="node23" href="$NVPTXTargetMachine_8cpp.html" title=" " alt="" coords="627,184,846,225"/>
+<area shape="rect" id="node5" href="$LTOCodeGenerator_8h.html" title=" " alt="" coords="5,348,183,389"/>
+<area shape="rect" id="node7" href="$LTO_8h.html" title=" " alt="" coords="663,273,834,300"/>
+<area shape="rect" id="node6" href="$LTOCodeGenerator_8cpp.html" title=" " alt="" coords="103,437,322,464"/>
+<area shape="rect" id="node8" href="$Caching_8h.html" title=" " alt="" coords="812,355,1011,382"/>
+<area shape="rect" id="node10" href="$LTOModule_8h.html" title=" " alt="" coords="259,348,436,389"/>
+<area shape="rect" id="node12" href="$ThinLTOCodeGenerator_8h.html" title=" " alt="" coords="1035,348,1222,389"/>
+<area shape="rect" id="node14" href="$LTOBackend_8h.html" title=" " alt="" coords="460,355,685,382"/>
+<area shape="rect" id="node15" href="$LTO_8cpp.html" title=" " alt="" coords="540,437,661,464"/>
+<area shape="rect" id="node9" href="$Caching_8cpp.html" title=" " alt="" coords="886,437,1035,464"/>
+<area shape="rect" id="node11" href="$LTOModule_8cpp.html" title=" " alt="" coords="347,437,516,464"/>
+<area shape="rect" id="node27" href="$InstrProfiling_8cpp.html" title=" " alt="" coords="2603,184,2825,225"/>
+</map>

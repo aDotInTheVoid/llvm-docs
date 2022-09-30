@@ -1,0 +1,5 @@
+<map id="llvm::orc::remote::stubs::EmitTrampolineBlock" name="llvm::orc::remote::stubs::EmitTrampolineBlock">
+<area shape="rect" id="node1" title="EmitTrampolineBlock result is (BlockAddr, NumTrampolines)." alt="" coords="753,29,956,70"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="449,14,704,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="5,21,208,77"/>
+</map>

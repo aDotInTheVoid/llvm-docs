@@ -1,0 +1,7 @@
+<map id="llvm::ReplayInlineAdvisor" name="llvm::ReplayInlineAdvisor">
+<area shape="rect" id="node1" title="Replay inline advisor that uses optimization remarks from inlining of previous build to guide current..." alt="" coords="612,78,801,105"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InlineAdvisor.html" title="Interface for deciding whether to inline a call site or not." alt="" coords="419,78,563,105"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AnalysisManager.html" title="A container for analyses that lazily runs them and caches their results." alt="" coords="20,71,197,112"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Module.html" title="A Module instance is used to store all the information related to an LLVM module." alt="" coords="55,137,162,163"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::StringMap&lt; ValueTy, AllocatorTy &gt;" name="llvm::StringMap&lt; ValueTy, AllocatorTy &gt;">
+<area shape="rect" id="node1" title="StringMap &#45; This is an unconventional map that is specialized for handling keys that are &quot;strings&quot;,..." alt="" coords="1185,158,1380,199"/>
+<area shape="rect" id="node2" href="$classllvm_1_1StringMapImpl.html" title="StringMapImpl &#45; This is the base class of StringMap that is shared among all of its instantiations." alt="" coords="956,116,1111,143"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances." alt="" coords="549,5,739,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="603,92,685,119"/>
+<area shape="rect" id="node5" title=" " alt="" coords="605,143,683,169"/>
+<area shape="rect" id="node6" href="$classllvm_1_1detail_1_1AllocatorHolder.html" title=" " alt="" coords="931,186,1136,227"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MallocAllocator.html" title=" " alt="" coords="564,193,724,220"/>
+<area shape="rect" id="node8" href="$classllvm_1_1AllocatorBase.html" title=" " alt="" coords="339,186,492,227"/>
+<area shape="rect" id="node9" href="$classllvm_1_1AllocatorBase.html" title="CRTP base class providing obvious overloads for the core Allocate() methods of LLVM&#45;style allocators." alt="" coords="5,186,155,227"/>
+<area shape="rect" id="node10" href="$classllvm_1_1detail_1_1AllocatorHolder.html" title=" " alt="" coords="541,245,747,286"/>
+<area shape="rect" id="node11" title=" " alt="" coords="388,252,443,279"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::objcopy::elf::DynamicRelocationSection" name="llvm::objcopy::elf::DynamicRelocationSection">
+<area shape="rect" id="node1" title=" " alt="" coords="1207,13,1412,54"/>
+<area shape="rect" id="node2" href="$classllvm_1_1objcopy_1_1elf_1_1RelocSectionWithSymtabBase.html" title=" " alt="" coords="916,5,1157,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1objcopy_1_1elf_1_1RelocationSectionBase.html" title=" " alt="" coords="189,14,368,55"/>
+<area shape="rect" id="node5" href="$classllvm_1_1objcopy_1_1elf_1_1RelocSectionWithSymtabBase.html" title=" " alt="" coords="417,39,644,95"/>
+<area shape="rect" id="node4" href="$classllvm_1_1objcopy_1_1elf_1_1SectionBase.html" title=" " alt="" coords="5,14,140,55"/>
+</map>

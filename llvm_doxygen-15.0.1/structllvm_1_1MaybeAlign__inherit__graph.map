@@ -1,0 +1,5 @@
+<map id="llvm::MaybeAlign" name="llvm::MaybeAlign">
+<area shape="rect" id="node1" title="This struct is a compact representation of a valid (power of two) or undefined (0) alignment." alt="" coords="26,171,162,197"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,95,183,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title=" " alt="" coords="18,5,170,32"/>
+</map>

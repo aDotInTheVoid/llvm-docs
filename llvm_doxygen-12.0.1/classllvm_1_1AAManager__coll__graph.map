@@ -1,0 +1,6 @@
+<map id="llvm::AAManager" name="llvm::AAManager">
+<area shape="rect" id="node1" title="A manager for alias analyses." alt="" coords="22,291,145,317"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="5,200,161,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="9,5,147,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="100,96,256,137"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Target/WebAssembly/WebAssemblyRuntimeLibcallSignatures.cpp" name="lib/Target/WebAssembly/WebAssemblyRuntimeLibcallSignatures.cpp">
+<area shape="rect" id="node1" title="This file contains signature information for runtime libcalls." alt="" coords="883,5,1165,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyRuntimeLibcallSignatures_8h.html" title="This file provides signature information for runtime libcalls." alt="" coords="1549,95,1741,136"/>
+<area shape="rect" id="node4" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget." alt="" coords="932,273,1116,300"/>
+<area shape="rect" id="node32" href="$RuntimeLibcalls_8h.html" title=" " alt="" coords="144,519,357,546"/>
+<area shape="rect" id="node35" title=" " alt="" coords="94,601,277,628"/>
+<area shape="rect" id="node49" href="$ManagedStatic_8h.html" title=" " alt="" coords="1066,102,1265,129"/>
+<area shape="rect" id="node3" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions." alt="" coords="1893,184,2091,225"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title=" " alt="" coords="2263,601,2425,628"/>
+<area shape="rect" id="node29" title=" " alt="" coords="3167,676,3238,703"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2643,519,2864,546"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1807,430,2006,457"/>
+<area shape="rect" id="node46" href="$BinaryFormat_2Wasm_8h.html" title=" " alt="" coords="2031,430,2212,457"/>
+<area shape="rect" id="node47" href="$MCInstrDesc_8h.html" title=" " alt="" coords="1765,273,1929,300"/>
+<area shape="rect" id="node48" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="1807,348,1980,375"/>
+<area shape="rect" id="node5" href="$WebAssemblyFrameLowering_8h.html" title="This class implements WebAssembly&#45;specific bits of TargetFrameLowering class." alt="" coords="245,348,451,375"/>
+<area shape="rect" id="node7" href="$WebAssemblyISelLowering_8h.html" title="This file defines the interfaces that WebAssembly uses to lower LLVM code into a selection DAG." alt="" coords="670,348,861,375"/>
+<area shape="rect" id="node17" title=" " alt="" coords="322,825,377,852"/>
+<area shape="rect" id="node37" href="$WebAssemblyInstrInfo_8h.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class." alt="" coords="1372,348,1537,375"/>
+<area shape="rect" id="node42" href="$WebAssemblySelectionDAGInfo_8h.html" title="This file defines the WebAssembly subclass for SelectionDAGTargetInfo." alt="" coords="1562,348,1782,375"/>
+<area shape="rect" id="node44" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1530,423,1731,464"/>
+<area shape="rect" id="node45" title=" " alt="" coords="885,348,1115,375"/>
+<area shape="rect" id="node6" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="257,423,439,464"/>
+<area shape="rect" id="node8" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code." alt="" coords="1009,430,1215,457"/>
+<area shape="rect" id="node36" title=" " alt="" coords="690,430,841,457"/>
+<area shape="rect" id="node9" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1093,601,1216,628"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1037,751,1112,777"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1203,751,1269,777"/>
+<area shape="rect" id="node18" href="$ArrayRef_8h.html" title=" " alt="" coords="1807,519,1948,546"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2623,751,2676,777"/>
+<area shape="rect" id="node22" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="802,751,993,777"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1846,676,1909,703"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title=" " alt="" coords="1440,601,1584,628"/>
+<area shape="rect" id="node33" href="$ValueTypes_8h.html" title=" " alt="" coords="352,601,539,628"/>
+<area shape="rect" id="node34" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="715,601,917,628"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title=" " alt="" coords="1625,825,1788,852"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title=" " alt="" coords="1389,676,1568,703"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1524,751,1585,777"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1616,751,1669,777"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2007,751,2089,777"/>
+<area shape="rect" id="node26" title=" " alt="" coords="945,676,1010,703"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2996,676,3092,703"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2136,676,2307,703"/>
+<area shape="rect" id="node23" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="2751,676,2921,703"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2841,751,2901,777"/>
+<area shape="rect" id="node25" href="$type__traits_8h.html" title=" " alt="" coords="2453,676,2625,703"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2382,676,2429,703"/>
+<area shape="rect" id="node38" href="$WebAssemblyRegisterInfo_8h.html" title="This file contains the WebAssembly implementation of the WebAssemblyRegisterInfo class." alt="" coords="2267,430,2453,457"/>
+<area shape="rect" id="node40" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1316,423,1487,464"/>
+<area shape="rect" id="node43" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="2888,512,3115,553"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1135,191,1196,218"/>
+</map>

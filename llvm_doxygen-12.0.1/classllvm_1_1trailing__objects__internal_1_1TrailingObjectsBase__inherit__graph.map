@@ -1,0 +1,11 @@
+<map id="llvm::trailing_objects_internal::TrailingObjectsBase" name="llvm::trailing_objects_internal::TrailingObjectsBase">
+<area shape="rect" id="node1" title="The base class for TrailingObjects* classes." alt="" coords="5,224,200,265"/>
+<area shape="rect" id="node2" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner.html" title=" " alt="" coords="267,13,472,69"/>
+<area shape="rect" id="node4" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_011_01_4.html" title=" " alt="" coords="251,93,487,135"/>
+<area shape="rect" id="node5" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_0116_01_4.html" title=" " alt="" coords="248,159,491,200"/>
+<area shape="rect" id="node6" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_012_01_4.html" title=" " alt="" coords="251,224,487,265"/>
+<area shape="rect" id="node7" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_0132_01_4.html" title=" " alt="" coords="248,289,491,331"/>
+<area shape="rect" id="node8" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_014_01_4.html" title=" " alt="" coords="251,355,487,396"/>
+<area shape="rect" id="node9" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_018_01_4.html" title=" " alt="" coords="251,420,487,461"/>
+<area shape="rect" id="node3" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl_3_01Align_00_01BaseTy_00_01TopTrailingObj_00_01PrevTy_01_4.html" title=" " alt="" coords="539,5,747,76"/>
+</map>

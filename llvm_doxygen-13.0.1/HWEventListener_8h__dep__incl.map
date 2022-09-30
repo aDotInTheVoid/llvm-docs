@@ -1,0 +1,24 @@
+<map id="include/llvm/MCA/HWEventListener.h" name="include/llvm/MCA/HWEventListener.h">
+<area shape="rect" id="node1" title="This file defines the main interface for hardware event listeners." alt="" coords="1875,5,2075,47"/>
+<area shape="rect" id="node2" href="$Stage_8h.html" title="This file defines a stage." alt="" coords="1143,95,1327,136"/>
+<area shape="rect" id="node6" href="$Pipeline_8cpp.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend." alt="" coords="1912,281,2067,307"/>
+<area shape="rect" id="node8" href="$DispatchStage_8cpp.html" title="This file models the dispatch component of an instruction pipeline." alt="" coords="2141,281,2387,307"/>
+<area shape="rect" id="node20" href="$RetireStage_8cpp.html" title="This file defines the retire stage of an instruction pipeline." alt="" coords="259,281,485,307"/>
+<area shape="rect" id="node22" href="$HWEventListener_8cpp.html" title="This file defines a vtable anchor for class HWEventListener." alt="" coords="2271,102,2486,129"/>
+<area shape="rect" id="node3" href="$Pipeline_8h.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend." alt="" coords="1685,191,1889,218"/>
+<area shape="rect" id="node7" href="$DispatchStage_8h.html" title="This file models the dispatch component of an instruction pipeline." alt="" coords="2012,184,2196,225"/>
+<area shape="rect" id="node9" href="$EntryStage_8h.html" title="This file defines the Entry stage of an instruction pipeline." alt="" coords="831,184,1015,225"/>
+<area shape="rect" id="node11" href="$ExecuteStage_8h.html" title="This file defines the execution stage of a default instruction pipeline." alt="" coords="1039,184,1223,225"/>
+<area shape="rect" id="node13" href="$InOrderIssueStage_8h.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="39,184,223,225"/>
+<area shape="rect" id="node15" href="$InstructionTables_8h.html" title="This file implements a custom stage to generate instruction tables." alt="" coords="1464,184,1648,225"/>
+<area shape="rect" id="node17" href="$MicroOpQueueStage_8h.html" title="This file defines a stage that implements a queue of micro opcodes." alt="" coords="1247,184,1431,225"/>
+<area shape="rect" id="node19" href="$RetireStage_8h.html" title="This file defines the retire stage of a default instruction pipeline." alt="" coords="409,184,593,225"/>
+<area shape="rect" id="node21" href="$Stage_8cpp.html" title="This file defines a stage." alt="" coords="618,191,806,218"/>
+<area shape="rect" id="node4" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="1685,281,1888,307"/>
+<area shape="rect" id="node5" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="1057,363,1212,389"/>
+<area shape="rect" id="node10" href="$EntryStage_8cpp.html" title="This file defines the Fetch stage of an instruction pipeline." alt="" coords="611,281,834,307"/>
+<area shape="rect" id="node12" href="$ExecuteStage_8cpp.html" title="This file defines the execution stage of an instruction pipeline." alt="" coords="858,281,1097,307"/>
+<area shape="rect" id="node14" href="$InOrderIssueStage_8cpp.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="27,273,234,315"/>
+<area shape="rect" id="node16" href="$InstructionTables_8cpp.html" title="This file implements the method InstructionTables::execute()." alt="" coords="1467,273,1661,315"/>
+<area shape="rect" id="node18" href="$MicroOpQueueStage_8cpp.html" title="This file defines the MicroOpQueueStage." alt="" coords="1223,273,1443,315"/>
+</map>

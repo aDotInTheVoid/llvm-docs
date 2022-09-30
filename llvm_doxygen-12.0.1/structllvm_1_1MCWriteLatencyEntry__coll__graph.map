@@ -1,0 +1,5 @@
+<map id="llvm::MCWriteLatencyEntry" name="llvm::MCWriteLatencyEntry">
+<area shape="rect" id="node1" title="Specify the latency in cpu cycles for a particular scheduling class and def index." alt="" coords="15,95,197,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="143,5,205,32"/>
+</map>

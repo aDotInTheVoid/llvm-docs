@@ -1,0 +1,5 @@
+<map id="llvm::orc::remote::mem::SetProtections" name="llvm::orc::remote::mem::SetProtections">
+<area shape="rect" id="node1" title="Set the memory protection on a memory block." alt="" coords="673,43,819,85"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="409,21,624,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="5,36,195,92"/>
+</map>

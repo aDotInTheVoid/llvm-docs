@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1ObjectLinkingLayer_1_1Plugin.html" title="Plugin instances can be added to the ObjectLinkingLayer to receive callbacks when code is loaded or e..." alt="" coords="5,39,181,80"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1DebugObjectManagerPlugin.html" title="Creates and manages DebugObjects for JITLink artifacts." alt="" coords="229,5,457,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1EHFrameRegistrationPlugin.html" title=" " alt="" coords="231,71,456,112"/>
+</map>

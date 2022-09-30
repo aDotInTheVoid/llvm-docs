@@ -1,0 +1,9 @@
+<map id="llvm::ArgInfo" name="llvm::ArgInfo">
+<area shape="rect" id="node1" title="Helper struct shared between Function Specialization and SCCP Solver." alt="" coords="67,464,173,491"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="8,375,125,401"/>
+<area shape="rect" id="node3" href="$classllvm_1_1User.html" title=" " alt="" coords="39,273,129,300"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="79,197,174,224"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Argument.html" title="This class represents an incoming formal argument to a Function." alt="" coords="109,324,232,351"/>
+<area shape="rect" id="node5" href="$classuint64__t.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="170,5,251,32"/>
+</map>

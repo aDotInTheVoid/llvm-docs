@@ -1,0 +1,52 @@
+<map id="lib/Transforms/IPO/PassManagerBuilder.cpp" name="lib/Transforms/IPO/PassManagerBuilder.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1952,5,2136,47"/>
+<area shape="rect" id="node2" href="$Transforms_2IPO_2PassManagerBuilder_8h.html" title=" " alt="" coords="391,184,561,225"/>
+<area shape="rect" id="node3" href="$c_2Transforms_2PassManagerBuilder_8h.html" title=" " alt="" coords="5,273,235,315"/>
+<area shape="rect" id="node9" href="$STLExtras_8h.html" title=" " alt="" coords="1781,281,1944,307"/>
+<area shape="rect" id="node25" href="$SmallVector_8h.html" title=" " alt="" coords="993,281,1167,307"/>
+<area shape="rect" id="node26" href="$CFLAndersAliasAnalysis_8h.html" title=" " alt="" coords="2132,95,2348,136"/>
+<area shape="rect" id="node27" href="$CFLSteensAliasAnalysis_8h.html" title=" " alt="" coords="2373,95,2587,136"/>
+<area shape="rect" id="node28" href="$GlobalsModRef_8h.html" title=" " alt="" coords="2611,95,2802,136"/>
+<area shape="rect" id="node29" href="$ScopedNoAliasAA_8h.html" title=" " alt="" coords="2826,102,3067,129"/>
+<area shape="rect" id="node30" href="$TargetLibraryInfo_8h.html" title=" " alt="" coords="2119,273,2318,315"/>
+<area shape="rect" id="node31" href="$TypeBasedAliasAnalysis_8h.html" title=" " alt="" coords="3092,95,3308,136"/>
+<area shape="rect" id="node32" href="$LegacyPassManager_8h.html" title=" " alt="" coords="3333,102,3547,129"/>
+<area shape="rect" id="node33" href="$CommandLine_8h.html" title=" " alt="" coords="1294,191,1509,218"/>
+<area shape="rect" id="node34" href="$ManagedStatic_8h.html" title=" " alt="" coords="1537,281,1756,307"/>
+<area shape="rect" id="node35" href="$CGPassBuilderOption_8h.html" title=" " alt="" coords="2361,184,2554,225"/>
+<area shape="rect" id="node36" href="$Transforms_2AggressiveInstCombine_2AggressiveInstCombine_8h.html" title=" " alt="" coords="3572,95,3847,136"/>
+<area shape="rect" id="node37" href="$Transforms_2IPO_8h.html" title=" " alt="" coords="855,191,1020,218"/>
+<area shape="rect" id="node38" href="$Attributor_8h.html" title=" " alt="" coords="1871,184,2025,225"/>
+<area shape="rect" id="node39" href="$ForceFunctionAttrs_8h.html" title=" " alt="" coords="3871,95,4030,136"/>
+<area shape="rect" id="node40" href="$FunctionAttrs_8h.html" title=" " alt="" coords="4054,95,4207,136"/>
+<area shape="rect" id="node41" href="$InferFunctionAttrs_8h.html" title=" " alt="" coords="4232,95,4387,136"/>
+<area shape="rect" id="node42" href="$Transforms_2InstCombine_2InstCombine_8h.html" title=" " alt="" coords="4411,95,4624,136"/>
+<area shape="rect" id="node43" href="$Instrumentation_8h.html" title=" " alt="" coords="585,191,831,218"/>
+<area shape="rect" id="node44" href="$Transforms_2Scalar_8h.html" title=" " alt="" coords="259,281,442,307"/>
+<area shape="rect" id="node45" href="$GVN_8h.html" title=" " alt="" coords="1044,184,1215,225"/>
+<area shape="rect" id="node46" href="$LICM_8h.html" title=" " alt="" coords="1439,95,1609,136"/>
+<area shape="rect" id="node47" href="$LoopUnrollPass_8h.html" title=" " alt="" coords="1735,95,1905,136"/>
+<area shape="rect" id="node48" href="$SimpleLoopUnswitch_8h.html" title=" " alt="" coords="2671,184,2846,225"/>
+<area shape="rect" id="node49" href="$Transforms_2Utils_8h.html" title=" " alt="" coords="4648,102,4821,129"/>
+<area shape="rect" id="node50" href="$Transforms_2Vectorize_8h.html" title=" " alt="" coords="4845,102,5048,129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="678,363,765,389"/>
+<area shape="rect" id="node7" title=" " alt="" coords="568,281,627,307"/>
+<area shape="rect" id="node8" title=" " alt="" coords="753,281,815,307"/>
+<area shape="rect" id="node4" href="$ExternC_8h.html" title=" " alt="" coords="55,437,185,464"/>
+<area shape="rect" id="node5" href="$Types_8h.html" title=" " alt="" coords="110,363,226,389"/>
+<area shape="rect" id="node10" href="$Optional_8h.html" title=" " alt="" coords="2749,363,2902,389"/>
+<area shape="rect" id="node11" href="$STLForwardCompat_8h.html" title=" " alt="" coords="2721,437,2945,464"/>
+<area shape="rect" id="node12" title=" " alt="" coords="869,437,939,464"/>
+<area shape="rect" id="node13" href="$STLArrayExtras_8h.html" title=" " alt="" coords="1763,363,1962,389"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1759,437,1830,464"/>
+<area shape="rect" id="node15" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="2927,363,3156,389"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1349,437,1416,464"/>
+<area shape="rect" id="node17" href="$identity_8h.html" title=" " alt="" coords="2036,363,2183,389"/>
+<area shape="rect" id="node18" href="$iterator_8h.html" title=" " alt="" coords="2426,363,2571,389"/>
+<area shape="rect" id="node19" href="$iterator__range_8h.html" title=" " alt="" coords="2506,437,2697,464"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2207,363,2401,389"/>
+<area shape="rect" id="node21" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="1377,363,1588,389"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1179,363,1264,389"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1289,363,1354,389"/>
+<area shape="rect" id="node24" title=" " alt="" coords="993,363,1103,389"/>
+</map>

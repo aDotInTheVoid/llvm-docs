@@ -1,0 +1,59 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1TargetTransformInfoImplBase.html" title="Base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class." alt="" coords="5,593,195,635"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title="CRTP base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class." alt="" coords="291,5,481,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="261,71,511,112"/>
+<area shape="rect" id="node7" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="259,136,513,177"/>
+<area shape="rect" id="node10" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="275,201,497,243"/>
+<area shape="rect" id="node13" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="273,267,499,308"/>
+<area shape="rect" id="node16" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="271,332,501,373"/>
+<area shape="rect" id="node19" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="277,397,495,439"/>
+<area shape="rect" id="node22" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="274,463,498,504"/>
+<area shape="rect" id="node25" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="259,528,513,569"/>
+<area shape="rect" id="node28" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="271,593,501,635"/>
+<area shape="rect" id="node31" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="267,659,505,700"/>
+<area shape="rect" id="node34" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="276,724,496,765"/>
+<area shape="rect" id="node37" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="272,789,500,831"/>
+<area shape="rect" id="node40" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="269,855,503,896"/>
+<area shape="rect" id="node43" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="259,920,513,961"/>
+<area shape="rect" id="node46" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="280,985,492,1027"/>
+<area shape="rect" id="node49" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="243,1051,529,1092"/>
+<area shape="rect" id="node52" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="276,1116,496,1157"/>
+<area shape="rect" id="node55" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title=" " alt="" coords="269,1181,503,1223"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BasicTTIImplBase.html" title="Base class which can be used to help build a TTI implementation." alt="" coords="577,13,791,39"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,71,771,112"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AArch64TTIImpl.html" title=" " alt="" coords="857,78,1020,105"/>
+<area shape="rect" id="node8" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,136,771,177"/>
+<area shape="rect" id="node9" href="$classllvm_1_1AMDGPUTTIImpl.html" title=" " alt="" coords="855,143,1022,170"/>
+<area shape="rect" id="node11" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,201,771,243"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ARCTTIImpl.html" title=" " alt="" coords="871,209,1006,235"/>
+<area shape="rect" id="node14" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,267,771,308"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ARMTTIImpl.html" title=" " alt="" coords="869,274,1008,301"/>
+<area shape="rect" id="node17" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,332,771,373"/>
+<area shape="rect" id="node18" href="$classllvm_1_1BasicTTIImpl.html" title="Concrete BasicTTIImpl that can be used if no further customization is needed." alt="" coords="867,339,1010,366"/>
+<area shape="rect" id="node20" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,397,771,439"/>
+<area shape="rect" id="node21" href="$classllvm_1_1BPFTTIImpl.html" title=" " alt="" coords="873,405,1005,431"/>
+<area shape="rect" id="node23" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,463,771,504"/>
+<area shape="rect" id="node24" href="$classllvm_1_1GCNTTIImpl.html" title=" " alt="" coords="870,470,1007,497"/>
+<area shape="rect" id="node26" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,528,771,569"/>
+<area shape="rect" id="node27" href="$classllvm_1_1HexagonTTIImpl.html" title=" " alt="" coords="855,535,1022,562"/>
+<area shape="rect" id="node29" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,593,771,635"/>
+<area shape="rect" id="node30" href="$classllvm_1_1LanaiTTIImpl.html" title=" " alt="" coords="867,601,1010,627"/>
+<area shape="rect" id="node32" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,659,771,700"/>
+<area shape="rect" id="node33" href="$classllvm_1_1NVPTXTTIImpl.html" title=" " alt="" coords="863,666,1015,693"/>
+<area shape="rect" id="node35" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,724,771,765"/>
+<area shape="rect" id="node36" href="$classllvm_1_1PPCTTIImpl.html" title=" " alt="" coords="872,731,1005,758"/>
+<area shape="rect" id="node38" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,789,771,831"/>
+<area shape="rect" id="node39" href="$classllvm_1_1R600TTIImpl.html" title=" " alt="" coords="868,797,1009,823"/>
+<area shape="rect" id="node41" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,855,771,896"/>
+<area shape="rect" id="node42" href="$classllvm_1_1RISCVTTIImpl.html" title=" " alt="" coords="865,862,1012,889"/>
+<area shape="rect" id="node44" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,920,771,961"/>
+<area shape="rect" id="node45" href="$classllvm_1_1SystemZTTIImpl.html" title=" " alt="" coords="855,927,1022,954"/>
+<area shape="rect" id="node47" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,985,771,1027"/>
+<area shape="rect" id="node48" href="$classllvm_1_1VETTIImpl.html" title=" " alt="" coords="876,993,1001,1019"/>
+<area shape="rect" id="node50" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="587,1051,781,1092"/>
+<area shape="rect" id="node51" href="$classllvm_1_1WebAssemblyTTIImpl.html" title=" " alt="" coords="839,1058,1039,1085"/>
+<area shape="rect" id="node53" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,1116,771,1157"/>
+<area shape="rect" id="node54" href="$classllvm_1_1X86TTIImpl.html" title=" " alt="" coords="872,1123,1005,1150"/>
+<area shape="rect" id="node56" href="$classllvm_1_1BasicTTIImplBase.html" title=" " alt="" coords="597,1181,771,1223"/>
+<area shape="rect" id="node57" href="$classllvm_1_1XCoreTTIImpl.html" title=" " alt="" coords="865,1189,1012,1215"/>
+</map>

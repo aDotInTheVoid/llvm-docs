@@ -1,0 +1,4 @@
+<map id="llvm::DiagnosticInfoOptimizationBase::Argument" name="llvm::DiagnosticInfoOptimizationBase::Argument">
+<area shape="rect" id="node1" title="Used in the streaming interface as the general argument type." alt="" coords="17,5,228,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DiagnosticInfoMIROptimization_1_1MachineArgument.html" title="MI&#45;specific kinds of diagnostic Arguments." alt="" coords="5,95,240,136"/>
+</map>

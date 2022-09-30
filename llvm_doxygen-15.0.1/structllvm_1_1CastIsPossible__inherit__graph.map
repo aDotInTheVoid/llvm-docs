@@ -1,0 +1,13 @@
+<map id="llvm::CastIsPossible&lt; To, From, Enable &gt;" name="llvm::CastIsPossible&lt; To, From, Enable &gt;">
+<area shape="rect" id="node1" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,179,164,220"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="313,120,467,161"/>
+<area shape="rect" id="node7" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="313,211,467,252"/>
+<area shape="rect" id="node3" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="544,5,691,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1OptionalValueCast.html" title="This cast trait provides Optional&lt;T&gt; casting." alt="" coords="528,71,707,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1OptionalValueCast.html" title=" " alt="" coords="856,117,1035,159"/>
+<area shape="rect" id="node6" href="$structllvm_1_1CastInfo_3_01To_00_01Optional_3_01From_01_4_01_4.html" title="Provide a CastInfo specialized for Optional&lt;From&gt;." alt="" coords="1105,117,1264,159"/>
+<area shape="rect" id="node8" href="$structllvm_1_1UniquePtrCast.html" title="This cast trait provides std::unique_ptr casting." alt="" coords="534,188,701,229"/>
+<area shape="rect" id="node9" href="$structllvm_1_1UniquePtrCast.html" title=" " alt="" coords="869,208,1021,249"/>
+<area shape="rect" id="node11" href="$structllvm_1_1ValueFromPointerCast.html" title="This cast trait provides casting for the specific case of casting to a value&#45;typed object from a poin..." alt="" coords="516,305,719,347"/>
+<area shape="rect" id="node10" href="$structllvm_1_1CastInfo_3_01To_00_01std_1_1unique__ptr_3_01From_01_4_01_4.html" title="Provide a CastInfo specialized for std::unique_ptr." alt="" coords="1084,208,1285,249"/>
+</map>

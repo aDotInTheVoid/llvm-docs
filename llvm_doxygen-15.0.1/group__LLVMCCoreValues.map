@@ -1,0 +1,8 @@
+<map id="Values" name="Values">
+<area shape="rect" id="node1" title="The bulk of LLVM&#39;s object model consists of values, which comprise a very rich type hierarchy." alt="" coords="105,80,171,105"/>
+<area shape="rect" id="node2" href="$group__LLVMCCoreValueConstant.html" title="This section contains APIs for interacting with LLVMValueRef that correspond to llvm::Constant instan..." alt="" coords="228,5,315,31"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueGeneral.html" title="Functions in this section work on all LLVMValueRef instances, regardless of their sub&#45;type...." alt="" coords="219,55,324,80"/>
+<area shape="rect" id="node4" href="$group__LLVMCCoreValueUser.html" title="Function in this group pertain to LLVMValueRef instances that descent from llvm::User...." alt="" coords="225,104,317,129"/>
+<area shape="rect" id="node5" href="$group__LLVMCCoreValueUses.html" title="This module defines functions that allow you to inspect the uses of a LLVMValueRef." alt="" coords="240,153,303,179"/>
+<area shape="rect" id="node6" href="$group__LLVMCCore.html" title="This modules provide an interface to libLLVMCore, which implements the LLVM intermediate representati..." alt="" coords="5,80,57,105"/>
+</map>

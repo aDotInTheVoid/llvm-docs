@@ -1,0 +1,31 @@
+<map id="include/llvm/CodeGen/MachineOptimizationRemarkEmitter.h" name="include/llvm/CodeGen/MachineOptimizationRemarkEmitter.h">
+<area shape="rect" id="node1" title="===&#45; MachineOptimizationRemarkEmitter.h &#45; Opt Diagnostics &#45;*&#45; C++ &#45;*&#45;—===//" alt="" coords="2547,5,2821,47"/>
+<area shape="rect" id="node2" href="$RegBankSelect_8h.html" title=" " alt="" coords="1023,95,1230,136"/>
+<area shape="rect" id="node3" href="$RegBankSelect_8cpp.html" title=" " alt="" coords="5,184,176,225"/>
+<area shape="rect" id="node13" href="$MachinePipeliner_8h.html" title=" " alt="" coords="1255,95,1420,136"/>
+<area shape="rect" id="node15" href="$AsmPrinter_8cpp.html" title=" " alt="" coords="1445,95,1622,136"/>
+<area shape="rect" id="node16" href="$EarlyIfConversion_8cpp.html" title=" " alt="" coords="1646,102,1893,129"/>
+<area shape="rect" id="node17" href="$Combiner_8cpp.html" title=" " alt="" coords="1917,95,2088,136"/>
+<area shape="rect" id="node18" href="$InstructionSelect_8cpp.html" title=" " alt="" coords="2112,95,2283,136"/>
+<area shape="rect" id="node19" href="$Legalizer_8cpp.html" title=" " alt="" coords="2307,95,2477,136"/>
+<area shape="rect" id="node20" href="$LoadStoreOpt_8cpp.html" title=" " alt="" coords="2501,95,2672,136"/>
+<area shape="rect" id="node21" href="$CodeGen_2GlobalISel_2Utils_8cpp.html" title=" " alt="" coords="2696,95,2867,136"/>
+<area shape="rect" id="node22" href="$MachineFunctionPass_8cpp.html" title=" " alt="" coords="2891,95,3106,136"/>
+<area shape="rect" id="node23" href="$MachineOptimizationRemarkEmitter_8cpp.html" title="===&#45; MachineOptimizationRemarkEmitter.cpp &#45; Opt Diagnostic &#45;*&#45; C++ &#45;*—===//" alt="" coords="3130,95,3374,136"/>
+<area shape="rect" id="node24" href="$MachineOutliner_8cpp.html" title=" " alt="" coords="3398,102,3637,129"/>
+<area shape="rect" id="node25" href="$MIRSampleProfile_8cpp.html" title=" " alt="" coords="3661,102,3907,129"/>
+<area shape="rect" id="node26" href="$PrologEpilogInserter_8cpp.html" title=" " alt="" coords="3932,95,4119,136"/>
+<area shape="rect" id="node27" href="$RegAllocGreedy_8cpp.html" title=" " alt="" coords="4143,102,4377,129"/>
+<area shape="rect" id="node28" href="$ShrinkWrap_8cpp.html" title=" " alt="" coords="4402,102,4609,129"/>
+<area shape="rect" id="node29" href="$AMDGPUAsmPrinter_8cpp.html" title=" " alt="" coords="4633,95,4871,136"/>
+<area shape="rect" id="node4" href="$AArch64TargetMachine_8cpp.html" title=" " alt="" coords="200,184,403,225"/>
+<area shape="rect" id="node5" href="$AMDGPUTargetMachine_8cpp.html" title=" " alt="" coords="427,184,675,225"/>
+<area shape="rect" id="node6" href="$ARMTargetMachine_8cpp.html" title=" " alt="" coords="699,184,890,225"/>
+<area shape="rect" id="node7" href="$M68kTargetMachine_8cpp.html" title=" " alt="" coords="915,184,1117,225"/>
+<area shape="rect" id="node8" href="$MipsTargetMachine_8cpp.html" title=" " alt="" coords="1141,184,1333,225"/>
+<area shape="rect" id="node9" href="$PPCTargetMachine_8cpp.html" title=" " alt="" coords="1357,184,1531,225"/>
+<area shape="rect" id="node10" href="$RISCVTargetMachine_8cpp.html" title=" " alt="" coords="1555,184,1763,225"/>
+<area shape="rect" id="node11" href="$SPIRVTargetMachine_8cpp.html" title=" " alt="" coords="1787,184,1994,225"/>
+<area shape="rect" id="node12" href="$X86TargetMachine_8cpp.html" title=" " alt="" coords="2018,184,2198,225"/>
+<area shape="rect" id="node14" href="$MachinePipeliner_8cpp.html" title=" " alt="" coords="2223,191,2465,218"/>
+</map>

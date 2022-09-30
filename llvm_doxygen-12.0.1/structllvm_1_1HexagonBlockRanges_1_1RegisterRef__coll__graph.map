@@ -1,0 +1,5 @@
+<map id="llvm::HexagonBlockRanges::RegisterRef" name="llvm::HexagonBlockRanges::RegisterRef">
+<area shape="rect" id="node1" title=" " alt="" coords="7,95,190,136"/>
+<area shape="rect" id="node2" href="$classunsigned.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="105,5,207,32"/>
+</map>

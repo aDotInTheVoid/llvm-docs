@@ -1,0 +1,12 @@
+<map id="llvm::ShlOperator" name="llvm::ShlOperator">
+<area shape="rect" id="node1" title=" " alt="" coords="175,635,311,661"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="134,529,353,585"/>
+<area shape="rect" id="node3" href="$classllvm_1_1OverflowingBinaryOperator.html" title="Utility class for integer operators which may exhibit overflow &#45; Add, Sub, Mul, and Shl." alt="" coords="12,418,248,445"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Operator.html" title="This is a utility class that provides an abstraction for the common functionality between Instruction..." alt="" coords="72,335,188,361"/>
+<area shape="rect" id="node5" href="$classllvm_1_1User.html" title=" " alt="" coords="85,259,175,285"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="83,183,177,209"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,5,63,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="185,5,267,32"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ConcreteOperator.html" title="A helper template for defining operators for individual opcodes." alt="" coords="272,411,447,452"/>
+<area shape="rect" id="node10" href="$classSuperClass.html" title=" " alt="" coords="312,335,407,361"/>
+</map>

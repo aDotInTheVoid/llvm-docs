@@ -1,0 +1,52 @@
+<map id="lib/Transforms/InstCombine/InstCombineCasts.cpp" name="lib/Transforms/InstCombine/InstCombineCasts.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2259,5,2442,47"/>
+<area shape="rect" id="node2" href="$InstCombineInternal_8h.html" title="This file provides internal interfaces used to implement the InstCombine." alt="" coords="1046,95,1197,121"/>
+<area shape="rect" id="node18" href="$ConstantFolding_8h.html" title=" " alt="" coords="3233,355,3442,382"/>
+<area shape="rect" id="node28" href="$DataLayout_8h.html" title=" " alt="" coords="1647,437,1790,464"/>
+<area shape="rect" id="node34" href="$PatternMatch_8h.html" title=" " alt="" coords="496,266,653,293"/>
+<area shape="rect" id="node36" href="$KnownBits_8h.html" title=" " alt="" coords="195,266,370,293"/>
+<area shape="rect" id="node38" href="$SetVector_8h.html" title=" " alt="" coords="4534,601,4682,628"/>
+<area shape="rect" id="node39" href="$InstCombiner_8h.html" title="This file provides the interface for the instcombine pass implementation." alt="" coords="1098,169,1291,211"/>
+<area shape="rect" id="node41" href="$TargetLibraryInfo_8h.html" title=" " alt="" coords="3581,169,3760,211"/>
+<area shape="rect" id="node46" href="$DIBuilder_8h.html" title=" " alt="" coords="3685,437,3819,464"/>
+<area shape="rect" id="node50" title=" " alt="" coords="5037,95,5105,121"/>
+<area shape="rect" id="node3" href="$Statistic_8h.html" title=" " alt="" coords="1856,676,1995,703"/>
+<area shape="rect" id="node6" href="$InstructionSimplify_8h.html" title=" " alt="" coords="891,259,1055,300"/>
+<area shape="rect" id="node7" href="$TargetFolder_8h.html" title=" " alt="" coords="3083,266,3269,293"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3072,900,3139,927"/>
+<area shape="rect" id="node27" href="$ValueTracking_8h.html" title=" " alt="" coords="1232,266,1427,293"/>
+<area shape="rect" id="node30" href="$IRBuilder_8h.html" title=" " alt="" coords="2287,266,2420,293"/>
+<area shape="rect" id="node33" href="$InstVisitor_8h.html" title=" " alt="" coords="728,266,867,293"/>
+<area shape="rect" id="node35" href="$Debug_8h.html" title=" " alt="" coords="296,601,445,628"/>
+<area shape="rect" id="node37" href="$InstCombineWorklist_8h.html" title=" " alt="" coords="2979,512,3173,553"/>
+<area shape="rect" id="node40" href="$Transforms_2Utils_2Local_8h.html" title=" " alt="" coords="1436,348,1583,389"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="1713,900,1876,927"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3991,751,4049,777"/>
+<area shape="rect" id="node8" href="$ArrayRef_8h.html" title=" " alt="" coords="3605,676,3747,703"/>
+<area shape="rect" id="node19" href="$InstrTypes_8h.html" title=" " alt="" coords="2338,355,2478,382"/>
+<area shape="rect" id="node9" href="$SmallVector_8h.html" title=" " alt="" coords="3217,751,3378,777"/>
+<area shape="rect" id="node12" title=" " alt="" coords="4709,900,4784,927"/>
+<area shape="rect" id="node15" title=" " alt="" coords="4406,825,4469,852"/>
+<area shape="rect" id="node16" href="$STLExtras_8h.html" title=" " alt="" coords="2825,751,2978,777"/>
+<area shape="rect" id="node10" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="1286,825,1477,852"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title=" " alt="" coords="3200,825,3379,852"/>
+<area shape="rect" id="node14" title=" " alt="" coords="697,900,759,927"/>
+<area shape="rect" id="node17" href="$Optional_8h.html" title=" " alt="" coords="1123,825,1261,852"/>
+<area shape="rect" id="node20" href="$StringRef_8h.html" title=" " alt="" coords="2829,676,2973,703"/>
+<area shape="rect" id="node21" href="$DerivedTypes_8h.html" title=" " alt="" coords="1934,519,2093,546"/>
+<area shape="rect" id="node22" href="$Type_8h.html" title=" " alt="" coords="1432,601,1539,628"/>
+<area shape="rect" id="node23" href="$Casting_8h.html" title=" " alt="" coords="1373,676,1528,703"/>
+<area shape="rect" id="node24" href="$Function_8h.html" title=" " alt="" coords="2238,437,2367,464"/>
+<area shape="rect" id="node25" href="$DenseSet_8h.html" title=" " alt="" coords="4710,676,4858,703"/>
+<area shape="rect" id="node26" href="$DenseMap_8h.html" title=" " alt="" coords="4495,751,4649,777"/>
+<area shape="rect" id="node29" href="$Alignment_8h.html" title=" " alt="" coords="2171,751,2339,777"/>
+<area shape="rect" id="node31" href="$DebugInfoMetadata_8h.html" title=" " alt="" coords="3337,601,3530,628"/>
+<area shape="rect" id="node32" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="2677,355,2798,382"/>
+<area shape="rect" id="node42" href="$BitVector_8h.html" title=" " alt="" coords="4011,601,4155,628"/>
+<area shape="rect" id="node43" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="4250,266,4409,293"/>
+<area shape="rect" id="node44" href="$Pass_8h.html" title=" " alt="" coords="4896,355,4987,382"/>
+<area shape="rect" id="node45" title=" " alt="" coords="3720,259,3899,300"/>
+<area shape="rect" id="node47" href="$MapVector_8h.html" title=" " alt="" coords="4278,676,4431,703"/>
+<area shape="rect" id="node48" href="$llvm_2IR_2DebugInfo_8h.html" title=" " alt="" coords="3349,519,3488,546"/>
+<area shape="rect" id="node49" href="$TrackingMDRef_8h.html" title=" " alt="" coords="4724,825,4892,852"/>
+</map>

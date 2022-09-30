@@ -1,0 +1,8 @@
+<map id="llvm::objcopy::elf::Segment" name="llvm::objcopy::elf::Segment">
+<area shape="rect" id="node1" title=" " alt="" coords="701,176,836,217"/>
+<area shape="rect" id="node2" title=" " alt="" coords="288,5,563,47"/>
+<area shape="rect" id="node3" href="$classuint64__t.html" title=" " alt="" coords="388,146,463,173"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title=" " alt="" coords="388,221,463,247"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="330,271,521,298"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="5,271,160,298"/>
+</map>

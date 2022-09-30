@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MachineFunction_1_1Delegate.html" title=" " alt="" coords="21,5,175,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1GISelObserverWrapper.html" title="Simple wrapper observer that takes several observers, and calls each one for each event." alt="" coords="240,13,428,39"/>
+<area shape="rect" id="node3" href="$classllvm_1_1GISelChangeObserver.html" title="Abstract class that contains various methods for clients to notify about changes." alt="" coords="5,93,191,119"/>
+<area shape="rect" id="node4" href="$classllvm_1_1GISelCSEInfo.html" title="The CSE Analysis object." alt="" coords="266,63,402,90"/>
+<area shape="rect" id="node5" href="$classllvm_1_1GISelKnownBits.html" title=" " alt="" coords="259,114,409,141"/>
+<area shape="rect" id="node6" href="$classllvm_1_1LostDebugLocObserver.html" title=" " alt="" coords="239,165,429,191"/>
+</map>

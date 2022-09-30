@@ -1,0 +1,12 @@
+<map id="llvm::objcopy::elf::CompressedSection" name="llvm::objcopy::elf::CompressedSection">
+<area shape="rect" id="node1" title=" " alt="" coords="486,601,645,643"/>
+<area shape="rect" id="node2" href="$classllvm_1_1objcopy_1_1elf_1_1SectionBase.html" title=" " alt="" coords="498,511,633,552"/>
+<area shape="rect" id="node3" href="$classuint64__t.html" title=" " alt="" coords="5,102,80,129"/>
+<area shape="rect" id="node4" href="$classllvm_1_1objcopy_1_1elf_1_1Segment.html" title=" " alt="" coords="187,347,322,388"/>
+<area shape="rect" id="node5" title=" " alt="" coords="104,95,379,136"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="619,102,693,129"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="403,102,594,129"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="421,5,576,32"/>
+<area shape="rect" id="node9" title=" " alt="" coords="749,354,800,381"/>
+<area shape="rect" id="node10" title=" " alt="" coords="839,354,897,381"/>
+</map>

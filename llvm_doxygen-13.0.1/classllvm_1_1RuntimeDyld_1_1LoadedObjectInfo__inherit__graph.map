@@ -1,0 +1,4 @@
+<map id="llvm::RuntimeDyld::LoadedObjectInfo" name="llvm::RuntimeDyld::LoadedObjectInfo">
+<area shape="rect" id="node1" title="Information about the loaded object." alt="" coords="16,80,168,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LoadedObjectInfo.html" title="An inferface for inquiring the load address of a loaded object file to be used by the DIContext imple..." alt="" coords="5,5,179,32"/>
+</map>

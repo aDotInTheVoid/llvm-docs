@@ -1,0 +1,5 @@
+<map id="llvm::RegisterAnalysisGroup&lt; Interface, Default &gt;" name="llvm::RegisterAnalysisGroup&lt; Interface, Default &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RegisterAGBase.html" title="RegisterAnalysisGroup &#45; Register a Pass as a member of an analysis group." alt="" coords="23,80,174,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PassInfo.html" title="PassInfo class &#45; An instance of this class exists for every pass known by the system,..." alt="" coords="45,5,152,32"/>
+</map>

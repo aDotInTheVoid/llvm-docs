@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,100,73"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="154,5,345,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="148,71,351,112"/>
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1GenericBinaryError.html" title="Generic binary error." alt="" coords="404,5,603,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1object_1_1EmptyResError.html" title=" " alt="" coords="656,13,860,39"/>
+<area shape="rect" id="node6" href="$classllvm_1_1object_1_1SectionStrippedError.html" title=" " alt="" coords="399,71,608,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::GCOVBuffer" name="llvm::GCOVBuffer">
+<area shape="rect" id="node1" title="GCOVBuffer &#45; A wrapper around MemoryBuffer to provide GCOV specific read operations." alt="" coords="99,109,235,136"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DataExtractor_1_1Cursor.html" title="A class representing a position in a DataExtractor, as well as any error encountered during extractio..." alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DataExtractor.html" title=" " alt="" coords="179,13,328,39"/>
+</map>

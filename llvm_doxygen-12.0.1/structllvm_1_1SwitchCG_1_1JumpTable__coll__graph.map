@@ -1,0 +1,12 @@
+<map id="llvm::SwitchCG::JumpTable" name="llvm::SwitchCG::JumpTable">
+<area shape="rect" id="node1" title=" " alt="" coords="2243,89,2427,115"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineBasicBlock.html" title=" " alt="" coords="1979,58,2148,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="1733,43,1929,99"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="829,20,961,61"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1147,83,1316,124"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="589,5,780,76"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,27,183,54"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="232,52,372,93"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="1365,75,1549,131"/>
+<area shape="rect" id="node10" href="$classunsigned.html" title=" " alt="" coords="2026,118,2101,145"/>
+</map>

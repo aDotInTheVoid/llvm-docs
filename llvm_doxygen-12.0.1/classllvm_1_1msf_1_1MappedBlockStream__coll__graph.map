@@ -1,0 +1,4 @@
+<map id="llvm::msf::MappedBlockStream" name="llvm::msf::MappedBlockStream">
+<area shape="rect" id="node1" title="MappedBlockStream represents data stored in an MSF file into chunks of a particular size (called the ..." alt="" coords="5,80,211,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BinaryStream.html" title="An interface for accessing data in a stream&#45;like format, but which discourages copying." alt="" coords="41,5,175,32"/>
+</map>

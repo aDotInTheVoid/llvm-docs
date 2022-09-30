@@ -1,0 +1,5 @@
+<map id="llvm::DWARFAcceleratorTable" name="llvm::DWARFAcceleratorTable">
+<area shape="rect" id="node1" title="The accelerator tables are designed to allow efficient random access (using a symbol name as a key) i..." alt="" coords="101,5,299,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AppleAcceleratorTable.html" title="This implements the Apple accelerator table format, a precursor of the DWARF 5 accelerator table form..." alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DWARFDebugNames.html" title=".debug_names section consists of one or more units." alt="" coords="213,80,395,107"/>
+</map>

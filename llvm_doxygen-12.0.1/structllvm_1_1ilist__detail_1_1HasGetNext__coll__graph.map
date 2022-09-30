@@ -1,0 +1,4 @@
+<map id="llvm::ilist_detail::HasGetNext&lt; TraitsT, NodeT &gt;" name="llvm::ilist_detail::HasGetNext&lt; TraitsT, NodeT &gt;">
+<area shape="rect" id="node1" title="Type trait to check for a traits class that has a getNext member (as a canary for any of the ilist_ne..." alt="" coords="5,95,164,151"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="61,5,108,32"/>
+</map>

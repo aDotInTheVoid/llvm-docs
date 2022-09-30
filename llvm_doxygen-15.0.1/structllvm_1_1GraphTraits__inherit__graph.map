@@ -1,0 +1,13 @@
+<map id="llvm::GraphTraits&lt; GraphType &gt;" name="llvm::GraphTraits&lt; GraphType &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,112,149,153"/>
+<area shape="rect" id="node2" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="440,13,611,39"/>
+<area shape="rect" id="node4" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="408,63,643,119"/>
+<area shape="rect" id="node6" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="400,144,651,185"/>
+<area shape="rect" id="node9" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="428,209,623,251"/>
+<area shape="rect" id="node3" href="$structllvm_1_1GraphTraits_3_01Inverse_3_01Inverse_3_01T_01_4_01_4_01_4.html" title=" " alt="" coords="700,5,905,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1GraphTraits_3_01MachineGadgetGraph_01_5_01_4.html" title=" " alt="" coords="706,71,899,112"/>
+<area shape="rect" id="node7" href="$structllvm_1_1GraphTraits_3_01MachineRegionInfo_01_5_01_4.html" title=" " alt="" coords="714,144,891,185"/>
+<area shape="rect" id="node8" href="$structllvm_1_1GraphTraits_3_01MachineRegionInfoPass_01_5_01_4.html" title=" " alt="" coords="955,144,1161,185"/>
+<area shape="rect" id="node10" href="$structllvm_1_1GraphTraits_3_01RegionInfo_01_5_01_4.html" title=" " alt="" coords="731,209,875,251"/>
+<area shape="rect" id="node11" href="$structllvm_1_1GraphTraits_3_01RegionInfoPass_01_5_01_4.html" title=" " alt="" coords="983,209,1133,251"/>
+</map>

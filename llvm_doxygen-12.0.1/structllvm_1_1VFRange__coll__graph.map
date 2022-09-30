@@ -1,0 +1,10 @@
+<map id="llvm::VFRange" name="llvm::VFRange">
+<area shape="rect" id="node1" title="A range of powers&#45;of&#45;2 vectorization factors with fixed start and adjustable end." alt="" coords="162,484,270,511"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ElementCount.html" title=" " alt="" coords="147,380,285,407"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="146,289,286,331"/>
+<area shape="rect" id="node4" href="$classllvm_1_1UnivariateLinearPolyBase.html" title="UnivariateLinearPolyBase is a base class for ElementCount and TypeSize." alt="" coords="124,95,297,136"/>
+<area shape="rect" id="node8" href="$classllvm_1_1LinearPolySize.html" title="LinearPolySize is a base class to represent sizes." alt="" coords="233,185,373,227"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="174,5,247,32"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="272,5,347,32"/>
+</map>

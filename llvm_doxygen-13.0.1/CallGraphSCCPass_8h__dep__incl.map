@@ -1,0 +1,52 @@
+<map id="include/llvm/Analysis/CallGraphSCCPass.h" name="include/llvm/Analysis/CallGraphSCCPass.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4479,5,4641,47"/>
+<area shape="rect" id="node2" href="$InlineCost_8h.html" title=" " alt="" coords="1487,95,1649,136"/>
+<area shape="rect" id="node6" href="$Inliner_8h.html" title=" " alt="" coords="771,363,949,404"/>
+<area shape="rect" id="node13" href="$SampleProfile_8cpp.html" title=" " alt="" coords="522,363,665,404"/>
+<area shape="rect" id="node22" href="$CoroSplit_8cpp.html" title=" " alt="" coords="4058,273,4246,315"/>
+<area shape="rect" id="node30" href="$SampleProfileProbe_8h.html" title="This file provides the interface for the pseudo probe implementation for AutoFDO." alt="" coords="139,95,330,136"/>
+<area shape="rect" id="node32" href="$StandardInstrumentations_8cpp.html" title="This file defines IR&#45;printing pass instrumentation callbacks as well as StandardInstrumentations clas..." alt="" coords="167,281,454,307"/>
+<area shape="rect" id="node34" href="$CallGraphUpdater_8h.html" title="This file provides interfaces used to manipulate a call graph, regardless if it is a &quot;old style&quot; Call..." alt="" coords="4285,95,4472,136"/>
+<area shape="rect" id="node36" href="$OpenMPOpt_8cpp.html" title=" " alt="" coords="4530,273,4670,315"/>
+<area shape="rect" id="node37" href="$PruneEH_8cpp.html" title=" " alt="" coords="4637,184,4777,225"/>
+<area shape="rect" id="node39" href="$CallGraphSCCPass_8cpp.html" title=" " alt="" coords="4598,102,4845,129"/>
+<area shape="rect" id="node40" href="$TargetPassConfig_8cpp.html" title=" " alt="" coords="4869,102,5112,129"/>
+<area shape="rect" id="node41" href="$AMDGPUAnnotateKernelFeatures_8cpp.html" title=" " alt="" coords="5136,95,5403,136"/>
+<area shape="rect" id="node42" href="$AMDGPUPerfHintAnalysis_8h.html" title="Analyzes if a function potentially memory bound and if a kernel kernel may benefit from limiting numb..." alt="" coords="5427,95,5661,136"/>
+<area shape="rect" id="node45" href="$AMDGPUResourceUsageAnalysis_8h.html" title="Analyzes how many registers and other resources are used by functions." alt="" coords="5686,95,5954,136"/>
+<area shape="rect" id="node48" href="$Coroutines_8cpp.html" title=" " alt="" coords="5978,95,6166,136"/>
+<area shape="rect" id="node49" href="$ArgumentPromotion_8cpp.html" title=" " alt="" coords="6191,95,6375,136"/>
+<area shape="rect" id="node50" href="$FunctionAttrs_8cpp.html" title="This file implements interprocedural passes which walk the call&#45;graph deducing and/or propagating fun..." alt="" coords="6399,95,6539,136"/>
+<area shape="rect" id="node3" href="$InlineAdvisor_8h.html" title=" " alt="" coords="786,184,947,225"/>
+<area shape="rect" id="node9" href="$AlwaysInliner_8cpp.html" title=" " alt="" coords="3513,452,3653,493"/>
+<area shape="rect" id="node10" href="$Inliner_8cpp.html" title=" " alt="" coords="1230,452,1370,493"/>
+<area shape="rect" id="node11" href="$InlineSimple_8cpp.html" title=" " alt="" coords="470,452,610,493"/>
+<area shape="rect" id="node12" href="$InlineAdvisor_8cpp.html" title=" " alt="" coords="974,370,1186,397"/>
+<area shape="rect" id="node14" href="$Cloning_8h.html" title=" " alt="" coords="2475,184,2653,225"/>
+<area shape="rect" id="node15" href="$SafeStack_8cpp.html" title=" " alt="" coords="3620,281,3817,307"/>
+<area shape="rect" id="node24" href="$Attributor_8cpp.html" title=" " alt="" coords="3842,273,3982,315"/>
+<area shape="rect" id="node25" href="$FunctionSpecialization_8cpp.html" title=" " alt="" coords="1414,273,1613,315"/>
+<area shape="rect" id="node26" href="$PartialInlining_8cpp.html" title=" " alt="" coords="1637,273,1779,315"/>
+<area shape="rect" id="node27" href="$InlineCost_8cpp.html" title=" " alt="" coords="1023,191,1217,218"/>
+<area shape="rect" id="node28" href="$PassManagerBuilder_8cpp.html" title=" " alt="" coords="4271,273,4455,315"/>
+<area shape="rect" id="node29" href="$TailRecursionElimination_8cpp.html" title=" " alt="" coords="1241,184,1455,225"/>
+<area shape="rect" id="node4" href="$MLInlineAdvisor_8h.html" title=" " alt="" coords="974,273,1135,315"/>
+<area shape="rect" id="node5" href="$ReplayInlineAdvisor_8h.html" title=" " alt="" coords="783,273,950,315"/>
+<area shape="rect" id="node8" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="721,541,911,568"/>
+<area shape="rect" id="node7" href="$llvm_2Passes_2PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="741,452,891,493"/>
+<area shape="rect" id="node16" href="$WinEHPrepare_8cpp.html" title=" " alt="" coords="1906,281,2131,307"/>
+<area shape="rect" id="node17" href="$IndirectionUtils_8cpp.html" title=" " alt="" coords="2156,273,2335,315"/>
+<area shape="rect" id="node18" href="$ThreadSafeModule_8cpp.html" title=" " alt="" coords="2359,273,2561,315"/>
+<area shape="rect" id="node19" href="$IRMover_8cpp.html" title=" " alt="" coords="2585,281,2751,307"/>
+<area shape="rect" id="node20" href="$AMDGPUPropagateAttributes_8cpp.html" title="This pass propagates attributes from kernels to the non&#45;entry functions." alt="" coords="2775,273,3049,315"/>
+<area shape="rect" id="node21" href="$R600OpenCLImageTypeLoweringPass_8cpp.html" title="This pass resolves calls to OpenCL image attribute, image resource ID and sampler resource ID getter ..." alt="" coords="3073,273,3297,315"/>
+<area shape="rect" id="node23" href="$ControlHeightReduction_8cpp.html" title=" " alt="" coords="3322,273,3545,315"/>
+<area shape="rect" id="node31" href="$StandardInstrumentations_8h.html" title="This header defines a class that provides bookkeeping for all standard (i.e in&#45;tree) pass instrumenta..." alt="" coords="349,184,555,225"/>
+<area shape="rect" id="node33" href="$SampleProfileProbe_8cpp.html" title=" " alt="" coords="145,184,325,225"/>
+<area shape="rect" id="node35" href="$Attributor_8h.html" title=" " alt="" coords="4191,184,4369,225"/>
+<area shape="rect" id="node38" href="$CallGraphUpdater_8cpp.html" title="This file provides interfaces used to manipulate a call graph, regardless if it is a &quot;old style&quot; Call..." alt="" coords="4393,184,4561,225"/>
+<area shape="rect" id="node43" href="$AMDGPUMachineFunction_8cpp.html" title=" " alt="" coords="5406,184,5669,225"/>
+<area shape="rect" id="node44" href="$AMDGPUPerfHintAnalysis_8cpp.html" title="Analyzes if a function potentially memory bound and if a kernel kernel may benefit from limiting numb..." alt="" coords="5147,184,5381,225"/>
+<area shape="rect" id="node46" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code." alt="" coords="5985,184,6223,225"/>
+<area shape="rect" id="node47" href="$AMDGPUResourceUsageAnalysis_8cpp.html" title="Analyzes how many registers and other resources are used by functions." alt="" coords="5693,184,5961,225"/>
+</map>

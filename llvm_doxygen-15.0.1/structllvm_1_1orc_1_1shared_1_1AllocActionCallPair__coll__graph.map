@@ -1,0 +1,4 @@
+<map id="llvm::orc::shared::AllocActionCallPair" name="llvm::orc::shared::AllocActionCallPair">
+<area shape="rect" id="node1" title="A pair of WrapperFunctionCalls, one to be run at finalization time, one to be run at deallocation tim..." alt="" coords="12,124,156,165"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1WrapperFunctionCall.html" title="Represents a serialized wrapper function call." alt="" coords="5,5,163,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::orc::SimpleCompiler" name="llvm::orc::SimpleCompiler">
+<area shape="rect" id="node1" title="Simple compile functor: Takes a single IR module and returns an ObjectFile." alt="" coords="5,95,177,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1IRCompileLayer_1_1IRCompiler.html" title=" " alt="" coords="5,5,177,47"/>
+</map>

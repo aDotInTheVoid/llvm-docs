@@ -1,0 +1,11 @@
+<map id="llvm::orc::shared::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;" name="llvm::orc::shared::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;">
+<area shape="rect" id="node1" title="Contains primitive utilities for defining, calling and handling calls to remote procedures." alt="" coords="5,54,215,125"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1SingleThreadedRPCEndpoint.html" title=" " alt="" coords="1160,68,1355,124"/>
+<area shape="rect" id="node6" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1RPCEndpointBase.html" title=" " alt="" coords="468,47,695,132"/>
+<area shape="rect" id="node8" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1RPCEndpointBase.html" title=" " alt="" coords="468,156,695,241"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetClient.html" title="This class provides utilities (including memory manager, indirect stubs manager, and compile callback..." alt="" coords="1411,10,1569,51"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetRPCAPI.html" title=" " alt="" coords="1404,75,1576,117"/>
+<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetServer.html" title=" " alt="" coords="1409,141,1571,197"/>
+<area shape="rect" id="node7" href="$classllvm_1_1orc_1_1shared_1_1MultiThreadedRPCEndpoint.html" title=" " alt="" coords="748,54,931,125"/>
+<area shape="rect" id="node9" href="$classllvm_1_1orc_1_1shared_1_1SingleThreadedRPCEndpoint.html" title=" " alt="" coords="744,153,935,223"/>
+</map>

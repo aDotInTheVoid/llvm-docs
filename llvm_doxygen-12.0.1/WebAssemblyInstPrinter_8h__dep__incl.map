@@ -1,0 +1,8 @@
+<map id="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyInstPrinter.h" name="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyInstPrinter.h">
+<area shape="rect" id="node1" title="This class prints an WebAssembly MCInst to wasm file syntax." alt="" coords="593,5,815,61"/>
+<area shape="rect" id="node2" href="$WebAssemblyDisassembler_8cpp.html" title="This file is part of the WebAssembly Disassembler." alt="" coords="5,117,304,158"/>
+<area shape="rect" id="node3" href="$WebAssemblyInstPrinter_8cpp.html" title="Print MCInst instructions to wasm format." alt="" coords="329,109,551,165"/>
+<area shape="rect" id="node4" href="$WebAssemblyMCTargetDesc_8cpp.html" title="This file provides WebAssembly&#45;specific target descriptions." alt="" coords="575,109,833,165"/>
+<area shape="rect" id="node5" href="$WebAssemblyTargetStreamer_8cpp.html" title="This file defines WebAssembly&#45;specific target streamer classes." alt="" coords="857,109,1095,165"/>
+<area shape="rect" id="node6" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="1119,117,1319,158"/>
+</map>

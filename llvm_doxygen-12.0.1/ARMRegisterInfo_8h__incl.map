@@ -1,0 +1,52 @@
+<map id="lib/Target/ARM/ARMRegisterInfo.h" name="lib/Target/ARM/ARMRegisterInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1433,5,1623,47"/>
+<area shape="rect" id="node2" href="$ARMBaseRegisterInfo_8h.html" title=" " alt="" coords="1447,95,1609,121"/>
+<area shape="rect" id="node3" href="$MCTargetDesc_2ARMBaseInfo_8h.html" title=" " alt="" coords="121,177,327,203"/>
+<area shape="rect" id="node7" href="$MCRegisterInfo_8h.html" title=" " alt="" coords="1509,497,1686,524"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3843,975,3904,1001"/>
+<area shape="rect" id="node29" title=" " alt="" coords="418,423,585,449"/>
+<area shape="rect" id="node31" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1578,259,1769,300"/>
+<area shape="rect" id="node35" href="$MachineInstr_8h.html" title=" " alt="" coords="2719,348,2913,375"/>
+<area shape="rect" id="node48" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="982,169,1175,211"/>
+<area shape="rect" id="node49" href="$CallingConv_8h.html" title=" " alt="" coords="4042,266,4190,293"/>
+<area shape="rect" id="node4" href="$ARMMCTargetDesc_8h.html" title=" " alt="" coords="566,348,717,375"/>
+<area shape="rect" id="node14" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="589,900,779,927"/>
+<area shape="rect" id="node30" href="$Utils_2ARMBaseInfo_8h.html" title=" " alt="" coords="44,266,191,293"/>
+<area shape="rect" id="node5" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="2249,497,2423,524"/>
+<area shape="rect" id="node6" href="$MCInstrDesc_8h.html" title=" " alt="" coords="1370,423,1534,449"/>
+<area shape="rect" id="node15" title=" " alt="" coords="295,975,350,1001"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1633,900,1703,927"/>
+<area shape="rect" id="node8" href="$DenseMap_8h.html" title=" " alt="" coords="2383,572,2537,599"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="828,900,999,927"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1163,975,1216,1001"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2992,975,3059,1001"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2127,900,2190,927"/>
+<area shape="rect" id="node24" href="$iterator_8h.html" title=" " alt="" coords="1097,818,1228,845"/>
+<area shape="rect" id="node25" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="929,572,1092,599"/>
+<area shape="rect" id="node28" href="$MCRegister_8h.html" title=" " alt="" coords="2095,572,2249,599"/>
+<area shape="rect" id="node9" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2196,647,2372,673"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title=" " alt="" coords="2761,900,2940,927"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1937,975,2012,1001"/>
+<area shape="rect" id="node10" href="$ArrayRef_8h.html" title=" " alt="" coords="1773,729,1915,755"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title=" " alt="" coords="1303,818,1447,845"/>
+<area shape="rect" id="node11" href="$SmallVector_8h.html" title=" " alt="" coords="1706,818,1867,845"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1522,818,1579,845"/>
+<area shape="rect" id="node26" href="$Printable_8h.html" title=" " alt="" coords="639,647,801,673"/>
+<area shape="rect" id="node27" title=" " alt="" coords="681,729,759,755"/>
+<area shape="rect" id="node32" href="$GraphTraits_8h.html" title=" " alt="" coords="573,497,731,524"/>
+<area shape="rect" id="node33" href="$ilist_8h.html" title=" " alt="" coords="3066,818,3177,845"/>
+<area shape="rect" id="node34" href="$SparseBitVector_8h.html" title=" " alt="" coords="2500,818,2687,845"/>
+<area shape="rect" id="node41" href="$DebugLoc_8h.html" title=" " alt="" coords="2049,423,2188,449"/>
+<area shape="rect" id="node46" href="$MachineInstrBundleIterator_8h.html" title=" " alt="" coords="3044,721,3228,763"/>
+<area shape="rect" id="node47" href="$BranchProbability_8h.html" title=" " alt="" coords="1762,423,1974,449"/>
+<area shape="rect" id="node36" href="$PointerSumType_8h.html" title=" " alt="" coords="3375,572,3561,599"/>
+<area shape="rect" id="node37" href="$ilist__node_8h.html" title=" " alt="" coords="2929,423,3076,449"/>
+<area shape="rect" id="node38" href="$MachineMemOperand_8h.html" title=" " alt="" coords="2213,423,2459,449"/>
+<area shape="rect" id="node39" href="$MachineOperand_8h.html" title=" " alt="" coords="2535,423,2753,449"/>
+<area shape="rect" id="node40" href="$TargetOpcodes_8h.html" title=" " alt="" coords="3100,423,3308,449"/>
+<area shape="rect" id="node42" href="$InlineAsm_8h.html" title=" " alt="" coords="1303,729,1441,755"/>
+<area shape="rect" id="node43" href="$MCSymbol_8h.html" title=" " alt="" coords="2767,729,2918,755"/>
+<area shape="rect" id="node44" href="$ArrayRecycler_8h.html" title=" " alt="" coords="2399,729,2591,755"/>
+<area shape="rect" id="node45" href="$TrailingObjects_8h.html" title="This header defines support for implementing classes that have some trailing object (or arrays of obj..." alt="" coords="3132,647,3329,673"/>
+<area shape="rect" id="node50" href="$MachineValueType_8h.html" title=" " alt="" coords="791,811,972,852"/>
+</map>

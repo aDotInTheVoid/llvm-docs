@@ -1,0 +1,6 @@
+<map id="llvm::FileError" name="llvm::FileError">
+<area shape="rect" id="node1" title="This class wraps a filename and another Error." alt="" coords="43,261,145,288"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,183,212"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="21,5,156,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="111,81,269,123"/>
+</map>

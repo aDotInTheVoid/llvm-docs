@@ -1,0 +1,19 @@
+<map id="llvm::object::Binary" name="llvm::object::Binary">
+<area shape="rect" id="node1" title=" " alt="" coords="5,148,140,175"/>
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1Archive.html" title=" " alt="" coords="221,5,361,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1MachOUniversalBinary.html" title=" " alt="" coords="194,57,389,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1object_1_1MinidumpFile.html" title="A class providing access to the contents of a minidump file." alt="" coords="204,123,379,149"/>
+<area shape="rect" id="node5" href="$classllvm_1_1object_1_1SymbolicFile.html" title=" " alt="" coords="205,173,377,200"/>
+<area shape="rect" id="node16" href="$classllvm_1_1object_1_1TapiUniversal.html" title=" " alt="" coords="203,224,379,251"/>
+<area shape="rect" id="node17" href="$classllvm_1_1object_1_1WindowsResource.html" title=" " alt="" coords="188,275,395,301"/>
+<area shape="rect" id="node6" href="$classllvm_1_1object_1_1COFFImportFile.html" title=" " alt="" coords="443,97,635,124"/>
+<area shape="rect" id="node7" href="$classllvm_1_1object_1_1IRObjectFile.html" title=" " alt="" coords="454,148,623,175"/>
+<area shape="rect" id="node8" href="$classllvm_1_1object_1_1ObjectFile.html" title="This class is the base class for all object file types." alt="" coords="461,199,617,225"/>
+<area shape="rect" id="node15" href="$classllvm_1_1object_1_1TapiFile.html" title=" " alt="" coords="467,249,610,276"/>
+<area shape="rect" id="node9" href="$classllvm_1_1object_1_1COFFObjectFile.html" title=" " alt="" coords="692,97,884,124"/>
+<area shape="rect" id="node10" href="$classllvm_1_1object_1_1ELFObjectFileBase.html" title=" " alt="" coords="683,148,893,175"/>
+<area shape="rect" id="node12" href="$classllvm_1_1object_1_1MachOObjectFile.html" title=" " alt="" coords="689,199,887,225"/>
+<area shape="rect" id="node13" href="$classllvm_1_1object_1_1WasmObjectFile.html" title=" " alt="" coords="691,249,885,276"/>
+<area shape="rect" id="node14" href="$classllvm_1_1object_1_1XCOFFObjectFile.html" title=" " alt="" coords="688,300,888,327"/>
+<area shape="rect" id="node11" href="$classllvm_1_1object_1_1ELFObjectFile.html" title=" " alt="" coords="941,141,1121,182"/>
+</map>

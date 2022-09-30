@@ -1,0 +1,7 @@
+<map id="llvm::CastInfo&lt; To, std::unique_ptr&lt; From &gt; &gt;" name="llvm::CastInfo&lt; To, std::unique_ptr&lt; From &gt; &gt;">
+<area shape="rect" id="node1" title="Provide a CastInfo specialized for std::unique_ptr." alt="" coords="5,395,207,436"/>
+<area shape="rect" id="node2" href="$structllvm_1_1UniquePtrCast.html" title=" " alt="" coords="30,304,182,345"/>
+<area shape="rect" id="node3" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="24,109,177,151"/>
+<area shape="rect" id="node5" href="$structllvm_1_1UniquePtrCast.html" title="This cast trait provides std::unique_ptr casting." alt="" coords="123,200,289,241"/>
+<area shape="rect" id="node4" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="21,5,180,47"/>
+</map>

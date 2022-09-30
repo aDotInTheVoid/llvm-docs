@@ -1,0 +1,7 @@
+<map id="INITIALIZE_PASS::InsertedPass" name="INITIALIZE_PASS::InsertedPass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,224,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="31,95,81,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IdentifyingPassPtr.html" title="Discriminated union of Pass ID types." alt="" coords="106,95,281,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="101,5,189,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="214,5,271,32"/>
+</map>

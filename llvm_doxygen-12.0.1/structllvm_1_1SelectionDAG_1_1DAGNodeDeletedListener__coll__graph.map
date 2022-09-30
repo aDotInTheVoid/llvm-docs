@@ -1,0 +1,10 @@
+<map id="llvm::SelectionDAG::DAGNodeDeletedListener" name="llvm::SelectionDAG::DAGNodeDeletedListener">
+<area shape="rect" id="node1" title=" " alt="" coords="943,137,1121,179"/>
+<area shape="rect" id="node2" href="$structllvm_1_1SelectionDAG_1_1DAGUpdateListener.html" title="Clients of various APIs that cause global effects on the DAG can optionally implement this interface." alt="" coords="667,89,813,131"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SelectionDAG.html" title="This is used to represent a portion of an LLVM function in a low&#45;level Data Dependence DAG representa..." alt="" coords="425,97,560,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node5" href="$classbool.html" title=" " alt="" coords="71,71,117,98"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="55,122,133,149"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="57,173,131,199"/>
+<area shape="rect" id="node8" title=" " alt="" coords="640,155,840,196"/>
+</map>

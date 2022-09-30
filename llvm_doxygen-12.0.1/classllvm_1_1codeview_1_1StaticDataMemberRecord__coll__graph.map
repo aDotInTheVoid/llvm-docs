@@ -1,0 +1,11 @@
+<map id="llvm::codeview::StaticDataMemberRecord" name="llvm::codeview::StaticDataMemberRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="611,75,788,117"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="321,7,506,33"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,7,123,33"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="359,57,467,84"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title=" " alt="" coords="36,57,92,84"/>
+<area shape="rect" id="node6" href="$structllvm_1_1codeview_1_1MemberAttributes.html" title="Equvalent to CV_fldattr_t in cvinfo.h." alt="" coords="304,108,523,135"/>
+<area shape="rect" id="node7" title=" " alt="" coords="30,108,98,135"/>
+<area shape="rect" id="node8" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="325,177,501,204"/>
+<area shape="rect" id="node9" href="$classuint32__t.html" title=" " alt="" coords="30,197,98,224"/>
+</map>

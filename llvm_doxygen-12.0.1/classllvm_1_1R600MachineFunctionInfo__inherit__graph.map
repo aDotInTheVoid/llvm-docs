@@ -1,0 +1,5 @@
+<map id="llvm::R600MachineFunctionInfo" name="llvm::R600MachineFunctionInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="7,155,214,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AMDGPUMachineFunction.html" title=" " alt="" coords="5,80,216,107"/>
+<area shape="rect" id="node3" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="23,5,198,32"/>
+</map>

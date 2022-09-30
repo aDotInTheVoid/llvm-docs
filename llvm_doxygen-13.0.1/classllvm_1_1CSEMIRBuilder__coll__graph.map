@@ -1,0 +1,4 @@
+<map id="llvm::CSEMIRBuilder" name="llvm::CSEMIRBuilder">
+<area shape="rect" id="node1" title="Defines a builder that does CSE of MachineInstructions using GISelCSEInfo." alt="" coords="15,80,169,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineIRBuilder.html" title="Helper class to build MachineInstr." alt="" coords="5,5,179,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="llvm::wasm::WasmImport" name="llvm::wasm::WasmImport">
+<area shape="rect" id="node1" title=" " alt="" coords="835,224,1024,251"/>
+<area shape="rect" id="node2" title=" " alt="" coords="563,5,701,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1wasm_1_1WasmLimits.html" title=" " alt="" coords="215,71,401,97"/>
+<area shape="rect" id="node9" href="$structllvm_1_1wasm_1_1WasmTableType.html" title=" " alt="" coords="527,136,737,163"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,47,80,73"/>
+<area shape="rect" id="node5" title=" " alt="" coords="9,199,76,225"/>
+<area shape="rect" id="node7" href="$structllvm_1_1wasm_1_1WasmGlobalType.html" title=" " alt="" coords="199,363,417,389"/>
+<area shape="rect" id="node10" href="$structllvm_1_1wasm_1_1WasmTagType.html" title=" " alt="" coords="533,197,731,224"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="271,260,345,287"/>
+<area shape="rect" id="node8" title=" " alt="" coords="17,391,68,417"/>
+<area shape="rect" id="node11" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="573,424,691,451"/>
+<area shape="rect" id="node12" href="$classsize__t.html" title=" " alt="" coords="278,424,338,451"/>
+</map>

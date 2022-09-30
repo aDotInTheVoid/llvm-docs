@@ -1,0 +1,12 @@
+<map id="llvm::sampleprof::FunctionSamples" name="llvm::sampleprof::FunctionSamples">
+<area shape="rect" id="node1" title="Representation of the samples collected for a function." alt="" coords="1833,273,2028,314"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1445,162,1629,204"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="717,72,965,216"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DebugEpochBase.html" title=" " alt="" coords="5,198,177,224"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="227,183,419,239"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="709,240,973,355"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1023,206,1233,248"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1437,228,1636,255"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1511,332,1562,359"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1508,407,1565,434"/>
+</map>

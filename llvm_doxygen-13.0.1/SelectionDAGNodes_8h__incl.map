@@ -1,0 +1,52 @@
+<map id="include/llvm/CodeGen/SelectionDAGNodes.h" name="include/llvm/CodeGen/SelectionDAGNodes.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2849,5,3017,47"/>
+<area shape="rect" id="node2" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="2038,333,2186,360"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2367,557,2436,584"/>
+<area shape="rect" id="node7" title=" " alt="" coords="464,557,531,584"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1533,557,1600,584"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1133,557,1200,584"/>
+<area shape="rect" id="node11" href="$ArrayRef_8h.html" title=" " alt="" coords="3199,408,3353,435"/>
+<area shape="rect" id="node13" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="636,557,847,584"/>
+<area shape="rect" id="node14" title=" " alt="" coords="569,632,628,659"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3639,557,3724,584"/>
+<area shape="rect" id="node16" title=" " alt="" coords="4002,557,4057,584"/>
+<area shape="rect" id="node18" href="$SmallVector_8h.html" title=" " alt="" coords="3287,483,3462,509"/>
+<area shape="rect" id="node19" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3015,632,3206,659"/>
+<area shape="rect" id="node20" title=" " alt="" coords="4737,632,4807,659"/>
+<area shape="rect" id="node22" title=" " alt="" coords="4429,632,4499,659"/>
+<area shape="rect" id="node25" href="$iterator_8h.html" title=" " alt="" coords="4335,557,4481,584"/>
+<area shape="rect" id="node29" href="$BitVector_8h.html" title=" " alt="" coords="1530,333,1686,360"/>
+<area shape="rect" id="node31" href="$FoldingSet_8h.html" title=" " alt="" coords="2870,408,3037,435"/>
+<area shape="rect" id="node32" href="$GraphTraits_8h.html" title=" " alt="" coords="145,169,317,196"/>
+<area shape="rect" id="node33" href="$SmallPtrSet_8h.html" title=" " alt="" coords="3089,483,3263,509"/>
+<area shape="rect" id="node34" href="$ilist__node_8h.html" title=" " alt="" coords="4383,408,4545,435"/>
+<area shape="rect" id="node35" href="$ISDOpcodes_8h.html" title=" " alt="" coords="1132,95,1340,121"/>
+<area shape="rect" id="node36" href="$ValueTypes_8h.html" title=" " alt="" coords="1120,169,1323,196"/>
+<area shape="rect" id="node37" href="$MachineValueType_8h.html" title=" " alt="" coords="1121,244,1321,285"/>
+<area shape="rect" id="node38" href="$TypeSize_8h.html" title=" " alt="" coords="2211,333,2389,360"/>
+<area shape="rect" id="node39" href="$MachineMemOperand_8h.html" title=" " alt="" coords="5301,169,5574,196"/>
+<area shape="rect" id="node40" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="5402,408,5625,435"/>
+<area shape="rect" id="node41" href="$Register_8h.html" title=" " alt="" coords="2335,95,2518,121"/>
+<area shape="rect" id="node42" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="2595,251,2744,278"/>
+<area shape="rect" id="node43" href="$Casting_8h.html" title=" " alt="" coords="4137,408,4308,435"/>
+<area shape="rect" id="node44" href="$DebugLoc_8h.html" title=" " alt="" coords="4671,408,4819,435"/>
+<area shape="rect" id="node45" href="$IR_2Instruction_8h.html" title=" " alt="" coords="4138,333,4291,360"/>
+<area shape="rect" id="node46" href="$Instructions_8h.html" title=" " alt="" coords="3868,251,4028,278"/>
+<area shape="rect" id="node47" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="3612,333,3759,360"/>
+<area shape="rect" id="node48" href="$Operator_8h.html" title=" " alt="" coords="4227,169,4367,196"/>
+<area shape="rect" id="node49" href="$AlignOf_8h.html" title=" " alt="" coords="5199,251,5367,278"/>
+<area shape="rect" id="node50" title=" " alt="" coords="5700,95,5900,121"/>
+<area shape="rect" id="node3" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="934,408,1066,435"/>
+<area shape="rect" id="node23" title=" " alt="" coords="4132,557,4209,584"/>
+<area shape="rect" id="node28" href="$FloatingPointMode_8h.html" title=" " alt="" coords="2017,408,2237,435"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="912,632,1091,659"/>
+<area shape="rect" id="node5" href="$MathExtras_8h.html" title=" " alt="" coords="904,483,1099,509"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3867,632,3959,659"/>
+<area shape="rect" id="node12" href="$Hashing_8h.html" title=" " alt="" coords="1883,483,2034,509"/>
+<area shape="rect" id="node17" href="$None_8h.html" title=" " alt="" coords="4789,483,4921,509"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3453,557,3563,584"/>
+<area shape="rect" id="node24" href="$STLExtras_8h.html" title=" " alt="" coords="3892,483,4055,509"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2616,483,2672,509"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2849,483,2911,509"/>
+<area shape="rect" id="node30" href="$DenseMapInfo_8h.html" title=" " alt="" coords="1597,408,1789,435"/>
+</map>

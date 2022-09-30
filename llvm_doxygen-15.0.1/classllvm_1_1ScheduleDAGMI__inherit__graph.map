@@ -1,0 +1,10 @@
+<map id="llvm::ScheduleDAGMI" name="llvm::ScheduleDAGMI">
+<area shape="rect" id="node1" title="ScheduleDAGMI is an implementation of ScheduleDAGInstrs that simply schedules machine instructions ac..." alt="" coords="431,81,593,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ScheduleDAGMILive.html" title="ScheduleDAGMILive is an implementation of ScheduleDAGInstrs that schedules machine instructions while..." alt="" coords="641,81,832,108"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGInstrs.html" title="A ScheduleDAG for scheduling lists of MachineInstr." alt="" coords="200,81,383,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScheduleDAG.html" title=" " alt="" coords="5,81,152,108"/>
+<area shape="rect" id="node5" href="$classllvm_1_1GCNIterativeScheduler.html" title=" " alt="" coords="886,5,1093,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1GCNScheduleDAGMILive.html" title=" " alt="" coords="880,56,1099,83"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SIScheduleDAGMI.html" title=" " alt="" coords="902,107,1077,133"/>
+<area shape="rect" id="node8" href="$classllvm_1_1VLIWMachineScheduler.html" title="Extend the standard ScheduleDAGMILive to provide more context and override the top&#45;level schedule() d..." alt="" coords="884,157,1095,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::DIImportedEntity" name="llvm::DIImportedEntity">
+<area shape="rect" id="node1" title="An imported module (C++ using directive or similar)." alt="" coords="5,428,160,455"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node." alt="" coords="101,352,200,379"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="112,245,219,272"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="99,139,207,165"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="33,5,108,32"/>
+</map>

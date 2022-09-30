@@ -1,0 +1,13 @@
+<map id="AAReturnedValuesImpl" name="AAReturnedValuesImpl">
+<area shape="rect" id="node1" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— Function Return Values &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—" alt="" coords="326,381,497,408"/>
+<area shape="rect" id="node10" href="$structAAReturnedValuesCallSite.html" title="Returned values information for a call sites." alt="" coords="206,457,398,484"/>
+<area shape="rect" id="node11" href="$structAAReturnedValuesFunction.html" title=" " alt="" coords="422,457,619,484"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AAReturnedValues.html" title="An abstract attribute for the returned values of a function." alt="" coords="229,305,407,332"/>
+<area shape="rect" id="node3" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="241,200,395,256"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions." alt="" coords="143,89,314,115"/>
+<area shape="rect" id="node5" href="$structllvm_1_1IRPosition.html" title="Helper to describe and deal with positions in the LLVM&#45;IR." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AADepGraphNode.html" title="}" alt="" coords="154,5,330,32"/>
+<area shape="rect" id="node7" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="339,81,479,123"/>
+<area shape="rect" id="node8" href="$classBaseType.html" title=" " alt="" coords="367,5,451,32"/>
+<area shape="rect" id="node9" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="431,305,578,332"/>
+</map>

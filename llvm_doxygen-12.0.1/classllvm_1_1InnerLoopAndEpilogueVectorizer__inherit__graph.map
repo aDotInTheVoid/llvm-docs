@@ -1,0 +1,6 @@
+<map id="llvm::InnerLoopAndEpilogueVectorizer" name="llvm::InnerLoopAndEpilogueVectorizer">
+<area shape="rect" id="node1" title="An extension of the inner loop vectorizer that creates a skeleton for a vectorized loop that has its ..." alt="" coords="86,80,270,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1EpilogueVectorizerEpilogueLoop.html" title=" " alt="" coords="5,169,167,211"/>
+<area shape="rect" id="node4" href="$classllvm_1_1EpilogueVectorizerMainLoop.html" title="A specialized derived class of inner loop vectorizer that performs vectorization of main loops in the..." alt="" coords="191,169,352,211"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InnerLoopVectorizer.html" title="InnerLoopVectorizer vectorizes loops which contain only one basic block to a specified vectorization ..." alt="" coords="94,5,262,32"/>
+</map>

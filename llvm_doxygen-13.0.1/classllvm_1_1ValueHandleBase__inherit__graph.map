@@ -1,0 +1,12 @@
+<map id="llvm::ValueHandleBase" name="llvm::ValueHandleBase">
+<area shape="rect" id="node1" title="This is the common base class of value handles." alt="" coords="5,213,179,239"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CallbackVH.html" title="Value handle with callbacks on RAUW and destruction." alt="" coords="243,162,378,189"/>
+<area shape="rect" id="node9" href="$classllvm_1_1WeakTrackingVH.html" title="Value handle that is nullable, but tries to track the Value." alt="" coords="227,213,395,239"/>
+<area shape="rect" id="node10" href="$classllvm_1_1WeakVH.html" title="A nullable Value handle that is nullable." alt="" coords="253,263,368,290"/>
+<area shape="rect" id="node3" href="$classllvm_1_1bfi__detail_1_1BFICallbackVH_3_01BasicBlock_00_01BFIImplT_01_4.html" title=" " alt="" coords="466,5,674,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1cflaa_1_1FunctionHandle.html" title=" " alt="" coords="471,71,669,112"/>
+<area shape="rect" id="node5" href="$classllvm_1_1IVStrideUse.html" title="IVStrideUse &#45; Keep track of one use of a strided induction variable." alt="" coords="503,137,637,163"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MMIAddrLabelMapCallbackPtr.html" title=" " alt="" coords="443,187,697,214"/>
+<area shape="rect" id="node7" href="$structllvm_1_1PreservedCFGCheckerInstrumentation_1_1BBGuard.html" title=" " alt="" coords="469,239,671,280"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SCEVUnknown.html" title="This means that we are dealing with an entirely unknown SCEV value, and only represent it as its LLVM..." alt="" coords="493,305,647,331"/>
+</map>

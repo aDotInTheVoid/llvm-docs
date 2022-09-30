@@ -1,0 +1,13 @@
+<map id="llvm::AMDGPU::HSAMD::Kernel::Metadata" name="llvm::AMDGPU::HSAMD::Kernel::Metadata">
+<area shape="rect" id="node1" title="In&#45;memory representation of kernel metadata." alt="" coords="719,403,888,445"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AMDGPU_1_1HSAMD_1_1Kernel_1_1CodeProps_1_1Metadata.html" title="In&#45;memory representation of kernel code properties metadata." alt="" coords="413,161,583,217"/>
+<area shape="rect" id="node3" title=" " alt="" coords="35,177,103,204"/>
+<area shape="rect" id="node4" title=" " alt="" coords="35,311,103,337"/>
+<area shape="rect" id="node10" href="$structllvm_1_1AMDGPU_1_1HSAMD_1_1Kernel_1_1DebugProps_1_1Metadata.html" title="In&#45;memory representation of kernel debug properties metadata." alt="" coords="413,363,583,419"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title=" " alt="" coords="35,68,103,95"/>
+<area shape="rect" id="node6" href="$classbool.html" title=" " alt="" coords="45,127,92,153"/>
+<area shape="rect" id="node7" title=" " alt="" coords="419,283,577,339"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,444,132,471"/>
+<area shape="rect" id="node11" href="$structllvm_1_1AMDGPU_1_1HSAMD_1_1Kernel_1_1Attrs_1_1Metadata.html" title="In&#45;memory representation of kernel attributes metadata." alt="" coords="413,506,583,547"/>
+<area shape="rect" id="node9" title=" " alt="" coords="41,581,96,608"/>
+</map>

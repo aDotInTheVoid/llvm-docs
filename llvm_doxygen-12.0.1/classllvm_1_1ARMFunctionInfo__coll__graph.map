@@ -1,0 +1,9 @@
+<map id="llvm::ARMFunctionInfo" name="llvm::ARMFunctionInfo">
+<area shape="rect" id="node1" title="ARMFunctionInfo &#45; This class is derived from MachineFunctionInfo and contains private ARM&#45;specific in..." alt="" coords="1711,35,1867,61"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="1320,5,1495,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1315,57,1500,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="213,107,387,163"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="649,99,885,213"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DebugEpochBase.html" title=" " alt="" coords="5,171,164,197"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="935,98,1125,139"/>
+</map>

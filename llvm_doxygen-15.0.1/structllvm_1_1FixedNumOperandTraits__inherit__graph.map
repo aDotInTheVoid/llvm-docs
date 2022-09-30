@@ -1,0 +1,51 @@
+<map id="llvm::FixedNumOperandTraits&lt; SubClass, ARITY &gt;" name="llvm::FixedNumOperandTraits&lt; SubClass, ARITY &gt;">
+<area shape="rect" id="node1" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,934,220,975"/>
+<area shape="rect" id="node2" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="501,19,748,61"/>
+<area shape="rect" id="node4" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,85,732,126"/>
+<area shape="rect" id="node6" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,150,732,191"/>
+<area shape="rect" id="node8" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,215,732,257"/>
+<area shape="rect" id="node10" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="504,281,745,322"/>
+<area shape="rect" id="node12" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,346,732,387"/>
+<area shape="rect" id="node14" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,411,732,453"/>
+<area shape="rect" id="node16" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,477,732,518"/>
+<area shape="rect" id="node18" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,542,732,583"/>
+<area shape="rect" id="node20" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,607,732,649"/>
+<area shape="rect" id="node22" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,673,732,714"/>
+<area shape="rect" id="node24" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,738,732,779"/>
+<area shape="rect" id="node26" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,803,732,845"/>
+<area shape="rect" id="node28" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,869,732,910"/>
+<area shape="rect" id="node30" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,934,732,975"/>
+<area shape="rect" id="node32" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,999,732,1041"/>
+<area shape="rect" id="node34" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1065,732,1106"/>
+<area shape="rect" id="node36" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1130,732,1171"/>
+<area shape="rect" id="node38" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1195,732,1237"/>
+<area shape="rect" id="node40" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1261,732,1302"/>
+<area shape="rect" id="node41" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1326,732,1367"/>
+<area shape="rect" id="node42" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1391,732,1433"/>
+<area shape="rect" id="node43" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1457,732,1498"/>
+<area shape="rect" id="node44" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1522,732,1563"/>
+<area shape="rect" id="node45" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1587,732,1629"/>
+<area shape="rect" id="node46" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="497,1653,752,1694"/>
+<area shape="rect" id="node47" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1718,732,1759"/>
+<area shape="rect" id="node48" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1783,732,1825"/>
+<area shape="rect" id="node49" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="517,1849,732,1890"/>
+<area shape="rect" id="node3" href="$structllvm_1_1OperandTraits_3_01InsertElementConstantExpr_01_4.html" title=" " alt="" coords="801,19,1032,61"/>
+<area shape="rect" id="node5" href="$structllvm_1_1OperandTraits_3_01SelectConstantExpr_01_4.html" title=" " alt="" coords="827,85,1006,126"/>
+<area shape="rect" id="node7" href="$structllvm_1_1OperandTraits_3_01MemoryDef_01_4.html" title=" " alt="" coords="842,150,991,191"/>
+<area shape="rect" id="node9" href="$structllvm_1_1OptionalOperandTraits.html" title="OptionalOperandTraits &#45; when the number of operands may change at runtime." alt="" coords="815,215,1019,257"/>
+<area shape="rect" id="node11" href="$structllvm_1_1OperandTraits_3_01ShuffleVectorConstantExpr_01_4.html" title=" " alt="" coords="804,281,1029,322"/>
+<area shape="rect" id="node13" href="$structllvm_1_1OperandTraits_3_01StoreInst_01_4.html" title=" " alt="" coords="842,346,991,387"/>
+<area shape="rect" id="node15" href="$structllvm_1_1OperandTraits_3_01BinaryOperator_01_4.html" title=" " alt="" coords="841,411,992,453"/>
+<area shape="rect" id="node17" href="$structllvm_1_1OperandTraits_3_01AtomicRMWInst_01_4.html" title=" " alt="" coords="839,477,995,518"/>
+<area shape="rect" id="node19" href="$structllvm_1_1OperandTraits_3_01MemoryUse_01_4.html" title=" " alt="" coords="842,542,991,583"/>
+<area shape="rect" id="node21" href="$structllvm_1_1OperandTraits_3_01CmpInst_01_4.html" title=" " alt="" coords="842,607,991,649"/>
+<area shape="rect" id="node23" href="$structllvm_1_1OperandTraits_3_01UnaryInstruction_01_4.html" title=" " alt="" coords="837,673,997,714"/>
+<area shape="rect" id="node25" href="$structllvm_1_1OperandTraits_3_01DSOLocalEquivalent_01_4.html" title=" " alt="" coords="825,738,1008,779"/>
+<area shape="rect" id="node27" href="$structllvm_1_1OperandTraits_3_01ResumeInst_01_4.html" title=" " alt="" coords="842,803,991,845"/>
+<area shape="rect" id="node29" href="$structllvm_1_1OperandTraits_3_01BinaryConstantExpr_01_4.html" title=" " alt="" coords="826,869,1007,910"/>
+<area shape="rect" id="node31" href="$structllvm_1_1OperandTraits_3_01UnaryConstantExpr_01_4.html" title=" " alt="" coords="827,934,1006,975"/>
+<area shape="rect" id="node33" href="$structllvm_1_1OperandTraits_3_01BlockAddress_01_4.html" title=" " alt="" coords="842,999,991,1041"/>
+<area shape="rect" id="node35" href="$structllvm_1_1OperandTraits_3_01CompareConstantExpr_01_4.html" title=" " alt="" coords="817,1065,1016,1106"/>
+<area shape="rect" id="node37" href="$structllvm_1_1OperandTraits_3_01GlobalIFunc_01_4.html" title=" " alt="" coords="842,1130,991,1171"/>
+<area shape="rect" id="node39" href="$structllvm_1_1OperandTraits_3_01ExtractElementInst_01_4.html" title=" " alt="" coords="829,1195,1005,1237"/>
+</map>

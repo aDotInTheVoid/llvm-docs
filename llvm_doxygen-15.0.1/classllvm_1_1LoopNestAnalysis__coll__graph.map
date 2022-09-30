@@ -1,0 +1,7 @@
+<map id="llvm::LoopNestAnalysis" name="llvm::LoopNestAnalysis">
+<area shape="rect" id="node1" title="This analysis provides information for a loop nest." alt="" coords="99,304,274,331"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="99,213,274,255"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,109,173,151"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="112,5,261,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="198,109,373,151"/>
+</map>

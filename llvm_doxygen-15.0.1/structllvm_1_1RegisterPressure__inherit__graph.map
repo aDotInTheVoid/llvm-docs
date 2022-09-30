@@ -1,0 +1,5 @@
+<map id="llvm::RegisterPressure" name="llvm::RegisterPressure">
+<area shape="rect" id="node1" title="Base class for register pressure results." alt="" coords="97,5,266,32"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IntervalPressure.html" title="RegisterPressure computed within a region of instructions delimited by TopIdx and BottomIdx." alt="" coords="5,80,171,107"/>
+<area shape="rect" id="node3" href="$structllvm_1_1RegionPressure.html" title="RegisterPressure computed within a region of instructions delimited by TopPos and BottomPos." alt="" coords="195,80,355,107"/>
+</map>

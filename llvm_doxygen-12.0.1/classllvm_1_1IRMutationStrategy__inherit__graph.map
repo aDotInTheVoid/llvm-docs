@@ -1,0 +1,6 @@
+<map id="llvm::IRMutationStrategy" name="llvm::IRMutationStrategy">
+<area shape="rect" id="node1" title="Base class for describing how to mutate a module." alt="" coords="5,56,172,83"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InjectorIRStrategy.html" title="Strategy that injects operations into the function." alt="" coords="245,5,403,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstDeleterIRStrategy.html" title=" " alt="" coords="234,56,414,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InstModificationIRStrategy.html" title=" " alt="" coords="220,107,428,133"/>
+</map>

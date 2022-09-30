@@ -1,0 +1,5 @@
+<map id="include/llvm/MCA/Stages/ExecuteStage.h" name="include/llvm/MCA/Stages/ExecuteStage.h">
+<area shape="rect" id="node1" title="This file defines the execution stage of a default instruction pipeline." alt="" coords="95,5,264,47"/>
+<area shape="rect" id="node2" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="5,95,148,121"/>
+<area shape="rect" id="node3" href="$ExecuteStage_8cpp.html" title="This file defines the execution stage of an instruction pipeline." alt="" coords="172,95,395,121"/>
+</map>

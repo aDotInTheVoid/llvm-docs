@@ -1,0 +1,6 @@
+<map id="llvm::orc::tpctypes::BufferWrite" name="llvm::orc::tpctypes::BufferWrite">
+<area shape="rect" id="node1" title="Describes a write to a buffer." alt="" coords="53,184,195,225"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ExecutorAddr.html" title="Represents an address in the executor process." alt="" coords="5,95,179,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="203,95,322,121"/>
+<area shape="rect" id="node4" href="$classsize__t.html" title=" " alt="" coords="233,5,293,32"/>
+</map>

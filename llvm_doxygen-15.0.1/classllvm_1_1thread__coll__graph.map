@@ -1,0 +1,4 @@
+<map id="llvm::thread" name="llvm::thread">
+<area shape="rect" id="node1" title="LLVM thread following std::thread interface with added constructor to specify stack size." alt="" coords="5,95,107,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="27,5,85,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::ImutProfileInfo&lt; T * &gt;" name="llvm::ImutProfileInfo&lt; T * &gt;">
+<area shape="rect" id="node1" title="Generic profile trait for pointer types." alt="" coords="17,5,171,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ImutContainerInfo_3_01T_01_5_01_4.html" title="ImutContainerInfo &#45; Specialization for pointer values to treat pointers as references to unique objec..." alt="" coords="5,95,183,136"/>
+</map>

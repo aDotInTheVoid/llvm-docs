@@ -1,0 +1,7 @@
+<map id="llvm::FunctionLoweringInfo::StatepointRelocationRecord" name="llvm::FunctionLoweringInfo::StatepointRelocationRecord">
+<area shape="rect" id="node1" title="Helper object to track which of three possible relocation mechanisms are used for a particular value ..." alt="" coords="5,213,196,255"/>
+<area shape="rect" id="node2" title=" " alt="" coords="30,109,113,136"/>
+<area shape="rect" id="node3" href="$unionllvm_1_1FunctionLoweringInfo_1_1StatepointRelocationRecord_1_1payload__t.html" title=" " alt="" coords="137,95,328,151"/>
+<area shape="rect" id="node4" title=" " alt="" coords="167,5,205,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="229,5,332,32"/>
+</map>

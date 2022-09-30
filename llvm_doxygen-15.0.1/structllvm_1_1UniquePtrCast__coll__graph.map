@@ -1,0 +1,5 @@
+<map id="llvm::UniquePtrCast&lt; To, From, Derived &gt;" name="llvm::UniquePtrCast&lt; To, From, Derived &gt;">
+<area shape="rect" id="node1" title="This cast trait provides std::unique_ptr casting." alt="" coords="5,200,172,241"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="12,109,165,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="9,5,168,47"/>
+</map>

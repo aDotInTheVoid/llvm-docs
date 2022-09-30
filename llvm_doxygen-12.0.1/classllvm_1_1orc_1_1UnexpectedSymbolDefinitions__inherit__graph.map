@@ -1,0 +1,6 @@
+<map id="llvm::orc::UnexpectedSymbolDefinitions" name="llvm::orc::UnexpectedSymbolDefinitions">
+<area shape="rect" id="node1" title="Errors of this type should be returned if a module contains definitions for symbols that are not clai..." alt="" coords="5,276,200,317"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="9,185,196,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="30,5,165,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="119,81,278,123"/>
+</map>

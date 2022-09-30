@@ -1,0 +1,52 @@
+<map id="include/llvm/Analysis/IRSimilarityIdentifier.h" name="include/llvm/Analysis/IRSimilarityIdentifier.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4023,5,4177,47"/>
+<area shape="rect" id="node2" href="$InstVisitor_8h.html" title=" " alt="" coords="3660,95,3799,121"/>
+<area shape="rect" id="node33" href="$Instructions_8h.html" title=" " alt="" coords="3257,244,3404,271"/>
+<area shape="rect" id="node42" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="4195,319,4317,345"/>
+<area shape="rect" id="node48" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="4958,244,5117,271"/>
+<area shape="rect" id="node49" href="$Pass_8h.html" title=" " alt="" coords="6915,319,7005,345"/>
+<area shape="rect" id="node50" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1213,767,1376,793"/>
+<area shape="rect" id="node3" href="$Function_8h.html" title=" " alt="" coords="3609,393,3738,420"/>
+<area shape="rect" id="node13" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="2977,916,3167,943"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1182,617,1333,644"/>
+<area shape="rect" id="node38" href="$IntrinsicInst_8h.html" title=" " alt="" coords="3257,169,3404,196"/>
+<area shape="rect" id="node40" href="$Intrinsics_8h.html" title=" " alt="" coords="195,692,327,719"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title=" " alt="" coords="3735,767,3879,793"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3083,991,3149,1017"/>
+<area shape="rect" id="node10" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="5304,991,5475,1017"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1018,991,1083,1017"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1889,916,1951,943"/>
+<area shape="rect" id="node15" href="$Twine_8h.html" title=" " alt="" coords="2219,617,2344,644"/>
+<area shape="rect" id="node17" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2747,692,2882,719"/>
+<area shape="rect" id="node20" href="$BasicBlock_8h.html" title=" " alt="" coords="4829,468,4974,495"/>
+<area shape="rect" id="node25" href="$Value_8h.html" title=" " alt="" coords="5390,692,5501,719"/>
+<area shape="rect" id="node26" href="$Casting_8h.html" title=" " alt="" coords="4471,767,4625,793"/>
+<area shape="rect" id="node29" href="$CallingConv_8h.html" title=" " alt="" coords="2022,468,2170,495"/>
+<area shape="rect" id="node30" href="$DerivedTypes_8h.html" title=" " alt="" coords="2419,617,2578,644"/>
+<area shape="rect" id="node32" href="$OperandTraits_8h.html" title=" " alt="" coords="4373,543,4533,569"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title=" " alt="" coords="3898,841,4051,868"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title=" " alt="" coords="824,916,963,943"/>
+<area shape="rect" id="node9" href="$iterator_8h.html" title=" " alt="" coords="5515,916,5645,943"/>
+<area shape="rect" id="node12" title=" " alt="" coords="5955,991,6018,1017"/>
+<area shape="rect" id="node7" href="$None_8h.html" title=" " alt="" coords="176,991,299,1017"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title=" " alt="" coords="3397,841,3558,868"/>
+<area shape="rect" id="node18" href="$Types_8h.html" title=" " alt="" coords="5463,841,5569,868"/>
+<area shape="rect" id="node19" href="$ArrayRef_8h.html" title=" " alt="" coords="2473,767,2615,793"/>
+<area shape="rect" id="node21" href="$IR_2Instruction_8h.html" title=" " alt="" coords="1709,543,1849,569"/>
+<area shape="rect" id="node22" href="$Bitfields_8h.html" title="This file implements methods to test, set and extract typed bits from packed unsigned integers." alt="" coords="1339,841,1477,868"/>
+<area shape="rect" id="node23" href="$User_8h.html" title=" " alt="" coords="4808,617,4915,644"/>
+<area shape="rect" id="node27" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="398,617,599,644"/>
+<area shape="rect" id="node24" href="$Use_8h.html" title="This defines the Use class." alt="" coords="5441,767,5543,793"/>
+<area shape="rect" id="node31" href="$Type_8h.html" title=" " alt="" coords="2312,692,2419,719"/>
+<area shape="rect" id="node34" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="6216,319,6323,345"/>
+<area shape="rect" id="node35" href="$Constant_8h.html" title=" " alt="" coords="4861,543,4992,569"/>
+<area shape="rect" id="node36" href="$InstrTypes_8h.html" title=" " alt="" coords="2543,319,2683,345"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title=" " alt="" coords="5777,543,5927,569"/>
+<area shape="rect" id="node39" href="$GlobalVariable_8h.html" title=" " alt="" coords="2651,468,2813,495"/>
+<area shape="rect" id="node41" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="4069,468,4203,495"/>
+<area shape="rect" id="node43" href="$llvm_2IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM." alt="" coords="5079,393,5203,420"/>
+<area shape="rect" id="node44" href="$DataLayout_8h.html" title=" " alt="" coords="3243,543,3386,569"/>
+<area shape="rect" id="node45" href="$GlobalAlias_8h.html" title=" " alt="" coords="4858,393,5003,420"/>
+<area shape="rect" id="node46" href="$GlobalIFunc_8h.html" title=" " alt="" coords="4684,393,4833,420"/>
+<area shape="rect" id="node47" href="$ProfileSummary_8h.html" title=" " alt="" coords="3201,841,3373,868"/>
+</map>

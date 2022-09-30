@@ -1,0 +1,6 @@
+<map id="llvm::objcopy::elf::Section" name="llvm::objcopy::elf::Section">
+<area shape="rect" id="node1" title=" " alt="" coords="106,95,241,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1objcopy_1_1elf_1_1DynamicSection.html" title=" " alt="" coords="5,184,141,225"/>
+<area shape="rect" id="node4" href="$classllvm_1_1objcopy_1_1elf_1_1DynamicSymbolTableSection.html" title=" " alt="" coords="165,184,384,225"/>
+<area shape="rect" id="node2" href="$classllvm_1_1objcopy_1_1elf_1_1SectionBase.html" title=" " alt="" coords="106,5,241,47"/>
+</map>

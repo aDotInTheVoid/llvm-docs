@@ -1,0 +1,8 @@
+<map id="lib/Target/Mips/MCTargetDesc/MipsMCNaCl.h" name="lib/Target/Mips/MCTargetDesc/MipsMCNaCl.h">
+<area shape="rect" id="node1" title=" " alt="" coords="501,5,667,47"/>
+<area shape="rect" id="node2" href="$MipsMCTargetDesc_8cpp.html" title=" " alt="" coords="5,95,203,136"/>
+<area shape="rect" id="node3" href="$MipsNaClELFStreamer_8cpp.html" title=" " alt="" coords="227,95,445,136"/>
+<area shape="rect" id="node4" href="$MipsAsmPrinter_8cpp.html" title=" " alt="" coords="469,102,699,129"/>
+<area shape="rect" id="node5" href="$MipsBranchExpansion_8cpp.html" title="This pass do two things:" alt="" coords="723,95,903,136"/>
+<area shape="rect" id="node6" href="$MipsDelaySlotFiller_8cpp.html" title=" " alt="" coords="928,95,1101,136"/>
+</map>

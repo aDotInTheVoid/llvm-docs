@@ -1,0 +1,12 @@
+<map id="llvm::orc::SelfExecutorProcessControl" name="llvm::orc::SelfExecutorProcessControl">
+<area shape="rect" id="node1" title="A ExecutorProcessControl implementation targeting the current process." alt="" coords="1004,333,1223,374"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ExecutorProcessControl.html" title="ExecutorProcessControl supports interaction with a JIT target process." alt="" coords="761,214,955,255"/>
+<area shape="rect" id="node3" title=" " alt="" coords="449,57,611,98"/>
+<area shape="rect" id="node4" href="$structllvm_1_1orc_1_1ExecutorProcessControl_1_1JITDispatchInfo.html" title="Contains the address of the dispatch function and context that the ORC runtime can use to call functi..." alt="" coords="433,122,627,163"/>
+<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1ExecutorAddress.html" title="Represents an address in the executor process." alt="" coords="5,129,200,156"/>
+<area shape="rect" id="node6" href="$classllvm_1_1jitlink_1_1JITLinkMemoryManager.html" title="Manages allocations of JIT memory." alt="" coords="429,187,631,229"/>
+<area shape="rect" id="node7" href="$classllvm_1_1orc_1_1ExecutorProcessControl_1_1MemoryAccess.html" title="APIs for manipulating memory in the target process." alt="" coords="433,361,627,402"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names." alt="" coords="483,253,577,280"/>
+<area shape="rect" id="node9" title=" " alt="" coords="489,304,571,331"/>
+<area shape="rect" id="node10" href="$classllvm_1_1orc_1_1ExecutionSession.html" title="An ExecutionSession represents a running JIT program." alt="" coords="430,5,630,32"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/IndirectBrExpandPass.cpp" name="lib/CodeGen/IndirectBrExpandPass.cpp">
+<area shape="rect" id="node1" title="Implements an expansion pass to turn indirectbr instructions in the IR into switch instructions." alt="" coords="3937,5,4153,47"/>
+<area shape="rect" id="node2" href="$STLExtras_8h.html" title=" " alt="" coords="2782,333,2945,360"/>
+<area shape="rect" id="node17" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="2185,483,2395,509"/>
+<area shape="rect" id="node26" href="$Sequence_8h.html" title="This routine provides some synthesis utilities to produce sequences of values." alt="" coords="379,333,540,360"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title=" " alt="" coords="1748,333,1923,360"/>
+<area shape="rect" id="node31" href="$DomTreeUpdater_8h.html" title=" " alt="" coords="2338,169,2573,196"/>
+<area shape="rect" id="node33" href="$Dominators_8h.html" title=" " alt="" coords="5063,251,5223,278"/>
+<area shape="rect" id="node34" href="$BasicBlock_8h.html" title=" " alt="" coords="3909,333,4063,360"/>
+<area shape="rect" id="node35" href="$IR_2Instruction_8h.html" title=" " alt="" coords="4429,408,4583,435"/>
+<area shape="rect" id="node36" href="$Pass_8h.html" title=" " alt="" coords="5471,333,5567,360"/>
+<area shape="rect" id="node39" href="$TargetPassConfig_8h.html" title="Target&#45;Independent Code Generator Pass Configuration Options pass." alt="" coords="5530,251,5770,278"/>
+<area shape="rect" id="node41" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1574,244,1795,285"/>
+<area shape="rect" id="node43" href="$Function_8h.html" title=" " alt="" coords="4291,251,4430,278"/>
+<area shape="rect" id="node44" href="$IRBuilder_8h.html" title=" " alt="" coords="3973,95,4116,121"/>
+<area shape="rect" id="node45" href="$Instructions_8h.html" title=" " alt="" coords="3635,169,3795,196"/>
+<area shape="rect" id="node46" href="$InstIterator_8h.html" title=" " alt="" coords="4222,169,4377,196"/>
+<area shape="rect" id="node47" href="$InitializePasses_8h.html" title=" " alt="" coords="5581,95,5748,121"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title=" " alt="" coords="5773,95,5935,121"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title=" " alt="" coords="2475,251,2681,278"/>
+<area shape="rect" id="node50" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="5248,251,5455,278"/>
+<area shape="rect" id="node3" href="$Optional_8h.html" title=" " alt="" coords="1240,408,1393,435"/>
+<area shape="rect" id="node4" href="$STLForwardCompat_8h.html" title=" " alt="" coords="733,483,957,509"/>
+<area shape="rect" id="node5" title=" " alt="" coords="472,557,564,584"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3795,557,3855,584"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2621,483,2690,509"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1562,483,1639,509"/>
+<area shape="rect" id="node12" href="$iterator_8h.html" title=" " alt="" coords="3752,408,3897,435"/>
+<area shape="rect" id="node13" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="4544,483,4735,509"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3476,483,3547,509"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2995,483,3065,509"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2743,408,2938,435"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3914,483,3999,509"/>
+<area shape="rect" id="node20" title=" " alt="" coords="4402,483,4469,509"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1032,483,1097,509"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2328,408,2415,435"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1755,483,1865,509"/>
+<area shape="rect" id="node24" title=" " alt="" coords="167,483,226,509"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2963,408,3017,435"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="1201,557,1379,584"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title=" " alt="" coords="1195,483,1385,509"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1121,483,1171,509"/>
+<area shape="rect" id="node18" title=" " alt="" coords="5174,557,5233,584"/>
+<area shape="rect" id="node27" href="$MathExtras_8h.html" title=" " alt="" coords="354,408,549,435"/>
+<area shape="rect" id="node28" title=" " alt="" coords="283,483,350,509"/>
+<area shape="rect" id="node30" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="877,408,1063,435"/>
+<area shape="rect" id="node32" href="$SmallPtrSet_8h.html" title=" " alt="" coords="1723,408,1897,435"/>
+<area shape="rect" id="node37" href="$ValueHandle_8h.html" title=" " alt="" coords="3003,251,3169,278"/>
+<area shape="rect" id="node38" title=" " alt="" coords="624,333,687,360"/>
+<area shape="rect" id="node40" href="$CodeGen_8h.html" title=" " alt="" coords="5267,333,5447,360"/>
+<area shape="rect" id="node42" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1037,333,1169,360"/>
+</map>

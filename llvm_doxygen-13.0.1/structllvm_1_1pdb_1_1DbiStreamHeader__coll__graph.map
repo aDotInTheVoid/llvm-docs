@@ -1,0 +1,6 @@
+<map id="llvm::pdb::DbiStreamHeader" name="llvm::pdb::DbiStreamHeader">
+<area shape="rect" id="node1" title="The fixed size header that appears at the beginning of the DBI Stream." alt="" coords="417,261,624,288"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,99,195,155"/>
+<area shape="rect" id="node3" title=" " alt="" coords="9,247,191,303"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,336,195,392"/>
+</map>

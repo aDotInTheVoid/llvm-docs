@@ -1,0 +1,6 @@
+<map id="llvm::DebuginfodServer" name="llvm::DebuginfodServer">
+<area shape="rect" id="node1" title=" " alt="" coords="219,95,395,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DebuginfodCollection.html" title="Tracks a collection of debuginfod artifacts on the local filesystem." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DebuginfodLog.html" title=" " alt="" coords="229,5,386,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1HTTPServer.html" title="An HTTP server which can listen on a single TCP/IP port for HTTP requests and delgate them to the app..." alt="" coords="411,5,545,32"/>
+</map>

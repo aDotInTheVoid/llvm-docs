@@ -1,0 +1,11 @@
+<map id="include/llvm/MCA/SourceMgr.h" name="include/llvm/MCA/SourceMgr.h">
+<area shape="rect" id="node1" title="This file implements class SourceMgr." alt="" coords="357,5,577,32"/>
+<area shape="rect" id="node2" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="5,177,208,203"/>
+<area shape="rect" id="node4" href="$CustomBehaviour_8h.html" title="This file defines the base class CustomBehaviour which can be inherited from by specific targets (ex." alt="" coords="221,87,488,114"/>
+<area shape="rect" id="node5" href="$InOrderIssueStage_8h.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="475,169,659,211"/>
+<area shape="rect" id="node8" href="$EntryStage_8h.html" title="This file defines the Entry stage of an instruction pipeline." alt="" coords="604,80,788,121"/>
+<area shape="rect" id="node3" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="387,266,541,293"/>
+<area shape="rect" id="node7" href="$CustomBehaviour_8cpp.html" title="This file implements methods from the CustomBehaviour interface." alt="" coords="232,177,451,203"/>
+<area shape="rect" id="node6" href="$InOrderIssueStage_8cpp.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="566,259,773,300"/>
+<area shape="rect" id="node9" href="$EntryStage_8cpp.html" title="This file defines the Fetch stage of an instruction pipeline." alt="" coords="734,177,957,203"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::PrintFunctionPass" name="llvm::PrintFunctionPass">
+<area shape="rect" id="node1" title="Pass for printing a Function as LLVM&#39;s text IR assembly." alt="" coords="5,200,167,227"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,109,163,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="17,5,155,47"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="llvm::X86Operand" name="llvm::X86Operand">
+<area shape="rect" id="node1" title="X86Operand &#45; Instances of this class represent a parsed X86 machine instruction." alt="" coords="564,292,691,319"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCParsedAsmOperand.html" title="MCParsedAsmOperand &#45; This abstract class represents a source&#45;level assembly instruction operand." alt="" coords="252,5,445,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1X86Operand_1_1PrefOp.html" title=" " alt="" coords="261,215,436,241"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="19,156,94,183"/>
+<area shape="rect" id="node7" href="$structllvm_1_1X86Operand_1_1MemOp.html" title=" " alt="" coords="259,316,439,343"/>
+<area shape="rect" id="node10" href="$structllvm_1_1X86Operand_1_1RegOp.html" title=" " alt="" coords="261,265,436,292"/>
+<area shape="rect" id="node16" href="$structllvm_1_1X86Operand_1_1TokOp.html" title=" " alt="" coords="263,56,435,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code." alt="" coords="301,113,396,140"/>
+<area shape="rect" id="node6" title=" " alt="" coords="317,164,380,191"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MCExpr.html" title="Base class for the full range of assembler expressions which are needed for parsing." alt="" coords="5,395,108,421"/>
+<area shape="rect" id="node12" href="$structllvm_1_1X86Operand_1_1ImmOp.html" title=" " alt="" coords="260,417,437,444"/>
+<area shape="rect" id="node9" href="$classbool.html" title=" " alt="" coords="33,512,80,539"/>
+<area shape="rect" id="node11" title=" " alt="" coords="285,367,413,393"/>
+<area shape="rect" id="node13" title=" " alt="" coords="321,468,376,495"/>
+<area shape="rect" id="node14" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="295,596,403,623"/>
+<area shape="rect" id="node15" href="$classsize__t.html" title=" " alt="" coords="29,596,85,623"/>
+<area shape="rect" id="node17" title=" " alt="" coords="33,43,80,69"/>
+</map>

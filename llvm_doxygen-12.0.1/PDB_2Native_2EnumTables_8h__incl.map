@@ -1,0 +1,52 @@
+<map id="include/llvm/DebugInfo/PDB/Native/EnumTables.h" name="include/llvm/DebugInfo/PDB/Native/EnumTables.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1573,5,1755,47"/>
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title=" " alt="" coords="1661,244,1803,271"/>
+<area shape="rect" id="node43" href="$ScopedPrinter_8h.html" title=" " alt="" coords="1501,95,1694,121"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title=" " alt="" coords="1309,468,1448,495"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title=" " alt="" coords="689,617,852,644"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4329,617,4394,644"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3485,617,3568,644"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1108,543,1183,569"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2845,543,2912,569"/>
+<area shape="rect" id="node23" href="$None_8h.html" title=" " alt="" coords="2808,468,2931,495"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title=" " alt="" coords="1945,393,2106,420"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1979,468,2075,495"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2474,468,2537,495"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2561,468,2631,495"/>
+<area shape="rect" id="node36" href="$STLExtras_8h.html" title=" " alt="" coords="2574,319,2727,345"/>
+<area shape="rect" id="node41" title=" " alt="" coords="899,319,949,345"/>
+<area shape="rect" id="node42" title=" " alt="" coords="974,319,1031,345"/>
+<area shape="rect" id="node4" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="5,543,179,569"/>
+<area shape="rect" id="node7" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="609,543,799,569"/>
+<area shape="rect" id="node11" title=" " alt="" coords="391,617,446,644"/>
+<area shape="rect" id="node12" href="$SwapByteOrder_8h.html" title=" " alt="" coords="3792,543,3995,569"/>
+<area shape="rect" id="node17" href="$type__traits_8h.html" title=" " alt="" coords="2003,543,2175,569"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2919,617,2972,644"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1656,543,1717,569"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1484,543,1535,569"/>
+<area shape="rect" id="node5" href="$llvm-c_2DataTypes_8h.html" title=" " alt="" coords="25,617,159,644"/>
+<area shape="rect" id="node6" title=" " alt="" coords="53,692,131,719"/>
+<area shape="rect" id="node9" title=" " alt="" coords="758,692,925,719"/>
+<area shape="rect" id="node10" title=" " alt="" coords="666,692,734,719"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4052,617,4113,644"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3831,617,3955,644"/>
+<area shape="rect" id="node25" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3259,468,3429,495"/>
+<area shape="rect" id="node26" href="$MathExtras_8h.html" title=" " alt="" coords="1725,468,1904,495"/>
+<area shape="rect" id="node29" title=" " alt="" coords="3008,543,3061,569"/>
+<area shape="rect" id="node30" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="659,468,829,495"/>
+<area shape="rect" id="node31" title=" " alt="" coords="875,543,935,569"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2403,468,2450,495"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1567,543,1627,569"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1792,543,1851,569"/>
+<area shape="rect" id="node37" href="$Optional_8h.html" title=" " alt="" coords="2635,393,2773,420"/>
+<area shape="rect" id="node38" href="$iterator_8h.html" title=" " alt="" coords="3147,393,3277,420"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2232,393,2405,420"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2430,393,2509,420"/>
+<area shape="rect" id="node44" href="$APSInt_8h.html" title=" " alt="" coords="423,169,555,196"/>
+<area shape="rect" id="node46" href="$StringRef_8h.html" title=" " alt="" coords="3093,244,3237,271"/>
+<area shape="rect" id="node47" href="$Endian_8h.html" title=" " alt="" coords="3859,468,4010,495"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title=" " alt="" coords="1909,169,2096,196"/>
+<area shape="rect" id="node45" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1424,393,1547,420"/>
+<area shape="rect" id="node49" title=" " alt="" coords="1827,244,1888,271"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1912,244,2008,271"/>
+</map>

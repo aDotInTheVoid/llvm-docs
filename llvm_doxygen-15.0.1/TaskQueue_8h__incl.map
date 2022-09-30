@@ -1,0 +1,52 @@
+<map id="include/llvm/Support/TaskQueue.h" name="include/llvm/Support/TaskQueue.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3086,5,3242,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1619,557,1805,584"/>
+<area shape="rect" id="node3" href="$ThreadPool_8h.html" title=" " alt="" coords="2904,95,3099,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1648,483,1717,509"/>
+<area shape="rect" id="node10" title=" " alt="" coords="755,483,815,509"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3759,319,3823,345"/>
+<area shape="rect" id="node39" href="$thread_8h.html" title=" " alt="" coords="45,169,208,196"/>
+<area shape="rect" id="node45" title=" " alt="" coords="3039,169,3100,196"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3125,169,3267,196"/>
+<area shape="rect" id="node47" title=" " alt="" coords="3291,169,3354,196"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3378,169,3465,196"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3489,169,3567,196"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3641,95,3708,121"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title=" " alt="" coords="2078,244,2245,271"/>
+<area shape="rect" id="node32" href="$RWMutex_8h.html" title=" " alt="" coords="2729,169,2913,196"/>
+<area shape="rect" id="node33" href="$Threading_8h.html" title=" " alt="" coords="2859,244,3045,271"/>
+<area shape="rect" id="node5" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2239,401,2431,427"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3006,483,3077,509"/>
+<area shape="rect" id="node11" href="$EpochTracker_8h.html" title=" " alt="" coords="1915,319,2098,345"/>
+<area shape="rect" id="node13" href="$AlignOf_8h.html" title=" " alt="" coords="1007,401,1175,427"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1045,483,1137,509"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title=" " alt="" coords="3339,483,3517,509"/>
+<area shape="rect" id="node17" href="$MathExtras_8h.html" title=" " alt="" coords="2759,401,2953,427"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2587,483,2653,509"/>
+<area shape="rect" id="node22" href="$MemAlloc_8h.html" title=" " alt="" coords="3220,319,3407,345"/>
+<area shape="rect" id="node25" href="$ReverseIteration_8h.html" title=" " alt="" coords="1661,319,1891,345"/>
+<area shape="rect" id="node27" href="$type__traits_8h.html" title=" " alt="" coords="690,401,881,427"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2028,401,2113,427"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2225,319,2335,345"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2359,319,2430,345"/>
+<area shape="rect" id="node31" title=" " alt="" coords="730,319,779,345"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2683,483,2749,509"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1402,483,1457,509"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1809,401,2004,427"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3391,557,3465,584"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3105,483,3172,509"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2825,483,2887,509"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2917,483,2976,509"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="3180,401,3391,427"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3517,401,3582,427"/>
+<area shape="rect" id="node26" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="1503,393,1684,435"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3120,244,3235,271"/>
+<area shape="rect" id="node34" href="$BitVector_8h.html" title=" " alt="" coords="2687,319,2843,345"/>
+<area shape="rect" id="node35" href="$StringRef_8h.html" title=" " alt="" coords="2505,319,2663,345"/>
+<area shape="rect" id="node36" title=" " alt="" coords="3612,319,3684,345"/>
+<area shape="rect" id="node40" href="$Optional_8h.html" title=" " alt="" coords="565,244,718,271"/>
+<area shape="rect" id="node44" title=" " alt="" coords="93,244,157,271"/>
+<area shape="rect" id="node41" href="$Hashing_8h.html" title=" " alt="" coords="1175,319,1326,345"/>
+<area shape="rect" id="node42" href="$None_8h.html" title=" " alt="" coords="290,319,422,345"/>
+<area shape="rect" id="node43" href="$STLForwardCompat_8h.html" title=" " alt="" coords="340,401,564,427"/>
+</map>

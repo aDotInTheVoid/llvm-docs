@@ -1,0 +1,40 @@
+<map id="lib/Target/WebAssembly/WebAssembly.h" name="lib/Target/WebAssembly/WebAssembly.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4195,5,4374,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyAsmParser_8cpp.html" title=" " alt="" coords="5,102,292,143"/>
+<area shape="rect" id="node3" href="$WebAssemblyAsmTypeCheck_8cpp.html" title=" " alt="" coords="317,95,567,151"/>
+<area shape="rect" id="node4" href="$WebAssemblyInstPrinter_8cpp.html" title=" " alt="" coords="592,95,831,151"/>
+<area shape="rect" id="node5" href="$WebAssemblyAddMissingPrototypes_8cpp.html" title=" " alt="" coords="855,102,1146,143"/>
+<area shape="rect" id="node6" href="$WebAssemblyArgumentMove_8cpp.html" title=" " alt="" coords="1170,102,1415,143"/>
+<area shape="rect" id="node7" href="$WebAssemblyAsmPrinter_8cpp.html" title=" " alt="" coords="1439,102,1655,143"/>
+<area shape="rect" id="node8" href="$WebAssemblyCFGSort_8cpp.html" title=" " alt="" coords="1483,199,1681,240"/>
+<area shape="rect" id="node9" href="$WebAssemblyExceptionInfo_8h.html" title="This file implements WebAssemblyException information analysis." alt="" coords="1781,102,1999,143"/>
+<area shape="rect" id="node10" href="$WebAssemblyCFGStackify_8cpp.html" title=" " alt="" coords="1705,199,1928,240"/>
+<area shape="rect" id="node13" href="$WebAssemblyDebugFixup_8cpp.html" title=" " alt="" coords="2024,102,2247,143"/>
+<area shape="rect" id="node14" href="$WebAssemblyDebugValueManager_8cpp.html" title=" " alt="" coords="2271,102,2549,143"/>
+<area shape="rect" id="node15" href="$WebAssemblyExplicitLocals_8cpp.html" title=" " alt="" coords="2574,102,2809,143"/>
+<area shape="rect" id="node16" href="$WebAssemblyFastISel_8cpp.html" title=" " alt="" coords="2833,102,3027,143"/>
+<area shape="rect" id="node17" href="$WebAssemblyFixBrTableDefaults_8cpp.html" title=" " alt="" coords="3051,102,3318,143"/>
+<area shape="rect" id="node18" href="$WebAssemblyFixFunctionBitcasts_8cpp.html" title=" " alt="" coords="3343,102,3613,143"/>
+<area shape="rect" id="node19" href="$WebAssemblyFixIrreducibleControlFlow_8cpp.html" title=" " alt="" coords="3638,95,3891,151"/>
+<area shape="rect" id="node20" href="$WebAssemblyFrameLowering_8cpp.html" title=" " alt="" coords="3915,102,4161,143"/>
+<area shape="rect" id="node21" href="$WebAssemblyInstrInfo_8cpp.html" title=" " alt="" coords="4185,102,4384,143"/>
+<area shape="rect" id="node22" href="$WebAssemblyISelDAGToDAG_8cpp.html" title=" " alt="" coords="4408,102,4649,143"/>
+<area shape="rect" id="node23" href="$WebAssemblyLateEHPrepare_8cpp.html" title="Does various transformations for exception handling." alt="" coords="4673,102,4915,143"/>
+<area shape="rect" id="node24" href="$WebAssemblyLowerBrUnless_8cpp.html" title=" " alt="" coords="4939,102,5182,143"/>
+<area shape="rect" id="node25" href="$WebAssemblyLowerEmscriptenEHSjLj_8cpp.html" title=" " alt="" coords="5207,95,5467,151"/>
+<area shape="rect" id="node26" href="$WebAssemblyLowerRefTypesIntPtrConv_8cpp.html" title=" " alt="" coords="5491,95,5724,151"/>
+<area shape="rect" id="node27" href="$WebAssemblyMCLowerPrePass_8cpp.html" title=" " alt="" coords="5748,102,6003,143"/>
+<area shape="rect" id="node28" href="$WebAssemblyMemIntrinsicResults_8cpp.html" title=" " alt="" coords="6027,102,6305,143"/>
+<area shape="rect" id="node29" href="$WebAssemblyNullifyDebugValueLists_8cpp.html" title=" " alt="" coords="6329,95,6568,151"/>
+<area shape="rect" id="node30" href="$WebAssemblyOptimizeLiveIntervals_8cpp.html" title=" " alt="" coords="6593,102,6881,143"/>
+<area shape="rect" id="node31" href="$WebAssemblyOptimizeReturned_8cpp.html" title=" " alt="" coords="6905,102,7168,143"/>
+<area shape="rect" id="node32" href="$WebAssemblyPeephole_8cpp.html" title=" " alt="" coords="7193,102,7398,143"/>
+<area shape="rect" id="node33" href="$WebAssemblyRegColoring_8cpp.html" title=" " alt="" coords="7422,102,7646,143"/>
+<area shape="rect" id="node34" href="$WebAssemblyRegNumbering_8cpp.html" title=" " alt="" coords="7670,102,7913,143"/>
+<area shape="rect" id="node35" href="$WebAssemblyRegStackify_8cpp.html" title=" " alt="" coords="7937,102,8157,143"/>
+<area shape="rect" id="node36" href="$WebAssemblyReplacePhysRegs_8cpp.html" title=" " alt="" coords="8181,102,8441,143"/>
+<area shape="rect" id="node37" href="$WebAssemblySetP2AlignOperands_8cpp.html" title=" " alt="" coords="8466,102,8743,143"/>
+<area shape="rect" id="node38" href="$WebAssemblyTargetMachine_8cpp.html" title=" " alt="" coords="8767,102,9007,143"/>
+<area shape="rect" id="node11" href="$WebAssemblyExceptionInfo_8cpp.html" title="This file implements WebAssemblyException information analysis." alt="" coords="1951,199,2186,240"/>
+<area shape="rect" id="node12" href="$WebAssemblySortRegion_8cpp.html" title=" " alt="" coords="2210,199,2426,240"/>
+</map>

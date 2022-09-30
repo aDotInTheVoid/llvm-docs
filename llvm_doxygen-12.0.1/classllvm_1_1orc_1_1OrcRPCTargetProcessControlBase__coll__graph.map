@@ -1,0 +1,9 @@
+<map id="llvm::orc::OrcRPCTargetProcessControlBase&lt; RPCEndpointT &gt;" name="llvm::orc::OrcRPCTargetProcessControlBase&lt; RPCEndpointT &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="525,129,737,171"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1TargetProcessControl.html" title="TargetProcessControl supports interaction with a JIT target process." alt="" coords="312,129,476,171"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,5,169,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1jitlink_1_1JITLinkMemoryManager.html" title="Manages allocations of JIT memory." alt="" coords="5,71,187,112"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names." alt="" coords="53,137,139,163"/>
+<area shape="rect" id="node6" href="$classllvm_1_1orc_1_1TargetProcessControl_1_1MemoryAccess.html" title="APIs for manipulating memory in the target process." alt="" coords="14,188,178,229"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="59,254,133,281"/>
+</map>

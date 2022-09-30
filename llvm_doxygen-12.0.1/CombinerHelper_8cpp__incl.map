@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/GlobalISel/CombinerHelper.cpp" name="lib/CodeGen/GlobalISel/CombinerHelper.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2631,5,2790,47"/>
+<area shape="rect" id="node2" href="$CombinerHelper_8h.html" title=" " alt="" coords="1045,363,1214,404"/>
+<area shape="rect" id="node5" href="$MathExtras_8h.html" title=" " alt="" coords="2047,631,2225,657"/>
+<area shape="rect" id="node15" href="$Combiner_8h.html" title=" " alt="" coords="3389,95,3558,136"/>
+<area shape="rect" id="node16" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class." alt="" coords="3389,184,3558,225"/>
+<area shape="rect" id="node18" href="$GISelChangeObserver_8h.html" title=" " alt="" coords="3613,363,3782,404"/>
+<area shape="rect" id="node23" href="$MachineInstr_8h.html" title=" " alt="" coords="4104,631,4299,657"/>
+<area shape="rect" id="node24" href="$MachineMemOperand_8h.html" title=" " alt="" coords="4194,705,4441,732"/>
+<area shape="rect" id="node29" href="$llvm_2CodeGen_2GlobalISel_2Utils_8h.html" title=" " alt="" coords="1905,452,2074,493"/>
+<area shape="rect" id="node35" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="2799,363,3006,404"/>
+<area shape="rect" id="node37" href="$GISelKnownBits_8h.html" title=" " alt="" coords="2959,273,3129,315"/>
+<area shape="rect" id="node40" href="$LegalizerInfo_8h.html" title=" " alt="" coords="1202,273,1371,315"/>
+<area shape="rect" id="node45" href="$MIPatternMatch_8h.html" title=" " alt="" coords="2027,273,2197,315"/>
+<area shape="rect" id="node46" href="$MachineDominators_8h.html" title=" " alt="" coords="4183,281,4420,307"/>
+<area shape="rect" id="node47" href="$MachineFrameInfo_8h.html" title=" " alt="" coords="2735,452,2929,493"/>
+<area shape="rect" id="node48" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="3193,184,3364,225"/>
+<area shape="rect" id="node49" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code." alt="" coords="2098,459,2305,486"/>
+<area shape="rect" id="node50" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="1752,102,1939,129"/>
+<area shape="rect" id="node3" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="867,549,1003,575"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title=" " alt="" coords="2045,549,2200,575"/>
+<area shape="rect" id="node9" href="$LowLevelType_8h.html" title=" " alt="" coords="549,459,752,486"/>
+<area shape="rect" id="node11" href="$Register_8h.html" title=" " alt="" coords="3019,549,3187,575"/>
+<area shape="rect" id="node12" href="$Alignment_8h.html" title=" " alt="" coords="1701,549,1869,575"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1976,780,2043,807"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3608,780,3661,807"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2965,705,3027,732"/>
+<area shape="rect" id="node10" href="$LowLevelTypeImpl_8h.html" title=" " alt="" coords="507,541,690,583"/>
+<area shape="rect" id="node13" href="$Optional_8h.html" title=" " alt="" coords="1261,705,1400,732"/>
+<area shape="rect" id="node14" href="$None_8h.html" title=" " alt="" coords="181,780,304,807"/>
+<area shape="rect" id="node27" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="3959,363,4167,404"/>
+<area shape="rect" id="node17" href="$CSEInfo_8h.html" title=" " alt="" coords="3663,273,3833,315"/>
+<area shape="rect" id="node22" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="3911,541,4102,583"/>
+<area shape="rect" id="node25" href="$TargetOpcodes_8h.html" title=" " alt="" coords="4516,705,4724,732"/>
+<area shape="rect" id="node26" href="$DebugLoc_8h.html" title=" " alt="" coords="3929,705,4068,732"/>
+<area shape="rect" id="node28" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="3353,273,3537,315"/>
+<area shape="rect" id="node34" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="979,459,1117,486"/>
+<area shape="rect" id="node36" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="1345,459,1466,486"/>
+<area shape="rect" id="node19" href="$SmallPtrSet_8h.html" title=" " alt="" coords="3717,631,3877,657"/>
+<area shape="rect" id="node20" href="$MachineFunction_8h.html" title=" " alt="" coords="3612,459,3831,486"/>
+<area shape="rect" id="node21" href="$SmallVector_8h.html" title=" " alt="" coords="2225,549,2386,575"/>
+<area shape="rect" id="node33" href="$InstrTypes_8h.html" title=" " alt="" coords="1439,370,1579,397"/>
+<area shape="rect" id="node30" href="$StringRef_8h.html" title=" " alt="" coords="1331,549,1475,575"/>
+<area shape="rect" id="node31" href="$STLExtras_8h.html" title=" " alt="" coords="1033,631,1186,657"/>
+<area shape="rect" id="node32" title=" " alt="" coords="549,705,600,732"/>
+<area shape="rect" id="node38" href="$InitializePasses_8h.html" title=" " alt="" coords="3132,370,3284,397"/>
+<area shape="rect" id="node39" href="$KnownBits_8h.html" title=" " alt="" coords="1651,631,1826,657"/>
+<area shape="rect" id="node41" href="$SmallBitVector_8h.html" title=" " alt="" coords="2462,549,2639,575"/>
+<area shape="rect" id="node42" href="$CommandLine_8h.html" title=" " alt="" coords="825,370,1020,397"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title=" " alt="" coords="1541,459,1728,486"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1238,370,1349,397"/>
+</map>

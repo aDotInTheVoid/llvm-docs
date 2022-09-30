@@ -1,0 +1,52 @@
+<map id="lib/Target/X86/X86IntrinsicsInfo.h" name="lib/Target/X86/X86IntrinsicsInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4094,5,4293,47"/>
+<area shape="rect" id="node2" href="$X86ISelLowering_8h.html" title=" " alt="" coords="3113,95,3255,121"/>
+<area shape="rect" id="node44" href="$X86InstrInfo_8h.html" title=" " alt="" coords="5094,169,5207,196"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4231,95,4399,121"/>
+<area shape="rect" id="node3" href="$MachineFunction_8h.html" title=" " alt="" coords="1507,333,1747,360"/>
+<area shape="rect" id="node29" href="$TargetLowering_8h.html" title=" " alt="" coords="3069,169,3299,196"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title=" " alt="" coords="1955,736,2109,763"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title=" " alt="" coords="993,811,1167,837"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="567,885,745,912"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2837,885,2907,912"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1356,885,1433,912"/>
+<area shape="rect" id="node9" title=" " alt="" coords="770,885,830,912"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4411,811,4474,837"/>
+<area shape="rect" id="node11" href="$BitVector_8h.html" title=" " alt="" coords="2515,661,2671,688"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3440,736,3507,763"/>
+<area shape="rect" id="node13" href="$DenseMap_8h.html" title=" " alt="" coords="566,497,733,524"/>
+<area shape="rect" id="node14" href="$GraphTraits_8h.html" title=" " alt="" coords="2603,579,2775,606"/>
+<area shape="rect" id="node15" href="$ilist_8h.html" title=" " alt="" coords="3576,579,3699,606"/>
+<area shape="rect" id="node16" href="$iterator_8h.html" title=" " alt="" coords="601,579,746,606"/>
+<area shape="rect" id="node17" href="$EHPersonalities_8h.html" title=" " alt="" coords="803,415,1031,442"/>
+<area shape="rect" id="node18" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="3605,408,3813,449"/>
+<area shape="rect" id="node19" href="$MachineInstr_8h.html" title=" " alt="" coords="3413,497,3627,524"/>
+<area shape="rect" id="node20" href="$MachineMemOperand_8h.html" title=" " alt="" coords="1614,579,1887,606"/>
+<area shape="rect" id="node23" href="$AtomicOrdering_8h.html" title=" " alt="" coords="1615,661,1838,688"/>
+<area shape="rect" id="node25" href="$ArrayRecycler_8h.html" title=" " alt="" coords="923,579,1133,606"/>
+<area shape="rect" id="node26" href="$Allocator_8h.html" title=" " alt="" coords="1040,661,1219,688"/>
+<area shape="rect" id="node27" href="$Recycler_8h.html" title=" " alt="" coords="2520,497,2696,524"/>
+<area shape="rect" id="node28" href="$TargetOptions_8h.html" title=" " alt="" coords="1294,811,1495,837"/>
+<area shape="rect" id="node24" href="$InlineAsm_8h.html" title=" " alt="" coords="4461,661,4611,688"/>
+<area shape="rect" id="node21" href="$DerivedTypes_8h.html" title=" " alt="" coords="2217,661,2389,688"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title=" " alt="" coords="2181,736,2339,763"/>
+<area shape="rect" id="node30" href="$APInt_8h.html" title=" " alt="" coords="241,736,373,763"/>
+<area shape="rect" id="node31" href="$STLArrayExtras_8h.html" title=" " alt="" coords="3322,251,3521,278"/>
+<area shape="rect" id="node32" href="$DAGCombine_8h.html" title=" " alt="" coords="2726,333,2943,360"/>
+<area shape="rect" id="node33" href="$ISDOpcodes_8h.html" title=" " alt="" coords="4128,579,4336,606"/>
+<area shape="rect" id="node34" href="$ValueTypes_8h.html" title=" " alt="" coords="4027,661,4229,688"/>
+<area shape="rect" id="node35" href="$LowLevelType_8h.html" title=" " alt="" coords="4461,333,4683,360"/>
+<area shape="rect" id="node36" href="$RuntimeLibcalls_8h.html" title=" " alt="" coords="3003,579,3237,606"/>
+<area shape="rect" id="node37" href="$SelectionDAG_8h.html" title=" " alt="" coords="2161,251,2380,278"/>
+<area shape="rect" id="node38" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="2235,497,2495,524"/>
+<area shape="rect" id="node39" href="$TargetCallingConv_8h.html" title=" " alt="" coords="4563,572,4765,613"/>
+<area shape="rect" id="node40" href="$Attributes_8h.html" title=" " alt="" coords="2899,661,3047,688"/>
+<area shape="rect" id="node41" href="$CallingConv_8h.html" title=" " alt="" coords="3537,661,3698,688"/>
+<area shape="rect" id="node42" href="$DataLayout_8h.html" title=" " alt="" coords="2065,579,2223,606"/>
+<area shape="rect" id="node43" href="$Function_8h.html" title=" " alt="" coords="3312,579,3451,606"/>
+<area shape="rect" id="node45" href="$X86BaseInfo_8h.html" title=" " alt="" coords="5584,251,5797,278"/>
+<area shape="rect" id="node46" href="$X86InstrFMA3Info_8h.html" title=" " alt="" coords="4945,333,5095,360"/>
+<area shape="rect" id="node47" href="$X86RegisterInfo_8h.html" title=" " alt="" coords="5245,251,5384,278"/>
+<area shape="rect" id="node48" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="3552,244,3739,285"/>
+<area shape="rect" id="node49" title=" " alt="" coords="5409,251,5559,278"/>
+</map>

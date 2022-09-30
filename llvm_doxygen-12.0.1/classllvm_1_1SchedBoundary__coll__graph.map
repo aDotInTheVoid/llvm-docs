@@ -1,0 +1,52 @@
+<map id="llvm::SchedBoundary" name="llvm::SchedBoundary">
+<area shape="rect" id="node1" title="Each Scheduling boundary is associated with ready queues." alt="" coords="2517,1301,2664,1327"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGMI.html" title="ScheduleDAGMI is an implementation of ScheduleDAGInstrs that simply schedules machine instructions ac..." alt="" coords="2263,1301,2413,1327"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScheduleDAGInstrs.html" title="A ScheduleDAG for scheduling lists of MachineInstr." alt="" coords="1931,919,2101,946"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ScheduleDAG.html" title=" " alt="" coords="1555,769,1690,795"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MachineFunction.html" title=" " alt="" coords="879,503,1032,530"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title=" " alt="" coords="342,421,417,447"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SUnit.html" title="Scheduling unit. This is a node in the scheduling DAG." alt="" coords="1108,1029,1195,1055"/>
+<area shape="rect" id="node13" href="$structllvm_1_1MCSchedClassDesc.html" title="Summarize the scheduling resources required for an instruction of a particular scheduling class." alt="" coords="679,1181,855,1207"/>
+<area shape="rect" id="node21" href="$classllvm_1_1TargetInstrInfo.html" title="TargetInstrInfo &#45; Interface to description of machine instruction set." alt="" coords="886,675,1025,702"/>
+<area shape="rect" id="node47" href="$structllvm_1_1SchedRemainder.html" title="Summarize the unscheduled region." alt="" coords="1075,254,1228,281"/>
+<area shape="rect" id="node49" href="$classllvm_1_1ScheduleHazardRecognizer.html" title="HazardRecognizer &#45; This determines whether or not an instruction can be issued this cycle,..." alt="" coords="1271,191,1485,218"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="701,121,833,163"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="6,33,187,59"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="313,25,445,67"/>
+<area shape="rect" id="node48" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="701,25,833,67"/>
+<area shape="rect" id="node10" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="295,95,464,136"/>
+<area shape="rect" id="node11" title=" " alt="" coords="73,1290,120,1317"/>
+<area shape="rect" id="node22" href="$classllvm_1_1MachineLoopInfo.html" title=" " alt="" coords="303,1334,456,1361"/>
+<area shape="rect" id="node45" href="$classllvm_1_1LiveIntervals.html" title=" " alt="" coords="316,1430,443,1457"/>
+<area shape="rect" id="node14" href="$classbool.html" title=" " alt="" coords="356,994,403,1021"/>
+<area shape="rect" id="node16" href="$classllvm_1_1TargetRegisterClass.html" title=" " alt="" coords="681,1231,853,1258"/>
+<area shape="rect" id="node15" title=" " alt="" coords="724,921,809,947"/>
+<area shape="rect" id="node17" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="1065,737,1237,763"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1078,787,1225,814"/>
+<area shape="rect" id="node19" href="$classllvm_1_1MachineRegisterInfo.html" title="MachineRegisterInfo &#45; Keep track of information for virtual and physical registers,..." alt="" coords="1065,838,1238,865"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetRegisterInfo.html" title="TargetRegisterInfo base class &#45; We assume that the target defines a static array of TargetRegisterDes..." alt="" coords="1071,889,1231,915"/>
+<area shape="rect" id="node23" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="5,1413,188,1439"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1546,1130,1699,1186"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="1065,1105,1238,1161"/>
+<area shape="rect" id="node26" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1056,1185,1247,1227"/>
+<area shape="rect" id="node27" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="1538,1481,1707,1523"/>
+<area shape="rect" id="node28" href="$structllvm_1_1MachineInstrBundleIteratorHelper_3_01false_01_4.html" title=" " alt="" coords="682,1481,851,1523"/>
+<area shape="rect" id="node29" href="$classllvm_1_1MachineInstrBundleIterator.html" title="MachineBasicBlock iterator that automatically skips over MIs that are inside bundles (i...." alt="" coords="1067,1511,1236,1552"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1509,883,1736,924"/>
+<area shape="rect" id="node31" href="$classllvm_1_1MachineFrameInfo.html" title="The MachineFrameInfo class represents an abstract stack frame until prolog/epilog code is inserted." alt="" coords="1541,566,1704,593"/>
+<area shape="rect" id="node32" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="1112,355,1191,382"/>
+<area shape="rect" id="node33" href="$classllvm_1_1LivePhysRegs.html" title="A set of physical registers with utility functions to track liveness when walking backward/forward th..." alt="" coords="1555,949,1691,975"/>
+<area shape="rect" id="node34" href="$classllvm_1_1UndefValue.html" title="&#39;undef&#39; values are things that do not have specified contents." alt="" coords="1562,617,1683,643"/>
+<area shape="rect" id="node35" href="$classllvm_1_1ConstantData.html" title="Base class for constants with no operands." alt="" coords="1084,406,1219,433"/>
+<area shape="rect" id="node36" href="$classllvm_1_1AAResults.html" title=" " alt="" coords="1565,1362,1681,1389"/>
+<area shape="rect" id="node37" href="$classllvm_1_1ScheduleDAGTopologicalSort.html" title="This class can compute a topological ordering for SUnits and provides methods for dynamically updatin..." alt="" coords="1510,999,1735,1026"/>
+<area shape="rect" id="node38" href="$classllvm_1_1SparseMultiSet.html" title=" " alt="" coords="1531,1050,1714,1106"/>
+<area shape="rect" id="node39" href="$classllvm_1_1MachineBasicBlock.html" title=" " alt="" coords="1538,1210,1707,1237"/>
+<area shape="rect" id="node40" href="$classllvm_1_1MachineInstr.html" title="Representation of each machine instruction." alt="" coords="1558,355,1687,382"/>
+<area shape="rect" id="node41" href="$classllvm_1_1SparseMultiSet.html" title=" " alt="" coords="1525,406,1721,462"/>
+<area shape="rect" id="node42" href="$classllvm_1_1TargetSchedModel.html" title="Provide an instruction scheduling machine model to CodeGen passes." alt="" coords="1541,1261,1704,1287"/>
+<area shape="rect" id="node43" href="$classllvm_1_1SparseMultiSet.html" title=" " alt="" coords="1540,486,1705,542"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1895,1383,2137,1424"/>
+<area shape="rect" id="node46" title=" " alt="" coords="1929,316,2103,357"/>
+<area shape="rect" id="node50" href="$classllvm_1_1ReadyQueue.html" title="Helpers for implementing custom MachineSchedStrategy classes." alt="" coords="2273,1499,2403,1526"/>
+</map>

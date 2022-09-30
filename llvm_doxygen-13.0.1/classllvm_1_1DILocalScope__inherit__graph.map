@@ -1,0 +1,11 @@
+<map id="llvm::DILocalScope" name="llvm::DILocalScope">
+<area shape="rect" id="node1" title="A scope for locals." alt="" coords="200,304,347,331"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DILexicalBlockBase.html" title=" " alt="" coords="84,379,271,405"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DISubprogram.html" title="Subprogram description." alt="" coords="295,379,447,405"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts." alt="" coords="217,229,329,256"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node." alt="" coords="220,155,327,181"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="216,80,331,107"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="213,5,334,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DILexicalBlock.html" title=" " alt="" coords="5,453,160,480"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DILexicalBlockFile.html" title=" " alt="" coords="184,453,363,480"/>
+</map>

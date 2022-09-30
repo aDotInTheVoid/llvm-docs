@@ -1,0 +1,6 @@
+<map id="llvm::jitlink::JITLinkMemoryManager" name="llvm::jitlink::JITLinkMemoryManager">
+<area shape="rect" id="node1" title="Manages allocations of JIT memory." alt="" coords="5,71,207,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1InProcessMemoryManager.html" title="A JITLinkMemoryManager that allocates in&#45;process memory." alt="" coords="274,5,441,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1EPCGenericJITLinkMemoryManager.html" title=" " alt="" coords="255,71,460,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1MapperJITLinkMemoryManager.html" title=" " alt="" coords="268,136,447,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::ErrorOr&lt; T &gt;" name="llvm::ErrorOr&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents either an error or a value T." alt="" coords="881,46,1024,73"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AlignedCharArrayUnion.html" title=" " alt="" coords="537,5,748,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,55,56,82"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type." alt="" coords="147,48,357,89"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AlignedCharArrayUnion.html" title=" " alt="" coords="537,71,748,112"/>
+</map>

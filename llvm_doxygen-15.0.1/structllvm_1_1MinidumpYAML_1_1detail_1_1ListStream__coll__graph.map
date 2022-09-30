@@ -1,0 +1,6 @@
+<map id="llvm::MinidumpYAML::detail::ListStream&lt; EntryT &gt;" name="llvm::MinidumpYAML::detail::ListStream&lt; EntryT &gt;">
+<area shape="rect" id="node1" title="A stream representing a list of abstract entries in a minidump stream." alt="" coords="97,213,256,269"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams." alt="" coords="5,109,164,151"/>
+<area shape="rect" id="node3" title=" " alt="" coords="56,5,113,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="189,117,351,143"/>
+</map>

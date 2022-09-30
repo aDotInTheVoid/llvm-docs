@@ -1,0 +1,7 @@
+<map id="llvm::BinOpInit" name="llvm::BinOpInit">
+<area shape="rect" id="node1" title="!op (X, Y) &#45; Combine two inits." alt="" coords="67,229,175,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1OpInit.html" title="Base class for operators." alt="" coords="14,155,103,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TypedInit.html" title="This is the common superclass of types that have a specific, explicit type, stored in ValueTy." alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Init.html" title=" " alt="" coords="23,5,95,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="128,155,243,181"/>
+</map>

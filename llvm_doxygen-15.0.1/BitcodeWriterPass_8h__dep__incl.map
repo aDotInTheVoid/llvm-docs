@@ -1,0 +1,10 @@
+<map id="include/llvm/Bitcode/BitcodeWriterPass.h" name="include/llvm/Bitcode/BitcodeWriterPass.h">
+<area shape="rect" id="node1" title=" " alt="" coords="595,5,751,47"/>
+<area shape="rect" id="node2" href="$Debugify_8h.html" title=" " alt="" coords="385,95,564,136"/>
+<area shape="rect" id="node7" href="$BitcodeWriterPass_8cpp.html" title=" " alt="" coords="588,95,759,136"/>
+<area shape="rect" id="node8" href="$ThinLTOCodeGenerator_8cpp.html" title=" " alt="" coords="783,102,1030,129"/>
+<area shape="rect" id="node3" href="$MachineDebugify_8cpp.html" title=" " alt="" coords="5,191,248,218"/>
+<area shape="rect" id="node4" href="$MachineStripDebug_8cpp.html" title=" " alt="" coords="273,184,463,225"/>
+<area shape="rect" id="node5" href="$PassBuilder_8cpp.html" title=" " alt="" coords="487,191,678,218"/>
+<area shape="rect" id="node6" href="$Debugify_8cpp.html" title=" " alt="" coords="702,184,850,225"/>
+</map>

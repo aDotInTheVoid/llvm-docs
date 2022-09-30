@@ -1,0 +1,17 @@
+<map id="llvm::ms_demangle::ThunkSignatureNode" name="llvm::ms_demangle::ThunkSignatureNode">
+<area shape="rect" id="node1" title=" " alt="" coords="828,305,972,346"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1FunctionSignatureNode.html" title=" " alt="" coords="555,197,713,238"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1TypeNode.html" title=" " alt="" coords="271,173,413,214"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ms__demangle_1_1Node.html" title=" " alt="" coords="5,147,180,173"/>
+<area shape="rect" id="node6" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title=" " alt="" coords="271,107,413,149"/>
+<area shape="rect" id="node5" title=" " alt="" coords="53,215,132,241"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title=" " alt="" coords="65,57,121,84"/>
+<area shape="rect" id="node8" title=" " alt="" coords="299,239,385,265"/>
+<area shape="rect" id="node9" title=" " alt="" coords="296,289,388,316"/>
+<area shape="rect" id="node10" href="$classbool.html" title=" " alt="" coords="319,344,365,371"/>
+<area shape="rect" id="node11" title=" " alt="" coords="272,5,412,32"/>
+<area shape="rect" id="node12" title=" " alt="" coords="291,56,393,83"/>
+<area shape="rect" id="node13" href="$structllvm_1_1ms__demangle_1_1ThunkSignatureNode_1_1ThisAdjustor.html" title=" " alt="" coords="558,404,710,460"/>
+<area shape="rect" id="node14" title=" " alt="" coords="311,419,373,445"/>
+<area shape="rect" id="node15" href="$classuint32__t.html" title=" " alt="" coords="308,469,376,496"/>
+</map>

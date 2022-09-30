@@ -1,0 +1,8 @@
+<map id="llvm::objcopy::wasm::Object" name="llvm::objcopy::wasm::Object">
+<area shape="rect" id="node1" title=" " alt="" coords="157,288,313,329"/>
+<area shape="rect" id="node2" href="$structllvm_1_1wasm_1_1WasmObjectHeader.html" title=" " alt="" coords="5,191,240,218"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="44,95,119,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="143,95,262,121"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title=" " alt="" coords="173,5,233,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="263,184,430,225"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="lib/Target/AMDGPU/AMDGPULegalizerInfo.h" name="lib/Target/AMDGPU/AMDGPULegalizerInfo.h">
+<area shape="rect" id="node1" title="This file declares the targeting of the Machinelegalizer class for AMDGPU." alt="" coords="513,5,764,47"/>
+<area shape="rect" id="node2" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="5,95,227,136"/>
+<area shape="rect" id="node3" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU." alt="" coords="251,95,501,136"/>
+<area shape="rect" id="node4" href="$AMDGPUPostLegalizerCombiner_8cpp.html" title=" " alt="" coords="525,95,752,136"/>
+<area shape="rect" id="node5" href="$AMDGPURegBankCombiner_8cpp.html" title=" " alt="" coords="777,95,999,136"/>
+<area shape="rect" id="node6" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget." alt="" coords="1023,102,1302,129"/>
+</map>

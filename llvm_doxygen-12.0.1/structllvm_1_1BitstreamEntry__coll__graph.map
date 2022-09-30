@@ -1,0 +1,5 @@
+<map id="llvm::BitstreamEntry" name="llvm::BitstreamEntry">
+<area shape="rect" id="node1" title="When advancing through a bitstream cursor, each advance can discover a few different kinds of entries..." alt="" coords="53,95,196,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="149,5,223,32"/>
+</map>

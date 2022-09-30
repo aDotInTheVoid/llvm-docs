@@ -1,0 +1,4 @@
+<map id="llvm::minidump::LocationDescriptor" name="llvm::minidump::LocationDescriptor">
+<area shape="rect" id="node1" title="Specifies the location (and size) of various objects in the minidump file." alt="" coords="5,139,172,180"/>
+<area shape="rect" id="node2" title=" " alt="" coords="7,5,171,61"/>
+</map>

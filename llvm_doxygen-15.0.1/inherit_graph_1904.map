@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="57,56,210,97"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="325,5,472,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1OptionalValueCast.html" title="This cast trait provides Optional&lt;T&gt; casting." alt="" coords="309,136,488,177"/>
+<area shape="rect" id="node4" href="$structllvm_1_1OptionalValueCast.html" title=" " alt="" coords="309,71,488,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1CastInfo_3_01To_00_01Optional_3_01From_01_4_01_4.html" title="Provide a CastInfo specialized for Optional&lt;From&gt;." alt="" coords="536,71,695,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="5,121,261,192"/>
+</map>

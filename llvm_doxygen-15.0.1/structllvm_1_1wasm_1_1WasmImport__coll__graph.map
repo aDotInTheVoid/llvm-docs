@@ -1,0 +1,13 @@
+<map id="llvm::wasm::WasmImport" name="llvm::wasm::WasmImport">
+<area shape="rect" id="node1" title=" " alt="" coords="827,213,1016,240"/>
+<area shape="rect" id="node2" href="$structllvm_1_1wasm_1_1WasmLimits.html" title=" " alt="" coords="211,125,397,152"/>
+<area shape="rect" id="node9" href="$structllvm_1_1wasm_1_1WasmTableType.html" title=" " alt="" coords="507,264,717,291"/>
+<area shape="rect" id="node3" href="$classuint64__t.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="9,187,76,213"/>
+<area shape="rect" id="node7" href="$structllvm_1_1wasm_1_1WasmGlobalType.html" title=" " alt="" coords="195,312,413,339"/>
+<area shape="rect" id="node5" title=" " alt="" coords="543,163,681,189"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="575,213,649,240"/>
+<area shape="rect" id="node8" title=" " alt="" coords="17,312,68,339"/>
+<area shape="rect" id="node10" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="553,377,671,404"/>
+<area shape="rect" id="node11" href="$classsize__t.html" title=" " alt="" coords="274,377,334,404"/>
+</map>

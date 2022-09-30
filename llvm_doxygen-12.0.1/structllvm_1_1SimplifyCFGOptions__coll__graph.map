@@ -1,0 +1,6 @@
+<map id="llvm::SimplifyCFGOptions" name="llvm::SimplifyCFGOptions">
+<area shape="rect" id="node1" title=" " alt="" coords="122,183,297,209"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AssumptionCache.html" title="A cache of @llvm.assume calls within a function." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="190,5,229,32"/>
+<area shape="rect" id="node4" href="$classbool.html" title=" " alt="" coords="338,5,385,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::FunctionSummary::ParamAccess::Call" name="llvm::FunctionSummary::ParamAccess::Call">
+<area shape="rect" id="node1" title="Describes the use of a value in a call instruction, specifying the call&#39;s target, the value&#39;s paramet..." alt="" coords="89,347,251,388"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,257,73,284"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ConstantRange.html" title="This class represents a range of values." alt="" coords="98,257,242,284"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ValueInfo.html" title="Struct that holds a reference to a particular GUID in a global value summary." alt="" coords="267,257,375,284"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="210,139,431,195"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer." alt="" coords="237,5,405,61"/>
+</map>

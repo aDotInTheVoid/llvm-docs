@@ -1,0 +1,6 @@
+<map id="LoopInterchangeLegacyPass" name="LoopInterchangeLegacyPass">
+<area shape="rect" id="node1" title="Main LoopInterchange Pass." alt="" coords="17,171,222,197"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LoopPass.html" title=" " alt="" coords="5,81,124,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="21,5,109,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="149,81,199,108"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::AppleAccelTableTypeData" name="llvm::AppleAccelTableTypeData">
+<area shape="rect" id="node1" title="Accelerator table data implementation for Apple type accelerator tables." alt="" coords="9,229,236,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AppleAccelTableOffsetData.html" title="Accelerator table data implementation for simple Apple accelerator tables with just a DIE reference." alt="" coords="5,155,240,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AppleAccelTableData.html" title="A base class for different implementations of Data classes for Apple Accelerator Tables." alt="" coords="25,80,221,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AccelTableData.html" title="Interface which the different types of accelerator table data have to conform." alt="" coords="43,5,202,32"/>
+</map>

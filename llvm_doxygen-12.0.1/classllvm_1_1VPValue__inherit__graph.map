@@ -1,0 +1,10 @@
+<map id="llvm::VPValue" name="llvm::VPValue">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,108,184"/>
+<area shape="rect" id="node2" href="$classllvm_1_1VPInstruction.html" title="This is a concrete Recipe that models a single VPlan&#45;level instruction." alt="" coords="183,5,315,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1VPReductionRecipe.html" title="A recipe to represent inloop reduction operations, performing a reduction on a vector operand into a ..." alt="" coords="165,56,334,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1VPReplicateRecipe.html" title="VPReplicateRecipe replicates a given instruction producing multiple scalar copies of the original sca..." alt="" coords="167,107,332,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1VPWidenCallRecipe.html" title="A recipe for widening Call instructions." alt="" coords="164,157,335,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1VPWidenGEPRecipe.html" title="A recipe for handling GEP instructions." alt="" coords="161,208,337,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1VPWidenRecipe.html" title="VPWidenRecipe is a recipe for producing a copy of vector type its ingredient." alt="" coords="175,259,324,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1VPWidenSelectRecipe.html" title="A recipe for widening select instructions." alt="" coords="156,309,343,336"/>
+</map>

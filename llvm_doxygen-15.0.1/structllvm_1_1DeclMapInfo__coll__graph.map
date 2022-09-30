@@ -1,0 +1,5 @@
+<map id="llvm::DeclMapInfo" name="llvm::DeclMapInfo">
+<area shape="rect" id="node1" title="Info type for the DenseMap storing the DeclContext pointers." alt="" coords="11,200,153,227"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="5,109,159,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="5,5,159,47"/>
+</map>

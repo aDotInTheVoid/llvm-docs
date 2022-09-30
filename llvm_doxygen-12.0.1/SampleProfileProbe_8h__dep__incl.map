@@ -1,0 +1,9 @@
+<map id="include/llvm/Transforms/IPO/SampleProfileProbe.h" name="include/llvm/Transforms/IPO/SampleProfileProbe.h">
+<area shape="rect" id="node1" title="This file provides the interface for the pseudo probe implementation for AutoFDO." alt="" coords="418,5,597,47"/>
+<area shape="rect" id="node2" href="$StandardInstrumentations_8h.html" title="This header defines a class that provides bookkeeping for all standard (i.e in&#45;tree) pass instrumenta..." alt="" coords="114,95,301,136"/>
+<area shape="rect" id="node5" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="325,102,508,129"/>
+<area shape="rect" id="node6" href="$SampleProfile_8cpp.html" title=" " alt="" coords="532,95,664,136"/>
+<area shape="rect" id="node7" href="$SampleProfileProbe_8cpp.html" title=" " alt="" coords="688,95,855,136"/>
+<area shape="rect" id="node3" href="$LTOBackend_8cpp.html" title=" " alt="" coords="5,184,172,211"/>
+<area shape="rect" id="node4" href="$StandardInstrumentations_8cpp.html" title="This file defines IR&#45;printing pass instrumentation callbacks as well as StandardInstrumentations clas..." alt="" coords="197,184,458,211"/>
+</map>

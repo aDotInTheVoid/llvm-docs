@@ -1,0 +1,52 @@
+<map id="lib/Target/AVR/AVRTargetMachine.cpp" name="lib/Target/AVR/AVRTargetMachine.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3685,5,3867,47"/>
+<area shape="rect" id="node2" href="$AVRTargetMachine_8h.html" title=" " alt="" coords="3967,95,4121,121"/>
+<area shape="rect" id="node24" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="4275,333,4450,360"/>
+<area shape="rect" id="node27" href="$TargetPassConfig_8h.html" title=" " alt="" coords="3823,408,4063,435"/>
+<area shape="rect" id="node29" href="$LegacyPassManager_8h.html" title=" " alt="" coords="134,177,349,203"/>
+<area shape="rect" id="node32" href="$Module_8h.html" title=" " alt="" coords="1125,259,1257,285"/>
+<area shape="rect" id="node44" href="$TargetRegistry_8h.html" title=" " alt="" coords="2935,333,3119,360"/>
+<area shape="rect" id="node47" href="$AVR_8h.html" title=" " alt="" coords="3781,177,3841,203"/>
+<area shape="rect" id="node48" href="$AVRTargetObjectFile_8h.html" title=" " alt="" coords="4146,95,4310,121"/>
+<area shape="rect" id="node49" href="$AVRMCTargetDesc_8h.html" title=" " alt="" coords="2505,169,2711,211"/>
+<area shape="rect" id="node50" href="$AVRTargetInfo_8h.html" title=" " alt="" coords="4334,95,4527,121"/>
+<area shape="rect" id="node3" href="$DataLayout_8h.html" title=" " alt="" coords="2147,333,2306,360"/>
+<area shape="rect" id="node16" href="$Target_2TargetMachine_8h.html" title=" " alt="" coords="3541,259,3747,285"/>
+<area shape="rect" id="node19" href="$AVRFrameLowering_8h.html" title=" " alt="" coords="3967,259,4127,285"/>
+<area shape="rect" id="node20" href="$AVRISelLowering_8h.html" title=" " alt="" coords="4151,259,4294,285"/>
+<area shape="rect" id="node21" href="$AVRInstrInfo_8h.html" title=" " alt="" coords="4319,259,4433,285"/>
+<area shape="rect" id="node22" href="$AVRSelectionDAGInfo_8h.html" title=" " alt="" coords="4458,259,4633,285"/>
+<area shape="rect" id="node23" href="$AVRSubtarget_8h.html" title=" " alt="" coords="4063,177,4185,203"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title=" " alt="" coords="2145,408,2308,435"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2103,557,2172,584"/>
+<area shape="rect" id="node8" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="2175,483,2385,509"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1244,483,1311,509"/>
+<area shape="rect" id="node14" href="$StringRef_8h.html" title=" " alt="" coords="1841,483,1999,509"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3553,557,3612,584"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title=" " alt="" coords="2759,483,2913,509"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title=" " alt="" coords="1381,557,1571,584"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1155,557,1226,584"/>
+<area shape="rect" id="node11" title=" " alt="" coords="4471,483,4558,509"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1149,483,1219,509"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1740,483,1817,509"/>
+<area shape="rect" id="node17" href="$Triple_8h.html" title=" " alt="" coords="3361,483,3495,509"/>
+<area shape="rect" id="node18" href="$CodeGen_8h.html" title=" " alt="" coords="3633,483,3813,509"/>
+<area shape="rect" id="node25" href="$Discriminator_8h.html" title=" " alt="" coords="4188,408,4396,435"/>
+<area shape="rect" id="node26" href="$RegAllocCommon_8h.html" title=" " alt="" coords="4521,408,4767,435"/>
+<area shape="rect" id="node28" href="$Pass_8h.html" title=" " alt="" coords="4120,483,4216,509"/>
+<area shape="rect" id="node30" href="$CBindingWrapping_8h.html" title=" " alt="" coords="77,483,318,509"/>
+<area shape="rect" id="node31" href="$Types_8h.html" title=" " alt="" coords="61,557,177,584"/>
+<area shape="rect" id="node33" href="$StringMap_8h.html" title=" " alt="" coords="757,333,921,360"/>
+<area shape="rect" id="node34" href="$Attributes_8h.html" title=" " alt="" coords="2333,408,2481,435"/>
+<area shape="rect" id="node35" href="$IR_2Comdat_8h.html" title=" " alt="" coords="26,408,161,435"/>
+<area shape="rect" id="node36" href="$Function_8h.html" title=" " alt="" coords="1412,333,1551,360"/>
+<area shape="rect" id="node37" href="$SymbolTableListTraits_8h.html" title=" " alt="" coords="422,408,647,435"/>
+<area shape="rect" id="node38" href="$GlobalAlias_8h.html" title=" " alt="" coords="287,333,446,360"/>
+<area shape="rect" id="node39" href="$GlobalIFunc_8h.html" title=" " alt="" coords="471,333,631,360"/>
+<area shape="rect" id="node40" href="$GlobalVariable_8h.html" title=" " alt="" coords="1584,333,1763,360"/>
+<area shape="rect" id="node41" href="$Metadata_8h.html" title=" " alt="" coords="1367,408,1513,435"/>
+<area shape="rect" id="node42" href="$ProfileSummary_8h.html" title=" " alt="" coords="1097,333,1284,360"/>
+<area shape="rect" id="node43" title=" " alt="" coords="874,408,937,435"/>
+<area shape="rect" id="node45" href="$DisassemblerTypes_8h.html" title=" " alt="" coords="2759,408,2964,435"/>
+<area shape="rect" id="node46" href="$MCObjectFileInfo_8h.html" title=" " alt="" coords="3089,408,3292,435"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::pdb::BulkPublic" name="llvm::pdb::BulkPublic">
+<area shape="rect" id="node1" title="This struct is equivalent to codeview::PublicSym32, but it has been optimized for size to speed up bu..." alt="" coords="60,124,205,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="109,5,156,32"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title=" " alt="" coords="180,5,248,32"/>
+</map>

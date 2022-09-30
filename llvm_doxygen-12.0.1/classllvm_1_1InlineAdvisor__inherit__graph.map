@@ -1,0 +1,6 @@
+<map id="llvm::InlineAdvisor" name="llvm::InlineAdvisor">
+<area shape="rect" id="node1" title="Interface for deciding whether to inline a call site or not." alt="" coords="209,5,338,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DefaultInlineAdvisor.html" title="The default (manual heuristics) implementation of the InlineAdvisor." alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MLInlineAdvisor.html" title=" " alt="" coords="200,80,347,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ReplayInlineAdvisor.html" title="Replay inline advisor that uses optimization remarks from inlining of previous build to guide current..." alt="" coords="371,80,541,107"/>
+</map>

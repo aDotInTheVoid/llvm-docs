@@ -1,0 +1,15 @@
+<map id="llvm::RTTIExtends&lt; ThisT, ParentT &gt;" name="llvm::RTTIExtends&lt; ThisT, ParentT &gt;">
+<area shape="rect" id="node1" title="Inheritance utility for extensible RTTI." alt="" coords="5,205,156,246"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="421,5,578,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="424,86,575,127"/>
+<area shape="rect" id="node6" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="413,152,586,208"/>
+<area shape="rect" id="node8" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="422,232,577,288"/>
+<area shape="rect" id="node10" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="399,312,600,368"/>
+<area shape="rect" id="node12" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="407,393,592,434"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1MaterializationTask.html" title="A materialization task." alt="" coords="653,20,868,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1Task.html" title="Represents an abstract task for ORC to run." alt="" coords="703,93,819,120"/>
+<area shape="rect" id="node7" href="$classllvm_1_1orc_1_1ObjectTransformLayer.html" title=" " alt="" coords="663,159,858,201"/>
+<area shape="rect" id="node9" href="$classllvm_1_1orc_1_1ObjectLinkingLayer.html" title="An ObjectLayer implementation built on JITLink." alt="" coords="673,239,849,281"/>
+<area shape="rect" id="node11" href="$classllvm_1_1orc_1_1RTDyldObjectLinkingLayer.html" title=" " alt="" coords="649,319,872,361"/>
+<area shape="rect" id="node13" href="$classllvm_1_1orc_1_1ObjectLayer.html" title="Interface for Layers that accept object files." alt="" coords="678,400,843,427"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::IRBuilderBase" name="llvm::IRBuilderBase">
+<area shape="rect" id="node1" title="Common base class shared among various IRBuilders." alt="" coords="5,132,156,159"/>
+<area shape="rect" id="node2" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="629,7,880,49"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="646,91,863,133"/>
+<area shape="rect" id="node4" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="685,195,825,221"/>
+<area shape="rect" id="node6" href="$classllvm_1_1IRBuilder.html" title="This provides a uniform API for creating instructions and inserting them into a basic block: either a..." alt="" coords="205,90,396,131"/>
+<area shape="rect" id="node5" href="$structllvm_1_1InstrumentationIRBuilder.html" title=" " alt="" coords="929,195,1152,221"/>
+</map>

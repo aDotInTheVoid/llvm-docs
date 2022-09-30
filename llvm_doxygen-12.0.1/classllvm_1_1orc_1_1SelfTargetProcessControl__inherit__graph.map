@@ -1,0 +1,5 @@
+<map id="llvm::orc::SelfTargetProcessControl" name="llvm::orc::SelfTargetProcessControl">
+<area shape="rect" id="node1" title="A TargetProcessControl implementation targeting the current process." alt="" coords="87,95,274,136"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1TargetProcessControl.html" title="TargetProcessControl supports interaction with a JIT target process." alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1TargetProcessControl_1_1MemoryAccess.html" title="APIs for manipulating memory in the target process." alt="" coords="193,5,357,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AANonNullReturned" name="AANonNullReturned">
+<area shape="rect" id="node1" title="NonNull attribute for function return value." alt="" coords="888,37,1039,64"/>
+<area shape="rect" id="node2" href="$structAAReturnedFromReturnedValues.html" title=" " alt="" coords="604,30,839,71"/>
+<area shape="rect" id="node3" title=" " alt="" coords="210,5,302,32"/>
+<area shape="rect" id="node4" href="$structAAReturnedFromReturnedValues.html" title="Helper class for generic deduction: return value &#45;&gt; returned position." alt="" coords="139,56,373,112"/>
+<area shape="rect" id="node5" href="$classBaseType.html" title=" " alt="" coords="5,71,89,97"/>
+</map>

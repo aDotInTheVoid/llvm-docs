@@ -1,0 +1,10 @@
+<map id="llvm::ChangeReporter&lt; IRUnitT &gt;" name="llvm::ChangeReporter&lt; IRUnitT &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,169,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TextChangeReporter.html" title=" " alt="" coords="353,71,544,112"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ChangeReporter.html" title=" " alt="" coords="367,5,531,47"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ChangeReporter.html" title=" " alt="" coords="367,136,531,177"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TextChangeReporter.html" title=" " alt="" coords="728,25,919,67"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TextChangeReporter.html" title=" " alt="" coords="728,103,919,144"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InLineChangePrinter.html" title=" " alt="" coords="968,33,1159,59"/>
+<area shape="rect" id="node6" href="$classllvm_1_1IRChangedPrinter.html" title=" " alt="" coords="977,110,1149,137"/>
+</map>

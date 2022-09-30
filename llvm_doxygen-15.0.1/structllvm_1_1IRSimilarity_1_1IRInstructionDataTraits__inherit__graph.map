@@ -1,0 +1,5 @@
+<map id="llvm::IRSimilarity::IRInstructionDataTraits" name="llvm::IRSimilarity::IRInstructionDataTraits">
+<area shape="rect" id="node1" title=" " alt="" coords="5,200,184,241"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="7,109,183,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="18,5,171,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::ImmutableMapRef&lt; KeyT, ValT, ValInfo &gt;" name="llvm::ImmutableMapRef&lt; KeyT, ValT, ValInfo &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="98,199,258,240"/>
+<area shape="rect" id="node2" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="21,95,183,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IntrusiveRefCntPtr.html" title="A smart pointer to a reference&#45;counted object that inherits from RefCountedBase or ThreadSafeRefCount..." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="207,102,298,129"/>
+</map>

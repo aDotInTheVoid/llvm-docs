@@ -1,0 +1,6 @@
+<map id="llvm::AnonymousNameInit" name="llvm::AnonymousNameInit">
+<area shape="rect" id="node1" title="&quot;anonymous_n&quot; &#45; Represent an anonymous record name" alt="" coords="5,247,201,273"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="This is the common superclass of types that have a specific, explicit type, stored in ValueTy." alt="" coords="44,171,163,197"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Init.html" title=" " alt="" coords="63,95,143,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="70,5,137,32"/>
+</map>

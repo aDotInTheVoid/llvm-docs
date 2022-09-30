@@ -1,0 +1,5 @@
+<map id="llvm::BCBlob" name="llvm::BCBlob">
+<area shape="rect" id="node1" title="Represents an untyped blob of bytes." alt="" coords="26,200,125,227"/>
+<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1BCField.html" title=" " alt="" coords="5,109,145,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1BCField.html" title="Convenience base for all kinds of bitcode abbreviation fields." alt="" coords="5,5,145,47"/>
+</map>

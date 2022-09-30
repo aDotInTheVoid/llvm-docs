@@ -1,0 +1,11 @@
+<map id="llvm::SmallSet&lt; PointeeType *, N &gt;" name="llvm::SmallSet&lt; PointeeType *, N &gt;">
+<area shape="rect" id="node1" title="If this set is of pointer values, transparently switch over to using SmallPtrSet for performance." alt="" coords="215,499,426,540"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SmallPtrSet.html" title=" " alt="" coords="246,408,395,449"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallPtrSetImpl.html" title=" " alt="" coords="147,304,311,345"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallPtrSetImplBase.html" title="SmallPtrSetImplBase &#45; This is the common code shared among all the SmallPtrSet&lt;&gt;&#39;s,..." alt="" coords="144,124,340,151"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallPtrSetImpl.html" title="A templated base class for SmallPtrSet which provides the typesafe interface that is common across al..." alt="" coords="264,200,428,241"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DebugEpochBase.html" title=" " alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="201,5,283,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="353,5,411,32"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallPtrSet.html" title="SmallPtrSet &#45; This class implements a set which is optimized for holding SmallSize or less elements." alt="" coords="335,304,496,345"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::GlobalObject" name="llvm::GlobalObject">
+<area shape="rect" id="node1" title=" " alt="" coords="855,701,998,728"/>
+<area shape="rect" id="node2" href="$classllvm_1_1GlobalValue.html" title=" " alt="" coords="543,612,681,639"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="228,523,345,549"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title=" " alt="" coords="197,366,286,393"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="163,197,258,224"/>
+<area shape="rect" id="node6" href="$classuint64__t.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="347,5,429,32"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="477,248,566,275"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Module.html" title="A Module instance is used to store all the information related to an LLVM module." alt="" coords="627,523,733,549"/>
+<area shape="rect" id="node10" title=" " alt="" coords="827,523,885,549"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Comdat.html" title=" " alt="" coords="1155,612,1266,639"/>
+</map>

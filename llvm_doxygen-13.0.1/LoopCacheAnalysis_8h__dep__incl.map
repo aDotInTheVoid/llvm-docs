@@ -1,0 +1,5 @@
+<map id="include/llvm/Analysis/LoopCacheAnalysis.h" name="include/llvm/Analysis/LoopCacheAnalysis.h">
+<area shape="rect" id="node1" title="This file defines the interface for the loop cache analysis." alt="" coords="173,5,337,47"/>
+<area shape="rect" id="node2" href="$LoopCacheAnalysis_8cpp.html" title="This file defines the implementation for the loop cache analysis." alt="" coords="5,95,260,121"/>
+<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="284,95,475,121"/>
+</map>

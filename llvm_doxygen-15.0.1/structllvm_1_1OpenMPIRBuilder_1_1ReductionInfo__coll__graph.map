@@ -1,0 +1,10 @@
+<map id="llvm::OpenMPIRBuilder::ReductionInfo" name="llvm::OpenMPIRBuilder::ReductionInfo">
+<area shape="rect" id="node1" title="Information about an OpenMP reduction." alt="" coords="812,181,984,222"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="465,45,554,72"/>
+<area shape="rect" id="node3" title=" " alt="" coords="33,59,115,85"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="462,155,557,181"/>
+<area shape="rect" id="node5" href="$classuint64__t.html" title=" " alt="" coords="37,180,111,207"/>
+<area shape="rect" id="node6" href="$classllvm_1_1function__ref.html" title=" " alt="" coords="404,205,615,261"/>
+<area shape="rect" id="node7" href="$classllvm_1_1function__ref.html" title="An efficient, type&#45;erasing, non&#45;owning reference to a callable." alt="" coords="5,262,143,303"/>
+<area shape="rect" id="node8" href="$classllvm_1_1function__ref.html" title=" " alt="" coords="396,285,623,341"/>
+</map>

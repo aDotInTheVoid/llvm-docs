@@ -1,0 +1,6 @@
+<map id="llvm::orc::SymbolsNotFound" name="llvm::orc::SymbolsNotFound">
+<area shape="rect" id="node1" title="Used to notify clients when symbols can not be found during a lookup." alt="" coords="5,276,211,303"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="15,185,201,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="29,5,176,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="125,81,299,123"/>
+</map>

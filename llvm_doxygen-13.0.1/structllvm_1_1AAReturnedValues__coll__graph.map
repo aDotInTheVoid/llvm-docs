@@ -1,0 +1,12 @@
+<map id="llvm::AAReturnedValues" name="llvm::AAReturnedValues">
+<area shape="rect" id="node1" title="An abstract attribute for the returned values of a function." alt="" coords="5,528,184,555"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="151,423,305,479"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions." alt="" coords="143,311,313,338"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IRPosition.html" title="Helper to describe and deal with positions in the LLVM&#45;IR." alt="" coords="78,228,202,255"/>
+<area shape="rect" id="node5" title=" " alt="" coords="47,117,105,143"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AADepGraphNode.html" title="}" alt="" coords="227,228,403,255"/>
+<area shape="rect" id="node7" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="227,109,403,151"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TinyPtrVector.html" title="TinyPtrVector &#45; This class is specialized for cases where there are normally 0 or 1 element in a vect..." alt="" coords="241,5,388,47"/>
+<area shape="rect" id="node9" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="369,304,509,345"/>
+<area shape="rect" id="node10" href="$classBaseType.html" title=" " alt="" coords="427,228,511,255"/>
+</map>

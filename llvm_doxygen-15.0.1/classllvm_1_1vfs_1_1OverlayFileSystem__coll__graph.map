@@ -1,0 +1,6 @@
+<map id="llvm::vfs::OverlayFileSystem" name="llvm::vfs::OverlayFileSystem">
+<area shape="rect" id="node1" title="A file system that allows overlaying one AbstractFileSystem on top of another." alt="" coords="5,276,216,303"/>
+<area shape="rect" id="node2" href="$classllvm_1_1vfs_1_1FileSystem.html" title="The virtual file system interface." alt="" coords="31,200,190,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title=" " alt="" coords="6,109,215,151"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title="A thread&#45;safe version of RefCountedBase." alt="" coords="6,5,215,47"/>
+</map>

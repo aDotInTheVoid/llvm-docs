@@ -1,0 +1,8 @@
+<map id="lib/Target/XCore/TargetInfo/XCoreTargetInfo.h" name="lib/Target/XCore/TargetInfo/XCoreTargetInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="459,5,636,47"/>
+<area shape="rect" id="node2" href="$XCoreDisassembler_8cpp.html" title="This file is part of the XCore Disassembler." alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node3" href="$XCoreMCTargetDesc_8cpp.html" title=" " alt="" coords="229,95,434,136"/>
+<area shape="rect" id="node4" href="$XCoreTargetInfo_8cpp.html" title=" " alt="" coords="459,95,636,136"/>
+<area shape="rect" id="node5" href="$XCoreAsmPrinter_8cpp.html" title=" " alt="" coords="660,95,843,136"/>
+<area shape="rect" id="node6" href="$XCoreTargetMachine_8cpp.html" title=" " alt="" coords="867,95,1057,136"/>
+</map>

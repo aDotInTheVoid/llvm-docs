@@ -1,0 +1,17 @@
+<map id="llvm::VPUser" name="llvm::VPUser">
+<area shape="rect" id="node1" title="This class augments VPValue with operands which provide the inverse def&#45;use edges from VPValue&#39;s user..." alt="" coords="5,335,104,361"/>
+<area shape="rect" id="node2" href="$classllvm_1_1VPBlendRecipe.html" title="A recipe for vectorizing a phi&#45;node as a sequence of mask&#45;based select instructions." alt="" coords="189,5,334,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1VPBranchOnMaskRecipe.html" title="A recipe for generating conditional branches on the bits of a mask." alt="" coords="160,56,363,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1VPInstruction.html" title="This is a concrete Recipe that models a single VPlan&#45;level instruction." alt="" coords="195,107,327,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1VPInterleaveRecipe.html" title="VPInterleaveRecipe is a recipe for transforming an interleave group of load or stores into one wide l..." alt="" coords="178,157,345,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1VPPredInstPHIRecipe.html" title="VPPredInstPHIRecipe is a recipe for generating the phi nodes needed when control converges back from ..." alt="" coords="171,208,352,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1VPReductionRecipe.html" title="A recipe to represent inloop reduction operations, performing a reduction on a vector operand into a ..." alt="" coords="177,259,346,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1VPReplicateRecipe.html" title="VPReplicateRecipe replicates a given instruction producing multiple scalar copies of the original sca..." alt="" coords="179,309,344,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1VPWidenCallRecipe.html" title="A recipe for widening Call instructions." alt="" coords="176,360,347,387"/>
+<area shape="rect" id="node10" href="$classllvm_1_1VPWidenGEPRecipe.html" title="A recipe for handling GEP instructions." alt="" coords="173,411,349,437"/>
+<area shape="rect" id="node11" href="$classllvm_1_1VPWidenIntOrFpInductionRecipe.html" title="A recipe for handling phi nodes of integer and floating&#45;point inductions, producing their vector and ..." alt="" coords="158,462,365,503"/>
+<area shape="rect" id="node12" href="$classllvm_1_1VPWidenMemoryInstructionRecipe.html" title="A Recipe for widening load/store operations." alt="" coords="152,527,371,569"/>
+<area shape="rect" id="node13" href="$classllvm_1_1VPWidenPHIRecipe.html" title="A recipe for handling all phi nodes except for integer and FP inductions." alt="" coords="176,593,347,620"/>
+<area shape="rect" id="node14" href="$classllvm_1_1VPWidenRecipe.html" title="VPWidenRecipe is a recipe for producing a copy of vector type its ingredient." alt="" coords="187,644,336,671"/>
+<area shape="rect" id="node15" href="$classllvm_1_1VPWidenSelectRecipe.html" title="A recipe for widening select instructions." alt="" coords="168,695,355,721"/>
+</map>

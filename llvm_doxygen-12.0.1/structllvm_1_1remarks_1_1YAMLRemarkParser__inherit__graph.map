@@ -1,0 +1,5 @@
+<map id="llvm::remarks::YAMLRemarkParser" name="llvm::remarks::YAMLRemarkParser">
+<area shape="rect" id="node1" title="Regular YAML to Remark parser." alt="" coords="7,80,198,121"/>
+<area shape="rect" id="node3" href="$structllvm_1_1remarks_1_1YAMLStrTabRemarkParser.html" title="YAML with a string table to Remark parser." alt="" coords="11,169,194,211"/>
+<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1RemarkParser.html" title="Parser used to parse a raw buffer to remarks::Remark objects." alt="" coords="5,5,200,32"/>
+</map>

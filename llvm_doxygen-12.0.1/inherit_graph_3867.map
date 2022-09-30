@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1SelectionDAGTargetInfo.html" title="Targets can subclass this to parameterize the SelectionDAG lowering and instruction selection process..." alt="" coords="5,233,199,260"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64SelectionDAGInfo.html" title=" " alt="" coords="248,5,455,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ARMSelectionDAGInfo.html" title=" " alt="" coords="258,56,445,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AVRSelectionDAGInfo.html" title="Holds information about the AVR instruction selection DAG." alt="" coords="260,107,443,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BPFSelectionDAGInfo.html" title=" " alt="" coords="260,157,443,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1HexagonSelectionDAGInfo.html" title=" " alt="" coords="247,208,455,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1LanaiSelectionDAGInfo.html" title=" " alt="" coords="257,259,445,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SystemZSelectionDAGInfo.html" title=" " alt="" coords="247,309,456,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1WebAssemblySelectionDAGInfo.html" title=" " alt="" coords="255,361,447,402"/>
+<area shape="rect" id="node10" href="$classllvm_1_1X86SelectionDAGInfo.html" title=" " alt="" coords="261,427,441,453"/>
+<area shape="rect" id="node11" href="$classllvm_1_1XCoreSelectionDAGInfo.html" title=" " alt="" coords="255,477,448,504"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::DecIntegerState&lt; base_ty &gt;" name="llvm::DecIntegerState&lt; base_ty &gt;">
+<area shape="rect" id="node1" title="Specialization of the integer state for a decreasing value, hence 0 is the best state and ~0u the wor..." alt="" coords="20,333,169,375"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IntegerStateBase.html" title=" " alt="" coords="5,243,184,284"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="6,5,141,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding." alt="" coords="111,109,265,165"/>
+<area shape="rect" id="node5" title=" " alt="" coords="165,5,233,32"/>
+</map>

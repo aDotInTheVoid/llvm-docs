@@ -1,0 +1,7 @@
+<map id="include/llvm/MCA/SourceMgr.h" name="include/llvm/MCA/SourceMgr.h">
+<area shape="rect" id="node1" title="This file implements class SourceMgr." alt="" coords="96,5,299,32"/>
+<area shape="rect" id="node2" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="5,87,189,114"/>
+<area shape="rect" id="node4" href="$EntryStage_8h.html" title="This file defines the Entry stage of an instruction pipeline." alt="" coords="214,80,383,121"/>
+<area shape="rect" id="node3" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="27,169,170,196"/>
+<area shape="rect" id="node5" href="$EntryStage_8cpp.html" title="This file defines the Fetch stage of an instruction pipeline." alt="" coords="195,169,403,196"/>
+</map>

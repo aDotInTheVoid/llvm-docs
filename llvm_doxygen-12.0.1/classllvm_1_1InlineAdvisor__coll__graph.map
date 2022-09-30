@@ -1,0 +1,6 @@
+<map id="llvm::InlineAdvisor" name="llvm::InlineAdvisor">
+<area shape="rect" id="node1" title="Interface for deciding whether to inline a call site or not." alt="" coords="385,78,515,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AnalysisManager.html" title="A container for analyses that lazily runs them and caches their results." alt="" coords="17,71,180,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Module.html" title="A Module instance is used to store all the information related to an LLVM module." alt="" coords="51,137,147,163"/>
+</map>

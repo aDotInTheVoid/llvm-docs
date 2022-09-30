@@ -1,0 +1,4 @@
+<map id="llvm::detail::is_array&lt; T &gt;" name="llvm::detail::is_array&lt; T &gt;">
+<area shape="rect" id="node1" title="A type trait whose value field is true if the given type is a BCArray (of any element kind)." alt="" coords="5,95,176,121"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="67,5,114,32"/>
+</map>

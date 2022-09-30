@@ -1,0 +1,52 @@
+<map id="lib/Target/PowerPC/PPCMachineFunctionInfo.cpp" name="lib/Target/PowerPC/PPCMachineFunctionInfo.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2970,5,3169,47"/>
+<area shape="rect" id="node2" href="$PPCMachineFunctionInfo_8h.html" title=" " alt="" coords="2604,244,2785,271"/>
+<area shape="rect" id="node25" href="$Twine_8h.html" title=" " alt="" coords="3584,319,3709,345"/>
+<area shape="rect" id="node27" href="$XCOFF_8h.html" title=" " alt="" coords="5,169,192,196"/>
+<area shape="rect" id="node29" href="$DataLayout_8h.html" title=" " alt="" coords="2114,95,2257,121"/>
+<area shape="rect" id="node34" href="$MCContext_8h.html" title=" " alt="" coords="4113,95,4263,121"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title=" " alt="" coords="4647,244,4841,271"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title=" " alt="" coords="3587,483,3749,509"/>
+<area shape="rect" id="node15" href="$MachineFunction_8h.html" title=" " alt="" coords="2581,319,2800,345"/>
+<area shape="rect" id="node24" href="$TargetCallingConv_8h.html" title=" " alt="" coords="1921,393,2105,435"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="1617,632,1780,659"/>
+<area shape="rect" id="node6" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4295,557,4486,584"/>
+<area shape="rect" id="node8" href="$MathExtras_8h.html" title=" " alt="" coords="1989,557,2168,584"/>
+<area shape="rect" id="node9" title=" " alt="" coords="4119,632,4193,659"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2501,632,2568,659"/>
+<area shape="rect" id="node12" title=" " alt="" coords="4510,557,4575,584"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3411,632,3482,659"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4891,632,4944,659"/>
+<area shape="rect" id="node5" title=" " alt="" coords="857,707,925,733"/>
+<area shape="rect" id="node7" title=" " alt="" coords="6219,632,6274,659"/>
+<area shape="rect" id="node11" title=" " alt="" coords="677,632,739,659"/>
+<area shape="rect" id="node16" href="$ArrayRef_8h.html" title=" " alt="" coords="3848,401,3989,427"/>
+<area shape="rect" id="node20" title=" " alt="" coords="5669,483,5726,509"/>
+<area shape="rect" id="node21" href="$DenseMap_8h.html" title=" " alt="" coords="3003,483,3157,509"/>
+<area shape="rect" id="node22" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="2699,401,2861,427"/>
+<area shape="rect" id="node17" href="$None_8h.html" title=" " alt="" coords="4744,632,4867,659"/>
+<area shape="rect" id="node18" href="$STLExtras_8h.html" title=" " alt="" coords="4078,483,4231,509"/>
+<area shape="rect" id="node19" href="$Optional_8h.html" title=" " alt="" coords="3017,557,3156,584"/>
+<area shape="rect" id="node23" href="$Alignment_8h.html" title=" " alt="" coords="2101,483,2269,509"/>
+<area shape="rect" id="node26" href="$StringRef_8h.html" title=" " alt="" coords="4976,401,5120,427"/>
+<area shape="rect" id="node28" title=" " alt="" coords="128,244,192,271"/>
+<area shape="rect" id="node30" href="$DerivedTypes_8h.html" title=" " alt="" coords="1258,169,1417,196"/>
+<area shape="rect" id="node31" href="$Type_8h.html" title=" " alt="" coords="1148,244,1255,271"/>
+<area shape="rect" id="node32" href="$Casting_8h.html" title=" " alt="" coords="999,557,1153,584"/>
+<area shape="rect" id="node33" href="$TypeSize_8h.html" title=" " alt="" coords="1342,319,1506,345"/>
+<area shape="rect" id="node35" href="$SetVector_8h.html" title=" " alt="" coords="3835,319,3983,345"/>
+<area shape="rect" id="node36" href="$SmallString_8h.html" title=" " alt="" coords="5086,319,5245,345"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title=" " alt="" coords="5473,319,5623,345"/>
+<area shape="rect" id="node38" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support." alt="" coords="2648,483,2827,509"/>
+<area shape="rect" id="node39" href="$BinaryFormat_2ELF_8h.html" title=" " alt="" coords="187,401,354,427"/>
+<area shape="rect" id="node40" href="$MCAsmMacro_8h.html" title=" " alt="" coords="5699,319,5869,345"/>
+<area shape="rect" id="node41" href="$MCDwarf_8h.html" title=" " alt="" coords="4039,169,4179,196"/>
+<area shape="rect" id="node42" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="4053,244,4192,271"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title=" " alt="" coords="4211,319,4397,345"/>
+<area shape="rect" id="node44" href="$MD5_8h.html" title=" " alt="" coords="3584,244,3723,271"/>
+<area shape="rect" id="node45" href="$MCPseudoProbe_8h.html" title=" " alt="" coords="6299,169,6485,196"/>
+<area shape="rect" id="node46" title=" " alt="" coords="6278,244,6325,271"/>
+<area shape="rect" id="node47" href="$MCSubtargetInfo_8h.html" title=" " alt="" coords="4472,319,4656,345"/>
+<area shape="rect" id="node48" href="$MCTargetOptions_8h.html" title=" " alt="" coords="6197,319,6384,345"/>
+<area shape="rect" id="node49" href="$SectionKind_8h.html" title=" " alt="" coords="4357,169,4513,196"/>
+</map>

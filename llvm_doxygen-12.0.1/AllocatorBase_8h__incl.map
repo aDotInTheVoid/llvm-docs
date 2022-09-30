@@ -1,0 +1,10 @@
+<map id="include/llvm/Support/AllocatorBase.h" name="include/llvm/Support/AllocatorBase.h">
+<area shape="rect" id="node1" title="This file defines MallocAllocator." alt="" coords="99,5,241,47"/>
+<area shape="rect" id="node2" href="$Compiler_8h.html" title=" " alt="" coords="78,244,241,271"/>
+<area shape="rect" id="node5" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="177,95,347,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,319,172,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="196,319,264,345"/>
+<area shape="rect" id="node6" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="197,169,388,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="412,169,472,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="265,244,320,271"/>
+</map>

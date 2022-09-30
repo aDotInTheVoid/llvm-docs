@@ -1,0 +1,52 @@
+<map id="lib/Target/X86/X86TargetMachine.cpp" name="lib/Target/X86/X86TargetMachine.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2785,5,2965,47"/>
+<area shape="rect" id="node2" href="$X86TargetMachine_8h.html" title=" " alt="" coords="2263,191,2417,218"/>
+<area shape="rect" id="node3" href="$X86Subtarget_8h.html" title=" " alt="" coords="1244,281,1367,307"/>
+<area shape="rect" id="node4" href="$Triple_8h.html" title=" " alt="" coords="1260,363,1393,389"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1263,527,1340,553"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title=" " alt="" coords="2497,527,2650,553"/>
+<area shape="rect" id="node9" href="$CodeGen_8h.html" title=" " alt="" coords="3402,363,3582,389"/>
+<area shape="rect" id="node11" href="$StringRef_8h.html" title=" " alt="" coords="3300,445,3457,471"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3233,527,3292,553"/>
+<area shape="rect" id="node13" href="$DataLayout_8h.html" title=" " alt="" coords="2493,363,2651,389"/>
+<area shape="rect" id="node14" href="$STLExtras_8h.html" title=" " alt="" coords="1804,445,1967,471"/>
+<area shape="rect" id="node15" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="1780,527,1991,553"/>
+<area shape="rect" id="node17" href="$TargetOptions_8h.html" title=" " alt="" coords="1469,363,1670,389"/>
+<area shape="rect" id="node18" href="$X86MCTargetDesc_8h.html" title=" " alt="" coords="584,281,736,307"/>
+<area shape="rect" id="node22" href="$X86TargetInfo_8h.html" title=" " alt="" coords="2019,102,2213,129"/>
+<area shape="rect" id="node23" href="$X86_8h.html" title=" " alt="" coords="3376,191,3435,218"/>
+<area shape="rect" id="node24" href="$X86CallLowering_8h.html" title=" " alt="" coords="2829,363,2971,389"/>
+<area shape="rect" id="node25" href="$CallLowering_8h.html" title=" " alt="" coords="2687,437,2871,479"/>
+<area shape="rect" id="node26" href="$X86LegalizerInfo_8h.html" title=" " alt="" coords="2390,102,2533,129"/>
+<area shape="rect" id="node27" href="$X86MacroFusion_8h.html" title=" " alt="" coords="943,445,1084,471"/>
+<area shape="rect" id="node28" href="$X86TargetObjectFile_8h.html" title=" " alt="" coords="2609,102,2773,129"/>
+<area shape="rect" id="node29" href="$X86TargetTransformInfo_8h.html" title=" " alt="" coords="3107,102,3296,129"/>
+<area shape="rect" id="node30" href="$TargetTransformInfo_8h.html" title=" " alt="" coords="4320,184,4539,225"/>
+<area shape="rect" id="node31" href="$Pass_8h.html" title=" " alt="" coords="4631,281,4727,307"/>
+<area shape="rect" id="node32" href="$SmallString_8h.html" title=" " alt="" coords="3708,363,3881,389"/>
+<area shape="rect" id="node33" href="$ExecutionDomainFix_8h.html" title=" " alt="" coords="3320,95,3552,136"/>
+<area shape="rect" id="node34" href="$CSEInfo_8h.html" title=" " alt="" coords="3509,184,3693,225"/>
+<area shape="rect" id="node35" href="$IRTranslator_8h.html" title=" " alt="" coords="1492,273,1676,315"/>
+<area shape="rect" id="node36" href="$InstructionSelect_8h.html" title=" " alt="" coords="3528,273,3712,315"/>
+<area shape="rect" id="node37" href="$InstructionSelector_8h.html" title=" " alt="" coords="2848,95,3032,136"/>
+<area shape="rect" id="node38" href="$Function_8h.html" title=" " alt="" coords="3213,191,3352,218"/>
+<area shape="rect" id="node39" href="$Attributes_8h.html" title=" " alt="" coords="3787,281,3935,307"/>
+<area shape="rect" id="node40" href="$Legalizer_8h.html" title=" " alt="" coords="4112,184,4296,225"/>
+<area shape="rect" id="node41" href="$RegBankSelect_8h.html" title=" " alt="" coords="735,437,919,479"/>
+<area shape="rect" id="node42" href="$MachineScheduler_8h.html" title=" " alt="" coords="1751,281,1999,307"/>
+<area shape="rect" id="node43" href="$CommandLine_8h.html" title=" " alt="" coords="1999,363,2214,389"/>
+<area shape="rect" id="node44" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="4214,281,4389,307"/>
+<area shape="rect" id="node45" href="$RegAllocRegistry_8h.html" title=" " alt="" coords="4510,102,4749,129"/>
+<area shape="rect" id="node46" href="$TargetPassConfig_8h.html" title=" " alt="" coords="4613,191,4853,218"/>
+<area shape="rect" id="node47" href="$MCAsmInfo_8h.html" title=" " alt="" coords="3870,191,4037,218"/>
+<area shape="rect" id="node48" href="$TargetRegistry_8h.html" title=" " alt="" coords="2023,281,2207,307"/>
+<area shape="rect" id="node49" href="$TargetLoweringObjectFile_8h.html" title=" " alt="" coords="4978,95,5177,136"/>
+<area shape="rect" id="node50" href="$CFGuard_8h.html" title=" " alt="" coords="5201,102,5399,129"/>
+<area shape="rect" id="node8" href="$StringMap_8h.html" title=" " alt="" coords="2245,445,2409,471"/>
+<area shape="rect" id="node10" href="$Target_2TargetMachine_8h.html" title=" " alt="" coords="2543,281,2750,307"/>
+<area shape="rect" id="node6" title=" " alt="" coords="748,363,932,389"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2966,527,3053,553"/>
+<area shape="rect" id="node19" title=" " alt="" coords="43,363,218,389"/>
+<area shape="rect" id="node20" title=" " alt="" coords="242,363,393,389"/>
+<area shape="rect" id="node21" title=" " alt="" coords="417,363,623,389"/>
+</map>

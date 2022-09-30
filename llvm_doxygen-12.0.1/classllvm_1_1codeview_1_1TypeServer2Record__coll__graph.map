@@ -1,0 +1,10 @@
+<map id="llvm::codeview::TypeServer2Record" name="llvm::codeview::TypeServer2Record">
+<area shape="rect" id="node1" title=" " alt="" coords="262,184,451,225"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="5,95,191,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="39,5,157,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1codeview_1_1GUID.html" title="This represents the &#39;GUID&#39; type from windows.h." alt="" coords="215,95,365,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="259,5,321,32"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="389,95,457,121"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="481,95,589,121"/>
+<area shape="rect" id="node8" href="$classsize__t.html" title=" " alt="" coords="507,5,563,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::ReplayInlinerSettings" name="llvm::ReplayInlinerSettings">
+<area shape="rect" id="node1" title="Replay Inliner Setup." alt="" coords="189,184,387,211"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CallSiteFormat.html" title=" " alt="" coords="5,95,160,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="49,5,117,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="184,95,259,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="290,95,409,121"/>
+<area shape="rect" id="node6" href="$classsize__t.html" title=" " alt="" coords="319,5,379,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="433,95,495,121"/>
+</map>

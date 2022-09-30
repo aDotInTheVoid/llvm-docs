@@ -1,0 +1,8 @@
+<map id="llvm::ValueFromPointerCast&lt; To, From, Derived &gt;" name="llvm::ValueFromPointerCast&lt; To, From, Derived &gt;">
+<area shape="rect" id="node1" title="This cast trait provides casting for the specific case of casting to a value&#45;typed object from a poin..." alt="" coords="728,71,931,112"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="493,5,647,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="35,5,193,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1NullableValueCastFailed.html" title="All of these cast traits are meant to be implementations for useful casts that users may want to use ..." alt="" coords="462,71,678,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="461,136,679,207"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DefaultDoCastIfPossible.html" title="This cast trait just provides the default implementation of doCastIfPossible to make CastInfo special..." alt="" coords="5,151,223,192"/>
+</map>

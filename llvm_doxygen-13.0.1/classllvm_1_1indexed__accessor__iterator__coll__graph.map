@@ -1,0 +1,7 @@
+<map id="llvm::indexed_accessor_iterator&lt; DerivedT, BaseT, T, PointerT, ReferenceT &gt;" name="llvm::indexed_accessor_iterator&lt; DerivedT, BaseT, T, PointerT, ReferenceT &gt;">
+<area shape="rect" id="node1" title="A utility class used to implement an iterator that contains some base object and an index." alt="" coords="751,101,953,157"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="475,7,661,92"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,14,255,85"/>
+<area shape="rect" id="node4" href="$classptrdiff__t.html" title=" " alt="" coords="531,116,605,143"/>
+<area shape="rect" id="node5" title=" " alt="" coords="537,167,599,193"/>
+</map>

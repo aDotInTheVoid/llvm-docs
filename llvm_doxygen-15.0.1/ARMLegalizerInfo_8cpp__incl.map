@@ -1,0 +1,52 @@
+<map id="lib/Target/ARM/ARMLegalizerInfo.cpp" name="lib/Target/ARM/ARMLegalizerInfo.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1137,5,1346,47"/>
+<area shape="rect" id="node2" href="$ARMLegalizerInfo_8h.html" title=" " alt="" coords="1358,177,1506,203"/>
+<area shape="rect" id="node17" href="$TargetOpcodes_8h.html" title=" " alt="" coords="1005,355,1232,382"/>
+<area shape="rect" id="node20" href="$ValueTypes_8h.html" title=" " alt="" coords="2653,355,2856,382"/>
+<area shape="rect" id="node22" href="$DerivedTypes_8h.html" title=" " alt="" coords="347,355,519,382"/>
+<area shape="rect" id="node23" href="$Type_8h.html" title=" " alt="" coords="672,445,787,471"/>
+<area shape="rect" id="node24" href="$ARMCallLowering_8h.html" title=" " alt="" coords="277,266,425,293"/>
+<area shape="rect" id="node27" href="$ARMSubtarget_8h.html" title=" " alt="" coords="2417,95,2543,121"/>
+<area shape="rect" id="node45" href="$LegalizerHelper_8h.html" title=" " alt="" coords="1149,169,1333,211"/>
+<area shape="rect" id="node46" href="$MachineIRBuilder_8h.html" title=" " alt="" coords="3540,169,3724,211"/>
+<area shape="rect" id="node47" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="2343,259,2569,300"/>
+<area shape="rect" id="node50" href="$LowLevelType_8h.html" title=" " alt="" coords="932,266,1153,293"/>
+<area shape="rect" id="node3" href="$IndexedMap_8h.html" title=" " alt="" coords="1409,355,1586,382"/>
+<area shape="rect" id="node7" href="$GISelChangeObserver_8h.html" title=" " alt="" coords="2764,259,2948,300"/>
+<area shape="rect" id="node16" href="$LegalizerInfo_8h.html" title=" " alt="" coords="724,259,908,300"/>
+<area shape="rect" id="node19" href="$RuntimeLibcalls_8h.html" title=" " alt="" coords="1591,266,1825,293"/>
+<area shape="rect" id="node21" href="$Instructions_8h.html" title=" " alt="" coords="77,266,237,293"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title=" " alt="" coords="1537,609,1711,635"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1103,691,1190,717"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3008,691,3085,717"/>
+<area shape="rect" id="node8" href="$MachineFunction_8h.html" title=" " alt="" coords="3032,355,3272,382"/>
+<area shape="rect" id="node9" href="$ArrayRef_8h.html" title=" " alt="" coords="1381,527,1536,553"/>
+<area shape="rect" id="node10" href="$BitVector_8h.html" title=" " alt="" coords="2477,445,2633,471"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2324,527,2391,553"/>
+<area shape="rect" id="node12" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="3204,437,3412,479"/>
+<area shape="rect" id="node15" href="$TargetOptions_8h.html" title=" " alt="" coords="4007,445,4209,471"/>
+<area shape="rect" id="node13" href="$DebugLoc_8h.html" title=" " alt="" coords="3486,527,3634,553"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3403,527,3461,553"/>
+<area shape="rect" id="node18" href="$LowLevelTypeImpl_8h.html" title=" " alt="" coords="963,437,1163,479"/>
+<area shape="rect" id="node25" href="$CallLowering_8h.html" title=" " alt="" coords="595,348,779,389"/>
+<area shape="rect" id="node26" href="$CallingConv_8h.html" title=" " alt="" coords="1425,445,1586,471"/>
+<area shape="rect" id="node28" href="$ARMBaseInstrInfo_8h.html" title=" " alt="" coords="3125,177,3275,203"/>
+<area shape="rect" id="node30" href="$ARMBaseRegisterInfo_8h.html" title=" " alt="" coords="2145,355,2319,382"/>
+<area shape="rect" id="node31" href="$ARMConstantPoolValue_8h.html" title=" " alt="" coords="3695,445,3881,471"/>
+<area shape="rect" id="node32" href="$ARMFrameLowering_8h.html" title=" " alt="" coords="3351,177,3515,203"/>
+<area shape="rect" id="node33" href="$ARMISelLowering_8h.html" title=" " alt="" coords="2593,266,2740,293"/>
+<area shape="rect" id="node34" href="$ARMMachineFunctionInfo_8h.html" title=" " alt="" coords="2851,177,3050,203"/>
+<area shape="rect" id="node35" href="$ARMSelectionDAGInfo_8h.html" title=" " alt="" coords="2599,177,2777,203"/>
+<area shape="rect" id="node36" href="$Triple_8h.html" title=" " alt="" coords="3124,266,3257,293"/>
+<area shape="rect" id="node37" href="$TargetTransformInfo_8h.html" title=" " alt="" coords="1037,601,1256,643"/>
+<area shape="rect" id="node38" href="$InstructionSelector_8h.html" title=" " alt="" coords="1383,259,1567,300"/>
+<area shape="rect" id="node39" href="$RegisterBankInfo_8h.html" title=" " alt="" coords="1763,348,1968,389"/>
+<area shape="rect" id="node40" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1661,437,1883,479"/>
+<area shape="rect" id="node41" href="$MCInstrItineraries_8h.html" title=" " alt="" coords="2052,177,2260,203"/>
+<area shape="rect" id="node42" href="$MCSchedule_8h.html" title=" " alt="" coords="2109,266,2281,293"/>
+<area shape="rect" id="node43" href="$Target_2TargetMachine_8h.html" title=" " alt="" coords="3863,177,4070,203"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2385,177,2575,203"/>
+<area shape="rect" id="node29" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="3383,259,3585,300"/>
+<area shape="rect" id="node49" href="$Module_8h.html" title=" " alt="" coords="3538,445,3670,471"/>
+<area shape="rect" id="node48" href="$PointerUnion_8h.html" title=" " alt="" coords="2395,355,2578,382"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/SIPreAllocateWWMRegs.cpp" name="lib/Target/AMDGPU/SIPreAllocateWWMRegs.cpp">
+<area shape="rect" id="node1" title="Pass to pre&#45;allocated WWM registers." alt="" coords="1920,5,2155,47"/>
+<area shape="rect" id="node2" href="$AMDGPU_8h.html" title=" " alt="" coords="1957,430,2051,457"/>
+<area shape="rect" id="node11" href="$GCNSubtarget_8h.html" title="AMD GCN specific subclass of TargetSubtarget." alt="" coords="493,341,619,367"/>
+<area shape="rect" id="node21" href="$AMDGPUMCTargetDesc_8h.html" title="Provides AMDGPU specific target descriptions." alt="" coords="1233,423,1471,464"/>
+<area shape="rect" id="node26" href="$SIMachineFunctionInfo_8h.html" title=" " alt="" coords="1737,341,1919,367"/>
+<area shape="rect" id="node36" href="$PostOrderIterator_8h.html" title=" " alt="" coords="2813,512,3022,539"/>
+<area shape="rect" id="node39" href="$LiveIntervals_8h.html" title=" " alt="" coords="3419,95,3634,121"/>
+<area shape="rect" id="node46" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="3438,333,3666,375"/>
+<area shape="rect" id="node49" href="$LiveRegMatrix_8h.html" title=" " alt="" coords="2075,251,2299,278"/>
+<area shape="rect" id="node50" href="$InitializePasses_8h.html" title=" " alt="" coords="3894,95,4061,121"/>
+<area shape="rect" id="node3" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="2225,512,2394,539"/>
+<area shape="rect" id="node10" href="$CodeGen_8h.html" title=" " alt="" coords="1110,512,1290,539"/>
+<area shape="rect" id="node4" href="$SmallPtrSet_8h.html" title=" " alt="" coords="2733,587,2907,613"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3011,661,3082,688"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2005,736,2065,763"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2276,661,2353,688"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2642,587,2705,613"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title=" " alt="" coords="3509,736,3688,763"/>
+<area shape="rect" id="node12" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls." alt="" coords="379,430,557,457"/>
+<area shape="rect" id="node13" href="$AMDGPUSubtarget_8h.html" title="Base class for AMDGPU specific classes of TargetSubtarget." alt="" coords="27,430,183,457"/>
+<area shape="rect" id="node14" href="$SIFrameLowering_8h.html" title=" " alt="" coords="208,430,355,457"/>
+<area shape="rect" id="node15" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition." alt="" coords="581,430,710,457"/>
+<area shape="rect" id="node17" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo." alt="" coords="1057,430,1157,457"/>
+<area shape="rect" id="node19" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="734,423,981,464"/>
+<area shape="rect" id="node20" title=" " alt="" coords="5,512,224,539"/>
+<area shape="rect" id="node16" href="$AMDGPUArgumentUsageInfo_8h.html" title=" " alt="" coords="370,512,593,539"/>
+<area shape="rect" id="node18" title=" " alt="" coords="668,512,852,539"/>
+<area shape="rect" id="node22" title=" " alt="" coords="877,512,1086,539"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1314,512,1497,539"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1521,512,1679,539"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1704,512,1896,539"/>
+<area shape="rect" id="node27" href="$AMDGPUMachineFunction_8h.html" title=" " alt="" coords="1496,430,1699,457"/>
+<area shape="rect" id="node28" href="$MapVector_8h.html" title=" " alt="" coords="2418,512,2585,539"/>
+<area shape="rect" id="node32" href="$MIRYamlMapping_8h.html" title=" " alt="" coords="2227,430,2469,457"/>
+<area shape="rect" id="node34" href="$raw__ostream_8h.html" title=" " alt="" coords="3327,512,3534,539"/>
+<area shape="rect" id="node35" href="$PseudoSourceValue_8h.html" title=" " alt="" coords="1723,423,1933,464"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title=" " alt="" coords="3511,587,3686,613"/>
+<area shape="rect" id="node30" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3686,661,3877,688"/>
+<area shape="rect" id="node31" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3941,661,4152,688"/>
+<area shape="rect" id="node33" href="$Optional_8h.html" title=" " alt="" coords="2123,587,2277,613"/>
+<area shape="rect" id="node37" href="$GraphTraits_8h.html" title=" " alt="" coords="3827,587,3999,613"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3037,587,3080,613"/>
+<area shape="rect" id="node40" href="$ArrayRef_8h.html" title=" " alt="" coords="3097,512,3252,539"/>
+<area shape="rect" id="node41" href="$IndexedMap_8h.html" title=" " alt="" coords="3590,169,3767,196"/>
+<area shape="rect" id="node42" href="$LiveInterval_8h.html" title=" " alt="" coords="3257,169,3463,196"/>
+<area shape="rect" id="node43" href="$SlotIndexes_8h.html" title=" " alt="" coords="3360,251,3565,278"/>
+<area shape="rect" id="node44" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="3995,333,4203,375"/>
+<area shape="rect" id="node45" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="3742,430,3919,457"/>
+<area shape="rect" id="node47" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="3851,244,4063,285"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title=" " alt="" coords="3062,430,3277,457"/>
+</map>

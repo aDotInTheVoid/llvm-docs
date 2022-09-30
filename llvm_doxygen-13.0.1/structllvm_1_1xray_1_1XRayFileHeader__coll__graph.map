@@ -1,0 +1,7 @@
+<map id="llvm::xray::XRayFileHeader" name="llvm::xray::XRayFileHeader">
+<area shape="rect" id="node1" title="XRay traces all have a header providing some top&#45;matter information useful to help tools determine ho..." alt="" coords="146,109,345,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="156,5,207,32"/>
+<area shape="rect" id="node4" href="$classuint16__t.html" title=" " alt="" coords="272,5,347,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="371,5,421,32"/>
+</map>

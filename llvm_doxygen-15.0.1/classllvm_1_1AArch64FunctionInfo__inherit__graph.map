@@ -1,0 +1,4 @@
+<map id="llvm::AArch64FunctionInfo" name="llvm::AArch64FunctionInfo">
+<area shape="rect" id="node1" title="AArch64FunctionInfo &#45; This class is derived from MachineFunctionInfo and contains private AArch64&#45;spe..." alt="" coords="6,80,199,107"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="5,5,200,32"/>
+</map>

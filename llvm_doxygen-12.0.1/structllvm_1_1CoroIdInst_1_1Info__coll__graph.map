@@ -1,0 +1,10 @@
+<map id="llvm::CoroIdInst::Info" name="llvm::CoroIdInst::Info">
+<area shape="rect" id="node1" title=" " alt="" coords="85,605,231,632"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ConstantStruct.html" title=" " alt="" coords="5,516,148,543"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ConstantAggregate.html" title="Base class for aggregate constants (with operands)." alt="" coords="75,440,241,467"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ConstantArray.html" title="ConstantArray &#45; Constant Array Declarations." alt="" coords="173,516,311,543"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="105,364,211,391"/>
+<area shape="rect" id="node5" href="$classllvm_1_1User.html" title=" " alt="" coords="117,288,199,315"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="115,212,201,239"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="121,5,195,32"/>
+</map>

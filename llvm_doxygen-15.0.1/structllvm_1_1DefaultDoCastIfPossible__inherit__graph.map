@@ -1,0 +1,11 @@
+<map id="llvm::DefaultDoCastIfPossible&lt; To, From, Derived &gt;" name="llvm::DefaultDoCastIfPossible&lt; To, From, Derived &gt;">
+<area shape="rect" id="node1" title="This cast trait just provides the default implementation of doCastIfPossible to make CastInfo special..." alt="" coords="5,126,223,167"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="485,17,741,87"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="505,111,722,182"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="503,206,723,277"/>
+<area shape="rect" id="node3" href="$structllvm_1_1OptionalValueCast.html" title="This cast trait provides Optional&lt;T&gt; casting." alt="" coords="803,7,981,49"/>
+<area shape="rect" id="node4" href="$structllvm_1_1OptionalValueCast.html" title=" " alt="" coords="1131,45,1309,86"/>
+<area shape="rect" id="node5" href="$structllvm_1_1CastInfo_3_01To_00_01Optional_3_01From_01_4_01_4.html" title="Provide a CastInfo specialized for Optional&lt;From&gt;." alt="" coords="1359,45,1517,86"/>
+<area shape="rect" id="node7" href="$structllvm_1_1ValueFromPointerCast.html" title="This cast trait provides casting for the specific case of casting to a value&#45;typed object from a poin..." alt="" coords="791,126,993,167"/>
+<area shape="rect" id="node9" href="$structllvm_1_1CastInfo_3_01To_00_01PointerUnion_3_01PTs_8_8_8_01_4_01_4.html" title=" " alt="" coords="798,221,986,262"/>
+</map>

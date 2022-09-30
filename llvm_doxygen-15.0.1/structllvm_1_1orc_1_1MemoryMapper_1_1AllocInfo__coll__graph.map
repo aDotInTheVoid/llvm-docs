@@ -1,0 +1,6 @@
+<map id="llvm::orc::MemoryMapper::AllocInfo" name="llvm::orc::MemoryMapper::AllocInfo">
+<area shape="rect" id="node1" title="Represents a single allocation containing multiple segments and initialization and deinitialization a..." alt="" coords="361,63,552,105"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ExecutorAddr.html" title="Represents an address in the executor process." alt="" coords="26,5,199,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="17,56,208,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,136,220,163"/>
+</map>

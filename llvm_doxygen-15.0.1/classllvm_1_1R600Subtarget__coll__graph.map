@@ -1,0 +1,8 @@
+<map id="llvm::R600Subtarget" name="llvm::R600Subtarget">
+<area shape="rect" id="node1" title=" " alt="" coords="29,317,183,344"/>
+<area shape="rect" id="node2" href="$classR600GenSubtargetInfo.html" title=" " alt="" coords="5,241,175,268"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AMDGPUSubtarget.html" title=" " alt="" coords="199,241,381,268"/>
+<area shape="rect" id="node4" title=" " alt="" coords="105,5,155,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="265,5,315,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="429,5,511,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::InstrProfCorrelatorImpl&lt; IntPtrT &gt;" name="llvm::InstrProfCorrelatorImpl&lt; IntPtrT &gt;">
+<area shape="rect" id="node1" title="InstrProfCorrelatorImpl &#45; A child of InstrProfCorrelator with a template pointer type so that the Pro..." alt="" coords="25,80,204,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DwarfInstrProfCorrelator.html" title="DwarfInstrProfCorrelator &#45; A child of InstrProfCorrelatorImpl that takes DWARF debug info as input to..." alt="" coords="5,169,224,211"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InstrProfCorrelator.html" title="InstrProfCorrelator &#45; A base class used to create raw instrumentation data to their functions." alt="" coords="25,5,204,32"/>
+</map>

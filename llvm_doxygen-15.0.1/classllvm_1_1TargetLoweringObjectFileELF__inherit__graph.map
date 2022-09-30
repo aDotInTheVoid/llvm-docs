@@ -1,0 +1,20 @@
+<map id="llvm::TargetLoweringObjectFileELF" name="llvm::TargetLoweringObjectFileELF">
+<area shape="rect" id="node1" title=" " alt="" coords="495,353,695,394"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AArch64__ELFTargetObjectFile.html" title="This implementation is used for AArch64 ELF targets (Linux in particular)." alt="" coords="743,5,989,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUTargetObjectFile.html" title=" " alt="" coords="755,56,977,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ARMElfTargetObjectFile.html" title=" " alt="" coords="761,107,971,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1AVRTargetObjectFile.html" title="Lowering for an AVR ELF32 object file." alt="" coords="771,157,961,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CSKYELFTargetObjectFile.html" title=" " alt="" coords="757,208,975,235"/>
+<area shape="rect" id="node9" href="$classllvm_1_1HexagonTargetObjectFile.html" title=" " alt="" coords="755,259,977,285"/>
+<area shape="rect" id="node10" href="$classllvm_1_1LanaiTargetObjectFile.html" title=" " alt="" coords="767,309,965,336"/>
+<area shape="rect" id="node11" href="$classllvm_1_1M68kELFTargetObjectFile.html" title=" " alt="" coords="755,360,977,387"/>
+<area shape="rect" id="node12" href="$classllvm_1_1MipsTargetObjectFile.html" title=" " alt="" coords="769,411,963,437"/>
+<area shape="rect" id="node13" href="$classllvm_1_1PPC64LinuxTargetObjectFile.html" title="PPC64LinuxTargetObjectFile &#45; This implementation is used for 64&#45;bit PowerPC Linux." alt="" coords="746,461,986,488"/>
+<area shape="rect" id="node14" href="$classllvm_1_1RISCVELFTargetObjectFile.html" title="This implementation is used for RISCV ELF targets." alt="" coords="753,512,979,539"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SparcELFTargetObjectFile.html" title=" " alt="" coords="755,563,977,589"/>
+<area shape="rect" id="node16" href="$classllvm_1_1X86ELFTargetObjectFile.html" title="This implementation is used for X86 ELF targets that don&#39;t have a further specialization." alt="" coords="761,613,971,640"/>
+<area shape="rect" id="node17" href="$classllvm_1_1XCoreTargetObjectFile.html" title=" " alt="" coords="765,664,967,691"/>
+<area shape="rect" id="node18" href="$classVEELFTargetObjectFile.html" title=" " alt="" coords="783,715,949,741"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFile.html" title=" " alt="" coords="224,360,447,387"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCObjectFileInfo.html" title=" " alt="" coords="5,360,176,387"/>
+</map>

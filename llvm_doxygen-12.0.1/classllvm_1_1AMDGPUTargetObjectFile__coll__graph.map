@@ -1,0 +1,43 @@
+<map id="llvm::AMDGPUTargetObjectFile" name="llvm::AMDGPUTargetObjectFile">
+<area shape="rect" id="node1" title=" " alt="" coords="2385,357,2592,384"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title=" " alt="" coords="2157,350,2336,391"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFile.html" title=" " alt="" coords="1769,324,1969,350"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCObjectFileInfo.html" title=" " alt="" coords="1541,324,1697,350"/>
+<area shape="rect" id="node5" href="$classbool.html" title=" " alt="" coords="341,338,387,365"/>
+<area shape="rect" id="node22" href="$classllvm_1_1MCTargetOptions.html" title=" " alt="" coords="633,718,787,745"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MCSection.html" title="Instances of this class represent a uniqued identifier for a section in the current translation unit." alt="" coords="1141,109,1259,136"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SectionKind.html" title="SectionKind &#45; This is a simple POD value that classifies the properties of a section." alt="" coords="648,109,772,136"/>
+<area shape="rect" id="node8" title=" " alt="" coords="657,160,763,186"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title=" " alt="" coords="673,466,747,493"/>
+<area shape="rect" id="node12" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine." alt="" coords="1550,928,1689,954"/>
+<area shape="rect" id="node13" href="$classllvm_1_1TargetOptions.html" title=" " alt="" coords="1133,1017,1267,1044"/>
+<area shape="rect" id="node10" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="656,58,764,85"/>
+<area shape="rect" id="node11" href="$classsize__t.html" title=" " alt="" coords="336,58,392,85"/>
+<area shape="rect" id="node14" title=" " alt="" coords="659,1068,761,1094"/>
+<area shape="rect" id="node15" title=" " alt="" coords="675,1118,745,1145"/>
+<area shape="rect" id="node16" title=" " alt="" coords="683,1169,737,1196"/>
+<area shape="rect" id="node17" title=" " alt="" coords="681,1378,739,1405"/>
+<area shape="rect" id="node18" title=" " alt="" coords="647,1220,773,1246"/>
+<area shape="rect" id="node19" title=" " alt="" coords="644,1270,776,1297"/>
+<area shape="rect" id="node20" title=" " alt="" coords="635,1321,785,1348"/>
+<area shape="rect" id="node21" title=" " alt="" coords="628,668,792,694"/>
+<area shape="rect" id="node23" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="289,556,439,598"/>
+<area shape="rect" id="node24" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="5,564,143,590"/>
+<area shape="rect" id="node25" title=" " alt="" coords="295,622,433,649"/>
+<area shape="rect" id="node26" title=" " alt="" coords="341,673,387,700"/>
+<area shape="rect" id="node27" title=" " alt="" coords="345,724,383,750"/>
+<area shape="rect" id="node28" title=" " alt="" coords="337,837,391,864"/>
+<area shape="rect" id="node29" title=" " alt="" coords="637,849,783,876"/>
+<area shape="rect" id="node30" title=" " alt="" coords="658,900,762,926"/>
+<area shape="rect" id="node31" title=" " alt="" coords="623,951,797,992"/>
+<area shape="rect" id="node32" title=" " alt="" coords="645,1017,775,1044"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1123,1524,1277,1566"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1123,738,1277,779"/>
+<area shape="rect" id="node35" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information." alt="" coords="1155,1590,1245,1617"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1123,570,1277,611"/>
+<area shape="rect" id="node37" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it." alt="" coords="1141,636,1259,662"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1174,686,1226,713"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1123,896,1277,938"/>
+<area shape="rect" id="node40" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names." alt="" coords="1157,962,1243,989"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1825,374,1913,401"/>
+</map>

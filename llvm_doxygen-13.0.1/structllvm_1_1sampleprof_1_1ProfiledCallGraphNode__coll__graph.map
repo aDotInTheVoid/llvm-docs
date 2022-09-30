@@ -1,0 +1,6 @@
+<map id="llvm::sampleprof::ProfiledCallGraphNode" name="llvm::sampleprof::ProfiledCallGraphNode">
+<area shape="rect" id="node1" title=" " alt="" coords="525,67,715,109"/>
+<area shape="rect" id="node2" title=" " alt="" coords="149,5,424,91"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="227,115,346,141"/>
+<area shape="rect" id="node4" href="$classsize__t.html" title=" " alt="" coords="5,115,65,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::M68kCCState" name="llvm::M68kCCState">
+<area shape="rect" id="node1" title="Custom state to propagate llvm type info to register CC assigner." alt="" coords="41,95,187,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CCState.html" title="CCState &#45; This class holds information needed while lowering arguments and return values." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="140,5,197,32"/>
+</map>

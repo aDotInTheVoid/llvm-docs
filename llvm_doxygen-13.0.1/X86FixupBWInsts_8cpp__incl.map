@@ -1,0 +1,52 @@
+<map id="lib/Target/X86/X86FixupBWInsts.cpp" name="lib/Target/X86/X86FixupBWInsts.cpp">
+<area shape="rect" id="node1" title="This file defines the pass that looks through the machine instructions late in the compilation,..." alt="" coords="2356,5,2611,32"/>
+<area shape="rect" id="node2" href="$X86_8h.html" title=" " alt="" coords="2841,87,2899,114"/>
+<area shape="rect" id="node4" href="$X86InstrInfo_8h.html" title=" " alt="" coords="808,177,921,203"/>
+<area shape="rect" id="node19" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1519,259,1706,300"/>
+<area shape="rect" id="node22" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="2266,348,2469,389"/>
+<area shape="rect" id="node24" href="$X86Subtarget_8h.html" title=" " alt="" coords="1415,87,1538,114"/>
+<area shape="rect" id="node32" href="$Statistic_8h.html" title=" " alt="" coords="5,445,156,471"/>
+<area shape="rect" id="node34" href="$ProfileSummaryInfo_8h.html" title=" " alt="" coords="777,348,995,389"/>
+<area shape="rect" id="node37" href="$Debug_8h.html" title=" " alt="" coords="290,534,453,561"/>
+<area shape="rect" id="node39" href="$LazyMachineBlockFrequencyInfo_8h.html" title="===&#45; LazyMachineBlockFrequencyInfo.h &#45; Lazy Block Frequency &#45;*&#45; C++ &#45;*–===//" alt="" coords="2278,169,2481,211"/>
+<area shape="rect" id="node41" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="2685,348,2913,389"/>
+<area shape="rect" id="node44" href="$MachineLoopInfo_8h.html" title=" " alt="" coords="2849,259,3053,300"/>
+<area shape="rect" id="node45" href="$LivePhysRegs_8h.html" title="This file implements the LivePhysRegs utility for tracking liveness of physical registers." alt="" coords="3192,355,3412,382"/>
+<area shape="rect" id="node47" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="1701,348,1927,389"/>
+<area shape="rect" id="node48" href="$MachineSizeOpts_8h.html" title=" " alt="" coords="3123,80,3323,121"/>
+<area shape="rect" id="node49" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="2924,87,3099,114"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title=" " alt="" coords="3395,616,3601,643"/>
+<area shape="rect" id="node3" href="$CodeGen_8h.html" title=" " alt="" coords="2728,534,2908,561"/>
+<area shape="rect" id="node5" href="$X86BaseInfo_8h.html" title=" " alt="" coords="815,266,1029,293"/>
+<area shape="rect" id="node6" href="$X86InstrFMA3Info_8h.html" title=" " alt="" coords="232,266,383,293"/>
+<area shape="rect" id="node7" href="$X86RegisterInfo_8h.html" title=" " alt="" coords="2103,355,2242,382"/>
+<area shape="rect" id="node11" title=" " alt="" coords="931,616,993,643"/>
+<area shape="rect" id="node18" href="$ISDOpcodes_8h.html" title=" " alt="" coords="407,266,615,293"/>
+<area shape="rect" id="node23" title=" " alt="" coords="640,266,791,293"/>
+<area shape="rect" id="node8" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="2269,437,2481,479"/>
+<area shape="rect" id="node9" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2319,527,2527,568"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2197,691,2266,717"/>
+<area shape="rect" id="node12" href="$CallingConv_8h.html" title=" " alt="" coords="1515,534,1676,561"/>
+<area shape="rect" id="node13" href="$MCRegisterInfo_8h.html" title=" " alt="" coords="2933,534,3125,561"/>
+<area shape="rect" id="node14" href="$DenseMap_8h.html" title=" " alt="" coords="1611,616,1777,643"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1937,691,1997,717"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title=" " alt="" coords="1174,691,1353,717"/>
+<area shape="rect" id="node16" title=" " alt="" coords="739,765,924,792"/>
+<area shape="rect" id="node20" href="$MachineFunction_8h.html" title=" " alt="" coords="1853,445,2093,471"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1050,534,1127,561"/>
+<area shape="rect" id="node25" href="$X86FrameLowering_8h.html" title=" " alt="" coords="1515,177,1673,203"/>
+<area shape="rect" id="node26" href="$X86ISelLowering_8h.html" title=" " alt="" coords="1697,177,1840,203"/>
+<area shape="rect" id="node27" href="$X86SelectionDAGInfo_8h.html" title=" " alt="" coords="1865,177,2038,203"/>
+<area shape="rect" id="node28" href="$Triple_8h.html" title=" " alt="" coords="1047,177,1181,203"/>
+<area shape="rect" id="node29" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1303,437,1525,479"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2543,355,2610,382"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1255,177,1439,203"/>
+<area shape="rect" id="node33" title=" " alt="" coords="133,534,199,561"/>
+<area shape="rect" id="node35" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="653,445,823,471"/>
+<area shape="rect" id="node36" href="$Pass_8h.html" title=" " alt="" coords="2607,534,2703,561"/>
+<area shape="rect" id="node38" href="$ProfileSummary_8h.html" title=" " alt="" coords="586,534,773,561"/>
+<area shape="rect" id="node40" href="$MachineBlockFrequencyInfo_8h.html" title=" " alt="" coords="1985,259,2195,300"/>
+<area shape="rect" id="node42" href="$MachineBranchProbabilityInfo_8h.html" title=" " alt="" coords="2555,259,2774,300"/>
+<area shape="rect" id="node43" href="$MachineDominators_8h.html" title=" " alt="" coords="2219,266,2481,293"/>
+<area shape="rect" id="node46" href="$SparseSet_8h.html" title=" " alt="" coords="2421,616,2583,643"/>
+</map>

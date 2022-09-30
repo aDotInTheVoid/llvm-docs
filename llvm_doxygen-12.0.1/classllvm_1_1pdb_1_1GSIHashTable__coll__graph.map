@@ -1,0 +1,9 @@
+<map id="llvm::pdb::GSIHashTable" name="llvm::pdb::GSIHashTable">
+<area shape="rect" id="node1" title="A readonly view of a hash table used in the globals and publics streams." alt="" coords="753,155,921,181"/>
+<area shape="rect" id="node2" href="$structllvm_1_1pdb_1_1GSIHashHeader.html" title="Header of the hash tables found in the globals and publics sections." alt="" coords="433,51,612,77"/>
+<area shape="rect" id="node3" title=" " alt="" coords="19,36,183,92"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FixedStreamArray.html" title=" " alt="" coords="424,102,621,143"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FixedStreamArray.html" title="FixedStreamArray is similar to VarStreamArray, except with each record having a fixed&#45;length." alt="" coords="5,151,196,177"/>
+<area shape="rect" id="node7" href="$classllvm_1_1FixedStreamArray.html" title=" " alt="" coords="439,167,607,238"/>
+<area shape="rect" id="node6" title=" " alt="" coords="452,262,593,303"/>
+</map>

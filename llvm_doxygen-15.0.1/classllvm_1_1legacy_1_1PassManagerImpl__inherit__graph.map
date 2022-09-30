@@ -1,0 +1,6 @@
+<map id="llvm::legacy::PassManagerImpl" name="llvm::legacy::PassManagerImpl">
+<area shape="rect" id="node1" title="PassManagerImpl manages MPPassManagers." alt="" coords="89,80,313,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PMDataManager.html" title="PMDataManager provides the common place to manage the analysis data used by pass managers." alt="" coords="118,5,285,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PMTopLevelManager.html" title="PMTopLevelManager manages LastUser info and collects common APIs used by top level pass managers." alt="" coords="309,5,502,32"/>
+</map>

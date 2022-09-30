@@ -1,0 +1,7 @@
+<map id="llvm::VirtFuncOffset" name="llvm::VirtFuncOffset">
+<area shape="rect" id="node1" title="The ValueInfo and offset for a function within a vtable definition initializer array." alt="" coords="26,347,177,373"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="5,257,80,284"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ValueInfo.html" title="Struct that holds a reference to a particular GUID in a global value summary." alt="" coords="104,257,224,284"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="41,139,287,195"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer." alt="" coords="73,5,255,61"/>
+</map>

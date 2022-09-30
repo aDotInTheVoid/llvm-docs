@@ -1,0 +1,7 @@
+<map id="llvm::sampleprof::SampleContextFrame" name="llvm::sampleprof::SampleContextFrame">
+<area shape="rect" id="node1" title=" " alt="" coords="119,199,309,240"/>
+<area shape="rect" id="node2" href="$structllvm_1_1sampleprof_1_1LineLocation.html" title="Represents the relative location of an instruction." alt="" coords="5,109,228,136"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="79,5,154,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="252,109,371,136"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title=" " alt="" coords="281,5,341,32"/>
+</map>

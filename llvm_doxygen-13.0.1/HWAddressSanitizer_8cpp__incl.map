@@ -1,0 +1,52 @@
+<map id="lib/Transforms/Instrumentation/HWAddressSanitizer.cpp" name="lib/Transforms/Instrumentation/HWAddressSanitizer.cpp">
+<area shape="rect" id="node1" title="This file is a part of HWAddressSanitizer, an address sanity checker based on tagged addressing." alt="" coords="2749,5,2971,47"/>
+<area shape="rect" id="node2" href="$HWAddressSanitizer_8h.html" title=" " alt="" coords="2563,95,2797,136"/>
+<area shape="rect" id="node3" href="$Function_8h.html" title=" " alt="" coords="1597,355,1736,382"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title=" " alt="" coords="4261,676,4419,703"/>
+<area shape="rect" id="node10" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3521,437,3669,464"/>
+<area shape="rect" id="node11" href="$BasicBlock_8h.html" title=" " alt="" coords="1053,437,1208,464"/>
+<area shape="rect" id="node12" href="$IR_2Instruction_8h.html" title=" " alt="" coords="3014,512,3167,539"/>
+<area shape="rect" id="node13" href="$Value_8h.html" title=" " alt="" coords="1328,594,1448,621"/>
+<area shape="rect" id="node14" href="$Casting_8h.html" title=" " alt="" coords="1451,676,1621,703"/>
+<area shape="rect" id="node16" href="$DerivedTypes_8h.html" title=" " alt="" coords="803,512,975,539"/>
+<area shape="rect" id="node17" href="$Type_8h.html" title=" " alt="" coords="885,594,1000,621"/>
+<area shape="rect" id="node20" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="2923,273,3055,300"/>
+<area shape="rect" id="node21" href="$DataLayout_8h.html" title=" " alt="" coords="2065,437,2223,464"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title=" " alt="" coords="3217,676,3391,703"/>
+<area shape="rect" id="node24" href="$Pass_8h.html" title=" " alt="" coords="4847,273,4943,300"/>
+<area shape="rect" id="node25" href="$Debug_8h.html" title=" " alt="" coords="4660,273,4823,300"/>
+<area shape="rect" id="node26" href="$MapVector_8h.html" title=" " alt="" coords="3449,594,3615,621"/>
+<area shape="rect" id="node27" href="$StringExtras_8h.html" title=" " alt="" coords="2993,594,3170,621"/>
+<area shape="rect" id="node28" href="$Triple_8h.html" title=" " alt="" coords="5140,102,5273,129"/>
+<area shape="rect" id="node29" href="$StackSafetyAnalysis_8h.html" title=" " alt="" coords="4667,95,4859,136"/>
+<area shape="rect" id="node30" href="$BinaryFormat_2ELF_8h.html" title=" " alt="" coords="5039,191,5219,218"/>
+<area shape="rect" id="node31" href="$Constant_8h.html" title=" " alt="" coords="1406,512,1549,539"/>
+<area shape="rect" id="node32" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="1739,437,1888,464"/>
+<area shape="rect" id="node33" href="$DebugInfoMetadata_8h.html" title=" " alt="" coords="2675,355,2888,382"/>
+<area shape="rect" id="node34" href="$CommandLine_8h.html" title=" " alt="" coords="3345,512,3559,539"/>
+<area shape="rect" id="node35" href="$raw__ostream_8h.html" title=" " alt="" coords="3639,594,3846,621"/>
+<area shape="rect" id="node36" href="$IRBuilder_8h.html" title=" " alt="" coords="1833,102,1975,129"/>
+<area shape="rect" id="node37" href="$Instructions_8h.html" title=" " alt="" coords="1373,273,1533,300"/>
+<area shape="rect" id="node38" href="$IntrinsicInst_8h.html" title=" " alt="" coords="1171,191,1331,218"/>
+<area shape="rect" id="node39" href="$Intrinsics_8h.html" title=" " alt="" coords="649,273,791,300"/>
+<area shape="rect" id="node40" href="$LLVMContext_8h.html" title=" " alt="" coords="2217,191,2386,218"/>
+<area shape="rect" id="node41" href="$InlineAsm_8h.html" title=" " alt="" coords="2283,512,2432,539"/>
+<area shape="rect" id="node42" href="$InstVisitor_8h.html" title=" " alt="" coords="1177,102,1327,129"/>
+<area shape="rect" id="node43" href="$MDBuilder_8h.html" title=" " alt="" coords="4689,355,4839,382"/>
+<area shape="rect" id="node44" href="$InitializePasses_8h.html" title=" " alt="" coords="5298,102,5465,129"/>
+<area shape="rect" id="node45" href="$Instrumentation_8h.html" title=" " alt="" coords="2150,355,2397,382"/>
+<area shape="rect" id="node46" href="$AddressSanitizerCommon_8h.html" title=" " alt="" coords="2923,184,3157,225"/>
+<area shape="rect" id="node47" href="$BasicBlockUtils_8h.html" title=" " alt="" coords="209,348,370,389"/>
+<area shape="rect" id="node48" href="$ModuleUtils_8h.html" title=" " alt="" coords="4986,587,5147,628"/>
+<area shape="rect" id="node49" href="$PromoteMemToReg_8h.html" title=" " alt="" coords="5489,95,5655,136"/>
+<area shape="rect" id="node50" title=" " alt="" coords="5679,102,5753,129"/>
+<area shape="rect" id="node18" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="4310,191,4479,218"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1501,751,1571,777"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2965,751,3035,777"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3939,751,4024,777"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3778,751,3870,777"/>
+<area shape="rect" id="node9" title=" " alt="" coords="4310,751,4370,777"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2261,751,2331,777"/>
+<area shape="rect" id="node19" href="$DenseMap_8h.html" title=" " alt="" coords="3619,676,3786,703"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2721,676,2783,703"/>
+</map>

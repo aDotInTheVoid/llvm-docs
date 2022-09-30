@@ -1,0 +1,8 @@
+<map id="include/llvm/MC/MCWinCOFFObjectWriter.h" name="include/llvm/MC/MCWinCOFFObjectWriter.h">
+<area shape="rect" id="node1" title=" " alt="" coords="475,5,712,47"/>
+<area shape="rect" id="node2" href="$MCAsmBackend_8cpp.html" title=" " alt="" coords="5,109,192,136"/>
+<area shape="rect" id="node3" href="$WinCOFFObjectWriter_8cpp.html" title=" " alt="" coords="217,109,437,136"/>
+<area shape="rect" id="node4" href="$AArch64WinCOFFObjectWriter_8cpp.html" title=" " alt="" coords="461,95,725,151"/>
+<area shape="rect" id="node5" href="$ARMWinCOFFObjectWriter_8cpp.html" title=" " alt="" coords="750,102,962,143"/>
+<area shape="rect" id="node6" href="$X86WinCOFFObjectWriter_8cpp.html" title=" " alt="" coords="987,102,1192,143"/>
+</map>

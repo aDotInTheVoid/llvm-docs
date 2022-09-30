@@ -1,0 +1,13 @@
+<map id="llvm::SymbolInfoTy" name="llvm::SymbolInfoTy">
+<area shape="rect" id="node1" title=" " alt="" coords="265,288,399,315"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,199,133,225"/>
+<area shape="rect" id="node3" title=" " alt="" coords="158,199,226,225"/>
+<area shape="rect" id="node4" href="$structllvm_1_1XCOFFSymbolInfo.html" title=" " alt="" coords="250,199,414,225"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="66,102,238,129"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title=" " alt="" coords="182,5,317,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title=" " alt="" coords="263,95,433,136"/>
+<area shape="rect" id="node8" href="$classbool.html" title=" " alt="" coords="473,102,519,129"/>
+<area shape="rect" id="node9" title=" " alt="" coords="439,199,500,225"/>
+<area shape="rect" id="node10" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="525,199,633,225"/>
+<area shape="rect" id="node11" href="$classsize__t.html" title=" " alt="" coords="551,102,607,129"/>
+</map>

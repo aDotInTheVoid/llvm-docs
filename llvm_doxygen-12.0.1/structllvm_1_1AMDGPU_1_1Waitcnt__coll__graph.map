@@ -1,0 +1,4 @@
+<map id="llvm::AMDGPU::Waitcnt" name="llvm::AMDGPU::Waitcnt">
+<area shape="rect" id="node1" title="Represents the counter values to wait for in an s_waitcnt instruction." alt="" coords="5,139,169,165"/>
+<area shape="rect" id="node2" href="$classunsigned.html" title=" " alt="" coords="50,5,125,32"/>
+</map>

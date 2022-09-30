@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/AsmPrinter/WasmException.cpp" name="lib/CodeGen/AsmPrinter/WasmException.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2583,5,2745,47"/>
+<area shape="rect" id="node2" href="$WasmException_8h.html" title=" " alt="" coords="899,169,1026,196"/>
+<area shape="rect" id="node19" href="$Mangler_8h.html" title=" " alt="" coords="1800,95,1925,121"/>
+<area shape="rect" id="node20" href="$MCContext_8h.html" title=" " alt="" coords="3015,95,3166,121"/>
+<area shape="rect" id="node44" href="$MCStreamer_8h.html" title=" " alt="" coords="3981,169,4139,196"/>
+<area shape="rect" id="node3" href="$EHStreamer_8h.html" title=" " alt="" coords="557,251,662,278"/>
+<area shape="rect" id="node11" href="$AsmPrinter_8h.html" title=" " alt="" coords="1955,251,2141,278"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title=" " alt="" coords="1553,423,1708,449"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title=" " alt="" coords="936,497,1099,524"/>
+<area shape="rect" id="node10" href="$AsmPrinterHandler_8h.html" title=" " alt="" coords="550,341,781,367"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2401,497,2476,524"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3053,497,3120,524"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2178,497,2243,524"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1135,497,1188,524"/>
+<area shape="rect" id="node12" href="$MapVector_8h.html" title=" " alt="" coords="2241,341,2394,367"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title=" " alt="" coords="1834,423,1995,449"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1329,497,1399,524"/>
+<area shape="rect" id="node15" title=" " alt="" coords="4473,423,4530,449"/>
+<area shape="rect" id="node16" href="$DwarfStringPoolEntry_8h.html" title=" " alt="" coords="4800,333,4979,375"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3535,423,3596,449"/>
+<area shape="rect" id="node17" href="$StringMap_8h.html" title=" " alt="" coords="4911,423,5062,449"/>
+<area shape="rect" id="node21" href="$Optional_8h.html" title=" " alt="" coords="935,423,1073,449"/>
+<area shape="rect" id="node22" href="$SetVector_8h.html" title=" " alt="" coords="2559,251,2707,278"/>
+<area shape="rect" id="node24" href="$SmallString_8h.html" title=" " alt="" coords="2006,341,2165,367"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title=" " alt="" coords="3015,423,3159,449"/>
+<area shape="rect" id="node26" title=" " alt="" coords="5559,497,5614,524"/>
+<area shape="rect" id="node27" href="$Twine_8h.html" title=" " alt="" coords="3251,341,3376,367"/>
+<area shape="rect" id="node28" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support." alt="" coords="195,341,373,367"/>
+<area shape="rect" id="node29" href="$BinaryFormat_2ELF_8h.html" title=" " alt="" coords="3463,169,3630,196"/>
+<area shape="rect" id="node30" href="$XCOFF_8h.html" title=" " alt="" coords="2841,169,3028,196"/>
+<area shape="rect" id="node31" href="$MCAsmMacro_8h.html" title=" " alt="" coords="5379,341,5549,367"/>
+<area shape="rect" id="node34" href="$MCDwarf_8h.html" title=" " alt="" coords="3154,169,3294,196"/>
+<area shape="rect" id="node35" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="2816,251,2955,278"/>
+<area shape="rect" id="node36" href="$raw__ostream_8h.html" title=" " alt="" coords="2787,341,2973,367"/>
+<area shape="rect" id="node37" href="$MD5_8h.html" title=" " alt="" coords="3156,251,3295,278"/>
+<area shape="rect" id="node38" href="$MCPseudoProbe_8h.html" title=" " alt="" coords="4913,251,5098,278"/>
+<area shape="rect" id="node39" title=" " alt="" coords="5155,341,5202,367"/>
+<area shape="rect" id="node40" href="$MCSubtargetInfo_8h.html" title=" " alt="" coords="3921,251,4105,278"/>
+<area shape="rect" id="node41" href="$MCTargetOptions_8h.html" title=" " alt="" coords="5616,251,5803,278"/>
+<area shape="rect" id="node42" href="$SectionKind_8h.html" title=" " alt="" coords="3749,169,3905,196"/>
+<area shape="rect" id="node43" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1312,341,1475,367"/>
+<area shape="rect" id="node23" href="$ArrayRef_8h.html" title=" " alt="" coords="2419,341,2560,367"/>
+<area shape="rect" id="node32" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="5403,423,5525,449"/>
+<area shape="rect" id="node33" href="$SMLoc_8h.html" title=" " alt="" coords="5215,423,5367,449"/>
+<area shape="rect" id="node45" href="$MCDirectives_8h.html" title=" " alt="" coords="5326,251,5490,278"/>
+<area shape="rect" id="node46" href="$MCLinkerOptimizationHint_8h.html" title=" " alt="" coords="3420,244,3623,285"/>
+<area shape="rect" id="node47" href="$MCSymbol_8h.html" title=" " alt="" coords="3958,341,4109,367"/>
+<area shape="rect" id="node48" href="$MCWinEH_8h.html" title=" " alt="" coords="3749,251,3897,278"/>
+<area shape="rect" id="node49" href="$TargetParser_8h.html" title=" " alt="" coords="4701,251,4888,278"/>
+<area shape="rect" id="node50" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[...." alt="" coords="4539,341,4725,367"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::pointer_union_detail::PointerUnionUIntTraits&lt; PTs &gt;" name="llvm::pointer_union_detail::PointerUnionUIntTraits&lt; PTs &gt;">
+<area shape="rect" id="node1" title="Provide PointerLikeTypeTraits for void* that is used by PointerUnion for the template arguments." alt="" coords="5,95,205,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="86,5,125,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::orc::IRCompileLayer::IRCompiler" name="llvm::orc::IRCompileLayer::IRCompiler">
+<area shape="rect" id="node1" title=" " alt="" coords="131,5,303,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ConcurrentIRCompiler.html" title="A thread&#45;safe version of SimpleCompiler." alt="" coords="5,95,215,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1SimpleCompiler.html" title="Simple compile functor: Takes a single IR module and returns an ObjectFile." alt="" coords="239,95,411,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1TMOwningSimpleCompiler.html" title="A SimpleCompiler that owns its TargetMachine." alt="" coords="233,169,416,211"/>
+</map>

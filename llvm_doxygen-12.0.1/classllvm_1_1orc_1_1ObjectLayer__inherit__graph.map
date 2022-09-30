@@ -1,0 +1,6 @@
+<map id="llvm::orc::ObjectLayer" name="llvm::orc::ObjectLayer">
+<area shape="rect" id="node1" title="Interface for Layers that accept object files." alt="" coords="5,78,155,105"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ObjectLinkingLayer.html" title="An ObjectLayer implementation built on JITLink." alt="" coords="225,5,383,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1ObjectTransformLayer.html" title=" " alt="" coords="216,71,392,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1RTDyldObjectLinkingLayer.html" title=" " alt="" coords="203,136,405,177"/>
+</map>

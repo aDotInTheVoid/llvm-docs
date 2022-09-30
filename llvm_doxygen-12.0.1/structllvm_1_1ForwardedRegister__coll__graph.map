@@ -1,0 +1,7 @@
+<map id="llvm::ForwardedRegister" name="llvm::ForwardedRegister">
+<area shape="rect" id="node1" title="Describes a register that needs to be forwarded from the prologue to a musttail call." alt="" coords="58,184,221,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MVT.html" title="Machine Value Type." alt="" coords="98,95,181,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="78,5,201,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="205,95,308,121"/>
+</map>

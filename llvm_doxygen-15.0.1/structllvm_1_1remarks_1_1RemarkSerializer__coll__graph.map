@@ -1,0 +1,9 @@
+<map id="llvm::remarks::RemarkSerializer" name="llvm::remarks::RemarkSerializer">
+<area shape="rect" id="node1" title="This is the base class for a remark serializer." alt="" coords="768,93,1001,120"/>
+<area shape="rect" id="node2" title=" " alt="" coords="485,5,553,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title=" " alt="" coords="429,57,608,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title=" " alt="" coords="15,43,167,69"/>
+<area shape="rect" id="node5" title=" " alt="" coords="459,123,578,149"/>
+<area shape="rect" id="node6" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream." alt="" coords="447,193,591,220"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,235,176,261"/>
+</map>

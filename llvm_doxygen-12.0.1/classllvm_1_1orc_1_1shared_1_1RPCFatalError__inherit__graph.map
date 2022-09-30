@@ -1,0 +1,6 @@
+<map id="llvm::orc::shared::RPCFatalError" name="llvm::orc::shared::RPCFatalError">
+<area shape="rect" id="node1" title="Base class of all fatal RPC errors (those that necessarily result in the termination of the RPC sessi..." alt="" coords="29,276,155,317"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,179,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="19,5,154,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="109,81,267,123"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::orc::ObjectLinkingLayer" name="llvm::orc::ObjectLinkingLayer">
+<area shape="rect" id="node1" title="An ObjectLayer implementation built on JITLink." alt="" coords="624,79,800,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="378,7,533,63"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="5,14,156,55"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1ResourceManager.html" title="Listens for ResourceTracker operations." alt="" coords="353,87,557,113"/>
+<area shape="rect" id="node5" title=" " alt="" coords="430,137,481,164"/>
+</map>

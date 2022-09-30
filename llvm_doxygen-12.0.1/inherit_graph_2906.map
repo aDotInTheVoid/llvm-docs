@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1shared_1_1RawByteChannel.html" title="Interface for byte&#45;streams to be used with ORC Serialization." alt="" coords="5,5,132,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1FDRawByteChannel.html" title="Serialization channel that reads from and writes from file descriptors." alt="" coords="180,5,321,47"/>
+</map>

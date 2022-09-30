@@ -1,0 +1,11 @@
+<map id="llvm::WasmYAML::ProducersSection" name="llvm::WasmYAML::ProducersSection">
+<area shape="rect" id="node1" title=" " alt="" coords="371,332,565,373"/>
+<area shape="rect" id="node2" href="$structllvm_1_1WasmYAML_1_1CustomSection.html" title=" " alt="" coords="245,206,469,233"/>
+<area shape="rect" id="node3" href="$structllvm_1_1WasmYAML_1_1Section.html" title=" " alt="" coords="81,109,260,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="203,13,296,39"/>
+<area shape="rect" id="node6" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob." alt="" coords="284,109,431,136"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="455,109,563,136"/>
+<area shape="rect" id="node8" href="$classsize__t.html" title=" " alt="" coords="481,13,537,39"/>
+<area shape="rect" id="node9" title=" " alt="" coords="493,199,667,240"/>
+</map>

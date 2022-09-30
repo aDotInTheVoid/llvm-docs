@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/AMDGPUGlobalISelUtils.cpp" name="lib/Target/AMDGPU/AMDGPUGlobalISelUtils.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3610,5,3846,47"/>
+<area shape="rect" id="node2" href="$AMDGPUGlobalISelUtils_8h.html" title=" " alt="" coords="5317,609,5496,635"/>
+<area shape="rect" id="node7" href="$MIPatternMatch_8h.html" title=" " alt="" coords="3643,95,3813,136"/>
+<area shape="rect" id="node43" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="837,259,976,285"/>
+<area shape="rect" id="node3" href="$Register_8h.html" title=" " alt="" coords="5197,698,5365,725"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3763,855,3816,881"/>
+<area shape="rect" id="node4" href="$MCRegister_8h.html" title=" " alt="" coords="4989,780,5144,807"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2737,855,2804,881"/>
+<area shape="rect" id="node8" href="$llvm_2CodeGen_2GlobalISel_2Utils_8h.html" title=" " alt="" coords="4923,512,5093,553"/>
+<area shape="rect" id="node22" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="3625,333,3831,375"/>
+<area shape="rect" id="node42" href="$InstrTypes_8h.html" title=" " alt="" coords="1766,184,1906,211"/>
+<area shape="rect" id="node9" href="$StringRef_8h.html" title=" " alt="" coords="2008,609,2152,635"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3485,780,3547,807"/>
+<area shape="rect" id="node20" href="$Alignment_8h.html" title=" " alt="" coords="1309,698,1477,725"/>
+<area shape="rect" id="node21" href="$LowLevelTypeImpl_8h.html" title=" " alt="" coords="4939,691,5122,732"/>
+<area shape="rect" id="node10" href="$STLExtras_8h.html" title=" " alt="" coords="1857,698,2010,725"/>
+<area shape="rect" id="node13" href="$Compiler_8h.html" title=" " alt="" coords="876,855,1039,881"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2909,780,3080,807"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2102,780,2167,807"/>
+<area shape="rect" id="node11" href="$Optional_8h.html" title=" " alt="" coords="1045,780,1184,807"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2057,855,2127,881"/>
+<area shape="rect" id="node16" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="670,780,861,807"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2293,780,2355,807"/>
+<area shape="rect" id="node12" href="$None_8h.html" title=" " alt="" coords="413,855,536,881"/>
+<area shape="rect" id="node23" href="$ArrayRef_8h.html" title=" " alt="" coords="2383,609,2524,635"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title=" " alt="" coords="2694,698,2855,725"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3579,698,3637,725"/>
+<area shape="rect" id="node26" href="$BitVector_8h.html" title=" " alt="" coords="4319,519,4463,546"/>
+<area shape="rect" id="node27" href="$DenseMap_8h.html" title=" " alt="" coords="4507,698,4661,725"/>
+<area shape="rect" id="node28" href="$IndexedMap_8h.html" title=" " alt="" coords="2701,609,2862,635"/>
+<area shape="rect" id="node29" href="$PointerUnion_8h.html" title=" " alt="" coords="3134,698,3301,725"/>
+<area shape="rect" id="node30" href="$StringSet_8h.html" title=" " alt="" coords="2452,430,2596,457"/>
+<area shape="rect" id="node32" href="$RegisterBank_8h.html" title=" " alt="" coords="4293,423,4462,464"/>
+<area shape="rect" id="node33" href="$LowLevelType_8h.html" title=" " alt="" coords="4908,430,5111,457"/>
+<area shape="rect" id="node34" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="3850,601,4041,643"/>
+<area shape="rect" id="node35" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="3712,698,3875,725"/>
+<area shape="rect" id="node36" href="$MachineFunction_8h.html" title=" " alt="" coords="3999,430,4217,457"/>
+<area shape="rect" id="node37" href="$MachineInstrBundle_8h.html" title=" " alt="" coords="3791,423,3975,464"/>
+<area shape="rect" id="node38" href="$MachineOperand_8h.html" title=" " alt="" coords="4775,609,4993,635"/>
+<area shape="rect" id="node39" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="3310,512,3503,553"/>
+<area shape="rect" id="node40" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="2742,512,2943,553"/>
+<area shape="rect" id="node31" href="$StringMap_8h.html" title=" " alt="" coords="2414,519,2565,546"/>
+<area shape="rect" id="node41" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="239,609,361,635"/>
+<area shape="rect" id="node46" href="$User_8h.html" title=" " alt="" coords="1000,430,1107,457"/>
+<area shape="rect" id="node47" href="$Value_8h.html" title=" " alt="" coords="1435,519,1546,546"/>
+<area shape="rect" id="node48" href="$Casting_8h.html" title=" " alt="" coords="761,609,916,635"/>
+<area shape="rect" id="node49" href="$DerivedTypes_8h.html" title=" " alt="" coords="1723,519,1882,546"/>
+<area shape="rect" id="node50" href="$OperandTraits_8h.html" title=" " alt="" coords="996,341,1156,367"/>
+<area shape="rect" id="node44" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="377,519,513,546"/>
+<area shape="rect" id="node45" href="$Constant_8h.html" title=" " alt="" coords="791,341,921,367"/>
+</map>

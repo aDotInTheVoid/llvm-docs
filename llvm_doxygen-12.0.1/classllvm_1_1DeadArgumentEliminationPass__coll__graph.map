@@ -1,0 +1,9 @@
+<map id="llvm::DeadArgumentEliminationPass" name="llvm::DeadArgumentEliminationPass">
+<area shape="rect" id="node1" title="Eliminate dead arguments (and return values) from functions." alt="" coords="772,145,1007,172"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="359,14,585,55"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,14,143,55"/>
+<area shape="rect" id="node4" title=" " alt="" coords="399,79,545,121"/>
+<area shape="rect" id="node5" href="$classbool.html" title=" " alt="" coords="449,145,495,172"/>
+<area shape="rect" id="node6" title=" " alt="" coords="413,196,531,223"/>
+<area shape="rect" id="node7" title=" " alt="" coords="393,247,551,273"/>
+</map>

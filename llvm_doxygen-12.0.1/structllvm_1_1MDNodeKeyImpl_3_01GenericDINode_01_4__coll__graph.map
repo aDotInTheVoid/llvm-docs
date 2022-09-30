@@ -1,0 +1,7 @@
+<map id="llvm::MDNodeKeyImpl&lt; GenericDINode &gt;" name="llvm::MDNodeKeyImpl&lt; GenericDINode &gt;">
+<area shape="rect" id="node1" title="DenseMapInfo for GenericDINode." alt="" coords="118,317,271,359"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MDNodeOpsKey.html" title="Structure for hashing arbitrary MDNode operands." alt="" coords="5,228,157,255"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="179,5,253,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="233,139,341,165"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MDString.html" title="A single uniqued string." alt="" coords="232,228,341,255"/>
+</map>

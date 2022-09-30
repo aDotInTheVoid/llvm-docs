@@ -1,0 +1,8 @@
+<map id="llvm::RegisterPassParser&lt; RegistryClass &gt;" name="llvm::RegisterPassParser&lt; RegistryClass &gt;">
+<area shape="rect" id="node1" title="RegisterPassParser class &#45; Handle the addition of new machine passes." alt="" coords="873,51,1044,93"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryListener.html" title=" " alt="" coords="641,7,824,63"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistryListener.html" title="MachinePassRegistryListener &#45; Listener to adds and removals of nodes in registration list." alt="" coords="251,14,433,55"/>
+<area shape="rect" id="node4" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="642,87,823,129"/>
+<area shape="rect" id="node5" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="5,112,199,139"/>
+<area shape="rect" id="node6" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="248,137,436,164"/>
+</map>

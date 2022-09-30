@@ -1,0 +1,4 @@
+<map id="llvm::irsymtab::Reader::SymbolRef" name="llvm::irsymtab::Reader::SymbolRef">
+<area shape="rect" id="node1" title="Ephemeral symbols produced by Reader::symbols() and Reader::module_symbols()." alt="" coords="7,80,178,121"/>
+<area shape="rect" id="node2" href="$structllvm_1_1irsymtab_1_1Symbol.html" title="This represents a symbol that has been read from a storage::Symbol and possibly a storage::Uncommon." alt="" coords="5,5,180,32"/>
+</map>

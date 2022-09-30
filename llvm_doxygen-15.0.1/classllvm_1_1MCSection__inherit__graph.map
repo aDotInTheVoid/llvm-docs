@@ -1,0 +1,11 @@
+<map id="llvm::MCSection" name="llvm::MCSection">
+<area shape="rect" id="node1" title="Instances of this class represent a uniqued identifier for a section in the current translation unit." alt="" coords="5,183,133,209"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCSectionCOFF.html" title="This represents a section on Windows." alt="" coords="205,5,367,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCSectionDXContainer.html" title=" " alt="" coords="181,56,391,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCSectionELF.html" title="This represents a section on linux, lots of unix variants and some bare metal systems." alt="" coords="211,107,361,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MCSectionGOFF.html" title=" " alt="" coords="204,157,368,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MCSectionMachO.html" title="This represents a section on a Mach&#45;O system (used by Mac OS X)." alt="" coords="199,208,373,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MCSectionSPIRV.html" title=" " alt="" coords="203,259,369,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MCSectionWasm.html" title="This represents a section on wasm." alt="" coords="202,309,370,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MCSectionXCOFF.html" title=" " alt="" coords="201,360,371,387"/>
+</map>

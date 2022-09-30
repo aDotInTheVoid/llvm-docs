@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/AMDGPUArgumentUsageInfo.h" name="lib/Target/AMDGPU/AMDGPUArgumentUsageInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1347,5,1619,47"/>
+<area shape="rect" id="node2" href="$SIISelLowering_8h.html" title=" " alt="" coords="2053,95,2239,136"/>
+<area shape="rect" id="node5" href="$AMDGPUArgumentUsageInfo_8cpp.html" title=" " alt="" coords="1501,348,1773,389"/>
+<area shape="rect" id="node6" href="$SIMachineFunctionInfo_8h.html" title=" " alt="" coords="4151,348,4367,389"/>
+<area shape="rect" id="node50" href="$AMDGPULegalizerInfo_8h.html" title=" " alt="" coords="1085,348,1351,389"/>
+<area shape="rect" id="node3" href="$GCNSubtarget_8h.html" title=" " alt="" coords="5193,184,5446,211"/>
+<area shape="rect" id="node31" href="$SIISelLowering_8cpp.html" title=" " alt="" coords="1651,437,1836,479"/>
+<area shape="rect" id="node4" href="$AMDGPUTargetMachine_8h.html" title=" " alt="" coords="2306,259,2554,300"/>
+<area shape="rect" id="node7" href="$AMDGPUAsmPrinter_8cpp.html" title=" " alt="" coords="8154,437,8391,479"/>
+<area shape="rect" id="node9" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title=" " alt="" coords="1861,437,2159,479"/>
+<area shape="rect" id="node12" href="$AMDGPUISelDAGToDAG_8h.html" title=" " alt="" coords="3271,437,3503,479"/>
+<area shape="rect" id="node14" href="$AMDGPUISelLowering_8cpp.html" title=" " alt="" coords="4297,437,4529,479"/>
+<area shape="rect" id="node16" href="$AMDGPUMIRFormatter_8cpp.html" title=" " alt="" coords="4553,445,4875,471"/>
+<area shape="rect" id="node17" href="$AMDGPURegBankCombiner_8cpp.html" title=" " alt="" coords="520,437,753,479"/>
+<area shape="rect" id="node18" href="$AMDGPURegisterBankInfo_8cpp.html" title=" " alt="" coords="4900,437,5163,479"/>
+<area shape="rect" id="node19" href="$AMDGPUResourceUsageAnalysis_8cpp.html" title="Analyzes how many registers and other resources are used by functions." alt="" coords="5187,437,5455,479"/>
+<area shape="rect" id="node22" href="$GCNHazardRecognizer_8cpp.html" title=" " alt="" coords="5479,437,5703,479"/>
+<area shape="rect" id="node24" href="$GCNNSAReassign_8cpp.html" title="Try to reassign registers on GFX10+ from non&#45;sequential to sequential in NSA image instructions...." alt="" coords="5728,445,6020,471"/>
+<area shape="rect" id="node26" href="$SIFoldOperands_8cpp.html" title=" " alt="" coords="6044,437,6232,479"/>
+<area shape="rect" id="node28" href="$SIFrameLowering_8cpp.html" title=" " alt="" coords="6257,437,6459,479"/>
+<area shape="rect" id="node29" href="$SIInsertWaitcnts_8cpp.html" title=" " alt="" coords="6484,437,6683,479"/>
+<area shape="rect" id="node30" href="$SIInstrInfo_8cpp.html" title=" " alt="" coords="6757,437,6948,479"/>
+<area shape="rect" id="node32" href="$SILateBranchLowering_8cpp.html" title=" " alt="" coords="6973,437,7162,479"/>
+<area shape="rect" id="node33" href="$SILowerSGPRSpills_8cpp.html" title=" " alt="" coords="7186,437,7386,479"/>
+<area shape="rect" id="node35" href="$SIOptimizeVGPRLiveRange_8cpp.html" title=" " alt="" coords="7411,437,7631,479"/>
+<area shape="rect" id="node36" href="$SIPreAllocateWWMRegs_8cpp.html" title=" " alt="" coords="7655,437,7890,479"/>
+<area shape="rect" id="node37" href="$SIRegisterInfo_8cpp.html" title=" " alt="" coords="7915,437,8129,479"/>
+<area shape="rect" id="node38" href="$AMDGPUAnnotateKernelFeatures_8cpp.html" title=" " alt="" coords="2679,259,2946,300"/>
+<area shape="rect" id="node39" href="$AMDGPUAtomicOptimizer_8cpp.html" title=" " alt="" coords="2971,259,3225,300"/>
+<area shape="rect" id="node40" href="$AMDGPUAttributor_8cpp.html" title=" " alt="" coords="3250,266,3546,293"/>
+<area shape="rect" id="node41" href="$AMDGPUCombinerHelper_8cpp.html" title=" " alt="" coords="3571,259,3841,300"/>
+<area shape="rect" id="node42" href="$AMDGPUGlobalISelUtils_8cpp.html" title=" " alt="" coords="3866,259,4117,300"/>
+<area shape="rect" id="node43" href="$AMDGPUInsertDelayAlu_8cpp.html" title=" " alt="" coords="4141,259,4386,300"/>
+<area shape="rect" id="node44" href="$AMDGPUInstCombineIntrinsic_8cpp.html" title=" " alt="" coords="4410,259,4642,300"/>
+<area shape="rect" id="node45" href="$AMDGPULibCalls_8cpp.html" title=" " alt="" coords="4666,259,4893,300"/>
+<area shape="rect" id="node46" href="$AMDGPULowerKernelArguments_8cpp.html" title=" " alt="" coords="4917,259,5164,300"/>
+<area shape="rect" id="node47" href="$AMDGPUMachineCFGStructurizer_8cpp.html" title=" " alt="" coords="5188,259,5451,300"/>
+<area shape="rect" id="node48" href="$AMDGPUPostLegalizerCombiner_8cpp.html" title=" " alt="" coords="5,437,241,479"/>
+<area shape="rect" id="node49" href="$AMDGPUPreLegalizerCombiner_8cpp.html" title=" " alt="" coords="266,437,495,479"/>
+<area shape="rect" id="node8" href="$AMDGPUCallLowering_8cpp.html" title=" " alt="" coords="1101,437,1335,479"/>
+<area shape="rect" id="node10" href="$AMDGPUIGroupLP_8cpp.html" title=" " alt="" coords="2423,437,2674,479"/>
+<area shape="rect" id="node11" href="$AMDGPUInstructionSelector_8cpp.html" title=" " alt="" coords="2698,437,2975,479"/>
+<area shape="rect" id="node13" href="$AMDGPUISelDAGToDAG_8cpp.html" title=" " alt="" coords="4143,527,4375,568"/>
+<area shape="rect" id="node15" href="$AMDGPULegalizerInfo_8cpp.html" title=" " alt="" coords="1359,437,1626,479"/>
+<area shape="rect" id="node20" href="$AMDGPUSubtarget_8cpp.html" title=" " alt="" coords="778,445,1077,471"/>
+<area shape="rect" id="node21" href="$AMDGPUTargetMachine_8cpp.html" title=" " alt="" coords="2999,437,3247,479"/>
+<area shape="rect" id="node34" href="$SIMachineFunctionInfo_8cpp.html" title=" " alt="" coords="2183,437,2399,479"/>
+<area shape="rect" id="node23" href="$GCNIterativeScheduler_8cpp.html" title=" " alt="" coords="3528,437,3761,479"/>
+<area shape="rect" id="node25" href="$GCNSchedStrategy_8cpp.html" title=" " alt="" coords="3785,437,4003,479"/>
+<area shape="rect" id="node27" href="$SIFormMemoryClauses_8cpp.html" title=" " alt="" coords="4027,437,4222,479"/>
+</map>

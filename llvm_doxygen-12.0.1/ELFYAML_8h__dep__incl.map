@@ -1,0 +1,11 @@
+<map id="include/llvm/ObjectYAML/ELFYAML.h" name="include/llvm/ObjectYAML/ELFYAML.h">
+<area shape="rect" id="node1" title="This file declares classes for handling the YAML representation of ELF." alt="" coords="733,5,901,47"/>
+<area shape="rect" id="node2" href="$ObjectYAML_8h.html" title=" " alt="" coords="521,95,689,136"/>
+<area shape="rect" id="node8" href="$ELFEmitter_8cpp.html" title="The ELF component of yaml2obj." alt="" coords="714,102,921,129"/>
+<area shape="rect" id="node9" href="$ELFYAML_8cpp.html" title=" " alt="" coords="945,102,1145,129"/>
+<area shape="rect" id="node3" href="$COFFEmitter_8cpp.html" title="The COFF component of yaml2obj." alt="" coords="5,184,224,211"/>
+<area shape="rect" id="node4" href="$MachOEmitter_8cpp.html" title="The Mach component of yaml2obj." alt="" coords="249,184,474,211"/>
+<area shape="rect" id="node5" href="$ObjectYAML_8cpp.html" title=" " alt="" coords="498,184,713,211"/>
+<area shape="rect" id="node6" href="$WasmEmitter_8cpp.html" title="The Wasm component of yaml2obj." alt="" coords="737,184,957,211"/>
+<area shape="rect" id="node7" href="$yaml2obj_8cpp.html" title=" " alt="" coords="981,184,1173,211"/>
+</map>

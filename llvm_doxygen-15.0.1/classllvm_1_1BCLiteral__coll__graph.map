@@ -1,0 +1,6 @@
+<map id="llvm::BCLiteral&lt; Value &gt;" name="llvm::BCLiteral&lt; Value &gt;">
+<area shape="rect" id="node1" title="Represents a literal operand in a bitcode record." alt="" coords="5,275,189,301"/>
+<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1BCField.html" title=" " alt="" coords="10,199,185,225"/>
+<area shape="rect" id="node3" title=" " alt="" coords="69,5,126,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1detail_1_1BCField.html" title="Convenience base for all kinds of bitcode abbreviation fields." alt="" coords="186,95,339,136"/>
+</map>

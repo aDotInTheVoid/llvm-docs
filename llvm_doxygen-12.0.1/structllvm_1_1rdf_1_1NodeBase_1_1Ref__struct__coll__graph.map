@@ -1,0 +1,11 @@
+<map id="llvm::rdf::NodeBase::Ref_struct" name="llvm::rdf::NodeBase::Ref_struct">
+<area shape="rect" id="node1" title=" " alt="" coords="457,198,596,239"/>
+<area shape="rect" id="node2" href="$structllvm_1_1rdf_1_1NodeBase_1_1Def__struct.html" title=" " alt="" coords="206,74,345,115"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="9,108,77,135"/>
+<area shape="rect" id="node5" href="$structllvm_1_1rdf_1_1NodeBase_1_1PhiU__struct.html" title=" " alt="" coords="206,139,345,181"/>
+<area shape="rect" id="node8" href="$structllvm_1_1rdf_1_1PackedRegisterRef.html" title=" " alt="" coords="181,205,369,232"/>
+<area shape="rect" id="node4" title=" " alt="" coords="211,256,339,283"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MachineOperand.html" title="MachineOperand class &#45; Representation of each machine instruction operand." alt="" coords="199,307,351,333"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="5,307,80,333"/>
+<area shape="rect" id="node9" title=" " alt="" coords="211,357,339,384"/>
+</map>

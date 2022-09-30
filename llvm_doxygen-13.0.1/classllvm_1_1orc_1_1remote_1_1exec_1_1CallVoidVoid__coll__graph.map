@@ -1,0 +1,5 @@
+<map id="llvm::orc::remote::exec::CallVoidVoid" name="llvm::orc::remote::exec::CallVoidVoid">
+<area shape="rect" id="node1" title="Calls a &#39;void()&#39;&#45;type function on the remote, returns when the called function completes." alt="" coords="51,244,193,285"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="5,139,239,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="21,5,223,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::objcopy::macho::SymbolTable" name="llvm::objcopy::macho::SymbolTable">
+<area shape="rect" id="node1" title="The location of the symbol table inside the binary is described by LC_SYMTAB load command." alt="" coords="22,124,183,165"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,200,61"/>
+</map>

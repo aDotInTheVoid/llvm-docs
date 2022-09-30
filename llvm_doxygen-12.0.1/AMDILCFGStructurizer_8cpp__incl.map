@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/AMDILCFGStructurizer.cpp" name="lib/Target/AMDGPU/AMDILCFGStructurizer.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2025,5,2326,32"/>
+<area shape="rect" id="node2" href="$AMDGPU_8h.html" title=" " alt="" coords="2297,177,2387,203"/>
+<area shape="rect" id="node13" href="$AMDGPUMCTargetDesc_8h.html" title="Provides AMDGPU specific target descriptions." alt="" coords="3458,169,3685,211"/>
+<area shape="rect" id="node20" href="$R600RegisterInfo_8h.html" title="Interface definition for R600RegisterInfo." alt="" coords="2743,259,2877,285"/>
+<area shape="rect" id="node21" href="$R600Subtarget_8h.html" title="AMDGPU R600 specific subclass of TargetSubtarget." alt="" coords="2803,87,2921,114"/>
+<area shape="rect" id="node30" href="$SCCIterator_8h.html" title="This builds on the llvm/ADT/GraphTraits.h file to find the strongly connected components (SCCs) of a ..." alt="" coords="535,579,695,606"/>
+<area shape="rect" id="node33" href="$Statistic_8h.html" title=" " alt="" coords="2477,579,2615,606"/>
+<area shape="rect" id="node35" href="$MachineFunction_8h.html" title=" " alt="" coords="1353,259,1571,285"/>
+<area shape="rect" id="node46" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="1565,169,1773,211"/>
+<area shape="rect" id="node47" href="$MachineJumpTableInfo_8h.html" title=" " alt="" coords="2109,572,2300,613"/>
+<area shape="rect" id="node48" href="$MachineLoopInfo_8h.html" title=" " alt="" coords="1523,80,1710,121"/>
+<area shape="rect" id="node49" href="$MachinePostDominators_8h.html" title=" " alt="" coords="1785,80,1971,121"/>
+<area shape="rect" id="node50" href="$InitializePasses_8h.html" title=" " alt="" coords="3509,87,3661,114"/>
+<area shape="rect" id="node3" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1824,579,1983,606"/>
+<area shape="rect" id="node12" href="$CodeGen_8h.html" title=" " alt="" coords="2047,259,2213,285"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title=" " alt="" coords="938,661,1093,688"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1299,736,1366,763"/>
+<area shape="rect" id="node9" title=" " alt="" coords="984,736,1047,763"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2353,736,2424,763"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2064,661,2121,688"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title=" " alt="" coords="1793,736,1955,763"/>
+<area shape="rect" id="node8" title=" " alt="" coords="539,736,604,763"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2500,811,2667,837"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3798,259,3993,285"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3386,341,3554,367"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3323,259,3497,285"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2902,259,3049,285"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3571,259,3774,285"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3073,259,3249,285"/>
+<area shape="rect" id="node22" href="$AMDGPUSubtarget_8h.html" title="Base class for AMDGPU specific classes of TargetSubtarget." alt="" coords="2712,177,2857,203"/>
+<area shape="rect" id="node23" href="$R600FrameLowering_8h.html" title=" " alt="" coords="3069,177,3221,203"/>
+<area shape="rect" id="node24" href="$R600ISelLowering_8h.html" title="R600 DAG Lowering interface definition." alt="" coords="3245,177,3383,203"/>
+<area shape="rect" id="node25" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo." alt="" coords="2882,177,2994,203"/>
+<area shape="rect" id="node26" href="$AMDGPUBaseInfo_8h.html" title=" " alt="" coords="2513,177,2688,203"/>
+<area shape="rect" id="node27" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="2046,169,2273,211"/>
+<area shape="rect" id="node28" href="$MachineMemOperand_8h.html" title=" " alt="" coords="163,497,409,524"/>
+<area shape="rect" id="node29" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="5,579,207,606"/>
+<area shape="rect" id="node31" href="$GraphTraits_8h.html" title=" " alt="" coords="144,661,303,688"/>
+<area shape="rect" id="node32" href="$iterator_8h.html" title=" " alt="" coords="378,661,509,688"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2527,661,2589,688"/>
+<area shape="rect" id="node36" href="$ArrayRef_8h.html" title=" " alt="" coords="1658,579,1799,606"/>
+<area shape="rect" id="node37" href="$SmallVector_8h.html" title=" " alt="" coords="1371,661,1532,688"/>
+<area shape="rect" id="node38" href="$BitVector_8h.html" title=" " alt="" coords="1705,497,1849,524"/>
+<area shape="rect" id="node39" href="$ilist_8h.html" title=" " alt="" coords="795,579,905,606"/>
+<area shape="rect" id="node40" href="$EHPersonalities_8h.html" title=" " alt="" coords="1166,423,1374,449"/>
+<area shape="rect" id="node41" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="631,333,821,375"/>
+<area shape="rect" id="node42" href="$MachineInstr_8h.html" title=" " alt="" coords="897,423,1091,449"/>
+<area shape="rect" id="node43" href="$ArrayRecycler_8h.html" title=" " alt="" coords="1387,497,1579,524"/>
+<area shape="rect" id="node44" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1269,579,1431,606"/>
+<area shape="rect" id="node45" href="$Recycler_8h.html" title=" " alt="" coords="1151,497,1312,524"/>
+</map>

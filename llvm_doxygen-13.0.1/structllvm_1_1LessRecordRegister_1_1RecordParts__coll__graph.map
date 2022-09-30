@@ -1,0 +1,11 @@
+<map id="llvm::LessRecordRegister::RecordParts" name="llvm::LessRecordRegister::RecordParts">
+<area shape="rect" id="node1" title=" " alt="" coords="1609,78,1796,119"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1365,71,1524,127"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="999,71,1169,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="597,91,801,117"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1010,151,1158,193"/>
+<area shape="rect" id="node5" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="605,5,792,61"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,96,56,123"/>
+<area shape="rect" id="node7" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="169,89,356,130"/>
+<area shape="rect" id="node9" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="579,148,819,204"/>
+</map>

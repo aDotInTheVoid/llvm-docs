@@ -1,0 +1,5 @@
+<map id="llvm::InlineAdvice" name="llvm::InlineAdvice">
+<area shape="rect" id="node1" title="Capture state between an inlining decision having had been made, and its impact being observable." alt="" coords="115,5,241,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DefaultInlineAdvice.html" title=" " alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MLInlineAdvice.html" title="InlineAdvice that tracks changes post inlining." alt="" coords="196,80,339,107"/>
+</map>

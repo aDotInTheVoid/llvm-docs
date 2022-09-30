@@ -1,0 +1,52 @@
+<map id="lib/Target/PowerPC/PPCVSXSwapRemoval.cpp" name="lib/Target/PowerPC/PPCVSXSwapRemoval.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1890,5,2075,47"/>
+<area shape="rect" id="node2" href="$PPC_8h.html" title=" " alt="" coords="1887,177,1945,203"/>
+<area shape="rect" id="node4" href="$PPCInstrBuilder_8h.html" title=" " alt="" coords="2453,95,2579,121"/>
+<area shape="rect" id="node5" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="3219,423,3403,464"/>
+<area shape="rect" id="node8" title=" " alt="" coords="163,1153,330,1180"/>
+<area shape="rect" id="node22" href="$DenseMap_8h.html" title=" " alt="" coords="1299,855,1453,881"/>
+<area shape="rect" id="node35" href="$PPCInstrInfo_8h.html" title=" " alt="" coords="1557,259,1665,285"/>
+<area shape="rect" id="node39" href="$PPCTargetMachine_8h.html" title=" " alt="" coords="1457,95,1601,121"/>
+<area shape="rect" id="node44" href="$EquivalenceClasses_8h.html" title=" " alt="" coords="3969,929,4178,956"/>
+<area shape="rect" id="node46" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="2020,169,2228,211"/>
+<area shape="rect" id="node47" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="2555,423,2762,464"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title=" " alt="" coords="2604,95,2753,121"/>
+<area shape="rect" id="node49" href="$Format_8h.html" title=" " alt="" coords="1997,929,2147,956"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title=" " alt="" coords="672,929,859,956"/>
+<area shape="rect" id="node3" href="$CodeGen_8h.html" title=" " alt="" coords="1778,259,1945,285"/>
+<area shape="rect" id="node6" href="$ArrayRef_8h.html" title=" " alt="" coords="1664,1004,1805,1031"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3523,1079,3589,1105"/>
+<area shape="rect" id="node15" href="$llvm_2CodeGen_2GlobalISel_2Utils_8h.html" title=" " alt="" coords="3681,691,3850,732"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3005,1004,3067,1031"/>
+<area shape="rect" id="node17" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="3211,601,3402,643"/>
+<area shape="rect" id="node18" href="$MachineInstr_8h.html" title=" " alt="" coords="2503,698,2697,725"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2409,1004,2463,1031"/>
+<area shape="rect" id="node21" href="$MachineOperand_8h.html" title=" " alt="" coords="2679,780,2897,807"/>
+<area shape="rect" id="node31" href="$MachineFunction_8h.html" title=" " alt="" coords="2300,519,2519,546"/>
+<area shape="rect" id="node32" href="$MachineInstrBundle_8h.html" title=" " alt="" coords="3219,512,3403,553"/>
+<area shape="rect" id="node33" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="2747,512,2941,553"/>
+<area shape="rect" id="node34" href="$InstrTypes_8h.html" title=" " alt="" coords="3378,929,3518,956"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="417,1079,580,1105"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1697,1079,1772,1105"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1575,1079,1641,1105"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1075,1079,1171,1105"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4139,1079,4202,1105"/>
+<area shape="rect" id="node14" title=" " alt="" coords="308,1079,391,1105"/>
+<area shape="rect" id="node19" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2172,929,2348,956"/>
+<area shape="rect" id="node23" href="$EpochTracker_8h.html" title=" " alt="" coords="2524,929,2695,956"/>
+<area shape="rect" id="node24" href="$AlignOf_8h.html" title=" " alt="" coords="43,1004,197,1031"/>
+<area shape="rect" id="node25" href="$MathExtras_8h.html" title=" " alt="" coords="1287,929,1465,956"/>
+<area shape="rect" id="node26" title=" " alt="" coords="883,1004,944,1031"/>
+<area shape="rect" id="node27" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="537,1004,706,1031"/>
+<area shape="rect" id="node28" href="$ReverseIteration_8h.html" title=" " alt="" coords="1055,929,1262,956"/>
+<area shape="rect" id="node29" href="$type__traits_8h.html" title=" " alt="" coords="273,929,445,956"/>
+<area shape="rect" id="node30" title=" " alt="" coords="985,929,1031,956"/>
+<area shape="rect" id="node36" href="$PPCRegisterInfo_8h.html" title=" " alt="" coords="1436,609,1567,635"/>
+<area shape="rect" id="node37" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1924,333,2095,375"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1561,341,1703,367"/>
+<area shape="rect" id="node40" href="$PPCSubtarget_8h.html" title=" " alt="" coords="1436,177,1551,203"/>
+<area shape="rect" id="node41" href="$DataLayout_8h.html" title=" " alt="" coords="1591,855,1734,881"/>
+<area shape="rect" id="node42" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="1676,177,1863,203"/>
+<area shape="rect" id="node43" href="$Pass_8h.html" title=" " alt="" coords="2049,259,2140,285"/>
+<area shape="rect" id="node45" title=" " alt="" coords="4151,1004,4191,1031"/>
+</map>

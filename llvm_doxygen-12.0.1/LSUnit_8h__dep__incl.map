@@ -1,0 +1,14 @@
+<map id="include/llvm/MCA/HardwareUnits/LSUnit.h" name="include/llvm/MCA/HardwareUnits/LSUnit.h">
+<area shape="rect" id="node1" title="A Load/Store unit class that models load/store queues and that implements a simple weak memory consis..." alt="" coords="897,5,1079,47"/>
+<area shape="rect" id="node2" href="$Scheduler_8h.html" title="A scheduler for Processor Resource Units and Processor Resource Groups." alt="" coords="521,95,703,136"/>
+<area shape="rect" id="node10" href="$RetireStage_8h.html" title="This file defines the retire stage of a default instruction pipeline." alt="" coords="903,95,1073,136"/>
+<area shape="rect" id="node12" href="$LSUnit_8cpp.html" title="A Load&#45;Store Unit for the llvm&#45;mca tool." alt="" coords="1097,95,1255,136"/>
+<area shape="rect" id="node3" href="$ExecuteStage_8h.html" title="This file defines the execution stage of a default instruction pipeline." alt="" coords="638,184,807,225"/>
+<area shape="rect" id="node4" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="815,281,958,307"/>
+<area shape="rect" id="node6" href="$InstructionTables_8h.html" title="This file implements a custom stage to generate instruction tables." alt="" coords="10,184,179,225"/>
+<area shape="rect" id="node8" href="$Scheduler_8cpp.html" title=" " alt="" coords="203,184,362,225"/>
+<area shape="rect" id="node9" href="$DispatchStage_8cpp.html" title="This file models the dispatch component of an instruction pipeline." alt="" coords="386,191,614,218"/>
+<area shape="rect" id="node5" href="$ExecuteStage_8cpp.html" title="This file defines the execution stage of an instruction pipeline." alt="" coords="569,281,791,307"/>
+<area shape="rect" id="node7" href="$InstructionTables_8cpp.html" title="This file implements the method InstructionTables::execute()." alt="" coords="5,273,184,315"/>
+<area shape="rect" id="node11" href="$RetireStage_8cpp.html" title="This file defines the retire stage of an instruction pipeline." alt="" coords="883,191,1093,218"/>
+</map>

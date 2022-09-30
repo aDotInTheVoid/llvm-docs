@@ -1,0 +1,4 @@
+<map id="llvm::DisableLIRP" name="llvm::DisableLIRP">
+<area shape="rect" id="node1" title="Options to disable Loop Idiom Recognize, which can be shared with other passes." alt="" coords="5,124,141,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="48,5,99,32"/>
+</map>

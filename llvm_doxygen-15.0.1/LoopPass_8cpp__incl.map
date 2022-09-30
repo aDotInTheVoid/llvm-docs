@@ -1,0 +1,52 @@
+<map id="lib/Analysis/LoopPass.cpp" name="lib/Analysis/LoopPass.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="4277,5,4465,32"/>
+<area shape="rect" id="node2" href="$LoopPass_8h.html" title=" " alt="" coords="4358,244,4544,271"/>
+<area shape="rect" id="node16" href="$LoopInfo_8h.html" title=" " alt="" coords="1012,162,1194,189"/>
+<area shape="rect" id="node30" href="$TimeProfiler_8h.html" title=" " alt="" coords="922,393,1121,420"/>
+<area shape="rect" id="node33" href="$Dominators_8h.html" title=" " alt="" coords="2182,80,2342,107"/>
+<area shape="rect" id="node40" href="$Debug_8h.html" title=" " alt="" coords="2942,468,3104,495"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title=" " alt="" coords="2156,468,2362,495"/>
+<area shape="rect" id="node44" href="$LLVMContext_8h.html" title=" " alt="" coords="3681,319,3850,345"/>
+<area shape="rect" id="node46" href="$OptBisect_8h.html" title=" " alt="" coords="4854,80,5000,107"/>
+<area shape="rect" id="node47" href="$PassTimingInfo_8h.html" title=" " alt="" coords="4358,393,4541,420"/>
+<area shape="rect" id="node48" href="$Timer_8h.html" title=" " alt="" coords="4382,468,4541,495"/>
+<area shape="rect" id="node49" href="$PrintPasses_8h.html" title=" " alt="" coords="4569,244,4728,271"/>
+<area shape="rect" id="node50" href="$InitializePasses_8h.html" title=" " alt="" coords="5025,80,5192,107"/>
+<area shape="rect" id="node3" href="$LegacyPassManagers_8h.html" title=" " alt="" coords="3328,319,3550,345"/>
+<area shape="rect" id="node12" href="$Pass_8h.html" title=" " alt="" coords="4667,393,4763,420"/>
+<area shape="rect" id="node15" title=" " alt="" coords="4358,319,4421,345"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title=" " alt="" coords="822,468,989,495"/>
+<area shape="rect" id="node9" href="$SmallPtrSet_8h.html" title=" " alt="" coords="1145,393,1320,420"/>
+<area shape="rect" id="node10" href="$SmallVector_8h.html" title=" " alt="" coords="2550,543,2725,569"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3644,543,3706,569"/>
+<area shape="rect" id="node5" href="$DenseMapInfo_8h.html" title=" " alt="" coords="771,543,963,569"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1148,692,1208,719"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2688,692,2774,719"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1831,617,1898,644"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3484,617,3562,644"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3796,692,3855,719"/>
+<area shape="rect" id="node17" href="$DenseSet_8h.html" title=" " alt="" coords="283,393,443,420"/>
+<area shape="rect" id="node18" href="$GraphTraits_8h.html" title=" " alt="" coords="1497,393,1669,420"/>
+<area shape="rect" id="node20" href="$IR_2CFG_8h.html" title=" " alt="" coords="1657,319,1768,345"/>
+<area shape="rect" id="node24" href="$Instructions_8h.html" title=" " alt="" coords="2350,244,2510,271"/>
+<area shape="rect" id="node29" href="$PassManager_8h.html" title=" " alt="" coords="924,319,1093,345"/>
+<area shape="rect" id="node31" href="$Allocator_8h.html" title=" " alt="" coords="1902,468,2080,495"/>
+<area shape="rect" id="node19" href="$iterator__range_8h.html" title=" " alt="" coords="1534,468,1725,495"/>
+<area shape="rect" id="node21" href="$BasicBlock_8h.html" title=" " alt="" coords="2470,393,2624,420"/>
+<area shape="rect" id="node22" href="$Types_8h.html" title=" " alt="" coords="2801,468,2917,495"/>
+<area shape="rect" id="node23" href="$Twine_8h.html" title=" " alt="" coords="2540,468,2674,495"/>
+<area shape="rect" id="node25" href="$ArrayRef_8h.html" title=" " alt="" coords="3280,468,3435,495"/>
+<area shape="rect" id="node27" href="$Use_8h.html" title=" " alt="" coords="2963,319,3072,345"/>
+<area shape="rect" id="node26" href="$Hashing_8h.html" title=" " alt="" coords="2852,617,3002,644"/>
+<area shape="rect" id="node28" href="$CBindingWrapping_8h.html" title=" " alt="" coords="3156,393,3397,420"/>
+<area shape="rect" id="node32" href="$Optional_8h.html" title=" " alt="" coords="2176,543,2329,569"/>
+<area shape="rect" id="node34" href="$APInt_8h.html" title=" " alt="" coords="45,617,177,644"/>
+<area shape="rect" id="node35" href="$DepthFirstIterator_8h.html" title=" " alt="" coords="1320,319,1532,345"/>
+<area shape="rect" id="node36" href="$PointerIntPair_8h.html" title=" " alt="" coords="1136,468,1320,495"/>
+<area shape="rect" id="node37" href="$ilist__iterator_8h.html" title=" " alt="" coords="2651,162,2827,189"/>
+<area shape="rect" id="node38" href="$CFGDiff_8h.html" title=" " alt="" coords="1792,319,1963,345"/>
+<area shape="rect" id="node39" href="$CFGUpdate_8h.html" title=" " alt="" coords="1998,393,2192,420"/>
+<area shape="rect" id="node42" href="$GenericDomTree_8h.html" title=" " alt="" coords="1995,244,2224,271"/>
+<area shape="rect" id="node43" href="$GenericDomTreeConstruction_8h.html" title=" " alt="" coords="1382,155,1600,196"/>
+<area shape="rect" id="node45" href="$DiagnosticHandler_8h.html" title=" " alt="" coords="3776,393,3979,420"/>
+</map>

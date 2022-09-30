@@ -1,0 +1,50 @@
+<map id="include/llvm/BinaryFormat/WasmTraits.h" name="include/llvm/BinaryFormat/WasmTraits.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1151,5,1345,47"/>
+<area shape="rect" id="node2" href="$Hashing_8h.html" title=" " alt="" coords="1523,393,1674,420"/>
+<area shape="rect" id="node24" href="$BinaryFormat_2Wasm_8h.html" title=" " alt="" coords="1081,95,1279,121"/>
+<area shape="rect" id="node3" href="$Support_2DataTypes_8h.html" title=" " alt="" coords="1611,468,1800,495"/>
+<area shape="rect" id="node8" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="525,468,736,495"/>
+<area shape="rect" id="node12" href="$SwapByteOrder_8h.html" title=" " alt="" coords="2189,468,2411,495"/>
+<area shape="rect" id="node17" href="$type__traits_8h.html" title=" " alt="" coords="963,468,1154,495"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2630,543,2690,569"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2587,468,2672,495"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1179,468,1248,495"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1520,468,1587,495"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1925,468,1984,495"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2009,468,2063,495"/>
+<area shape="rect" id="node4" href="$c_2DataTypes_8h.html" title=" " alt="" coords="1625,543,1772,569"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1771,617,1858,644"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1555,617,1626,644"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1651,617,1747,644"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title=" " alt="" coords="612,543,791,569"/>
+<area shape="rect" id="node10" title=" " alt="" coords="531,617,717,644"/>
+<area shape="rect" id="node11" title=" " alt="" coords="741,617,816,644"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3294,543,3365,569"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2776,543,2843,569"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1797,543,1889,569"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2231,543,2369,569"/>
+<area shape="rect" id="node25" href="$ArrayRef_8h.html" title=" " alt="" coords="993,169,1148,196"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title=" " alt="" coords="969,319,1143,345"/>
+<area shape="rect" id="node36" href="$Optional_8h.html" title=" " alt="" coords="538,319,691,345"/>
+<area shape="rect" id="node46" href="$StringRef_8h.html" title=" " alt="" coords="2167,319,2324,345"/>
+<area shape="rect" id="node48" title=" " alt="" coords="1172,169,1303,196"/>
+<area shape="rect" id="node26" href="$None_8h.html" title=" " alt="" coords="145,393,277,420"/>
+<area shape="rect" id="node30" title=" " alt="" coords="301,393,411,420"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1902,393,1973,420"/>
+<area shape="rect" id="node33" title=" " alt="" coords="815,393,892,420"/>
+<area shape="rect" id="node35" href="$STLExtras_8h.html" title=" " alt="" coords="1673,244,1836,271"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1000,244,1056,271"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1081,244,1143,271"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1170,393,1235,420"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1259,393,1346,420"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2048,393,2107,420"/>
+<area shape="rect" id="node34" title=" " alt="" coords="741,393,790,420"/>
+<area shape="rect" id="node37" href="$STLForwardCompat_8h.html" title=" " alt="" coords="1272,468,1496,495"/>
+<area shape="rect" id="node38" href="$STLArrayExtras_8h.html" title=" " alt="" coords="3310,319,3509,345"/>
+<area shape="rect" id="node39" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="2283,393,2512,420"/>
+<area shape="rect" id="node40" href="$identity_8h.html" title=" " alt="" coords="1843,319,1989,345"/>
+<area shape="rect" id="node41" href="$iterator_8h.html" title=" " alt="" coords="3039,319,3185,345"/>
+<area shape="rect" id="node42" href="$iterator__range_8h.html" title=" " alt="" coords="3158,393,3349,420"/>
+<area shape="rect" id="node43" title=" " alt="" coords="1371,319,1565,345"/>
+<area shape="rect" id="node47" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2688,393,2880,420"/>
+</map>

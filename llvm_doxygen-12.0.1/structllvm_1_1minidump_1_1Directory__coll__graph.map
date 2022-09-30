@@ -1,0 +1,10 @@
+<map id="llvm::minidump::Directory" name="llvm::minidump::Directory">
+<area shape="rect" id="node1" title="Specifies the location and type of a single stream in the minidump file." alt="" coords="911,121,1083,148"/>
+<area shape="rect" id="node2" href="$structllvm_1_1minidump_1_1LocationDescriptor.html" title="Specifies the location (and size) of various objects in the minidump file." alt="" coords="642,45,809,86"/>
+<area shape="rect" id="node3" title=" " alt="" coords="315,5,479,61"/>
+<area shape="rect" id="node4" href="$structllvm_1_1support_1_1detail_1_1packed__endian__specific__integral.html" title=" " alt="" coords="641,143,809,199"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,192,191,219"/>
+<area shape="rect" id="node8" href="$structllvm_1_1support_1_1detail_1_1packed__endian__specific__integral.html" title=" " alt="" coords="300,219,495,290"/>
+<area shape="rect" id="node6" title=" " alt="" coords="75,271,121,297"/>
+<area shape="rect" id="node7" title=" " alt="" coords="70,104,126,131"/>
+</map>

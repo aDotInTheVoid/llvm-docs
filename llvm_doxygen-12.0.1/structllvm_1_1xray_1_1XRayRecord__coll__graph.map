@@ -1,0 +1,10 @@
+<map id="llvm::xray::XRayRecord" name="llvm::xray::XRayRecord">
+<area shape="rect" id="node1" title="An XRayRecord is the denormalized view of data associated in a trace." alt="" coords="231,109,389,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,5,165,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="190,5,251,32"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title=" " alt="" coords="276,5,344,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="368,5,423,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="447,5,546,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="571,5,697,32"/>
+</map>

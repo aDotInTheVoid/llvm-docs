@@ -1,0 +1,7 @@
+<map id="llvm::SIScheduleDAGMI" name="llvm::SIScheduleDAGMI">
+<area shape="rect" id="node1" title=" " alt="" coords="11,304,173,331"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGMILive.html" title="ScheduleDAGMILive is an implementation of ScheduleDAGInstrs that schedules machine instructions while..." alt="" coords="5,229,179,256"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScheduleDAGMI.html" title="ScheduleDAGMI is an implementation of ScheduleDAGInstrs that simply schedules machine instructions ac..." alt="" coords="17,155,167,181"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ScheduleDAGInstrs.html" title="A ScheduleDAG for scheduling lists of MachineInstr." alt="" coords="7,80,177,107"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ScheduleDAG.html" title=" " alt="" coords="25,5,159,32"/>
+</map>

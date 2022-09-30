@@ -1,0 +1,5 @@
+<map id="llvm::SwitchInst::CaseHandleImpl&lt; SwitchInstT, ConstantIntT, BasicBlockT &gt;" name="llvm::SwitchInst::CaseHandleImpl&lt; SwitchInstT, ConstantIntT, BasicBlockT &gt;">
+<area shape="rect" id="node1" title="A handle to a particular switch case." alt="" coords="5,95,241,151"/>
+<area shape="rect" id="node2" href="$classptrdiff__t.html" title=" " alt="" coords="29,5,103,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="127,5,235,32"/>
+</map>

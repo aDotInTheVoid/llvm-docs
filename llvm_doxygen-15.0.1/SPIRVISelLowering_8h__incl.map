@@ -1,0 +1,52 @@
+<map id="lib/Target/SPIRV/SPIRVISelLowering.h" name="lib/Target/SPIRV/SPIRVISelLowering.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2673,5,2863,47"/>
+<area shape="rect" id="node2" href="$TargetLowering_8h.html" title=" " alt="" coords="2653,95,2883,121"/>
+<area shape="rect" id="node3" href="$APInt_8h.html" title=" " alt="" coords="865,579,997,606"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1723,736,1792,763"/>
+<area shape="rect" id="node7" title=" " alt="" coords="175,736,241,763"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2597,736,2664,763"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4098,736,4158,763"/>
+<area shape="rect" id="node11" href="$ArrayRef_8h.html" title=" " alt="" coords="4535,579,4689,606"/>
+<area shape="rect" id="node13" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="3289,736,3500,763"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4560,736,4645,763"/>
+<area shape="rect" id="node15" title=" " alt="" coords="563,736,621,763"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title=" " alt="" coords="4470,661,4645,688"/>
+<area shape="rect" id="node20" title=" " alt="" coords="5255,736,5326,763"/>
+<area shape="rect" id="node22" href="$STLArrayExtras_8h.html" title=" " alt="" coords="5725,736,5923,763"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2505,661,2567,688"/>
+<area shape="rect" id="node25" href="$DenseMap_8h.html" title=" " alt="" coords="4025,579,4191,606"/>
+<area shape="rect" id="node26" href="$StringRef_8h.html" title=" " alt="" coords="3048,661,3205,688"/>
+<area shape="rect" id="node27" href="$DAGCombine_8h.html" title=" " alt="" coords="3979,259,4197,285"/>
+<area shape="rect" id="node28" href="$ISDOpcodes_8h.html" title=" " alt="" coords="1528,333,1736,360"/>
+<area shape="rect" id="node29" href="$ValueTypes_8h.html" title=" " alt="" coords="1477,497,1680,524"/>
+<area shape="rect" id="node30" href="$MachineValueType_8h.html" title=" " alt="" coords="1520,572,1720,613"/>
+<area shape="rect" id="node31" href="$LowLevelType_8h.html" title=" " alt="" coords="1275,177,1496,203"/>
+<area shape="rect" id="node32" href="$RuntimeLibcalls_8h.html" title=" " alt="" coords="4088,415,4323,442"/>
+<area shape="rect" id="node33" href="$AtomicOrdering_8h.html" title=" " alt="" coords="5253,497,5475,524"/>
+<area shape="rect" id="node34" href="$SelectionDAG_8h.html" title=" " alt="" coords="3195,177,3413,203"/>
+<area shape="rect" id="node35" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="3543,259,3803,285"/>
+<area shape="rect" id="node36" href="$IR_2Instruction_8h.html" title=" " alt="" coords="4651,415,4805,442"/>
+<area shape="rect" id="node37" href="$Instructions_8h.html" title=" " alt="" coords="4735,333,4895,360"/>
+<area shape="rect" id="node38" href="$DerivedTypes_8h.html" title=" " alt="" coords="2705,415,2877,442"/>
+<area shape="rect" id="node39" href="$Type_8h.html" title=" " alt="" coords="2017,497,2132,524"/>
+<area shape="rect" id="node40" href="$Casting_8h.html" title=" " alt="" coords="1123,579,1293,606"/>
+<area shape="rect" id="node41" title=" " alt="" coords="3960,333,4160,360"/>
+<area shape="rect" id="node42" title=" " alt="" coords="4221,259,4272,285"/>
+<area shape="rect" id="node43" href="$TargetCallingConv_8h.html" title=" " alt="" coords="732,408,935,449"/>
+<area shape="rect" id="node44" href="$Alignment_8h.html" title=" " alt="" coords="550,579,738,606"/>
+<area shape="rect" id="node45" href="$Attributes_8h.html" title=" " alt="" coords="2555,497,2703,524"/>
+<area shape="rect" id="node46" href="$CallingConv_8h.html" title=" " alt="" coords="3105,415,3266,442"/>
+<area shape="rect" id="node47" href="$DataLayout_8h.html" title=" " alt="" coords="2166,333,2325,360"/>
+<area shape="rect" id="node48" href="$Function_8h.html" title=" " alt="" coords="2603,333,2741,360"/>
+<area shape="rect" id="node49" href="$InlineAsm_8h.html" title=" " alt="" coords="2251,579,2400,606"/>
+<area shape="rect" id="node50" href="$InstructionCost_8h.html" title=" " alt="" coords="869,169,1048,211"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="2921,811,3100,837"/>
+<area shape="rect" id="node5" href="$MathExtras_8h.html" title=" " alt="" coords="997,661,1192,688"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3677,736,3744,763"/>
+<area shape="rect" id="node12" href="$Hashing_8h.html" title=" " alt="" coords="3635,661,3786,688"/>
+<area shape="rect" id="node16" href="$None_8h.html" title=" " alt="" coords="5342,661,5474,688"/>
+<area shape="rect" id="node18" title=" " alt="" coords="5117,811,5187,837"/>
+<area shape="rect" id="node19" title=" " alt="" coords="4425,736,4535,763"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title=" " alt="" coords="4901,661,5064,688"/>
+<area shape="rect" id="node23" title=" " alt="" coords="4720,661,4776,688"/>
+</map>

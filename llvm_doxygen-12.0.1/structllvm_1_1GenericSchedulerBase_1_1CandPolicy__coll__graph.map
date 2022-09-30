@@ -1,0 +1,5 @@
+<map id="llvm::GenericSchedulerBase::CandPolicy" name="llvm::GenericSchedulerBase::CandPolicy">
+<area shape="rect" id="node1" title="Policy for scheduling the next instruction in the candidate&#39;s zone." alt="" coords="5,109,192,151"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="13,5,59,32"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="124,5,199,32"/>
+</map>

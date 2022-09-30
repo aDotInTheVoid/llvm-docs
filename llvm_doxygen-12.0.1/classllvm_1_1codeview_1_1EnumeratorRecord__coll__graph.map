@@ -1,0 +1,12 @@
+<map id="llvm::codeview::EnumeratorRecord" name="llvm::codeview::EnumeratorRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="737,75,920,117"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="447,7,633,33"/>
+<area shape="rect" id="node3" title=" " alt="" coords="232,7,349,33"/>
+<area shape="rect" id="node4" href="$classllvm_1_1APSInt.html" title="An arbitrary precision integer that knows its signedness." alt="" coords="492,57,588,84"/>
+<area shape="rect" id="node5" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers." alt="" coords="247,57,334,84"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,57,73,84"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="486,108,594,135"/>
+<area shape="rect" id="node8" href="$classsize__t.html" title=" " alt="" coords="263,108,319,135"/>
+<area shape="rect" id="node9" href="$structllvm_1_1codeview_1_1MemberAttributes.html" title="Equvalent to CV_fldattr_t in cvinfo.h." alt="" coords="431,159,649,185"/>
+<area shape="rect" id="node10" title=" " alt="" coords="257,159,325,185"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="include/llvm/Transforms/Utils/SimplifyCFGOptions.h" name="include/llvm/Transforms/Utils/SimplifyCFGOptions.h">
+<area shape="rect" id="node1" title=" " alt="" coords="389,5,577,47"/>
+<area shape="rect" id="node2" href="$SimplifyCFG_8h.html" title="This file provides the interface for the pass responsible for both simplifying and canonicalizing the..." alt="" coords="249,95,409,136"/>
+<area shape="rect" id="node4" href="$BPFTargetMachine_8cpp.html" title=" " alt="" coords="5,184,175,225"/>
+<area shape="rect" id="node5" href="$SimplifyCFGPass_8cpp.html" title=" " alt="" coords="405,184,561,225"/>
+<area shape="rect" id="node6" href="$llvm_2Transforms_2Scalar_8h.html" title=" " alt="" coords="4517,95,4677,136"/>
+<area shape="rect" id="node50" href="$Transforms_2Utils_2Local_8h.html" title=" " alt="" coords="1875,95,2035,136"/>
+<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="199,191,381,218"/>
+<area shape="rect" id="node7" href="$CodeGenPassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="7623,184,7786,225"/>
+<area shape="rect" id="node8" href="$LinkAllPasses_8h.html" title=" " alt="" coords="7810,191,7999,218"/>
+<area shape="rect" id="node9" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target,..." alt="" coords="2222,191,2435,218"/>
+<area shape="rect" id="node10" href="$TargetPassConfig_8cpp.html" title=" " alt="" coords="8023,191,8250,218"/>
+<area shape="rect" id="node11" href="$AArch64TargetMachine_8cpp.html" title=" " alt="" coords="8274,184,8461,225"/>
+<area shape="rect" id="node12" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="8485,184,8719,225"/>
+<area shape="rect" id="node13" href="$AMDGPUUnifyDivergentExitNodes_8cpp.html" title=" " alt="" coords="2460,184,2691,225"/>
+<area shape="rect" id="node14" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations." alt="" coords="8743,184,8930,225"/>
+<area shape="rect" id="node15" href="$ARMTargetMachine_8cpp.html" title=" " alt="" coords="8954,184,9133,225"/>
+<area shape="rect" id="node16" href="$HexagonLoopIdiomRecognition_8cpp.html" title=" " alt="" coords="2715,184,2945,225"/>
+<area shape="rect" id="node17" href="$HexagonOptimizeSZextends_8cpp.html" title=" " alt="" coords="9157,184,9373,225"/>
+<area shape="rect" id="node18" href="$HexagonTargetMachine_8cpp.html" title=" " alt="" coords="3889,184,4075,225"/>
+<area shape="rect" id="node19" href="$HexagonVectorLoopCarriedReuse_8cpp.html" title=" " alt="" coords="4099,184,4345,225"/>
+<area shape="rect" id="node20" href="$NVPTXTargetMachine_8cpp.html" title=" " alt="" coords="4369,184,4579,225"/>
+<area shape="rect" id="node21" href="$NVVMReflect_8cpp.html" title=" " alt="" coords="4603,191,4835,218"/>
+<area shape="rect" id="node22" href="$PPCLoopInstrFormPrep_8cpp.html" title=" " alt="" coords="2970,184,3159,225"/>
+<area shape="rect" id="node23" href="$PPCTargetMachine_8cpp.html" title=" " alt="" coords="4859,184,5022,225"/>
+<area shape="rect" id="node24" href="$SystemZTargetMachine_8cpp.html" title=" " alt="" coords="5047,184,5235,225"/>
+<area shape="rect" id="node25" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine." alt="" coords="5259,184,5479,225"/>
+<area shape="rect" id="node26" href="$CoroCleanup_8cpp.html" title=" " alt="" coords="5503,184,5674,225"/>
+<area shape="rect" id="node27" href="$CoroSplit_8cpp.html" title=" " alt="" coords="3183,184,3354,225"/>
+<area shape="rect" id="node28" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code." alt="" coords="3378,184,3525,225"/>
+<area shape="rect" id="node29" href="$LoopExtractor_8cpp.html" title=" " alt="" coords="5699,184,5831,225"/>
+<area shape="rect" id="node30" href="$PassManagerBuilder_8cpp.html" title=" " alt="" coords="5855,184,6026,225"/>
+<area shape="rect" id="node31" href="$ADCE_8cpp.html" title=" " alt="" coords="6051,184,6196,225"/>
+<area shape="rect" id="node32" href="$AlignmentFromAssumptions_8cpp.html" title=" " alt="" coords="6220,184,6435,225"/>
+<area shape="rect" id="node33" href="$AnnotationRemarks_8cpp.html" title=" " alt="" coords="6459,184,6625,225"/>
+<area shape="rect" id="node34" href="$BDCE_8cpp.html" title=" " alt="" coords="3549,184,3695,225"/>
+<area shape="rect" id="node35" href="$CallSiteSplitting_8cpp.html" title=" " alt="" coords="3719,184,3864,225"/>
+<area shape="rect" id="node36" href="$ConstantHoisting_8cpp.html" title=" " alt="" coords="586,184,738,225"/>
+<area shape="rect" id="node37" href="$ConstraintElimination_8cpp.html" title=" " alt="" coords="6649,184,6824,225"/>
+<area shape="rect" id="node38" href="$CorrelatedValuePropagation_8cpp.html" title=" " alt="" coords="763,184,975,225"/>
+<area shape="rect" id="node39" href="$DCE_8cpp.html" title=" " alt="" coords="999,184,1144,225"/>
+<area shape="rect" id="node40" href="$DeadStoreElimination_8cpp.html" title=" " alt="" coords="1168,184,1345,225"/>
+<area shape="rect" id="node41" href="$DivRemPairs_8cpp.html" title=" " alt="" coords="6848,184,6993,225"/>
+<area shape="rect" id="node42" href="$EarlyCSE_8cpp.html" title=" " alt="" coords="1369,184,1515,225"/>
+<area shape="rect" id="node43" href="$FlattenCFGPass_8cpp.html" title=" " alt="" coords="1539,184,1689,225"/>
+<area shape="rect" id="node44" href="$Float2Int_8cpp.html" title=" " alt="" coords="7017,184,7163,225"/>
+<area shape="rect" id="node45" href="$GuardWidening_8cpp.html" title=" " alt="" coords="7187,184,7332,225"/>
+<area shape="rect" id="node46" href="$GVNHoist_8cpp.html" title=" " alt="" coords="1713,184,1859,225"/>
+<area shape="rect" id="node47" href="$GVNSink_8cpp.html" title="This pass attempts to sink instructions into successors, reducing static instruction count and enabli..." alt="" coords="1883,184,2028,225"/>
+<area shape="rect" id="node48" href="$InductiveRangeCheckElimination_8cpp.html" title=" " alt="" coords="7357,184,7599,225"/>
+<area shape="rect" id="node49" href="$IndVarSimplify_8cpp.html" title=" " alt="" coords="2052,184,2197,225"/>
+</map>

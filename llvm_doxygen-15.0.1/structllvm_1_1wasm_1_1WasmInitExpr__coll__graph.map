@@ -1,0 +1,12 @@
+<map id="llvm::wasm::WasmInitExpr" name="llvm::wasm::WasmInitExpr">
+<area shape="rect" id="node1" title=" " alt="" coords="221,199,417,225"/>
+<area shape="rect" id="node2" href="$structllvm_1_1wasm_1_1WasmInitExprMVP.html" title=" " alt="" coords="206,109,431,136"/>
+<area shape="rect" id="node3" href="$classuint64__t.html" title=" " alt="" coords="96,5,171,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="357,5,424,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="448,5,515,32"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="539,5,613,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="195,5,333,32"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="565,109,755,136"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="637,5,792,32"/>
+</map>

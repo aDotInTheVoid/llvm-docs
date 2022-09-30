@@ -1,0 +1,8 @@
+<map id="llvm::GlobalsMetadata::Entry" name="llvm::GlobalsMetadata::Entry">
+<area shape="rect" id="node1" title=" " alt="" coords="144,303,315,344"/>
+<area shape="rect" id="node2" href="$structllvm_1_1LocationMetadata.html" title="Frontend&#45;provided metadata for source location." alt="" coords="5,199,181,225"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,95,59,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="127,95,246,121"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title=" " alt="" coords="157,5,217,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="297,199,348,225"/>
+</map>

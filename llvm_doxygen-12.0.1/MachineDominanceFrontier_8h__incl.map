@@ -1,0 +1,52 @@
+<map id="include/llvm/CodeGen/MachineDominanceFrontier.h" name="include/llvm/CodeGen/MachineDominanceFrontier.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3342,5,3538,47"/>
+<area shape="rect" id="node2" href="$DominanceFrontier_8h.html" title=" " alt="" coords="3477,191,3701,218"/>
+<area shape="rect" id="node35" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph." alt="" coords="3894,273,4103,300"/>
+<area shape="rect" id="node40" href="$DominanceFrontierImpl_8h.html" title=" " alt="" coords="3333,95,3547,136"/>
+<area shape="rect" id="node41" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1158,348,1349,389"/>
+<area shape="rect" id="node49" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="1192,184,1400,225"/>
+<area shape="rect" id="node3" href="$GraphTraits_8h.html" title=" " alt="" coords="3606,437,3765,464"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2533,825,2587,852"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3279,273,3446,300"/>
+<area shape="rect" id="node7" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="2582,355,2741,382"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1588,751,1655,777"/>
+<area shape="rect" id="node29" href="$Pass_8h.html" title=" " alt="" coords="1576,437,1667,464"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3687,273,3734,300"/>
+<area shape="rect" id="node39" title=" " alt="" coords="3471,273,3511,300"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2475,751,2645,777"/>
+<area shape="rect" id="node8" href="$DenseMap_8h.html" title=" " alt="" coords="4152,676,4307,703"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2208,751,2283,777"/>
+<area shape="rect" id="node12" title=" " alt="" coords="4033,751,4095,777"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3155,751,3218,777"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4505,751,4588,777"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title=" " alt="" coords="1913,676,2066,703"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1763,751,1834,777"/>
+<area shape="rect" id="node19" href="$SmallPtrSet_8h.html" title=" " alt="" coords="3816,676,3976,703"/>
+<area shape="rect" id="node20" href="$StringRef_8h.html" title=" " alt="" coords="2349,594,2493,621"/>
+<area shape="rect" id="node22" href="$TinyPtrVector_8h.html" title=" " alt="" coords="3485,594,3656,621"/>
+<area shape="rect" id="node24" href="$Function_8h.html" title=" " alt="" coords="2046,512,2175,539"/>
+<area shape="rect" id="node25" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="2097,437,2218,464"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1129,512,1186,539"/>
+<area shape="rect" id="node27" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="4158,594,4357,621"/>
+<area shape="rect" id="node28" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="1464,512,1667,539"/>
+<area shape="rect" id="node30" href="$Debug_8h.html" title=" " alt="" coords="4035,512,4184,539"/>
+<area shape="rect" id="node31" href="$TimeProfiler_8h.html" title=" " alt="" coords="3147,437,3328,464"/>
+<area shape="rect" id="node33" href="$TypeName_8h.html" title=" " alt="" coords="2505,512,2679,539"/>
+<area shape="rect" id="node34" title=" " alt="" coords="3009,512,3047,539"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3606,751,3671,777"/>
+<area shape="rect" id="node16" title=" " alt="" coords="228,751,289,777"/>
+<area shape="rect" id="node17" title=" " alt="" coords="379,751,458,777"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2243,676,2298,703"/>
+<area shape="rect" id="node23" href="$SmallVector_8h.html" title=" " alt="" coords="3326,676,3487,703"/>
+<area shape="rect" id="node32" href="$raw__ostream_8h.html" title=" " alt="" coords="3224,512,3411,539"/>
+<area shape="rect" id="node36" href="$CFGDiff_8h.html" title=" " alt="" coords="3861,355,4019,382"/>
+<area shape="rect" id="node37" href="$CFGUpdate_8h.html" title=" " alt="" coords="4093,437,4275,464"/>
+<area shape="rect" id="node42" href="$ilist_8h.html" title=" " alt="" coords="2678,676,2789,703"/>
+<area shape="rect" id="node43" href="$SparseBitVector_8h.html" title=" " alt="" coords="2699,437,2885,464"/>
+<area shape="rect" id="node44" href="$MachineInstr_8h.html" title=" " alt="" coords="797,594,992,621"/>
+<area shape="rect" id="node45" href="$DebugLoc_8h.html" title=" " alt="" coords="904,676,1043,703"/>
+<area shape="rect" id="node46" href="$MachineInstrBundleIterator_8h.html" title=" " alt="" coords="2821,587,3005,628"/>
+<area shape="rect" id="node47" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="2960,437,3123,464"/>
+<area shape="rect" id="node48" href="$BranchProbability_8h.html" title=" " alt="" coords="1270,676,1482,703"/>
+<area shape="rect" id="node50" href="$MachineFunction_8h.html" title=" " alt="" coords="885,273,1104,300"/>
+</map>

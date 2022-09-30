@@ -1,0 +1,5 @@
+<map id="llvm::orc::TargetProcessControl" name="llvm::orc::TargetProcessControl">
+<area shape="rect" id="node1" title="TargetProcessControl supports interaction with a JIT target process." alt="" coords="5,39,169,80"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1OrcRPCTargetProcessControlBase.html" title=" " alt="" coords="217,5,429,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1SelfTargetProcessControl.html" title="A TargetProcessControl implementation targeting the current process." alt="" coords="230,71,417,112"/>
+</map>

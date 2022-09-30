@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/SIInstrInfo.h" name="lib/Target/AMDGPU/SIInstrInfo.h">
+<area shape="rect" id="node1" title="Interface definition for SIInstrInfo." alt="" coords="4852,5,5032,47"/>
+<area shape="rect" id="node2" href="$AMDGPUExportClustering_8cpp.html" title=" " alt="" coords="5,95,244,136"/>
+<area shape="rect" id="node3" href="$AMDGPULegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for AMDGPU." alt="" coords="269,95,519,136"/>
+<area shape="rect" id="node9" href="$AMDGPUMacroFusion_8cpp.html" title=" " alt="" coords="4457,95,4691,136"/>
+<area shape="rect" id="node10" href="$AMDGPUAsmParser_8cpp.html" title=" " alt="" coords="4716,95,4923,136"/>
+<area shape="rect" id="node11" href="$GCNSubtarget_8h.html" title="AMD GCN specific subclass of TargetSubtarget." alt="" coords="4947,102,5185,129"/>
+<area shape="rect" id="node39" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo." alt="" coords="9772,184,9952,225"/>
+<area shape="rect" id="node49" href="$SIMachineFunctionInfo_8h.html" title=" " alt="" coords="8397,95,8599,136"/>
+<area shape="rect" id="node50" href="$SIMachineScheduler_8cpp.html" title="SI Machine Scheduler interface." alt="" coords="8674,95,8877,136"/>
+<area shape="rect" id="node4" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="6393,273,6614,315"/>
+<area shape="rect" id="node5" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU." alt="" coords="6638,273,6889,315"/>
+<area shape="rect" id="node6" href="$AMDGPUPostLegalizerCombiner_8cpp.html" title=" " alt="" coords="530,184,757,225"/>
+<area shape="rect" id="node7" href="$AMDGPURegBankCombiner_8cpp.html" title=" " alt="" coords="283,184,505,225"/>
+<area shape="rect" id="node8" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget." alt="" coords="6913,281,7192,307"/>
+<area shape="rect" id="node12" href="$AMDGPUAnnotateKernelFeatures_8cpp.html" title=" " alt="" coords="3793,184,4043,225"/>
+<area shape="rect" id="node13" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code." alt="" coords="7544,184,7769,225"/>
+<area shape="rect" id="node14" href="$AMDGPUAtomicOptimizer_8cpp.html" title="This pass optimizes atomic operations by using a single lane of a wavefront to perform the atomic ope..." alt="" coords="4068,184,4307,225"/>
+<area shape="rect" id="node15" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer." alt="" coords="7793,184,8075,225"/>
+<area shape="rect" id="node16" href="$AMDGPUInstCombineIntrinsic_8cpp.html" title=" " alt="" coords="4331,184,4553,225"/>
+<area shape="rect" id="node17" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets." alt="" coords="8099,184,8321,225"/>
+<area shape="rect" id="node18" href="$AMDGPULibCalls_8cpp.html" title="This file does AMD library function optimizations." alt="" coords="4577,184,4793,225"/>
+<area shape="rect" id="node19" href="$AMDGPULowerKernelArguments_8cpp.html" title=" " alt="" coords="4817,184,5051,225"/>
+<area shape="rect" id="node20" href="$AMDGPUMachineCFGStructurizer_8cpp.html" title=" " alt="" coords="5075,184,5323,225"/>
+<area shape="rect" id="node21" href="$AMDGPUMIRFormatter_8cpp.html" title="Implementation of AMDGPU overrides of MIRFormatter." alt="" coords="8346,191,8650,218"/>
+<area shape="rect" id="node22" href="$AMDGPUPromoteAlloca_8cpp.html" title=" " alt="" coords="5347,184,5595,225"/>
+<area shape="rect" id="node23" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU." alt="" coords="8675,184,8921,225"/>
+<area shape="rect" id="node24" href="$AMDGPUTargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets." alt="" coords="6646,184,6881,225"/>
+<area shape="rect" id="node25" href="$GCNDPPCombine_8cpp.html" title=" " alt="" coords="5619,191,5894,218"/>
+<area shape="rect" id="node26" href="$GCNHazardRecognizer_8cpp.html" title=" " alt="" coords="5919,184,6133,225"/>
+<area shape="rect" id="node27" href="$GCNNSAReassign_8cpp.html" title="Try to reassign registers on GFX10+ from non&#45;sequential to sequential in NSA image instructions." alt="" coords="8945,191,9224,218"/>
+<area shape="rect" id="node28" href="$GCNRegBankReassign_8cpp.html" title="Try to reassign registers on GFX10+ to reduce register bank conflicts." alt="" coords="9249,184,9443,225"/>
+<area shape="rect" id="node29" href="$GCNRegPressure_8h.html" title="This file defines the GCNRegPressure class, which tracks registry pressure by bookkeeping number of S..." alt="" coords="6158,184,6353,225"/>
+<area shape="rect" id="node30" href="$SIAddIMGInit_8cpp.html" title="Any MIMG instructions that use tfe or lwe require an initialization of the result register that will ..." alt="" coords="6377,191,6621,218"/>
+<area shape="rect" id="node31" href="$SIAnnotateControlFlow_8cpp.html" title="Annotates the control flow with hardware specific intrinsics." alt="" coords="781,184,988,225"/>
+<area shape="rect" id="node32" href="$SIFixSGPRCopies_8cpp.html" title="Copies from VGPR to SGPR registers are illegal and the register coalescer will sometimes generate the..." alt="" coords="1013,191,1287,218"/>
+<area shape="rect" id="node33" href="$SIFixVGPRCopies_8cpp.html" title="Add implicit use of exec to vector register copies." alt="" coords="1312,191,1585,218"/>
+<area shape="rect" id="node34" href="$SIFoldOperands_8cpp.html" title=" " alt="" coords="9467,184,9646,225"/>
+<area shape="rect" id="node35" href="$SIFrameLowering_8cpp.html" title=" " alt="" coords="6905,184,7096,225"/>
+<area shape="rect" id="node36" href="$SIInsertHardClauses_8cpp.html" title="Insert s_clause instructions to form hard clauses." alt="" coords="1609,184,1797,225"/>
+<area shape="rect" id="node37" href="$SIInsertSkips_8cpp.html" title="This pass inserts branches on the 0 exec mask over divergent branches branches when it&#39;s expected tha..." alt="" coords="1821,184,2009,225"/>
+<area shape="rect" id="node38" href="$SIInsertWaitcnts_8cpp.html" title="Insert wait instructions for memory reads and writes." alt="" coords="7120,184,7308,225"/>
+<area shape="rect" id="node40" href="$SILoadStoreOptimizer_8cpp.html" title=" " alt="" coords="2033,184,2216,225"/>
+<area shape="rect" id="node41" href="$SILowerControlFlow_8cpp.html" title="This pass lowers the pseudo control flow instructions to real machine instructions." alt="" coords="2240,184,2428,225"/>
+<area shape="rect" id="node42" href="$SILowerI1Copies_8cpp.html" title=" " alt="" coords="2452,184,2640,225"/>
+<area shape="rect" id="node43" href="$SILowerSGPRSpills_8cpp.html" title=" " alt="" coords="7332,184,7520,225"/>
+<area shape="rect" id="node44" href="$SIMemoryLegalizer_8cpp.html" title="Memory legalizer &#45; implements memory model." alt="" coords="2665,184,2867,225"/>
+<area shape="rect" id="node45" href="$SIModeRegister_8cpp.html" title="This pass inserts changes to the Mode register settings as required." alt="" coords="2891,184,3078,225"/>
+<area shape="rect" id="node46" href="$SIOptimizeExecMasking_8cpp.html" title=" " alt="" coords="3102,184,3307,225"/>
+<area shape="rect" id="node47" href="$SIOptimizeExecMaskingPreRA_8cpp.html" title="This pass performs exec mask handling peephole optimizations which needs to be done before register a..." alt="" coords="3331,184,3537,225"/>
+<area shape="rect" id="node48" href="$SIPeepholeSDWA_8cpp.html" title=" " alt="" coords="3561,184,3768,225"/>
+</map>

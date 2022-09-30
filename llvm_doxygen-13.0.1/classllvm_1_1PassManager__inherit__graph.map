@@ -1,0 +1,10 @@
+<map id="llvm::PassManager&lt; IRUnitT, AnalysisManagerT, ExtraArgTs &gt;" name="llvm::PassManager&lt; IRUnitT, AnalysisManagerT, ExtraArgTs &gt;">
+<area shape="rect" id="node1" title="Manages a sequence of passes over a particular unit of IR." alt="" coords="633,94,840,150"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="1179,5,1335,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="1179,71,1335,112"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="1129,137,1384,193"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="1139,217,1374,302"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="383,87,584,157"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,101,155,143"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MachineFunctionPassManager.html" title="MachineFunctionPassManager adds/removes below features to/from the base PassManager template instanti..." alt="" coords="1433,144,1632,185"/>
+</map>

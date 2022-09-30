@@ -1,0 +1,6 @@
+<map id="llvm::BasicTTIImplBase&lt; T &gt;" name="llvm::BasicTTIImplBase&lt; T &gt;">
+<area shape="rect" id="node1" title="Base class which can be used to help build a TTI implementation." alt="" coords="5,276,219,303"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title="CRTP base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class." alt="" coords="17,185,207,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetTransformInfoImplBase.html" title="Base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class." alt="" coords="17,95,207,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="83,5,141,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::SubtargetSubTypeKV" name="llvm::SubtargetSubTypeKV">
+<area shape="rect" id="node1" title="Used to provide key value pairs for feature and CPU bit flags." alt="" coords="65,185,259,212"/>
+<area shape="rect" id="node2" href="$classllvm_1_1FeatureBitArray.html" title="Class used to store the subtarget bits in the tables created by tablegen." alt="" coords="5,81,167,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FeatureBitset.html" title="Container class for subtarget features." alt="" coords="13,5,159,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="191,81,248,108"/>
+</map>

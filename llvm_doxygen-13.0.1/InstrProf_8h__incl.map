@@ -1,0 +1,52 @@
+<map id="include/llvm/ProfileData/InstrProf.h" name="include/llvm/ProfileData/InstrProf.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3597,5,3776,47"/>
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title=" " alt="" coords="1755,333,1909,360"/>
+<area shape="rect" id="node4" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4720,632,4931,659"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title=" " alt="" coords="2263,707,2441,733"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5725,707,5784,733"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5028,632,5113,659"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2083,632,2152,659"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5139,632,5205,659"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1175,632,1235,659"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2802,557,2873,584"/>
+<area shape="rect" id="node21" title=" " alt="" coords="736,557,813,584"/>
+<area shape="rect" id="node23" href="$STLExtras_8h.html" title=" " alt="" coords="2233,408,2396,435"/>
+<area shape="rect" id="node28" title=" " alt="" coords="4883,483,4949,509"/>
+<area shape="rect" id="node30" title=" " alt="" coords="5173,408,5235,435"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title=" " alt="" coords="2815,333,2972,360"/>
+<area shape="rect" id="node32" href="$StringSet_8h.html" title=" " alt="" coords="755,102,912,129"/>
+<area shape="rect" id="node34" href="$Triple_8h.html" title=" " alt="" coords="3385,184,3519,211"/>
+<area shape="rect" id="node36" href="$GlobalValue_8h.html" title=" " alt="" coords="2931,102,3093,129"/>
+<area shape="rect" id="node40" href="$MD5_8h.html" title=" " alt="" coords="2982,259,3133,285"/>
+<area shape="rect" id="node41" href="$Endian_8h.html" title=" " alt="" coords="3903,408,4068,435"/>
+<area shape="rect" id="node42" href="$ProfileSummary_8h.html" title=" " alt="" coords="5252,333,5439,360"/>
+<area shape="rect" id="node43" href="$InstrProfData_8inc.html" title=" " alt="" coords="6152,95,6339,136"/>
+<area shape="rect" id="node44" href="$CommandLine_8h.html" title=" " alt="" coords="2533,184,2747,211"/>
+<area shape="rect" id="node45" href="$raw__ostream_8h.html" title=" " alt="" coords="4007,259,4214,285"/>
+<area shape="rect" id="node46" title=" " alt="" coords="4866,333,4974,360"/>
+<area shape="rect" id="node47" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="3669,184,3819,211"/>
+<area shape="rect" id="node48" href="$Host_8h.html" title=" " alt="" coords="5977,102,6127,129"/>
+<area shape="rect" id="node49" href="$MathExtras_8h.html" title=" " alt="" coords="4244,408,4439,435"/>
+<area shape="rect" id="node50" title=" " alt="" coords="6363,102,6405,129"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title=" " alt="" coords="4477,557,4627,584"/>
+<area shape="rect" id="node12" href="$None_8h.html" title=" " alt="" coords="547,557,679,584"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title=" " alt="" coords="3154,408,3329,435"/>
+<area shape="rect" id="node18" title=" " alt="" coords="651,483,762,509"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1878,557,1949,584"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3735,632,3827,659"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1939,408,1995,435"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4285,632,4339,659"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="977,557,1167,584"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3078,483,3143,509"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3555,483,3642,509"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3472,483,3531,509"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title=" " alt="" coords="1243,483,1397,509"/>
+<area shape="rect" id="node25" href="$STLForwardCompat_8h.html" title=" " alt="" coords="2205,557,2429,584"/>
+<area shape="rect" id="node26" href="$iterator_8h.html" title=" " alt="" coords="1979,483,2125,509"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2555,483,2749,509"/>
+<area shape="rect" id="node33" href="$StringMap_8h.html" title=" " alt="" coords="513,333,677,360"/>
+<area shape="rect" id="node35" href="$Twine_8h.html" title=" " alt="" coords="3310,259,3445,285"/>
+<area shape="rect" id="node37" href="$Constant_8h.html" title=" " alt="" coords="1522,184,1665,211"/>
+<area shape="rect" id="node38" href="$Value_8h.html" title=" " alt="" coords="1225,259,1345,285"/>
+<area shape="rect" id="node39" href="$DerivedTypes_8h.html" title=" " alt="" coords="2229,259,2401,285"/>
+</map>

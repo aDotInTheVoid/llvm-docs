@@ -1,0 +1,4 @@
+<map id="Sequential Types" name="Sequential Types">
+<area shape="rect" id="node1" href="$group__LLVMCCoreType.html" title="Types represent the type of a value." alt="" coords="5,5,64,31"/>
+<area shape="rect" id="node2" title="Sequential types represents &quot;arrays&quot; of types. This is a super class for array, vector,..." alt="" coords="112,5,244,31"/>
+</map>

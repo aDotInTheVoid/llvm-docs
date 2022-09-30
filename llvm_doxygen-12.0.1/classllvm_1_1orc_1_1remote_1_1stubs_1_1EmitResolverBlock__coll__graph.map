@@ -1,0 +1,5 @@
+<map id="llvm::orc::remote::stubs::EmitResolverBlock" name="llvm::orc::remote::stubs::EmitResolverBlock">
+<area shape="rect" id="node1" title="RPC function to emit the resolver block and return its address." alt="" coords="33,244,205,285"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="5,139,232,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="24,5,213,61"/>
+</map>

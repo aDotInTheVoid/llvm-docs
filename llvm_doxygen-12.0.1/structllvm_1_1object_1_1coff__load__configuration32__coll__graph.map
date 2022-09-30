@@ -1,0 +1,6 @@
+<map id="llvm::object::coff_load_configuration32" name="llvm::object::coff_load_configuration32">
+<area shape="rect" id="node1" title="32&#45;bit load config (IMAGE_LOAD_CONFIG_DIRECTORY32)" alt="" coords="632,142,780,183"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,105,169,161"/>
+<area shape="rect" id="node3" href="$structllvm_1_1object_1_1coff__load__config__code__integrity.html" title=" " alt="" coords="310,142,493,183"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,248,169,304"/>
+</map>

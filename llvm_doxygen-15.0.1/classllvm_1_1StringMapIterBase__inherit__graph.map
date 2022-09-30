@@ -1,0 +1,5 @@
+<map id="llvm::StringMapIterBase&lt; DerivedTy, ValueTy &gt;" name="llvm::StringMapIterBase&lt; DerivedTy, ValueTy &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="691,20,869,61"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="473,5,641,76"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,5,255,76"/>
+</map>

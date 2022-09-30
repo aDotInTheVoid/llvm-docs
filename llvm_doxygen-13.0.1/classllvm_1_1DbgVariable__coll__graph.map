@@ -1,0 +1,4 @@
+<map id="llvm::DbgVariable" name="llvm::DbgVariable">
+<area shape="rect" id="node1" title="This class is used to track local variable information." alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DbgEntity.html" title="This class is defined as the common parent of DbgVariable and DbgLabel such that it could levarage po..." alt="" coords="13,5,136,32"/>
+</map>

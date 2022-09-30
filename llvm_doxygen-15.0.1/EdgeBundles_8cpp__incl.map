@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/EdgeBundles.cpp" name="lib/CodeGen/EdgeBundles.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3909,5,4125,32"/>
+<area shape="rect" id="node2" href="$EdgeBundles_8h.html" title=" " alt="" coords="2459,80,2674,107"/>
+<area shape="rect" id="node21" href="$MachineFunction_8h.html" title=" " alt="" coords="1235,244,1475,271"/>
+<area shape="rect" id="node27" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2644,319,2852,360"/>
+<area shape="rect" id="node29" href="$raw__ostream_8h.html" title=" " alt="" coords="3890,572,4097,599"/>
+<area shape="rect" id="node43" href="$Twine_8h.html" title=" " alt="" coords="3679,572,3814,599"/>
+<area shape="rect" id="node44" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="4671,572,4846,599"/>
+<area shape="rect" id="node48" href="$InitializePasses_8h.html" title=" " alt="" coords="4679,80,4846,107"/>
+<area shape="rect" id="node49" href="$CommandLine_8h.html" title=" " alt="" coords="4106,408,4321,435"/>
+<area shape="rect" id="node50" href="$GraphWriter_8h.html" title=" " alt="" coords="3782,490,3981,517"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title=" " alt="" coords="1533,490,1688,517"/>
+<area shape="rect" id="node19" href="$IntEqClasses_8h.html" title=" " alt="" coords="3192,244,3373,271"/>
+<area shape="rect" id="node20" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="1983,155,2211,196"/>
+<area shape="rect" id="node4" href="$None_8h.html" title=" " alt="" coords="4069,721,4201,748"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title=" " alt="" coords="2645,647,2819,673"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="1855,721,2033,748"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3335,721,3404,748"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2343,721,2414,748"/>
+<area shape="rect" id="node10" title=" " alt="" coords="940,721,1017,748"/>
+<area shape="rect" id="node12" href="$STLExtras_8h.html" title=" " alt="" coords="1975,572,2137,599"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3237,572,3299,599"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4547,721,4634,748"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1737,796,1797,823"/>
+<area shape="rect" id="node13" href="$Optional_8h.html" title=" " alt="" coords="3661,647,3814,673"/>
+<area shape="rect" id="node14" href="$iterator_8h.html" title=" " alt="" coords="1583,647,1729,673"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title=" " alt="" coords="1042,721,1233,748"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="1247,647,1457,673"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1996,647,2063,673"/>
+<area shape="rect" id="node22" href="$BitVector_8h.html" title=" " alt="" coords="1049,408,1205,435"/>
+<area shape="rect" id="node23" href="$DenseMap_8h.html" title=" " alt="" coords="1805,647,1971,673"/>
+<area shape="rect" id="node24" href="$GraphTraits_8h.html" title=" " alt="" coords="779,572,951,599"/>
+<area shape="rect" id="node25" href="$ilist_8h.html" title=" " alt="" coords="2721,572,2844,599"/>
+<area shape="rect" id="node26" href="$EHPersonalities_8h.html" title=" " alt="" coords="998,326,1226,353"/>
+<area shape="rect" id="node32" href="$MachineInstr_8h.html" title=" " alt="" coords="1607,408,1820,435"/>
+<area shape="rect" id="node33" href="$MachineMemOperand_8h.html" title=" " alt="" coords="577,490,850,517"/>
+<area shape="rect" id="node34" href="$AtomicOrdering_8h.html" title=" " alt="" coords="482,572,705,599"/>
+<area shape="rect" id="node36" href="$ArrayRecycler_8h.html" title=" " alt="" coords="1712,490,1923,517"/>
+<area shape="rect" id="node37" href="$Allocator_8h.html" title=" " alt="" coords="2239,572,2417,599"/>
+<area shape="rect" id="node41" href="$Recycler_8h.html" title=" " alt="" coords="2423,490,2599,517"/>
+<area shape="rect" id="node42" href="$TargetOptions_8h.html" title=" " alt="" coords="46,326,247,353"/>
+<area shape="rect" id="node28" href="$SparseBitVector_8h.html" title=" " alt="" coords="3457,490,3657,517"/>
+<area shape="rect" id="node31" title=" " alt="" coords="4257,721,4316,748"/>
+<area shape="rect" id="node35" href="$DebugLoc_8h.html" title=" " alt="" coords="1998,490,2146,517"/>
+<area shape="rect" id="node38" href="$MachineInstrBundleIterator_8h.html" title=" " alt="" coords="2825,483,3028,524"/>
+<area shape="rect" id="node39" href="$LaneBitmask_8h.html" title=" " alt="" coords="2170,490,2347,517"/>
+<area shape="rect" id="node40" href="$BranchProbability_8h.html" title=" " alt="" coords="2895,647,3129,673"/>
+<area shape="rect" id="node30" href="$StringRef_8h.html" title=" " alt="" coords="3889,647,4047,673"/>
+<area shape="rect" id="node45" href="$CodeGen_8h.html" title=" " alt="" coords="4949,647,5129,673"/>
+<area shape="rect" id="node46" href="$Discriminator_8h.html" title=" " alt="" coords="5153,647,5361,673"/>
+<area shape="rect" id="node47" href="$RegAllocCommon_8h.html" title=" " alt="" coords="4678,647,4925,673"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::DenseMapInfo&lt; T &gt;" name="llvm::DenseMapInfo&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,182,196,209"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="414,5,567,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="403,71,579,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="413,137,568,193"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="414,217,567,259"/>
+<area shape="rect" id="node9" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="414,283,567,324"/>
+<area shape="rect" id="node12" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="414,365,567,407"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IRSimilarity_1_1IRInstructionDataTraits.html" title=" " alt="" coords="646,71,825,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DenseMapInfo_3_01AA_1_1PointerInfo_01_1_1OffsetAndSize_01_4.html" title="Helper that allows OffsetAndSize as a key in a DenseMap." alt="" coords="659,137,812,193"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DeclMapInfo.html" title="Info type for the DenseMap storing the DeclContext pointers." alt="" coords="665,221,806,247"/>
+<area shape="rect" id="node10" href="$structllvm_1_1AccessAsInstructionInfo.html" title="Helper for AA::PointerInfo::Acccess DenseMap/Set usage ignoring everythign but the instruction." alt="" coords="628,271,843,298"/>
+<area shape="rect" id="node11" href="$structllvm_1_1DenseMapInfo_3_01AAPointerInfo_1_1Access_01_4.html" title="Helper for AA::PointerInfo::Acccess DenseMap/Set usage." alt="" coords="638,323,833,364"/>
+<area shape="rect" id="node13" href="$structllvm_1_1MachineInstrExpressionTrait.html" title="Special DenseMapInfo traits to compare MachineInstr* by value of the instruction rather than by point..." alt="" coords="628,388,843,429"/>
+</map>

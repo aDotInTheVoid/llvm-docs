@@ -1,0 +1,52 @@
+<map id="include/llvm/Transforms/IPO/ProfiledCallGraph.h" name="include/llvm/Transforms/IPO/ProfiledCallGraph.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2948,5,3127,47"/>
+<area shape="rect" id="node2" href="$GraphTraits_8h.html" title=" " alt="" coords="1849,102,2021,129"/>
+<area shape="rect" id="node5" href="$StringMap_8h.html" title=" " alt="" coords="3311,273,3475,300"/>
+<area shape="rect" id="node7" href="$StringRef_8h.html" title=" " alt="" coords="2112,423,2269,449"/>
+<area shape="rect" id="node24" href="$SampleProf_8h.html" title=" " alt="" coords="1985,191,2202,218"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2992,273,3035,300"/>
+<area shape="rect" id="node41" href="$SampleProfReader_8h.html" title=" " alt="" coords="973,95,1179,136"/>
+<area shape="rect" id="node49" href="$SampleContextTracker_8h.html" title=" " alt="" coords="2835,95,3018,136"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3094,191,3157,218"/>
+<area shape="rect" id="node3" href="$iterator__range_8h.html" title=" " alt="" coords="1657,505,1847,531"/>
+<area shape="rect" id="node4" title=" " alt="" coords="2109,587,2169,613"/>
+<area shape="rect" id="node6" href="$StringMapEntry_8h.html" title=" " alt="" coords="2478,348,2674,375"/>
+<area shape="rect" id="node19" href="$iterator_8h.html" title=" " alt="" coords="3758,423,3903,449"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3681,505,3751,531"/>
+<area shape="rect" id="node21" href="$AllocatorBase_8h.html" title=" " alt="" coords="3320,423,3531,449"/>
+<area shape="rect" id="node22" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="4115,497,4296,539"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3979,505,4090,531"/>
+<area shape="rect" id="node12" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="1923,505,2152,531"/>
+<area shape="rect" id="node8" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2379,505,2571,531"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2675,587,2744,613"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3855,587,3926,613"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3318,587,3410,613"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title=" " alt="" coords="3275,505,3453,531"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1547,505,1632,531"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3000,505,3067,531"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3091,505,3149,531"/>
+<area shape="rect" id="node18" title=" " alt="" coords="993,505,1052,531"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1121,587,1188,613"/>
+<area shape="rect" id="node25" href="$DenseSet_8h.html" title=" " alt="" coords="3228,348,3388,375"/>
+<area shape="rect" id="node26" href="$MathExtras_8h.html" title=" " alt="" coords="3000,423,3195,449"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title=" " alt="" coords="2801,423,2975,449"/>
+<area shape="rect" id="node29" href="$Function_8h.html" title=" " alt="" coords="2024,273,2163,300"/>
+<area shape="rect" id="node30" href="$GlobalValue_8h.html" title=" " alt="" coords="1539,348,1701,375"/>
+<area shape="rect" id="node31" href="$Allocator_8h.html" title=" " alt="" coords="3025,348,3204,375"/>
+<area shape="rect" id="node33" href="$Debug_8h.html" title=" " alt="" coords="1416,273,1579,300"/>
+<area shape="rect" id="node34" href="$ErrorOr_8h.html" title=" " alt="" coords="753,423,919,449"/>
+<area shape="rect" id="node35" title=" " alt="" coords="467,505,575,531"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1603,273,1645,300"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1341,273,1392,300"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2741,273,2816,300"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2593,273,2717,300"/>
+<area shape="rect" id="node28" title=" " alt="" coords="331,505,408,531"/>
+<area shape="rect" id="node32" href="$Optional_8h.html" title=" " alt="" coords="2345,423,2498,449"/>
+<area shape="rect" id="node42" href="$DiagnosticInfo_8h.html" title=" " alt="" coords="1827,348,2005,375"/>
+<area shape="rect" id="node43" href="$LLVMContext_8h.html" title=" " alt="" coords="246,348,415,375"/>
+<area shape="rect" id="node44" href="$ProfileSummary_8h.html" title=" " alt="" coords="1451,423,1637,449"/>
+<area shape="rect" id="node45" href="$GCOV_8h.html" title=" " alt="" coords="987,191,1165,218"/>
+<area shape="rect" id="node46" href="$MemoryBuffer_8h.html" title=" " alt="" coords="795,348,1008,375"/>
+<area shape="rect" id="node47" href="$Discriminator_8h.html" title=" " alt="" coords="411,191,619,218"/>
+<area shape="rect" id="node48" href="$SymbolRemappingReader_8h.html" title=" " alt="" coords="1240,184,1472,225"/>
+</map>

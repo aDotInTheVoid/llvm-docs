@@ -1,0 +1,52 @@
+<map id="include/llvm/ADT/ilist.h" name="include/llvm/ADT/ilist.h">
+<area shape="rect" id="node1" title=" " alt="" coords="957,5,1111,32"/>
+<area shape="rect" id="node2" href="$AliasSetTracker_8h.html" title=" " alt="" coords="731,259,875,300"/>
+<area shape="rect" id="node11" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="2950,259,3094,300"/>
+<area shape="rect" id="node37" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="601,169,753,211"/>
+<area shape="rect" id="node38" href="$MachineFunction_8h.html" title=" " alt="" coords="252,259,403,300"/>
+<area shape="rect" id="node39" href="$SelectionDAG_8h.html" title=" " alt="" coords="5,348,156,389"/>
+<area shape="rect" id="node40" href="$SlotIndexes_8h.html" title=" " alt="" coords="180,348,331,389"/>
+<area shape="rect" id="node41" href="$MachineInstr_8h.html" title=" " alt="" coords="551,80,701,121"/>
+<area shape="rect" id="node42" href="$MachineInstrBundleIterator_8h.html" title=" " alt="" coords="777,80,971,121"/>
+<area shape="rect" id="node43" href="$BasicBlock_8h.html" title=" " alt="" coords="3269,177,3460,203"/>
+<area shape="rect" id="node44" href="$Verifier_8cpp.html" title=" " alt="" coords="4858,266,4981,293"/>
+<area shape="rect" id="node45" href="$SymbolTableListTraits_8h.html" title=" " alt="" coords="1148,80,1336,121"/>
+<area shape="rect" id="node46" href="$MCSection_8h.html" title=" " alt="" coords="1361,87,1555,114"/>
+<area shape="rect" id="node47" href="$Recycler_8h.html" title=" " alt="" coords="283,169,425,211"/>
+<area shape="rect" id="node48" href="$PredicateInfo_8h.html" title="This file implements the PredicateInfo analysis, which creates an Extended SSA form for operations us..." alt="" coords="4407,169,4567,211"/>
+<area shape="rect" id="node49" href="$SymbolRewriter_8cpp.html" title=" " alt="" coords="3587,80,3729,121"/>
+<area shape="rect" id="node50" href="$VPlan_8h.html" title="This file contains the declarations of the Vectorization Plan base classes:" alt="" coords="3753,80,3915,121"/>
+<area shape="rect" id="node3" href="$LinkAllPasses_8h.html" title=" " alt="" coords="551,355,741,382"/>
+<area shape="rect" id="node4" href="$AliasSetTracker_8cpp.html" title=" " alt="" coords="1439,355,1647,382"/>
+<area shape="rect" id="node5" href="$LoopAccessAnalysis_8cpp.html" title=" " alt="" coords="1176,355,1415,382"/>
+<area shape="rect" id="node6" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="917,355,1100,382"/>
+<area shape="rect" id="node7" href="$LICM_8cpp.html" title=" " alt="" coords="1553,437,1699,479"/>
+<area shape="rect" id="node8" href="$LoopRerollPass_8cpp.html" title=" " alt="" coords="1723,348,1868,389"/>
+<area shape="rect" id="node9" href="$LoopSink_8cpp.html" title=" " alt="" coords="1723,437,1868,479"/>
+<area shape="rect" id="node10" href="$LoopVersioningLICM_8cpp.html" title=" " alt="" coords="355,348,527,389"/>
+<area shape="rect" id="node12" href="$MemorySSAUpdater_8h.html" title=" " alt="" coords="3301,348,3458,389"/>
+<area shape="rect" id="node13" href="$LoopInfo_8cpp.html" title=" " alt="" coords="2695,445,2861,471"/>
+<area shape="rect" id="node14" href="$MemorySSAUpdater_8cpp.html" title=" " alt="" coords="1893,445,2130,471"/>
+<area shape="rect" id="node15" href="$InterleavedLoadCombinePass_8cpp.html" title=" " alt="" coords="2886,437,3075,479"/>
+<area shape="rect" id="node16" href="$DeadStoreElimination_8cpp.html" title=" " alt="" coords="2155,437,2332,479"/>
+<area shape="rect" id="node17" href="$EarlyCSE_8cpp.html" title=" " alt="" coords="2356,437,2501,479"/>
+<area shape="rect" id="node18" href="$GVN_8cpp.html" title=" " alt="" coords="3100,437,3245,479"/>
+<area shape="rect" id="node19" href="$GVNHoist_8cpp.html" title=" " alt="" coords="2525,437,2671,479"/>
+<area shape="rect" id="node20" href="$IndVarSimplify_8cpp.html" title=" " alt="" coords="3619,437,3764,479"/>
+<area shape="rect" id="node21" href="$LoopIdiomRecognize_8cpp.html" title=" " alt="" coords="3789,437,3959,479"/>
+<area shape="rect" id="node22" href="$LoopInstSimplify_8cpp.html" title=" " alt="" coords="3983,437,4130,479"/>
+<area shape="rect" id="node23" href="$LoopRotation_8cpp.html" title=" " alt="" coords="3269,437,3415,479"/>
+<area shape="rect" id="node24" href="$LoopSimplifyCFG_8cpp.html" title=" " alt="" coords="3439,437,3594,479"/>
+<area shape="rect" id="node25" href="$LoopStrengthReduce_8cpp.html" title=" " alt="" coords="4155,437,4327,479"/>
+<area shape="rect" id="node26" href="$LoopUnswitch_8cpp.html" title=" " alt="" coords="4351,437,4496,479"/>
+<area shape="rect" id="node27" href="$MemCpyOptimizer_8cpp.html" title=" " alt="" coords="4520,437,4679,479"/>
+<area shape="rect" id="node28" href="$SimpleLoopUnswitch_8cpp.html" title=" " alt="" coords="4703,437,4877,479"/>
+<area shape="rect" id="node29" href="$GVNExpression_8h.html" title="The header file for the GVN pass that contains expression handling classes." alt="" coords="3939,348,4111,389"/>
+<area shape="rect" id="node30" href="$NewGVN_8cpp.html" title="This file implements the new LLVM&#39;s Global Value Numbering pass." alt="" coords="4901,437,5047,479"/>
+<area shape="rect" id="node31" href="$LoopAnalysisManager_8cpp.html" title=" " alt="" coords="2937,348,3107,389"/>
+<area shape="rect" id="node32" href="$MemorySSA_8cpp.html" title=" " alt="" coords="4186,355,4378,382"/>
+<area shape="rect" id="node33" href="$LoopDeletion_8cpp.html" title=" " alt="" coords="3131,348,3276,389"/>
+<area shape="rect" id="node34" href="$LoopLoadElimination_8cpp.html" title=" " alt="" coords="1994,348,2165,389"/>
+<area shape="rect" id="node35" href="$LoopPassManager_8cpp.html" title=" " alt="" coords="2189,348,2348,389"/>
+<area shape="rect" id="node36" href="$LCSSA_8cpp.html" title=" " alt="" coords="2372,348,2507,389"/>
+</map>

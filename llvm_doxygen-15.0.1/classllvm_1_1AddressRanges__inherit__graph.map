@@ -1,0 +1,5 @@
+<map id="llvm::AddressRanges" name="llvm::AddressRanges">
+<area shape="rect" id="node1" title="The AddressRanges class helps normalize address range collections." alt="" coords="43,5,202,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AddressRangesMap.html" title=" " alt="" coords="5,171,192,212"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AddressRangesMap.html" title="AddressRangesMap class maps values to the address ranges." alt="" coords="114,81,339,108"/>
+</map>

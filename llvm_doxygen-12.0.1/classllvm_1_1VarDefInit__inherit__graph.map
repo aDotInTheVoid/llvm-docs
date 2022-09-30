@@ -1,0 +1,11 @@
+<map id="llvm::VarDefInit" name="llvm::VarDefInit">
+<area shape="rect" id="node1" title="classname&lt;targs...&gt; &#45; Represent an uninstantiated anonymous class instantiation." alt="" coords="1633,71,1745,97"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="This is the common superclass of types that have a specific, explicit type, stored in ValueTy." alt="" coords="1461,20,1567,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Init.html" title=" " alt="" coords="1159,20,1231,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="1457,71,1571,97"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="1444,122,1584,163"/>
+<area shape="rect" id="node6" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="833,31,1092,145"/>
+<area shape="rect" id="node7" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,98,213,169"/>
+<area shape="rect" id="node9" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="495,127,809,227"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type." alt="" coords="1116,142,1275,183"/>
+</map>

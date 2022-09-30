@@ -1,0 +1,52 @@
+<map id="lib/Target/X86/X86FloatingPoint.cpp" name="lib/Target/X86/X86FloatingPoint.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2523,5,2717,47"/>
+<area shape="rect" id="node2" href="$X86_8h.html" title=" " alt="" coords="1444,102,1503,129"/>
+<area shape="rect" id="node4" href="$X86InstrInfo_8h.html" title=" " alt="" coords="683,102,797,129"/>
+<area shape="rect" id="node6" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="313,363,524,389"/>
+<area shape="rect" id="node11" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="921,184,1108,225"/>
+<area shape="rect" id="node13" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="885,273,1088,315"/>
+<area shape="rect" id="node19" href="$DepthFirstIterator_8h.html" title=" " alt="" coords="2131,191,2343,218"/>
+<area shape="rect" id="node24" href="$SmallPtrSet_8h.html" title=" " alt="" coords="3433,281,3607,307"/>
+<area shape="rect" id="node29" href="$STLExtras_8h.html" title=" " alt="" coords="3473,191,3636,218"/>
+<area shape="rect" id="node32" title=" " alt="" coords="4328,363,4413,389"/>
+<area shape="rect" id="node35" href="$SmallSet_8h.html" title=" " alt="" coords="3242,191,3398,218"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title=" " alt="" coords="2962,281,3137,307"/>
+<area shape="rect" id="node37" href="$Statistic_8h.html" title=" " alt="" coords="2381,102,2531,129"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2782,191,2967,218"/>
+<area shape="rect" id="node39" href="$EdgeBundles_8h.html" title=" " alt="" coords="3689,102,3903,129"/>
+<area shape="rect" id="node40" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="3711,184,3939,225"/>
+<area shape="rect" id="node41" href="$LivePhysRegs_8h.html" title="This file implements the LivePhysRegs utility for tracking liveness of physical registers." alt="" coords="466,281,686,307"/>
+<area shape="rect" id="node42" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="1832,95,2059,136"/>
+<area shape="rect" id="node43" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1559,184,1780,225"/>
+<area shape="rect" id="node44" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="2991,191,3166,218"/>
+<area shape="rect" id="node45" href="$InlineAsm_8h.html" title=" " alt="" coords="1132,191,1281,218"/>
+<area shape="rect" id="node46" href="$InitializePasses_8h.html" title=" " alt="" coords="3927,102,4094,129"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title=" " alt="" coords="4119,102,4281,129"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title=" " alt="" coords="2449,191,2655,218"/>
+<area shape="rect" id="node49" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="1531,102,1738,129"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4305,102,4364,129"/>
+<area shape="rect" id="node3" href="$CodeGen_8h.html" title=" " alt="" coords="1453,281,1633,307"/>
+<area shape="rect" id="node5" href="$X86BaseInfo_8h.html" title=" " alt="" coords="25,281,239,307"/>
+<area shape="rect" id="node7" href="$X86InstrFMA3Info_8h.html" title=" " alt="" coords="710,281,861,307"/>
+<area shape="rect" id="node9" href="$X86RegisterInfo_8h.html" title=" " alt="" coords="425,191,564,218"/>
+<area shape="rect" id="node10" href="$ISDOpcodes_8h.html" title=" " alt="" coords="588,191,796,218"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1366,281,1429,307"/>
+<area shape="rect" id="node18" title=" " alt="" coords="250,191,401,218"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1168,363,1235,389"/>
+<area shape="rect" id="node12" href="$None_8h.html" title=" " alt="" coords="2143,363,2275,389"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1712,363,1781,389"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2941,363,3011,389"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2739,437,2799,464"/>
+<area shape="rect" id="node20" href="$GraphTraits_8h.html" title=" " alt="" coords="2013,281,2185,307"/>
+<area shape="rect" id="node21" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2674,363,2865,389"/>
+<area shape="rect" id="node22" href="$Optional_8h.html" title=" " alt="" coords="2581,281,2734,307"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3035,363,3106,389"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2311,281,2353,307"/>
+<area shape="rect" id="node23" href="$STLForwardCompat_8h.html" title=" " alt="" coords="3131,363,3355,389"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3617,363,3682,389"/>
+<area shape="rect" id="node26" title=" " alt="" coords="3430,363,3541,389"/>
+<area shape="rect" id="node30" href="$iterator_8h.html" title=" " alt="" coords="3263,281,3409,307"/>
+<area shape="rect" id="node31" title=" " alt="" coords="4088,281,4283,307"/>
+<area shape="rect" id="node33" title=" " alt="" coords="3749,363,3835,389"/>
+<area shape="rect" id="node34" title=" " alt="" coords="3955,363,4013,389"/>
+</map>

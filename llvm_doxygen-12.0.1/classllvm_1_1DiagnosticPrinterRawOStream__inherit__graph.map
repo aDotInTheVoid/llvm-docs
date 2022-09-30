@@ -1,0 +1,4 @@
+<map id="llvm::DiagnosticPrinterRawOStream" name="llvm::DiagnosticPrinterRawOStream">
+<area shape="rect" id="node1" title="Basic diagnostic printer that uses an underlying raw_ostream." alt="" coords="5,80,185,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticPrinter.html" title="Interface for custom diagnostic printing." alt="" coords="18,5,173,32"/>
+</map>

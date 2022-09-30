@@ -1,0 +1,52 @@
+<map id="include/llvm/Analysis/MLInlineAdvisor.h" name="include/llvm/Analysis/MLInlineAdvisor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3559,5,3721,47"/>
+<area shape="rect" id="node2" href="$CallGraph_8h.html" title="This file provides interfaces used to build and manipulate a call graph, which is a very useful tool ..." alt="" coords="2218,95,2409,121"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3921,647,3999,673"/>
+<area shape="rect" id="node29" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="2647,169,2817,196"/>
+<area shape="rect" id="node43" href="$InlineAdvisor_8h.html" title=" " alt="" coords="3657,95,3868,121"/>
+<area shape="rect" id="node49" href="$MLModelRunner_8h.html" title=" " alt="" coords="3402,95,3633,121"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4403,95,4527,121"/>
+<area shape="rect" id="node3" href="$GraphTraits_8h.html" title=" " alt="" coords="2245,423,2417,449"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1393,721,1453,748"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title=" " alt="" coords="2627,497,2789,524"/>
+<area shape="rect" id="node10" title=" " alt="" coords="492,647,561,673"/>
+<area shape="rect" id="node22" href="$Function_8h.html" title=" " alt="" coords="2168,348,2307,375"/>
+<area shape="rect" id="node25" href="$InstrTypes_8h.html" title=" " alt="" coords="2017,259,2167,285"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3601,348,3663,375"/>
+<area shape="rect" id="node28" href="$Intrinsics_8h.html" title=" " alt="" coords="3542,423,3685,449"/>
+<area shape="rect" id="node36" href="$Pass_8h.html" title=" " alt="" coords="248,259,344,285"/>
+<area shape="rect" id="node41" href="$ValueHandle_8h.html" title=" " alt="" coords="94,423,261,449"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2256,169,2307,196"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="1943,647,2134,673"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title=" " alt="" coords="3537,572,3690,599"/>
+<area shape="rect" id="node8" href="$STLForwardCompat_8h.html" title=" " alt="" coords="3343,647,3567,673"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3334,721,3426,748"/>
+<area shape="rect" id="node12" href="$iterator_8h.html" title=" " alt="" coords="2579,572,2725,599"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1775,647,1846,673"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1399,647,1470,673"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2901,572,3096,599"/>
+<area shape="rect" id="node16" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="2101,572,2312,599"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1637,572,1723,599"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2336,572,2403,599"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1238,572,1303,599"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3121,572,3207,599"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3817,572,3871,599"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title=" " alt="" coords="1759,423,1916,449"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1096,572,1163,599"/>
+<area shape="rect" id="node26" href="$LLVMContext_8h.html" title=" " alt="" coords="3486,497,3655,524"/>
+<area shape="rect" id="node30" href="$DenseMap_8h.html" title=" " alt="" coords="941,497,1107,524"/>
+<area shape="rect" id="node31" href="$SmallPtrSet_8h.html" title=" " alt="" coords="742,497,917,524"/>
+<area shape="rect" id="node32" href="$TinyPtrVector_8h.html" title=" " alt="" coords="1379,572,1563,599"/>
+<area shape="rect" id="node33" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="2483,259,2615,285"/>
+<area shape="rect" id="node34" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="3857,259,4074,285"/>
+<area shape="rect" id="node35" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="2898,348,3118,375"/>
+<area shape="rect" id="node37" href="$Debug_8h.html" title=" " alt="" coords="2741,259,2904,285"/>
+<area shape="rect" id="node38" href="$TimeProfiler_8h.html" title=" " alt="" coords="2929,259,3127,285"/>
+<area shape="rect" id="node39" href="$TypeName_8h.html" title=" " alt="" coords="1437,348,1627,375"/>
+<area shape="rect" id="node40" title=" " alt="" coords="3152,259,3195,285"/>
+<area shape="rect" id="node44" href="$InlineCost_8h.html" title=" " alt="" coords="2433,169,2623,196"/>
+<area shape="rect" id="node46" href="$ImportedFunctionsInliningStatistics_8h.html" title=" " alt="" coords="3637,244,3832,300"/>
+<area shape="rect" id="node47" title=" " alt="" coords="4003,169,4189,196"/>
+<area shape="rect" id="node48" title=" " alt="" coords="4213,169,4328,196"/>
+<area shape="rect" id="node45" href="$InlineModelFeatureMaps_8h.html" title=" " alt="" coords="3422,251,3613,293"/>
+</map>

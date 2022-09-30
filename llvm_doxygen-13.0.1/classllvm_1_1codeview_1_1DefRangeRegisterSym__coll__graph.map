@@ -1,0 +1,11 @@
+<map id="llvm::codeview::DefRangeRegisterSym" name="llvm::codeview::DefRangeRegisterSym">
+<area shape="rect" id="node1" title=" " alt="" coords="639,118,831,159"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1SymbolRecord.html" title=" " alt="" coords="323,7,545,33"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,7,151,33"/>
+<area shape="rect" id="node4" title=" " alt="" coords="340,58,528,99"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title=" " alt="" coords="41,143,115,169"/>
+<area shape="rect" id="node8" href="$structllvm_1_1codeview_1_1LocalVariableAddrRange.html" title=" " alt="" coords="327,187,541,229"/>
+<area shape="rect" id="node6" href="$structllvm_1_1codeview_1_1DefRangeRegisterHeader.html" title=" " alt="" coords="338,262,530,303"/>
+<area shape="rect" id="node7" title=" " alt="" coords="34,280,122,307"/>
+<area shape="rect" id="node9" href="$classuint16__t.html" title=" " alt="" coords="41,220,115,247"/>
+</map>

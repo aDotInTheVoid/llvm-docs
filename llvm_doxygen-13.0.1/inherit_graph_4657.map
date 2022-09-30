@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,5,248,61"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="296,5,539,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InnerAnalysisManagerProxy.html" title="An analysis over an &quot;outer&quot; IR unit that provides access to an analysis manager over an &quot;inner&quot; IR un..." alt="" coords="587,5,791,61"/>
+</map>

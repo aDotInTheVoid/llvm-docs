@@ -1,0 +1,5 @@
+<map id="include/llvm/ADT/APFixedPoint.h" name="include/llvm/ADT/APFixedPoint.h">
+<area shape="rect" id="node1" title="Defines the fixed point number interface." alt="" coords="109,5,282,47"/>
+<area shape="rect" id="node2" href="$FixedPointBuilder_8h.html" title=" " alt="" coords="5,95,180,136"/>
+<area shape="rect" id="node3" href="$APFixedPoint_8cpp.html" title="Defines the implementation for the fixed point number interface." alt="" coords="204,102,395,129"/>
+</map>

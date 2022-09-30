@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/MachineLICM.cpp" name="lib/CodeGen/MachineLICM.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2593,5,2812,32"/>
+<area shape="rect" id="node2" href="$BitVector_8h.html" title=" " alt="" coords="3934,445,4090,471"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title=" " alt="" coords="4509,623,4683,650"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3687,780,3772,807"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3339,855,3408,881"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3192,855,3251,881"/>
+<area shape="rect" id="node12" href="$STLExtras_8h.html" title=" " alt="" coords="3288,623,3451,650"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2745,623,2807,650"/>
+<area shape="rect" id="node18" href="$DenseMap_8h.html" title=" " alt="" coords="2503,705,2670,732"/>
+<area shape="rect" id="node21" href="$SmallSet_8h.html" title=" " alt="" coords="1526,534,1682,561"/>
+<area shape="rect" id="node22" href="$Statistic_8h.html" title=" " alt="" coords="2715,355,2866,382"/>
+<area shape="rect" id="node23" href="$AliasAnalysis_8h.html" title=" " alt="" coords="2423,177,2636,203"/>
+<area shape="rect" id="node24" href="$Pass_8h.html" title=" " alt="" coords="796,266,892,293"/>
+<area shape="rect" id="node25" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1565,348,1773,389"/>
+<area shape="rect" id="node26" href="$MachineInstr_8h.html" title=" " alt="" coords="1340,445,1553,471"/>
+<area shape="rect" id="node27" href="$MachineMemOperand_8h.html" title=" " alt="" coords="622,534,895,561"/>
+<area shape="rect" id="node28" href="$PseudoSourceValue_8h.html" title=" " alt="" coords="673,616,882,657"/>
+<area shape="rect" id="node29" href="$MachineOperand_8h.html" title=" " alt="" coords="2061,534,2301,561"/>
+<area shape="rect" id="node30" href="$DebugLoc_8h.html" title=" " alt="" coords="297,534,445,561"/>
+<area shape="rect" id="node31" href="$MCInstrDesc_8h.html" title=" " alt="" coords="971,534,1146,561"/>
+<area shape="rect" id="node32" href="$MCRegisterInfo_8h.html" title=" " alt="" coords="1440,623,1632,650"/>
+<area shape="rect" id="node33" href="$MCRegister_8h.html" title=" " alt="" coords="1441,705,1607,732"/>
+<area shape="rect" id="node34" href="$MachineBlockFrequencyInfo_8h.html" title=" " alt="" coords="369,80,578,121"/>
+<area shape="rect" id="node35" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="806,169,1034,211"/>
+<area shape="rect" id="node36" href="$MachineFunction_8h.html" title=" " alt="" coords="2147,266,2387,293"/>
+<area shape="rect" id="node37" href="$MachineDominators_8h.html" title=" " alt="" coords="1331,87,1592,114"/>
+<area shape="rect" id="node38" href="$MachineFrameInfo_8h.html" title=" " alt="" coords="4878,527,5093,568"/>
+<area shape="rect" id="node39" href="$MachineLoopInfo_8h.html" title=" " alt="" coords="654,80,858,121"/>
+<area shape="rect" id="node40" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="3247,169,3473,211"/>
+<area shape="rect" id="node41" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="4054,259,4266,300"/>
+<area shape="rect" id="node42" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="4497,437,4719,479"/>
+<area shape="rect" id="node43" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1747,169,1933,211"/>
+<area shape="rect" id="node44" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code." alt="" coords="3043,445,3272,471"/>
+<area shape="rect" id="node45" href="$Casting_8h.html" title=" " alt="" coords="4227,534,4397,561"/>
+<area shape="rect" id="node46" href="$TargetSchedule_8h.html" title=" " alt="" coords="4945,355,5175,382"/>
+<area shape="rect" id="node47" href="$InitializePasses_8h.html" title=" " alt="" coords="5275,87,5442,114"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title=" " alt="" coords="4979,445,5194,471"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title=" " alt="" coords="5473,534,5679,561"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title=" " alt="" coords="6059,87,6221,114"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title=" " alt="" coords="3643,534,3797,561"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3515,705,3706,732"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2602,855,2662,881"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3985,705,4050,732"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4761,855,4828,881"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1243,855,1309,881"/>
+<area shape="rect" id="node15" href="$DenseMapInfo_8h.html" title=" " alt="" coords="1720,780,1912,807"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title=" " alt="" coords="4360,780,4555,807"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4548,855,4615,881"/>
+<area shape="rect" id="node19" href="$EpochTracker_8h.html" title=" " alt="" coords="2089,780,2271,807"/>
+<area shape="rect" id="node20" href="$AlignOf_8h.html" title=" " alt="" coords="2427,780,2595,807"/>
+</map>

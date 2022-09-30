@@ -1,0 +1,13 @@
+<map id="llvm::MinidumpYAML::ExceptionStream" name="llvm::MinidumpYAML::ExceptionStream">
+<area shape="rect" id="node1" title="ExceptionStream minidump stream." alt="" coords="1012,150,1157,191"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams." alt="" coords="680,49,825,90"/>
+<area shape="rect" id="node3" title=" " alt="" coords="381,5,473,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="364,56,491,83"/>
+<area shape="rect" id="node5" href="$structllvm_1_1minidump_1_1ExceptionStream.html" title=" " alt="" coords="665,150,840,191"/>
+<area shape="rect" id="node6" href="$structllvm_1_1minidump_1_1LocationDescriptor.html" title="Specifies the location (and size) of various objects in the minidump file." alt="" coords="344,185,511,226"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,157,169,213"/>
+<area shape="rect" id="node8" href="$structllvm_1_1minidump_1_1Exception.html" title=" " alt="" coords="340,299,515,325"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,321,169,377"/>
+<area shape="rect" id="node10" href="$classsize__t.html" title=" " alt="" coords="59,401,115,428"/>
+<area shape="rect" id="node11" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob." alt="" coords="679,216,826,243"/>
+</map>

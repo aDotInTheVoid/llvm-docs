@@ -1,0 +1,6 @@
+<map id="llvm::outliner::Candidate" name="llvm::outliner::Candidate">
+<area shape="rect" id="node1" title="An individual sequence of instructions to be replaced with a call to an outlined function." alt="" coords="127,139,309,165"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LiveRegUnits.html" title="A set of register units used to track register liveness." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="193,5,243,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="287,5,368,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="llvm::sampleprof::SampleProfileReader" name="llvm::sampleprof::SampleProfileReader">
+<area shape="rect" id="node1" title="Sample&#45;based profile reader." alt="" coords="5,136,195,177"/>
+<area shape="rect" id="node2" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderBinary.html" title=" " alt="" coords="243,71,432,112"/>
+<area shape="rect" id="node7" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderGCC.html" title=" " alt="" coords="243,136,432,177"/>
+<area shape="rect" id="node8" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderText.html" title=" " alt="" coords="243,201,432,243"/>
+<area shape="rect" id="node3" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderCompactBinary.html" title=" " alt="" coords="480,5,689,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderExtBinaryBase.html" title="SampleProfileReaderExtBinaryBase/SampleProfileWriterExtBinaryBase defines the basic structure of the ..." alt="" coords="483,71,687,112"/>
+<area shape="rect" id="node6" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderRawBinary.html" title=" " alt="" coords="490,136,679,177"/>
+<area shape="rect" id="node5" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderExtBinary.html" title=" " alt="" coords="737,71,927,112"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="llvm::orc::shared::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;" name="llvm::orc::shared::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;">
+<area shape="rect" id="node1" title="Contains primitive utilities for defining, calling and handling calls to remote procedures." alt="" coords="721,260,931,331"/>
+<area shape="rect" id="node2" title=" " alt="" coords="340,5,516,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="361,71,495,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="341,136,515,177"/>
+<area shape="rect" id="node5" title=" " alt="" coords="383,202,473,229"/>
+<area shape="rect" id="node6" title=" " alt="" coords="399,253,457,279"/>
+<area shape="rect" id="node7" title=" " alt="" coords="335,304,521,345"/>
+<area shape="rect" id="node8" href="$classbool.html" title=" " alt="" coords="405,370,451,397"/>
+<area shape="rect" id="node9" title=" " alt="" coords="383,421,473,447"/>
+<area shape="rect" id="node10" href="$classllvm_1_1orc_1_1shared_1_1RPCFunctionIdAllocator.html" title=" " alt="" coords="347,471,509,527"/>
+<area shape="rect" id="node11" href="$classllvm_1_1orc_1_1shared_1_1RPCFunctionIdAllocator.html" title="Allocates RPC function ids during autonegotiation." alt="" coords="5,471,168,527"/>
+<area shape="rect" id="node12" title=" " alt="" coords="313,552,543,623"/>
+</map>

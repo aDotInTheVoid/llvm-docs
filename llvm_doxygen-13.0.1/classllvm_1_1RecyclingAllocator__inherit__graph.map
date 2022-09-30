@@ -1,0 +1,4 @@
+<map id="llvm::RecyclingAllocator&lt; AllocatorType, T, Size, Align &gt;" name="llvm::RecyclingAllocator&lt; AllocatorType, T, Size, Align &gt;">
+<area shape="rect" id="node1" title="RecyclingAllocator &#45; This class wraps an Allocator, adding the functionality of recycling deleted obj..." alt="" coords="5,21,185,77"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RecyclingAllocator.html" title=" " alt="" coords="447,14,675,85"/>
+</map>

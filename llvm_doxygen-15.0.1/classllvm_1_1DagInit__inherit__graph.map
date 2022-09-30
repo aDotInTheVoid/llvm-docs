@@ -1,0 +1,11 @@
+<map id="llvm::DagInit" name="llvm::DagInit">
+<area shape="rect" id="node1" title="(v a, b) &#45; Represent a DAG tree value." alt="" coords="1799,64,1905,91"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="This is the common superclass of types that have a specific, explicit type, stored in ValueTy." alt="" coords="1581,13,1700,40"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Init.html" title=" " alt="" coords="1246,13,1326,40"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="1579,64,1703,91"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="1532,115,1749,157"/>
+<area shape="rect" id="node6" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="904,16,1175,131"/>
+<area shape="rect" id="node7" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,83,232,154"/>
+<area shape="rect" id="node9" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="537,113,880,213"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type." alt="" coords="1199,127,1373,169"/>
+</map>

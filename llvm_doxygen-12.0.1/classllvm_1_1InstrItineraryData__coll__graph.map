@@ -1,0 +1,19 @@
+<map id="llvm::InstrItineraryData" name="llvm::InstrItineraryData">
+<area shape="rect" id="node1" title="Itinerary data supplied by a subtarget to be used by a target." alt="" coords="1401,671,1556,698"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MCSchedModel.html" title="Machine model for scheduling, bundling, and heuristics." alt="" coords="1129,523,1276,550"/>
+<area shape="rect" id="node3" href="$structllvm_1_1MCProcResourceDesc.html" title="Define a kind of processor resource that will be modeled by the scheduler." alt="" coords="363,662,551,688"/>
+<area shape="rect" id="node4" title=" " alt="" coords="44,560,91,587"/>
+<area shape="rect" id="node7" href="$structllvm_1_1MCSchedClassDesc.html" title="Summarize the scheduling resources required for an instruction of a particular scheduling class." alt="" coords="369,544,545,571"/>
+<area shape="rect" id="node13" href="$structllvm_1_1MCRegisterFileDesc.html" title="A register file descriptor." alt="" coords="369,150,544,176"/>
+<area shape="rect" id="node5" title=" " alt="" coords="48,918,87,944"/>
+<area shape="rect" id="node15" href="$structllvm_1_1InstrStage.html" title="These values represent a non&#45;pipelined step in the execution of an instruction." alt="" coords="399,943,514,970"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title=" " alt="" coords="30,740,105,767"/>
+<area shape="rect" id="node12" href="$structllvm_1_1MCExtraProcessorInfo.html" title="Provide extra details about the machine processor." alt="" coords="777,278,964,304"/>
+<area shape="rect" id="node14" href="$structllvm_1_1MCRegisterCostEntry.html" title="Specify the cost of a register definition in terms of number of physical register allocated at regist..." alt="" coords="365,200,548,227"/>
+<area shape="rect" id="node8" title=" " alt="" coords="33,299,101,326"/>
+<area shape="rect" id="node10" href="$structllvm_1_1InstrItinerary.html" title="An itinerary represents the scheduling information for an instruction." alt="" coords="807,428,935,455"/>
+<area shape="rect" id="node9" href="$classbool.html" title=" " alt="" coords="44,38,91,64"/>
+<area shape="rect" id="node11" title=" " alt="" coords="426,387,487,414"/>
+<area shape="rect" id="node16" title=" " alt="" coords="5,1039,129,1066"/>
+<area shape="rect" id="node17" title=" " alt="" coords="33,988,101,1015"/>
+</map>

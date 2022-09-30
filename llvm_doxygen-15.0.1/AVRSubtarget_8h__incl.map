@@ -1,0 +1,52 @@
+<map id="lib/Target/AVR/AVRSubtarget.h" name="lib/Target/AVR/AVRSubtarget.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2147,5,2364,32"/>
+<area shape="rect" id="node2" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1707,379,1929,420"/>
+<area shape="rect" id="node24" href="$DataLayout_8h.html" title=" " alt="" coords="3649,229,3808,256"/>
+<area shape="rect" id="node33" href="$Target_2TargetMachine_8h.html" title=" " alt="" coords="1091,155,1297,181"/>
+<area shape="rect" id="node39" href="$AVRFrameLowering_8h.html" title=" " alt="" coords="2062,229,2222,256"/>
+<area shape="rect" id="node41" href="$AVRISelLowering_8h.html" title=" " alt="" coords="2239,80,2381,107"/>
+<area shape="rect" id="node44" href="$AVRInstrInfo_8h.html" title=" " alt="" coords="5198,386,5313,413"/>
+<area shape="rect" id="node48" href="$AVRSelectionDAGInfo_8h.html" title=" " alt="" coords="5,304,180,331"/>
+<area shape="rect" id="node50" title=" " alt="" coords="5244,80,5429,107"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title=" " alt="" coords="3022,565,3177,591"/>
+<area shape="rect" id="node12" href="$SmallVector_8h.html" title=" " alt="" coords="2093,647,2268,673"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1890,721,1967,748"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2385,647,2448,673"/>
+<area shape="rect" id="node18" href="$StringRef_8h.html" title=" " alt="" coords="1178,647,1335,673"/>
+<area shape="rect" id="node19" href="$PBQPRAConstraint_8h.html" title=" " alt="" coords="1902,565,2153,591"/>
+<area shape="rect" id="node20" href="$SchedulerRegistry_8h.html" title=" " alt="" coords="1031,475,1277,502"/>
+<area shape="rect" id="node21" href="$CodeGen_8h.html" title=" " alt="" coords="841,565,1021,591"/>
+<area shape="rect" id="node22" href="$MCSubtargetInfo_8h.html" title=" " alt="" coords="2551,475,2752,502"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title=" " alt="" coords="2499,796,2649,823"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="4026,945,4205,972"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2342,871,2427,897"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3657,871,3726,897"/>
+<area shape="rect" id="node11" href="$None_8h.html" title=" " alt="" coords="3217,796,3349,823"/>
+<area shape="rect" id="node14" href="$STLExtras_8h.html" title=" " alt="" coords="2827,647,2990,673"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="3333,871,3543,897"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1143,871,1202,897"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1839,871,1899,897"/>
+<area shape="rect" id="node15" href="$Optional_8h.html" title=" " alt="" coords="2785,721,2939,748"/>
+<area shape="rect" id="node16" title=" " alt="" coords="4151,721,4218,748"/>
+<area shape="rect" id="node23" href="$Triple_8h.html" title=" " alt="" coords="1046,565,1179,591"/>
+<area shape="rect" id="node25" href="$APInt_8h.html" title=" " alt="" coords="4892,565,5024,591"/>
+<area shape="rect" id="node26" href="$MathExtras_8h.html" title=" " alt="" coords="4627,647,4822,673"/>
+<area shape="rect" id="node27" href="$DerivedTypes_8h.html" title=" " alt="" coords="3919,304,4091,331"/>
+<area shape="rect" id="node28" href="$Type_8h.html" title=" " alt="" coords="4089,386,4203,413"/>
+<area shape="rect" id="node29" href="$Casting_8h.html" title=" " alt="" coords="3571,647,3742,673"/>
+<area shape="rect" id="node30" href="$TypeSize_8h.html" title=" " alt="" coords="3969,475,4147,502"/>
+<area shape="rect" id="node31" href="$Alignment_8h.html" title=" " alt="" coords="4375,565,4563,591"/>
+<area shape="rect" id="node32" href="$TrailingObjects_8h.html" title=" " alt="" coords="4639,475,4856,502"/>
+<area shape="rect" id="node34" href="$PassManager_8h.html" title=" " alt="" coords="2177,565,2347,591"/>
+<area shape="rect" id="node35" href="$Support_2Error_8h.html" title=" " alt="" coords="1676,565,1827,591"/>
+<area shape="rect" id="node36" href="$PGOOptions_8h.html" title=" " alt="" coords="1231,229,1429,256"/>
+<area shape="rect" id="node37" href="$CGPassBuilderOption_8h.html" title=" " alt="" coords="1407,557,1600,599"/>
+<area shape="rect" id="node38" href="$TargetOptions_8h.html" title=" " alt="" coords="1360,647,1561,673"/>
+<area shape="rect" id="node40" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="2499,379,2697,420"/>
+<area shape="rect" id="node42" href="$CallingConvLower_8h.html" title=" " alt="" coords="2879,468,3075,509"/>
+<area shape="rect" id="node43" href="$TargetLowering_8h.html" title=" " alt="" coords="3049,155,3278,181"/>
+<area shape="rect" id="node45" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="3454,468,3641,509"/>
+<area shape="rect" id="node46" href="$AVRRegisterInfo_8h.html" title=" " alt="" coords="5193,475,5331,502"/>
+<area shape="rect" id="node47" title=" " alt="" coords="5356,475,5507,502"/>
+<area shape="rect" id="node49" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="305,468,552,509"/>
+</map>

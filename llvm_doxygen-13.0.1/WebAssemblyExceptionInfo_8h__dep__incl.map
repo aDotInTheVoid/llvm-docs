@@ -1,0 +1,7 @@
+<map id="lib/Target/WebAssembly/WebAssemblyExceptionInfo.h" name="lib/Target/WebAssembly/WebAssemblyExceptionInfo.h">
+<area shape="rect" id="node1" title="This file implements WebAssemblyException information analysis." alt="" coords="357,5,575,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyCFGSort_8cpp.html" title="This file implements a CFG sorting pass." alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node3" href="$WebAssemblyCFGStackify_8cpp.html" title="This file implements a CFG stacking pass." alt="" coords="228,95,451,136"/>
+<area shape="rect" id="node4" href="$WebAssemblyExceptionInfo_8cpp.html" title="This file implements WebAssemblyException information analysis." alt="" coords="475,95,710,136"/>
+<area shape="rect" id="node5" href="$WebAssemblySortRegion_8cpp.html" title=" " alt="" coords="734,95,950,136"/>
+</map>

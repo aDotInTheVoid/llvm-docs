@@ -1,0 +1,8 @@
+<map id="llvm::MDNodeKeyImpl&lt; DIBasicType &gt;" name="llvm::MDNodeKeyImpl&lt; DIBasicType &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="101,347,255,388"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,257,73,284"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="100,257,168,284"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="206,5,281,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="260,139,368,165"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MDString.html" title="A single uniqued string." alt="" coords="259,257,369,284"/>
+</map>

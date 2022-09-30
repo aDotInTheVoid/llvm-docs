@@ -1,0 +1,5 @@
+<map id="llvm::GraphTraits&lt; MachineDomTreeNode * &gt;" name="llvm::GraphTraits&lt; MachineDomTreeNode * &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="803,29,1001,70"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MachineDomTreeGraphTraitsBase.html" title=" " alt="" coords="467,21,753,77"/>
+<area shape="rect" id="node3" href="$structllvm_1_1MachineDomTreeGraphTraitsBase.html" title="DominatorTree GraphTraits specialization so the DominatorTree can be iterable by generic graph iterat..." alt="" coords="5,29,248,70"/>
+</map>

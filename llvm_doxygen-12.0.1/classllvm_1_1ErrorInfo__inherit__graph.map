@@ -1,0 +1,51 @@
+<map id="llvm::ErrorInfo&lt; ThisErrT, ParentErrT &gt;" name="llvm::ErrorInfo&lt; ThisErrT, ParentErrT &gt;">
+<area shape="rect" id="node1" title="Base class for user error types." alt="" coords="189,1499,348,1540"/>
+<area shape="rect" id="node3" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="631,5,881,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="631,71,881,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="641,136,871,177"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="663,201,849,243"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="645,267,867,323"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="663,348,849,389"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="673,413,839,455"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="671,479,841,520"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="643,544,869,585"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="667,610,845,637"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="667,661,845,687"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="675,712,837,753"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="669,777,843,819"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="655,843,857,899"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="675,924,837,965"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="665,989,847,1031"/>
+<area shape="rect" id="node19" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="667,1055,845,1096"/>
+<area shape="rect" id="node20" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="661,1121,851,1147"/>
+<area shape="rect" id="node21" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="671,1172,841,1213"/>
+<area shape="rect" id="node22" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="669,1237,843,1279"/>
+<area shape="rect" id="node23" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="668,1303,844,1344"/>
+<area shape="rect" id="node24" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="658,1368,854,1409"/>
+<area shape="rect" id="node25" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="671,1433,841,1475"/>
+<area shape="rect" id="node26" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="677,1499,835,1540"/>
+<area shape="rect" id="node27" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="673,1564,839,1605"/>
+<area shape="rect" id="node28" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="669,1629,843,1671"/>
+<area shape="rect" id="node29" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="669,1695,843,1736"/>
+<area shape="rect" id="node30" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="663,1760,849,1801"/>
+<area shape="rect" id="node31" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="661,1826,851,1853"/>
+<area shape="rect" id="node32" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="669,1877,843,1919"/>
+<area shape="rect" id="node33" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="673,1943,839,1984"/>
+<area shape="rect" id="node34" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="671,2008,841,2049"/>
+<area shape="rect" id="node35" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="673,2073,839,2115"/>
+<area shape="rect" id="node36" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="669,2139,843,2180"/>
+<area shape="rect" id="node37" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="665,2205,847,2231"/>
+<area shape="rect" id="node38" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="673,2256,839,2297"/>
+<area shape="rect" id="node39" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="671,2321,841,2363"/>
+<area shape="rect" id="node40" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="669,2387,843,2414"/>
+<area shape="rect" id="node41" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="671,2439,841,2480"/>
+<area shape="rect" id="node42" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="661,2504,851,2545"/>
+<area shape="rect" id="node43" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="647,2570,865,2597"/>
+<area shape="rect" id="node44" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="667,2621,845,2663"/>
+<area shape="rect" id="node45" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="669,2687,843,2728"/>
+<area shape="rect" id="node46" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="667,2752,845,2793"/>
+<area shape="rect" id="node47" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="673,2817,839,2859"/>
+<area shape="rect" id="node48" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="671,2883,841,2924"/>
+<area shape="rect" id="node49" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="668,2948,844,2989"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="5,1506,140,1533"/>
+</map>

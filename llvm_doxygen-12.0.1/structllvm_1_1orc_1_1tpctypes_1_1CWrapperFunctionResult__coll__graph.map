@@ -1,0 +1,7 @@
+<map id="llvm::orc::tpctypes::CWrapperFunctionResult" name="llvm::orc::tpctypes::CWrapperFunctionResult">
+<area shape="rect" id="node1" title="C ABI compatible wrapper function result." alt="" coords="464,63,639,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="231,5,299,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="180,56,349,112"/>
+<area shape="rect" id="node4" href="$unionllvm_1_1orc_1_1tpctypes_1_1CWrapperFunctionResultData.html" title="Either a uint8_t array or a uint8_t*." alt="" coords="164,137,365,178"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,144,67,171"/>
+</map>

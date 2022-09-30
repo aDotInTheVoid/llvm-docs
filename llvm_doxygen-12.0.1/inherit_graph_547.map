@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title=" " alt="" coords="5,159,192,185"/>
+<area shape="rect" id="node2" href="$structllvm_1_1cl_1_1OptionValueBase.html" title=" " alt="" coords="241,5,413,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="240,86,413,127"/>
+<area shape="rect" id="node6" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="240,151,413,193"/>
+<area shape="rect" id="node8" href="$structllvm_1_1cl_1_1OptionValueBase.html" title=" " alt="" coords="241,217,413,258"/>
+<area shape="rect" id="node9" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="240,282,413,323"/>
+<area shape="rect" id="node3" href="$structllvm_1_1cl_1_1OptionValue.html" title=" " alt="" coords="476,13,619,54"/>
+<area shape="rect" id="node5" href="$structllvm_1_1cl_1_1OptionValue_3_01std_1_1string_01_4.html" title=" " alt="" coords="476,86,619,127"/>
+<area shape="rect" id="node7" href="$structllvm_1_1cl_1_1OptionValue_3_01cl_1_1boolOrDefault_01_4.html" title=" " alt="" coords="475,151,619,193"/>
+<area shape="rect" id="node10" href="$structllvm_1_1cl_1_1OptionValueBase_3_01DataType_00_01false_01_4.html" title=" " alt="" coords="461,282,633,323"/>
+</map>

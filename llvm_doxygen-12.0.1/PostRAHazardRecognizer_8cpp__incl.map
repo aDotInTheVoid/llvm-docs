@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/PostRAHazardRecognizer.cpp" name="lib/CodeGen/PostRAHazardRecognizer.cpp">
+<area shape="rect" id="node1" title="This runs the hazard recognizer and emits noops when necessary." alt="" coords="3329,5,3516,47"/>
+<area shape="rect" id="node2" href="$Statistic_8h.html" title=" " alt="" coords="3464,855,3603,881"/>
+<area shape="rect" id="node8" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="3056,273,3264,315"/>
+<area shape="rect" id="node13" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="2634,1004,2825,1031"/>
+<area shape="rect" id="node31" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="3723,445,3887,471"/>
+<area shape="rect" id="node33" href="$ScheduleHazardRecognizer_8h.html" title=" " alt="" coords="3249,95,3455,136"/>
+<area shape="rect" id="node34" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1597,95,1768,136"/>
+<area shape="rect" id="node36" href="$raw__ostream_8h.html" title=" " alt="" coords="597,773,784,799"/>
+<area shape="rect" id="node44" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="3115,676,3317,717"/>
+<area shape="rect" id="node49" href="$InitializePasses_8h.html" title=" " alt="" coords="3632,102,3784,129"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title=" " alt="" coords="3808,102,3957,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="2593,1153,2759,1180"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="1172,1079,1335,1105"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3536,929,3597,956"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2879,1004,2950,1031"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3038,929,3095,956"/>
+<area shape="rect" id="node9" href="$MachineFunction_8h.html" title=" " alt="" coords="1616,363,1835,389"/>
+<area shape="rect" id="node30" href="$Pass_8h.html" title=" " alt="" coords="3115,363,3205,389"/>
+<area shape="rect" id="node10" href="$ArrayRef_8h.html" title=" " alt="" coords="2184,855,2325,881"/>
+<area shape="rect" id="node12" href="$SmallVector_8h.html" title=" " alt="" coords="1006,929,1167,956"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1632,1004,1699,1031"/>
+<area shape="rect" id="node18" title=" " alt="" coords="333,1004,387,1031"/>
+<area shape="rect" id="node19" href="$DenseMap_8h.html" title=" " alt="" coords="347,683,501,710"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1541,855,1603,881"/>
+<area shape="rect" id="node24" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1718,437,1909,479"/>
+<area shape="rect" id="node25" href="$MachineInstr_8h.html" title=" " alt="" coords="1008,527,1203,553"/>
+<area shape="rect" id="node11" href="$None_8h.html" title=" " alt="" coords="2603,929,2725,956"/>
+<area shape="rect" id="node16" title=" " alt="" coords="581,1004,646,1031"/>
+<area shape="rect" id="node17" title=" " alt="" coords="852,1004,913,1031"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2619,1079,2674,1105"/>
+<area shape="rect" id="node20" href="$DenseMapInfo_8h.html" title=" " alt="" coords="909,773,1085,799"/>
+<area shape="rect" id="node21" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1192,929,1315,956"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title=" " alt="" coords="651,929,795,956"/>
+<area shape="rect" id="node28" href="$BranchProbability_8h.html" title=" " alt="" coords="1278,601,1490,628"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2595,527,2674,553"/>
+<area shape="rect" id="node26" href="$MachineOperand_8h.html" title=" " alt="" coords="764,601,983,628"/>
+<area shape="rect" id="node27" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="888,855,1061,881"/>
+<area shape="rect" id="node32" href="$CodeGen_8h.html" title=" " alt="" coords="3793,855,3959,881"/>
+<area shape="rect" id="node35" href="$MIRFormatter_8h.html" title=" " alt="" coords="576,683,776,710"/>
+<area shape="rect" id="node38" href="$MachineCombinerPattern_8h.html" title=" " alt="" coords="1721,184,1935,225"/>
+<area shape="rect" id="node39" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="1411,273,1595,315"/>
+<area shape="rect" id="node40" href="$MachineOutliner_8h.html" title="Contains all data structures shared between the outliner implemented in MachineOutliner...." alt="" coords="1670,281,1885,307"/>
+<area shape="rect" id="node41" href="$RegisterClassInfo_8h.html" title=" " alt="" coords="1870,765,2061,807"/>
+<area shape="rect" id="node42" href="$VirtRegMap_8h.html" title=" " alt="" coords="2933,191,3123,218"/>
+<area shape="rect" id="node43" href="$MCInstrInfo_8h.html" title=" " alt="" coords="2419,601,2573,628"/>
+<area shape="rect" id="node37" title=" " alt="" coords="600,855,661,881"/>
+<area shape="rect" id="node45" href="$PBQPRAConstraint_8h.html" title=" " alt="" coords="3155,855,3389,881"/>
+<area shape="rect" id="node46" href="$ScheduleDAGMutation_8h.html" title=" " alt="" coords="3155,773,3405,799"/>
+<area shape="rect" id="node47" href="$SchedulerRegistry_8h.html" title=" " alt="" coords="3632,773,3859,799"/>
+<area shape="rect" id="node48" href="$MCSubtargetInfo_8h.html" title=" " alt="" coords="2288,773,2472,799"/>
+</map>

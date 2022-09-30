@@ -1,0 +1,8 @@
+<map id="llvm::codeview::PrecompRecord" name="llvm::codeview::PrecompRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="154,213,385,240"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="5,95,208,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,170,32"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title=" " alt="" coords="232,95,307,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="338,95,457,121"/>
+<area shape="rect" id="node6" href="$classsize__t.html" title=" " alt="" coords="367,5,427,32"/>
+</map>

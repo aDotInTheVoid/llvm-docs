@@ -1,0 +1,10 @@
+<map id="llvm::PassManagerBuilder" name="llvm::PassManagerBuilder">
+<area shape="rect" id="node1" title="PassManagerBuilder &#45; This class is used to set up a standard optimization sequence for languages like..." alt="" coords="488,331,679,357"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLibraryInfoImpl.html" title="Implementation of the target library information." alt="" coords="5,95,204,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ModuleSummaryIndex.html" title="Class to hold module path string table and global value map, and encapsulate methods for operating on..." alt="" coords="228,95,435,121"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="294,5,369,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="459,95,510,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="657,95,715,121"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="783,95,871,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="896,95,977,121"/>
+</map>

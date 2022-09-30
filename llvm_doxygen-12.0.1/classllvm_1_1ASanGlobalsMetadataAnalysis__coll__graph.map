@@ -1,0 +1,6 @@
+<map id="llvm::ASanGlobalsMetadataAnalysis" name="llvm::ASanGlobalsMetadataAnalysis">
+<area shape="rect" id="node1" title="The ASanGlobalsMetadataAnalysis initializes and returns a GlobalsMetadata object." alt="" coords="26,291,210,332"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="5,200,231,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="44,5,181,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="135,96,291,137"/>
+</map>

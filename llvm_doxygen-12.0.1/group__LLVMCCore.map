@@ -1,0 +1,12 @@
+<map id="Core" name="Core">
+<area shape="rect" id="node1" href="$group__LLVMCCoreModule.html" title="Modules represent the top&#45;level structure in an LLVM program." alt="" coords="343,5,413,31"/>
+<area shape="rect" id="node2" href="$group__LLVMCCoreTypes.html" title=" " alt="" coords="295,55,461,80"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueBasicBlock.html" title="A basic block represents a single entry single exit section of code." alt="" coords="332,104,424,129"/>
+<area shape="rect" id="node4" href="$group__LLVMCCoreValueMetadata.html" title=" " alt="" coords="340,153,416,179"/>
+<area shape="rect" id="node5" href="$group__LLVMCCoreValues.html" title="The bulk of LLVM&#39;s object model consists of values, which comprise a very rich type hierarchy." alt="" coords="347,203,409,228"/>
+<area shape="rect" id="node6" href="$group__LLVMCCoreValueInstruction.html" title="Functions in this group relate to the inspection and manipulation of individual instructions." alt="" coords="333,252,423,277"/>
+<area shape="rect" id="node7" href="$group__LLVMCCoreType.html" title="Types represent the type of a value." alt="" coords="349,301,407,327"/>
+<area shape="rect" id="node8" href="$group__LLVMCCoreContext.html" title="Contexts are execution states for the core LLVM IR system." alt="" coords="341,351,415,376"/>
+<area shape="rect" id="node9" title="This modules provide an interface to libLLVMCore, which implements the LLVM intermediate representati..." alt="" coords="196,179,247,204"/>
+<area shape="rect" id="node10" href="$group__LLVMC.html" title="This module exposes parts of the LLVM library as a C API." alt="" coords="5,171,148,211"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::VectorizerParams" name="llvm::VectorizerParams">
+<area shape="rect" id="node1" title="Collection of parameters shared beetween the Loop Vectorizer and the Loop Access Analysis." alt="" coords="84,124,256,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="265,5,323,32"/>
+</map>

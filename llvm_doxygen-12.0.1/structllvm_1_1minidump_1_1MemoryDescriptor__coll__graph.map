@@ -1,0 +1,6 @@
+<map id="llvm::minidump::MemoryDescriptor" name="llvm::minidump::MemoryDescriptor">
+<area shape="rect" id="node1" title="Describes a single memory range (both its VM address and where to find it in the file) of the process..." alt="" coords="623,72,849,99"/>
+<area shape="rect" id="node2" href="$structllvm_1_1minidump_1_1LocationDescriptor.html" title="Specifies the location (and size) of various objects in the minidump file." alt="" coords="275,14,441,55"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,7,169,63"/>
+<area shape="rect" id="node4" title=" " alt="" coords="276,80,440,136"/>
+</map>

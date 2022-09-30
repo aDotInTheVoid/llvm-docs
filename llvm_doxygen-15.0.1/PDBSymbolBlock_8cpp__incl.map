@@ -1,0 +1,52 @@
+<map id="lib/DebugInfo/PDB/PDBSymbolBlock.cpp" name="lib/DebugInfo/PDB/PDBSymbolBlock.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1905,5,2125,47"/>
+<area shape="rect" id="node2" href="$PDBSymbolBlock_8h.html" title=" " alt="" coords="1881,95,2034,136"/>
+<area shape="rect" id="node50" href="$PDBSymDumper_8h.html" title=" " alt="" coords="2037,184,2190,225"/>
+<area shape="rect" id="node3" href="$PDBSymbol_8h.html" title=" " alt="" coords="1902,191,2013,218"/>
+<area shape="rect" id="node5" href="$PDBTypes_8h.html" title=" " alt="" coords="1885,348,1984,375"/>
+<area shape="rect" id="node4" href="$IPDBRawSymbol_8h.html" title=" " alt="" coords="2033,273,2175,300"/>
+<area shape="rect" id="node47" href="$PDBExtras_8h.html" title=" " alt="" coords="1170,273,1273,300"/>
+<area shape="rect" id="node49" href="$Casting_8h.html" title=" " alt="" coords="3392,609,3563,635"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title=" " alt="" coords="2883,698,3058,725"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3771,780,3848,807"/>
+<area shape="rect" id="node33" href="$CodeView_8h.html" title=" " alt="" coords="447,601,638,643"/>
+<area shape="rect" id="node46" href="$BitmaskEnum_8h.html" title=" " alt="" coords="2037,609,2227,635"/>
+<area shape="rect" id="node6" href="$APFloat_8h.html" title=" " alt="" coords="2843,430,2991,457"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1000,780,1067,807"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1763,780,1829,807"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1659,780,1730,807"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3355,780,3442,807"/>
+<area shape="rect" id="node39" href="$IPDBEnumChildren_8h.html" title=" " alt="" coords="2416,423,2576,464"/>
+<area shape="rect" id="node41" href="$IPDBFrameData_8h.html" title=" " alt="" coords="899,691,1053,732"/>
+<area shape="rect" id="node42" href="$RawTypes_8h.html" title=" " alt="" coords="1426,423,1579,464"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1937,430,2002,457"/>
+<area shape="rect" id="node7" href="$APInt_8h.html" title=" " alt="" coords="2961,609,3093,635"/>
+<area shape="rect" id="node16" href="$ArrayRef_8h.html" title=" " alt="" coords="2731,609,2885,635"/>
+<area shape="rect" id="node27" href="$FloatingPointMode_8h.html" title=" " alt="" coords="2143,519,2363,546"/>
+<area shape="rect" id="node32" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="3920,519,4131,546"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title=" " alt="" coords="3319,855,3497,881"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title=" " alt="" coords="2208,698,2403,725"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2451,780,2520,807"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2845,855,2905,881"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2259,780,2317,807"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1846,855,1938,881"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2341,780,2427,807"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2838,780,2949,807"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2973,780,3043,807"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title=" " alt="" coords="3141,780,3331,807"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2697,780,2762,807"/>
+<area shape="rect" id="node26" title=" " alt="" coords="3067,780,3117,807"/>
+<area shape="rect" id="node28" href="$raw__ostream_8h.html" title=" " alt="" coords="1603,609,1810,635"/>
+<area shape="rect" id="node29" href="$StringRef_8h.html" title=" " alt="" coords="1875,698,2032,725"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1280,780,1339,807"/>
+<area shape="rect" id="node31" href="$Optional_8h.html" title=" " alt="" coords="3185,698,3338,725"/>
+<area shape="rect" id="node34" title=" " alt="" coords="27,698,109,725"/>
+<area shape="rect" id="node35" href="$Endian_8h.html" title=" " alt="" coords="1432,698,1597,725"/>
+<area shape="rect" id="node36" title=" " alt="" coords="133,698,283,725"/>
+<area shape="rect" id="node37" title=" " alt="" coords="307,698,475,725"/>
+<area shape="rect" id="node38" title=" " alt="" coords="499,698,672,725"/>
+<area shape="rect" id="node40" href="$LazyRandomTypeCollection_8h.html" title=" " alt="" coords="2387,512,2605,553"/>
+<area shape="rect" id="node43" href="$GUID_8h.html" title=" " alt="" coords="1286,601,1477,643"/>
+<area shape="rect" id="node44" href="$TypeRecord_8h.html" title=" " alt="" coords="1519,512,1710,553"/>
+<area shape="rect" id="node48" title=" " alt="" coords="547,348,671,375"/>
+</map>

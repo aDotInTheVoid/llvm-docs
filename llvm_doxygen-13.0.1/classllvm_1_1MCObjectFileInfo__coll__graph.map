@@ -1,0 +1,11 @@
+<map id="llvm::MCObjectFileInfo" name="llvm::MCObjectFileInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="351,437,521,464"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,193,56,219"/>
+<area shape="rect" id="node3" title=" " alt="" coords="307,193,365,219"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCSection.html" title="Instances of this class represent a uniqued identifier for a section in the current translation unit." alt="" coords="472,193,600,219"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SectionKind.html" title="SectionKind &#45; This is a simple POD value that classifies the properties of a section." alt="" coords="416,95,552,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="275,95,391,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="719,95,801,121"/>
+<area shape="rect" id="node8" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="577,95,695,121"/>
+<area shape="rect" id="node9" href="$classsize__t.html" title=" " alt="" coords="606,5,666,32"/>
+</map>

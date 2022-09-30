@@ -1,0 +1,4 @@
+<map id="Structure Types" name="Structure Types">
+<area shape="rect" id="node1" href="$group__LLVMCCoreType.html" title="Types represent the type of a value." alt="" coords="5,5,64,31"/>
+<area shape="rect" id="node2" title="These functions relate to LLVMTypeRef instances." alt="" coords="112,5,235,31"/>
+</map>

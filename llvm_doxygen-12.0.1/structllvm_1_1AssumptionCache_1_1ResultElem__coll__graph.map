@@ -1,0 +1,6 @@
+<map id="llvm::AssumptionCache::ResultElem" name="llvm::AssumptionCache::ResultElem">
+<area shape="rect" id="node1" title=" " alt="" coords="76,171,236,212"/>
+<area shape="rect" id="node2" href="$classllvm_1_1WeakVH.html" title="A nullable Value handle that is nullable." alt="" coords="31,81,137,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ValueHandleBase.html" title="This is the common base class of value handles." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="161,81,236,108"/>
+</map>

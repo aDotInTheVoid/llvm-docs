@@ -1,0 +1,4 @@
+<map id="llvm::MCInstrInfo" name="llvm::MCInstrInfo">
+<area shape="rect" id="node1" title="Interface to description of machine instruction set." alt="" coords="13,5,136,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetInstrInfo.html" title="TargetInstrInfo &#45; Interface to description of machine instruction set." alt="" coords="5,80,144,107"/>
+</map>

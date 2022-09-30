@@ -1,0 +1,52 @@
+<map id="lib/Target/VE/VERegisterInfo.cpp" name="lib/Target/VE/VERegisterInfo.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2957,5,3123,47"/>
+<area shape="rect" id="node2" href="$VERegisterInfo_8h.html" title=" " alt="" coords="3691,251,3813,278"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title=" " alt="" coords="2635,751,2789,777"/>
+<area shape="rect" id="node16" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3647,825,3838,852"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3931,423,4085,449"/>
+<area shape="rect" id="node28" href="$VE_8h.html" title=" " alt="" coords="3589,251,3640,278"/>
+<area shape="rect" id="node34" href="$Type_8h.html" title=" " alt="" coords="2745,594,2852,621"/>
+<area shape="rect" id="node35" href="$VESubtarget_8h.html" title=" " alt="" coords="3366,95,3471,121"/>
+<area shape="rect" id="node40" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="2572,244,2743,285"/>
+<area shape="rect" id="node42" href="$MachineFunction_8h.html" title=" " alt="" coords="1379,423,1597,449"/>
+<area shape="rect" id="node43" href="$BitVector_8h.html" title=" " alt="" coords="1416,505,1560,531"/>
+<area shape="rect" id="node44" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="1332,333,1516,375"/>
+<area shape="rect" id="node47" href="$MachineFrameInfo_8h.html" title=" " alt="" coords="45,497,240,539"/>
+<area shape="rect" id="node48" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="1930,333,2137,375"/>
+<area shape="rect" id="node49" href="$CommandLine_8h.html" title=" " alt="" coords="3155,594,3349,621"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title=" " alt="" coords="4409,95,4559,121"/>
+<area shape="rect" id="node3" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="2375,587,2569,628"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title=" " alt="" coords="2216,676,2357,703"/>
+<area shape="rect" id="node7" title=" " alt="" coords="852,900,919,927"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3120,900,3291,927"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1217,825,1279,852"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3341,825,3419,852"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title=" " alt="" coords="1619,676,1797,703"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1763,900,1834,927"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1583,900,1657,927"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3315,900,3381,927"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2157,900,2219,927"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3068,825,3164,852"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title=" " alt="" coords="2225,825,2364,852"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2268,975,2321,1001"/>
+<area shape="rect" id="node10" href="$iterator_8h.html" title=" " alt="" coords="2812,825,2943,852"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2489,825,2663,852"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1837,825,1897,852"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1708,825,1761,852"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2687,825,2737,852"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4001,900,4055,927"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1718,751,1778,777"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1328,751,1389,777"/>
+<area shape="rect" id="node29" href="$VEMCTargetDesc_8h.html" title=" " alt="" coords="3652,341,3881,367"/>
+<area shape="rect" id="node31" href="$StringSwitch_8h.html" title=" " alt="" coords="1176,676,1341,703"/>
+<area shape="rect" id="node32" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="3381,423,3568,449"/>
+<area shape="rect" id="node30" title=" " alt="" coords="3744,423,3907,449"/>
+<area shape="rect" id="node33" href="$DataLayout_8h.html" title=" " alt="" coords="2910,505,3053,531"/>
+<area shape="rect" id="node36" href="$VEFrameLowering_8h.html" title=" " alt="" coords="3403,169,3541,196"/>
+<area shape="rect" id="node37" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="3327,244,3510,285"/>
+<area shape="rect" id="node38" href="$VEISelLowering_8h.html" title=" " alt="" coords="3565,169,3691,196"/>
+<area shape="rect" id="node39" href="$VEInstrInfo_8h.html" title=" " alt="" coords="3179,169,3277,196"/>
+<area shape="rect" id="node45" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="4108,333,4335,375"/>
+<area shape="rect" id="node46" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="2237,497,2438,539"/>
+<area shape="rect" id="node41" href="$DenseMapInfo_8h.html" title=" " alt="" coords="720,594,896,621"/>
+</map>

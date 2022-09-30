@@ -1,0 +1,6 @@
+<map id="llvm::LoopInfoBase&lt; BlockT, LoopT &gt;" name="llvm::LoopInfoBase&lt; BlockT, LoopT &gt;">
+<area shape="rect" id="node1" title="This class builds and contains all of the top&#45;level loop structures in the specified function." alt="" coords="5,49,152,90"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LoopInfoBase.html" title=" " alt="" coords="387,5,591,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LoopInfoBase.html" title=" " alt="" coords="407,86,570,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1LoopInfo.html" title=" " alt="" coords="640,93,755,120"/>
+</map>

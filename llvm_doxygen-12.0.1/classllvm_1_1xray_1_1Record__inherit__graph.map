@@ -1,0 +1,16 @@
+<map id="llvm::xray::Record" name="llvm::xray::Record">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,132,260"/>
+<area shape="rect" id="node2" href="$classllvm_1_1xray_1_1FunctionRecord.html" title=" " alt="" coords="182,208,359,235"/>
+<area shape="rect" id="node3" href="$classllvm_1_1xray_1_1MetadataRecord.html" title=" " alt="" coords="180,259,361,285"/>
+<area shape="rect" id="node4" href="$classllvm_1_1xray_1_1BufferExtents.html" title=" " alt="" coords="438,5,603,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1xray_1_1CallArgRecord.html" title=" " alt="" coords="436,56,605,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1xray_1_1CustomEventRecord.html" title=" " alt="" coords="417,107,624,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1xray_1_1CustomEventRecordV5.html" title=" " alt="" coords="409,157,632,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1xray_1_1EndBufferRecord.html" title=" " alt="" coords="429,208,613,235"/>
+<area shape="rect" id="node9" href="$classllvm_1_1xray_1_1NewBufferRecord.html" title=" " alt="" coords="427,259,615,285"/>
+<area shape="rect" id="node10" href="$classllvm_1_1xray_1_1NewCPUIDRecord.html" title=" " alt="" coords="423,309,619,336"/>
+<area shape="rect" id="node11" href="$classllvm_1_1xray_1_1PIDRecord.html" title=" " alt="" coords="446,360,595,387"/>
+<area shape="rect" id="node12" href="$classllvm_1_1xray_1_1TSCWrapRecord.html" title=" " alt="" coords="429,411,612,437"/>
+<area shape="rect" id="node13" href="$classllvm_1_1xray_1_1TypedEventRecord.html" title=" " alt="" coords="423,461,618,488"/>
+<area shape="rect" id="node14" href="$classllvm_1_1xray_1_1WallclockRecord.html" title=" " alt="" coords="429,512,612,539"/>
+</map>

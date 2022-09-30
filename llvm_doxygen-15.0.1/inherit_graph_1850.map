@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1CrashRecoveryContextCleanup.html" title="Abstract base class of cleanup handlers." alt="" coords="5,133,213,174"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="261,5,532,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="261,85,532,141"/>
+<area shape="rect" id="node6" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="261,165,532,221"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="Base class of cleanup handler that controls recovery of resources of the given type." alt="" coords="293,246,501,287"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CrashRecoveryContextDeleteCleanup.html" title="Cleanup handler that reclaims resource by calling &#39;delete&#39; on it." alt="" coords="580,13,788,54"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CrashRecoveryContextDestructorCleanup.html" title="Cleanup handler that reclaims resource by calling destructor on it." alt="" coords="580,93,788,134"/>
+<area shape="rect" id="node7" href="$classllvm_1_1CrashRecoveryContextReleaseRefCleanup.html" title="Cleanup handler that reclaims resource by calling its method &#39;Release&#39;." alt="" coords="580,173,788,214"/>
+</map>

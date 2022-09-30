@@ -1,0 +1,51 @@
+<map id="llvm::FoldingSetBase" name="llvm::FoldingSetBase">
+<area shape="rect" id="node1" title="FoldingSetBase &#45; Implements the folding set functionality." alt="" coords="5,1351,164,1378"/>
+<area shape="rect" id="node2" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="667,910,843,966"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="634,384,875,440"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="676,812,833,868"/>
+<area shape="rect" id="node8" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="647,1118,862,1174"/>
+<area shape="rect" id="node10" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="625,143,884,199"/>
+<area shape="rect" id="node12" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="623,996,887,1052"/>
+<area shape="rect" id="node14" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="646,63,863,119"/>
+<area shape="rect" id="node16" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="653,223,856,279"/>
+<area shape="rect" id="node18" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="640,467,869,523"/>
+<area shape="rect" id="node20" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="653,1460,857,1516"/>
+<area shape="rect" id="node22" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="642,551,867,607"/>
+<area shape="rect" id="node24" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="647,668,862,724"/>
+<area shape="rect" id="node26" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="643,2178,866,2234"/>
+<area shape="rect" id="node28" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="647,1314,863,1370"/>
+<area shape="rect" id="node30" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="654,1926,855,1982"/>
+<area shape="rect" id="node32" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="641,1659,868,1715"/>
+<area shape="rect" id="node34" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="659,2007,850,2063"/>
+<area shape="rect" id="node36" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="629,2271,881,2327"/>
+<area shape="rect" id="node38" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="650,2498,859,2554"/>
+<area shape="rect" id="node40" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="643,1562,866,1618"/>
+<area shape="rect" id="node42" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="643,303,866,359"/>
+<area shape="rect" id="node44" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="625,2364,884,2420"/>
+<area shape="rect" id="node46" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="647,1752,862,1808"/>
+<area shape="rect" id="node47" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="643,2091,866,2147"/>
+<area shape="rect" id="node48" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="667,1845,842,1886"/>
+<area shape="rect" id="node49" href="$classllvm_1_1FoldingSetImpl.html" title="FoldingSetImpl &#45; An implementation detail that lets us share code between FoldingSet and ContextualFo..." alt="" coords="213,1292,369,1333"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ContextualFoldingSet.html" title="ContextualFoldingSet &#45; This template class is a further refinement of FoldingSet which provides a con..." alt="" coords="941,917,1139,958"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="936,392,1144,433"/>
+<area shape="rect" id="node7" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="943,827,1137,854"/>
+<area shape="rect" id="node9" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,1125,1125,1166"/>
+<area shape="rect" id="node11" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,150,1125,192"/>
+<area shape="rect" id="node13" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,1004,1125,1045"/>
+<area shape="rect" id="node15" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,70,1125,112"/>
+<area shape="rect" id="node17" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,230,1125,272"/>
+<area shape="rect" id="node19" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,474,1125,516"/>
+<area shape="rect" id="node21" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,1468,1125,1509"/>
+<area shape="rect" id="node23" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,558,1125,600"/>
+<area shape="rect" id="node25" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,676,1125,717"/>
+<area shape="rect" id="node27" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,2185,1125,2226"/>
+<area shape="rect" id="node29" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,1321,1125,1362"/>
+<area shape="rect" id="node31" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,1933,1125,1974"/>
+<area shape="rect" id="node33" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,1666,1125,1708"/>
+<area shape="rect" id="node35" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,2014,1125,2056"/>
+<area shape="rect" id="node37" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,2278,1125,2320"/>
+<area shape="rect" id="node39" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,2505,1125,2546"/>
+<area shape="rect" id="node41" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,1569,1125,1610"/>
+<area shape="rect" id="node43" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="955,310,1125,352"/>
+<area shape="rect" id="node45" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="953,2372,1127,2413"/>
+</map>

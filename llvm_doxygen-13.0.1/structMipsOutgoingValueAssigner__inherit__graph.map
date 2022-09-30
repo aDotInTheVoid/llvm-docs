@@ -1,0 +1,5 @@
+<map id="MipsOutgoingValueAssigner" name="MipsOutgoingValueAssigner">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,209,211"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CallLowering_1_1OutgoingValueAssigner.html" title=" " alt="" coords="17,95,198,136"/>
+<area shape="rect" id="node3" href="$structllvm_1_1CallLowering_1_1ValueAssigner.html" title="Argument handling is mostly uniform between the four places that make these decisions: function forma..." alt="" coords="36,5,179,47"/>
+</map>

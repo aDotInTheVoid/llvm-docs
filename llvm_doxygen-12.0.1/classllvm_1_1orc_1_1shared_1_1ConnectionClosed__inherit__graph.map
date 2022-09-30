@@ -1,0 +1,6 @@
+<map id="llvm::orc::shared::ConnectionClosed" name="llvm::orc::shared::ConnectionClosed">
+<area shape="rect" id="node1" title="RPCConnectionClosed is returned from RPC operations if the RPC connection has already been closed due..." alt="" coords="32,276,161,317"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,188,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="24,5,159,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="113,81,272,123"/>
+</map>

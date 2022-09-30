@@ -1,0 +1,52 @@
+<map id="include/llvm/ADT/PointerUnion.h" name="include/llvm/ADT/PointerUnion.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4198,5,4381,47"/>
+<area shape="rect" id="node2" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="4088,95,4280,136"/>
+<area shape="rect" id="node12" href="$ConstantHoisting_8h.html" title=" " alt="" coords="2124,363,2319,404"/>
+<area shape="rect" id="node14" href="$LowerTypeTests_8cpp.html" title=" " alt="" coords="1801,363,1956,404"/>
+<area shape="rect" id="node16" href="$TinyPtrVector_8h.html" title=" " alt="" coords="1257,184,1439,225"/>
+<area shape="rect" id="node28" href="$DIE_8h.html" title=" " alt="" coords="3433,95,3599,136"/>
+<area shape="rect" id="node38" href="$MachineMemOperand_8h.html" title=" " alt="" coords="4304,95,4485,136"/>
+<area shape="rect" id="node39" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="4561,95,4733,136"/>
+<area shape="rect" id="node40" href="$MipsDelaySlotFiller_8cpp.html" title=" " alt="" coords="4798,184,4989,225"/>
+<area shape="rect" id="node41" href="$MipsOptimizePICCall_8cpp.html" title=" " alt="" coords="5013,184,5224,225"/>
+<area shape="rect" id="node42" href="$WasmEHFuncInfo_8h.html" title=" " alt="" coords="4808,95,4973,136"/>
+<area shape="rect" id="node43" href="$WinEHFuncInfo_8h.html" title=" " alt="" coords="4997,95,5163,136"/>
+<area shape="rect" id="node44" href="$DebugInfoMetadata_8h.html" title=" " alt="" coords="2069,184,2259,225"/>
+<area shape="rect" id="node45" href="$GetElementPtrTypeIterator_8h.html" title=" " alt="" coords="461,95,661,136"/>
+<area shape="rect" id="node46" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="1967,102,2164,129"/>
+<area shape="rect" id="node47" href="$IRObjectFile_8h.html" title=" " alt="" coords="5249,184,5397,225"/>
+<area shape="rect" id="node48" href="$ModuleSymbolTable_8h.html" title=" " alt="" coords="5238,95,5407,136"/>
+<area shape="rect" id="node49" href="$CodeViewDebug_8h.html" title=" " alt="" coords="2983,95,3161,136"/>
+<area shape="rect" id="node50" href="$VPRecipeBuilder_8h.html" title=" " alt="" coords="5432,95,5611,136"/>
+<area shape="rect" id="node3" href="$CodeGenPassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="2343,452,2513,493"/>
+<area shape="rect" id="node4" href="$MachinePassManager_8h.html" title=" " alt="" coords="2545,363,2724,404"/>
+<area shape="rect" id="node5" href="$JITSymbol_8h.html" title=" " alt="" coords="4161,184,4375,225"/>
+<area shape="rect" id="node6" href="$llvm_2ExecutionEngine_2Orc_2Core_8h.html" title=" " alt="" coords="4459,273,4672,315"/>
+<area shape="rect" id="node7" href="$EPCDynamicLibrarySearchGenerator_8h.html" title=" " alt="" coords="4418,363,4718,404"/>
+<area shape="rect" id="node8" href="$IRTransformLayer_8h.html" title=" " alt="" coords="3984,273,4197,315"/>
+<area shape="rect" id="node9" href="$RuntimeDyld_8h.html" title=" " alt="" coords="4221,273,4435,315"/>
+<area shape="rect" id="node10" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="3210,191,3478,218"/>
+<area shape="rect" id="node15" href="$Threading_8h.html" title=" " alt="" coords="4399,184,4555,225"/>
+<area shape="rect" id="node11" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1967,281,2187,307"/>
+<area shape="rect" id="node13" href="$InstructionCombining_8cpp.html" title=" " alt="" coords="5,363,205,404"/>
+<area shape="rect" id="node17" href="$EHPersonalities_8h.html" title=" " alt="" coords="143,273,305,315"/>
+<area shape="rect" id="node18" href="$ReachingDefAnalysis_8h.html" title=" " alt="" coords="329,273,505,315"/>
+<area shape="rect" id="node19" href="$llvm_2IR_2DebugInfo_8h.html" title=" " alt="" coords="2263,281,2465,307"/>
+<area shape="rect" id="node21" href="$ModuleSummaryIndex_8h.html" title="ModuleSummaryIndex.h This file contains the declarations the classes that hold the module index and s..." alt="" coords="1556,273,1791,315"/>
+<area shape="rect" id="node22" href="$CodeViewDebug_8cpp.html" title=" " alt="" coords="2490,273,2667,315"/>
+<area shape="rect" id="node23" href="$MachineModuleInfo_8cpp.html" title=" " alt="" coords="529,273,737,315"/>
+<area shape="rect" id="node24" href="$Attributor_8cpp.html" title=" " alt="" coords="762,273,902,315"/>
+<area shape="rect" id="node25" href="$PromoteMemoryToRegister_8cpp.html" title=" " alt="" coords="927,273,1156,315"/>
+<area shape="rect" id="node26" href="$SSAUpdater_8cpp.html" title=" " alt="" coords="1181,273,1329,315"/>
+<area shape="rect" id="node27" href="$VPlanValue_8h.html" title="This file contains the declarations of the entities induced by Vectorization Plans,..." alt="" coords="1353,273,1532,315"/>
+<area shape="rect" id="node20" href="$DwarfCompileUnit_8cpp.html" title=" " alt="" coords="2343,363,2521,404"/>
+<area shape="rect" id="node29" href="$AccelTable_8h.html" title="This file contains support for writing accelerator tables." alt="" coords="2537,184,2703,225"/>
+<area shape="rect" id="node30" href="$AccelTable_8cpp.html" title=" " alt="" coords="2691,273,2869,315"/>
+<area shape="rect" id="node31" href="$DWARFLinkerCompileUnit_8h.html" title=" " alt="" coords="2778,184,2985,225"/>
+<area shape="rect" id="node32" href="$AsmPrinterDwarf_8cpp.html" title=" " alt="" coords="3009,184,3186,225"/>
+<area shape="rect" id="node33" href="$DIE_8cpp.html" title=" " alt="" coords="3530,273,3707,315"/>
+<area shape="rect" id="node34" href="$DIEHash_8h.html" title=" " alt="" coords="3858,184,4035,225"/>
+<area shape="rect" id="node35" href="$DwarfDebug_8cpp.html" title=" " alt="" coords="3731,273,3909,315"/>
+<area shape="rect" id="node36" href="$DwarfFile_8h.html" title=" " alt="" coords="2335,184,2513,225"/>
+<area shape="rect" id="node37" href="$DwarfUnit_8h.html" title=" " alt="" coords="3605,184,3782,225"/>
+</map>

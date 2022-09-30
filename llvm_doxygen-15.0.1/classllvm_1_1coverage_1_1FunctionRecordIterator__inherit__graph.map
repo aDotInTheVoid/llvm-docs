@@ -1,0 +1,5 @@
+<map id="llvm::coverage::FunctionRecordIterator" name="llvm::coverage::FunctionRecordIterator">
+<area shape="rect" id="node1" title="Iterator over Functions, optionally filtered to a single file." alt="" coords="751,29,933,70"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="475,14,701,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,14,255,85"/>
+</map>

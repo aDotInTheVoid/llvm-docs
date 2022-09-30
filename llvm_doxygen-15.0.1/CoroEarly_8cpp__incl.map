@@ -1,0 +1,52 @@
+<map id="lib/Transforms/Coroutines/CoroEarly.cpp" name="lib/Transforms/Coroutines/CoroEarly.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1481,5,1669,47"/>
+<area shape="rect" id="node2" href="$CoroEarly_8h.html" title=" " alt="" coords="815,95,1017,136"/>
+<area shape="rect" id="node12" href="$Function_8h.html" title=" " alt="" coords="1373,408,1512,435"/>
+<area shape="rect" id="node35" href="$Module_8h.html" title=" " alt="" coords="634,333,766,360"/>
+<area shape="rect" id="node38" href="$CoroInternal_8h.html" title=" " alt="" coords="1768,102,1883,129"/>
+<area shape="rect" id="node40" href="$IRBuilder_8h.html" title=" " alt="" coords="3710,184,3853,211"/>
+<area shape="rect" id="node50" href="$InstIterator_8h.html" title=" " alt="" coords="2491,333,2645,360"/>
+<area shape="rect" id="node3" href="$PassManager_8h.html" title=" " alt="" coords="210,259,379,285"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title=" " alt="" coords="3917,856,4080,883"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2148,931,2217,957"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1744,931,1821,957"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title=" " alt="" coords="1761,781,1919,808"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title=" " alt="" coords="2341,931,2531,957"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4158,931,4229,957"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3745,931,3812,957"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1632,856,1691,883"/>
+<area shape="rect" id="node13" href="$DenseSet_8h.html" title=" " alt="" coords="980,781,1140,808"/>
+<area shape="rect" id="node14" href="$Twine_8h.html" title=" " alt="" coords="1766,632,1901,659"/>
+<area shape="rect" id="node15" href="$ilist__node_8h.html" title=" " alt="" coords="2433,632,2594,659"/>
+<area shape="rect" id="node16" href="$Argument_8h.html" title=" " alt="" coords="1382,557,1530,584"/>
+<area shape="rect" id="node17" href="$Attributes_8h.html" title=" " alt="" coords="1335,707,1483,733"/>
+<area shape="rect" id="node21" href="$Value_8h.html" title=" " alt="" coords="2572,707,2692,733"/>
+<area shape="rect" id="node23" href="$BasicBlock_8h.html" title=" " alt="" coords="2491,483,2645,509"/>
+<area shape="rect" id="node26" href="$SymbolTableListTraits_8h.html" title=" " alt="" coords="2821,632,3046,659"/>
+<area shape="rect" id="node28" href="$CallingConv_8h.html" title=" " alt="" coords="2974,483,3135,509"/>
+<area shape="rect" id="node29" href="$DerivedTypes_8h.html" title=" " alt="" coords="3819,632,3991,659"/>
+<area shape="rect" id="node31" href="$GlobalObject_8h.html" title=" " alt="" coords="1671,483,1839,509"/>
+<area shape="rect" id="node32" href="$GlobalValue_8h.html" title=" " alt="" coords="1555,557,1717,584"/>
+<area shape="rect" id="node34" href="$OperandTraits_8h.html" title=" " alt="" coords="4219,632,4394,659"/>
+<area shape="rect" id="node18" href="$Types_8h.html" title=" " alt="" coords="2675,856,2791,883"/>
+<area shape="rect" id="node19" href="$ArrayRef_8h.html" title=" " alt="" coords="4232,781,4387,808"/>
+<area shape="rect" id="node20" href="$None_8h.html" title=" " alt="" coords="5694,856,5826,883"/>
+<area shape="rect" id="node22" href="$CBindingWrapping_8h.html" title=" " alt="" coords="2891,781,3133,808"/>
+<area shape="rect" id="node24" href="$IR_2Instruction_8h.html" title=" " alt="" coords="4875,557,5029,584"/>
+<area shape="rect" id="node25" href="$DebugLoc_8h.html" title=" " alt="" coords="4738,632,4886,659"/>
+<area shape="rect" id="node27" href="$AtomicOrdering_8h.html" title=" " alt="" coords="6278,632,6501,659"/>
+<area shape="rect" id="node30" href="$Type_8h.html" title=" " alt="" coords="3721,707,3836,733"/>
+<area shape="rect" id="node33" href="$Constant_8h.html" title=" " alt="" coords="4571,632,4714,659"/>
+<area shape="rect" id="node36" href="$DataLayout_8h.html" title=" " alt="" coords="2046,557,2205,584"/>
+<area shape="rect" id="node37" href="$GlobalVariable_8h.html" title=" " alt="" coords="1907,408,2085,435"/>
+<area shape="rect" id="node39" href="$CoroInstr_8h.html" title=" " alt="" coords="1785,184,1877,211"/>
+<area shape="rect" id="node41" href="$ConstantFolder_8h.html" title=" " alt="" coords="5411,408,5592,435"/>
+<area shape="rect" id="node42" href="$Constants_8h.html" title=" " alt="" coords="5323,557,5472,584"/>
+<area shape="rect" id="node43" href="$Operator_8h.html" title=" " alt="" coords="5303,483,5443,509"/>
+<area shape="rect" id="node44" href="$FPEnv_8h.html" title=" " alt="" coords="4408,259,4531,285"/>
+<area shape="rect" id="node45" href="$InstrTypes_8h.html" title=" " alt="" coords="3985,333,4135,360"/>
+<area shape="rect" id="node46" href="$LLVMContext_8h.html" title=" " alt="" coords="3166,707,3335,733"/>
+<area shape="rect" id="node47" href="$Instructions_8h.html" title=" " alt="" coords="4987,259,5147,285"/>
+<area shape="rect" id="node48" href="$Intrinsics_8h.html" title=" " alt="" coords="4335,707,4478,733"/>
+<area shape="rect" id="node49" href="$ValueHandle_8h.html" title=" " alt="" coords="3273,632,3439,659"/>
+</map>

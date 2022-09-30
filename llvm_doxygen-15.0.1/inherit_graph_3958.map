@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="37,63,191,104"/>
+<area shape="rect" id="node2" href="$structllvm_1_1UniquePtrCast.html" title="This cast trait provides std::unique_ptr casting." alt="" coords="289,5,455,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ValueFromPointerCast.html" title="This cast trait provides casting for the specific case of casting to a value&#45;typed object from a poin..." alt="" coords="271,143,473,184"/>
+<area shape="rect" id="node4" href="$structllvm_1_1UniquePtrCast.html" title=" " alt="" coords="296,71,448,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1CastInfo_3_01To_00_01std_1_1unique__ptr_3_01From_01_4_01_4.html" title="Provide a CastInfo specialized for std::unique_ptr." alt="" coords="521,71,723,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="5,128,223,199"/>
+<area shape="rect" id="node7" href="$structllvm_1_1NullableValueCastFailed.html" title="All of these cast traits are meant to be implementations for useful casts that users may want to use ..." alt="" coords="6,223,222,264"/>
+</map>

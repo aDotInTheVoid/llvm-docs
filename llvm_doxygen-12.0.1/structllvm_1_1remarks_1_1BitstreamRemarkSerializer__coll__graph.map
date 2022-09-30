@@ -1,0 +1,29 @@
+<map id="llvm::remarks::BitstreamRemarkSerializer" name="llvm::remarks::BitstreamRemarkSerializer">
+<area shape="rect" id="node1" title="Implementation of the remark serializer using LLVM bitstream." alt="" coords="2948,314,3115,355"/>
+<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1RemarkSerializer.html" title="This is the base class for a remark serializer." alt="" coords="2648,204,2857,231"/>
+<area shape="rect" id="node3" title=" " alt="" coords="2230,204,2293,231"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title=" " alt="" coords="2180,255,2343,297"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="1781,263,1916,289"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2208,103,2315,129"/>
+<area shape="rect" id="node7" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream." alt="" coords="2197,153,2326,180"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1769,153,1928,180"/>
+<area shape="rect" id="node9" href="$classbool.html" title=" " alt="" coords="787,429,833,456"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1072,546,1249,587"/>
+<area shape="rect" id="node10" href="$structllvm_1_1remarks_1_1BitstreamRemarkSerializerHelper.html" title="Serialize the remarks to LLVM bitstream." alt="" coords="2669,615,2836,657"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2157,372,2365,399"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2227,595,2295,621"/>
+<area shape="rect" id="node13" href="$classllvm_1_1BitstreamWriter.html" title=" " alt="" coords="2189,645,2333,672"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="2195,762,2327,803"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1470,617,1651,644"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1783,738,1915,779"/>
+<area shape="rect" id="node27" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="1774,566,1923,607"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD." alt="" coords="721,546,899,587"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="515,539,672,595"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVectorBase.html" title="This is all the stuff common to all SmallVectors." alt="" coords="172,546,327,587"/>
+<area shape="rect" id="node20" title=" " alt="" coords="5,528,68,555"/>
+<area shape="rect" id="node21" title=" " alt="" coords="9,579,64,605"/>
+<area shape="rect" id="node22" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="1076,741,1245,782"/>
+<area shape="rect" id="node25" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="1453,733,1668,789"/>
+<area shape="rect" id="node26" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="2195,697,2327,738"/>
+<area shape="rect" id="node23" title=" " alt="" coords="787,748,833,775"/>
+</map>

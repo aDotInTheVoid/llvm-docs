@@ -1,0 +1,13 @@
+<map id="llvm::AddressRangesMap&lt; T &gt;" name="llvm::AddressRangesMap&lt; T &gt;">
+<area shape="rect" id="node1" title="AddressRangesMap class maps values to the address ranges." alt="" coords="1879,97,2104,124"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AddressRanges.html" title="The AddressRanges class helps normalize address range collections." alt="" coords="1671,135,1829,161"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1408,161,1556,202"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="1052,162,1219,203"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="654,104,858,131"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1061,97,1209,138"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1395,63,1569,89"/>
+<area shape="rect" id="node6" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="638,181,874,251"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,116,56,143"/>
+<area shape="rect" id="node8" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="169,109,356,150"/>
+<area shape="rect" id="node10" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="636,5,876,61"/>
+</map>

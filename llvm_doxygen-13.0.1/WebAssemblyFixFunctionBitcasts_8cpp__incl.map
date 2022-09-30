@@ -1,0 +1,52 @@
+<map id="lib/Target/WebAssembly/WebAssemblyFixFunctionBitcasts.cpp" name="lib/Target/WebAssembly/WebAssemblyFixFunctionBitcasts.cpp">
+<area shape="rect" id="node1" title="Fix bitcasted functions." alt="" coords="5289,5,5559,47"/>
+<area shape="rect" id="node2" href="$WebAssembly_8h.html" title="This file contains the entry points for global functions defined in the LLVM WebAssembly back&#45;end." alt="" coords="5753,169,5877,196"/>
+<area shape="rect" id="node18" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="1552,319,1701,345"/>
+<area shape="rect" id="node32" href="$Instructions_8h.html" title=" " alt="" coords="3700,95,3860,121"/>
+<area shape="rect" id="node44" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="5535,169,5667,196"/>
+<area shape="rect" id="node47" href="$Operator_8h.html" title=" " alt="" coords="1101,244,1241,271"/>
+<area shape="rect" id="node48" href="$Pass_8h.html" title=" " alt="" coords="5537,95,5633,121"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title=" " alt="" coords="5657,95,5820,121"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title=" " alt="" coords="5102,543,5309,569"/>
+<area shape="rect" id="node3" href="$PassRegistry_8h.html" title=" " alt="" coords="5741,244,5889,271"/>
+<area shape="rect" id="node17" href="$CodeGen_8h.html" title=" " alt="" coords="6426,244,6606,271"/>
+<area shape="rect" id="node4" href="$StringMap_8h.html" title=" " alt="" coords="5651,319,5815,345"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title=" " alt="" coords="4109,617,4267,644"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3675,841,3746,868"/>
+<area shape="rect" id="node7" href="$STLExtras_8h.html" title=" " alt="" coords="3796,692,3959,719"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title=" " alt="" coords="1535,841,1713,868"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2641,841,2711,868"/>
+<area shape="rect" id="node13" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="6383,841,6574,868"/>
+<area shape="rect" id="node14" title=" " alt="" coords="5842,841,5913,868"/>
+<area shape="rect" id="node8" href="$Optional_8h.html" title=" " alt="" coords="493,767,646,793"/>
+<area shape="rect" id="node12" href="$iterator_8h.html" title=" " alt="" coords="6194,767,6339,793"/>
+<area shape="rect" id="node15" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="1132,767,1343,793"/>
+<area shape="rect" id="node16" title=" " alt="" coords="4544,767,4611,793"/>
+<area shape="rect" id="node9" href="$None_8h.html" title=" " alt="" coords="91,841,223,868"/>
+<area shape="rect" id="node19" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1209,543,1357,569"/>
+<area shape="rect" id="node20" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1377,692,1509,719"/>
+<area shape="rect" id="node21" href="$ArrayRef_8h.html" title=" " alt="" coords="2141,617,2296,644"/>
+<area shape="rect" id="node23" href="$Constant_8h.html" title=" " alt="" coords="2673,393,2815,420"/>
+<area shape="rect" id="node24" href="$User_8h.html" title=" " alt="" coords="3219,468,3333,495"/>
+<area shape="rect" id="node27" href="$Value_8h.html" title=" " alt="" coords="3771,543,3891,569"/>
+<area shape="rect" id="node28" href="$Casting_8h.html" title=" " alt="" coords="1672,617,1843,644"/>
+<area shape="rect" id="node29" href="$DerivedTypes_8h.html" title=" " alt="" coords="1867,393,2039,420"/>
+<area shape="rect" id="node31" href="$OperandTraits_8h.html" title=" " alt="" coords="3145,393,3319,420"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title=" " alt="" coords="2771,692,2946,719"/>
+<area shape="rect" id="node25" href="$Use_8h.html" title="This defines the Use class." alt="" coords="3368,617,3477,644"/>
+<area shape="rect" id="node26" href="$Types_8h.html" title=" " alt="" coords="4651,692,4767,719"/>
+<area shape="rect" id="node30" href="$Type_8h.html" title=" " alt="" coords="1360,468,1475,495"/>
+<area shape="rect" id="node33" href="$Bitfields_8h.html" title="This file implements methods to test, set and extract typed bits from packed unsigned integers." alt="" coords="5158,692,5309,719"/>
+<area shape="rect" id="node34" href="$MapVector_8h.html" title=" " alt="" coords="2923,617,3090,644"/>
+<area shape="rect" id="node35" href="$Twine_8h.html" title=" " alt="" coords="2902,543,3037,569"/>
+<area shape="rect" id="node36" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="4473,543,4621,569"/>
+<area shape="rect" id="node37" href="$BasicBlock_8h.html" title=" " alt="" coords="3979,319,4133,345"/>
+<area shape="rect" id="node38" href="$IR_2Instruction_8h.html" title=" " alt="" coords="3699,393,3853,420"/>
+<area shape="rect" id="node39" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="6066,468,6289,495"/>
+<area shape="rect" id="node40" href="$CallingConv_8h.html" title=" " alt="" coords="3497,319,3658,345"/>
+<area shape="rect" id="node41" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="5090,169,5201,196"/>
+<area shape="rect" id="node42" href="$Function_8h.html" title=" " alt="" coords="3885,244,4024,271"/>
+<area shape="rect" id="node43" href="$InstrTypes_8h.html" title=" " alt="" coords="3333,169,3483,196"/>
+<area shape="rect" id="node45" href="$llvm_2IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM." alt="" coords="5703,468,5838,495"/>
+<area shape="rect" id="node46" href="$DataLayout_8h.html" title=" " alt="" coords="2369,319,2527,345"/>
+</map>

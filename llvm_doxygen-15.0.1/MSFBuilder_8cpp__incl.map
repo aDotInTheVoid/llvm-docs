@@ -1,0 +1,52 @@
+<map id="lib/DebugInfo/MSF/MSFBuilder.cpp" name="lib/DebugInfo/MSF/MSFBuilder.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1883,5,2128,32"/>
+<area shape="rect" id="node2" href="$MSFBuilder_8h.html" title=" " alt="" coords="1056,423,1211,464"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title=" " alt="" coords="2241,661,2396,688"/>
+<area shape="rect" id="node9" title=" " alt="" coords="700,885,767,912"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2107,811,2192,837"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3552,811,3621,837"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2707,811,2773,837"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1261,811,1321,837"/>
+<area shape="rect" id="node20" title=" " alt="" coords="5087,811,5164,837"/>
+<area shape="rect" id="node24" title=" " alt="" coords="633,736,695,763"/>
+<area shape="rect" id="node28" href="$Support_2Error_8h.html" title=" " alt="" coords="2467,512,2618,539"/>
+<area shape="rect" id="node37" href="$MSFError_8h.html" title=" " alt="" coords="2043,80,2197,121"/>
+<area shape="rect" id="node38" href="$MappedBlockStream_8h.html" title=" " alt="" coords="1744,169,1917,211"/>
+<area shape="rect" id="node41" href="$Endian_8h.html" title=" " alt="" coords="4477,736,4643,763"/>
+<area shape="rect" id="node45" href="$BinaryByteStream_8h.html" title=" " alt="" coords="3887,266,4127,293"/>
+<area shape="rect" id="node46" href="$FileOutputBuffer_8h.html" title=" " alt="" coords="4245,348,4472,375"/>
+<area shape="rect" id="node48" href="$BinaryStreamWriter_8h.html" title=" " alt="" coords="2346,80,2545,121"/>
+<area shape="rect" id="node50" href="$FormatVariadic_8h.html" title=" " alt="" coords="3163,587,3381,613"/>
+<area shape="rect" id="node25" href="$BitVector_8h.html" title=" " alt="" coords="1431,587,1587,613"/>
+<area shape="rect" id="node26" href="$StringRef_8h.html" title=" " alt="" coords="4093,736,4251,763"/>
+<area shape="rect" id="node27" href="$Allocator_8h.html" title=" " alt="" coords="1461,661,1640,688"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title=" " alt="" coords="2769,736,2919,763"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="2153,885,2332,912"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3895,885,3966,912"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4553,885,4645,912"/>
+<area shape="rect" id="node15" href="$None_8h.html" title=" " alt="" coords="3097,736,3229,763"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title=" " alt="" coords="1937,736,2111,763"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2217,811,2327,837"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1835,811,1906,837"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title=" " alt="" coords="2237,736,2400,763"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3456,736,3512,763"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="2797,811,3008,837"/>
+<area shape="rect" id="node7" href="$SwapByteOrder_8h.html" title=" " alt="" coords="3747,811,3968,837"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1005,811,1070,837"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3083,811,3277,837"/>
+<area shape="rect" id="node29" href="$c_2Error_8h.html" title=" " alt="" coords="2488,587,2597,613"/>
+<area shape="rect" id="node30" href="$StringExtras_8h.html" title=" " alt="" coords="2809,587,2986,613"/>
+<area shape="rect" id="node31" href="$Twine_8h.html" title=" " alt="" coords="3347,661,3482,688"/>
+<area shape="rect" id="node32" href="$AlignOf_8h.html" title=" " alt="" coords="4667,811,4835,837"/>
+<area shape="rect" id="node33" href="$Debug_8h.html" title=" " alt="" coords="2621,587,2784,613"/>
+<area shape="rect" id="node34" href="$ErrorOr_8h.html" title=" " alt="" coords="4718,736,4885,763"/>
+<area shape="rect" id="node35" href="$Format_8h.html" title=" " alt="" coords="2297,587,2463,613"/>
+<area shape="rect" id="node36" href="$raw__ostream_8h.html" title=" " alt="" coords="3558,661,3765,688"/>
+<area shape="rect" id="node39" href="$DenseMap_8h.html" title=" " alt="" coords="2475,736,2642,763"/>
+<area shape="rect" id="node40" href="$MSFCommon_8h.html" title=" " alt="" coords="1712,423,1867,464"/>
+<area shape="rect" id="node42" href="$BinaryStream_8h.html" title=" " alt="" coords="2759,348,2969,375"/>
+<area shape="rect" id="node44" href="$BinaryStreamRef_8h.html" title=" " alt="" coords="2447,259,2646,300"/>
+<area shape="rect" id="node43" href="$BinaryStreamError_8h.html" title=" " alt="" coords="3719,423,3918,464"/>
+<area shape="rect" id="node47" href="$MemoryBuffer_8h.html" title=" " alt="" coords="4296,587,4509,613"/>
+<area shape="rect" id="node49" href="$BinaryStreamArray_8h.html" title=" " alt="" coords="2346,169,2545,211"/>
+</map>

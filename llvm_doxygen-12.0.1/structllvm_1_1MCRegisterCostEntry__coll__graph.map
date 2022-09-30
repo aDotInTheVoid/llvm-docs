@@ -1,0 +1,5 @@
+<map id="llvm::MCRegisterCostEntry" name="llvm::MCRegisterCostEntry">
+<area shape="rect" id="node1" title="Specify the cost of a register definition in terms of number of physical register allocated at regist..." alt="" coords="19,109,201,136"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="5,5,52,32"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="154,5,229,32"/>
+</map>

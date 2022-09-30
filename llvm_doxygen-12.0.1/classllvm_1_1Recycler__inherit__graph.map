@@ -1,0 +1,6 @@
+<map id="llvm::Recycler&lt; T, Size, Align &gt;" name="llvm::Recycler&lt; T, Size, Align &gt;">
+<area shape="rect" id="node1" title="Recycler &#45; This class manages a linked&#45;list of deallocated nodes and facilitates reusing deallocated ..." alt="" coords="5,71,132,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Recycler.html" title=" " alt="" coords="356,5,513,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Recycler.html" title=" " alt="" coords="359,71,511,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Recycler.html" title=" " alt="" coords="365,136,505,177"/>
+</map>

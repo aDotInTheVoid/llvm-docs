@@ -1,0 +1,12 @@
+<map id="llvm::SlotMapping" name="llvm::SlotMapping">
+<area shape="rect" id="node1" title="This struct contains the mappings from the slot numbers to unnamed metadata nodes,..." alt="" coords="1292,94,1432,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="945,5,1108,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="917,71,1136,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringMap.html" title=" " alt="" coords="942,123,1111,164"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringMapImpl.html" title="StringMapImpl &#45; This is the base class of StringMap that is shared among all of its instantiations." alt="" coords="357,137,512,163"/>
+<area shape="rect" id="node9" href="$classllvm_1_1StringMap.html" title="StringMap &#45; This is an unconventional map that is specialized for handling keys that are &quot;strings&quot;,..." alt="" coords="561,159,756,200"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances." alt="" coords="5,47,196,74"/>
+<area shape="rect" id="node7" title=" " alt="" coords="60,137,141,163"/>
+<area shape="rect" id="node8" title=" " alt="" coords="62,187,139,214"/>
+<area shape="rect" id="node10" title=" " alt="" coords="936,188,1117,229"/>
+</map>

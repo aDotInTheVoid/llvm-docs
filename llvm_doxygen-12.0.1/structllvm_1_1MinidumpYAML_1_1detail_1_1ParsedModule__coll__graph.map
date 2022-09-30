@@ -1,0 +1,12 @@
+<map id="llvm::MinidumpYAML::detail::ParsedModule" name="llvm::MinidumpYAML::detail::ParsedModule">
+<area shape="rect" id="node1" title="A structure containing all data belonging to a single minidump module." alt="" coords="955,243,1108,285"/>
+<area shape="rect" id="node2" href="$structllvm_1_1minidump_1_1Module.html" title=" " alt="" coords="677,140,837,167"/>
+<area shape="rect" id="node3" href="$structllvm_1_1minidump_1_1LocationDescriptor.html" title="Specifies the location (and size) of various objects in the minidump file." alt="" coords="356,109,523,150"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,81,169,137"/>
+<area shape="rect" id="node6" href="$structllvm_1_1minidump_1_1VSFixedFileInfo.html" title=" " alt="" coords="335,175,544,201"/>
+<area shape="rect" id="node5" title=" " alt="" coords="357,225,521,281"/>
+<area shape="rect" id="node7" title=" " alt="" coords="711,191,803,217"/>
+<area shape="rect" id="node8" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob." alt="" coords="684,248,831,275"/>
+<area shape="rect" id="node9" title=" " alt="" coords="730,299,785,325"/>
+<area shape="rect" id="node10" title=" " alt="" coords="712,349,803,376"/>
+</map>

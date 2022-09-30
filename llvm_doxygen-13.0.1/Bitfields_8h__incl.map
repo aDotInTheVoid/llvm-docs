@@ -1,0 +1,9 @@
+<map id="include/llvm/ADT/Bitfields.h" name="include/llvm/ADT/Bitfields.h">
+<area shape="rect" id="node1" title="This file implements methods to test, set and extract typed bits from packed unsigned integers." alt="" coords="171,5,373,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,75,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="99,80,165,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="190,80,261,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="285,80,352,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="376,80,435,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="459,80,551,107"/>
+</map>

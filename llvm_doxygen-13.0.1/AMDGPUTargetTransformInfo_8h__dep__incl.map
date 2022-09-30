@@ -1,0 +1,6 @@
+<map id="lib/Target/AMDGPU/AMDGPUTargetTransformInfo.h" name="lib/Target/AMDGPU/AMDGPUTargetTransformInfo.h">
+<area shape="rect" id="node1" title="This file a TargetTransformInfo::Concept conforming object specific to the AMDGPU target machine." alt="" coords="261,5,509,47"/>
+<area shape="rect" id="node2" href="$AMDGPUInstCombineIntrinsic_8cpp.html" title=" " alt="" coords="5,95,237,136"/>
+<area shape="rect" id="node3" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="261,95,509,136"/>
+<area shape="rect" id="node4" href="$AMDGPUTargetTransformInfo_8cpp.html" title=" " alt="" coords="533,95,781,136"/>
+</map>

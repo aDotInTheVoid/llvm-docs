@@ -1,0 +1,13 @@
+<map id="llvm::codeview::DebugSubsectionRef" name="llvm::codeview::DebugSubsectionRef">
+<area shape="rect" id="node1" title=" " alt="" coords="5,307,268,334"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1DebugChecksumsSubsectionRef.html" title=" " alt="" coords="316,5,561,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1codeview_1_1DebugCrossModuleExportsSubsectionRef.html" title=" " alt="" coords="333,71,545,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1codeview_1_1DebugCrossModuleImportsSubsectionRef.html" title=" " alt="" coords="332,136,545,177"/>
+<area shape="rect" id="node5" href="$classllvm_1_1codeview_1_1DebugFrameDataSubsectionRef.html" title=" " alt="" coords="333,201,544,243"/>
+<area shape="rect" id="node6" href="$classllvm_1_1codeview_1_1DebugInlineeLinesSubsectionRef.html" title=" " alt="" coords="331,267,546,308"/>
+<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1DebugLinesSubsectionRef.html" title=" " alt="" coords="337,332,541,373"/>
+<area shape="rect" id="node8" href="$classllvm_1_1codeview_1_1DebugStringTableSubsectionRef.html" title="Represents a read&#45;only view of a CodeView string table." alt="" coords="335,397,543,439"/>
+<area shape="rect" id="node9" href="$classllvm_1_1codeview_1_1DebugSymbolRVASubsectionRef.html" title=" " alt="" coords="329,463,548,504"/>
+<area shape="rect" id="node10" href="$classllvm_1_1codeview_1_1DebugSymbolsSubsectionRef.html" title=" " alt="" coords="325,528,552,569"/>
+<area shape="rect" id="node11" href="$classllvm_1_1codeview_1_1DebugUnknownSubsectionRef.html" title=" " alt="" coords="323,593,554,635"/>
+</map>

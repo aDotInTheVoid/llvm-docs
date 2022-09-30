@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1ScheduleHazardRecognizer.html" title="HazardRecognizer &#45; This determines whether or not an instruction can be issued this cycle,..." alt="" coords="5,213,241,239"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ARMBankConflictHazardRecognizer.html" title=" " alt="" coords="306,5,523,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ARMHazardRecognizerFPMLx.html" title=" " alt="" coords="311,71,518,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1GCNHazardRecognizer.html" title=" " alt="" coords="311,137,518,163"/>
+<area shape="rect" id="node5" href="$classllvm_1_1HexagonHazardRecognizer.html" title=" " alt="" coords="297,187,532,214"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MultiHazardRecognizer.html" title=" " alt="" coords="309,238,520,265"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PPCHazardRecognizer970.html" title="PPCHazardRecognizer970 &#45; This class defines a finite state automata that models the dispatch logic on..." alt="" coords="301,289,528,315"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ScoreboardHazardRecognizer.html" title=" " alt="" coords="289,339,540,366"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SystemZHazardRecognizer.html" title="SystemZHazardRecognizer maintains the state for one MBB during scheduling." alt="" coords="297,390,532,417"/>
+<area shape="rect" id="node9" href="$classllvm_1_1PPCDispatchGroupSBHazardRecognizer.html" title="PPCDispatchGroupSBHazardRecognizer &#45; This class implements a scoreboard&#45;based hazard recognizer for P..." alt="" coords="588,332,831,373"/>
+</map>

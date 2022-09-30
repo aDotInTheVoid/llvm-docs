@@ -1,0 +1,13 @@
+<map id="llvm::ms_demangle::IdentifierNode" name="llvm::ms_demangle::IdentifierNode">
+<area shape="rect" id="node1" title=" " alt="" coords="247,267,405,308"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1ConversionOperatorIdentifierNode.html" title=" " alt="" coords="453,5,697,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ms__demangle_1_1DynamicStructorIdentifierNode.html" title=" " alt="" coords="464,71,687,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ms__demangle_1_1IntrinsicFunctionIdentifierNode.html" title=" " alt="" coords="465,136,686,177"/>
+<area shape="rect" id="node6" href="$structllvm_1_1ms__demangle_1_1LiteralOperatorIdentifierNode.html" title=" " alt="" coords="469,201,681,243"/>
+<area shape="rect" id="node7" href="$structllvm_1_1ms__demangle_1_1LocalStaticGuardIdentifierNode.html" title=" " alt="" coords="463,267,687,308"/>
+<area shape="rect" id="node8" href="$structllvm_1_1ms__demangle_1_1NamedIdentifierNode.html" title=" " alt="" coords="495,332,656,373"/>
+<area shape="rect" id="node9" href="$structllvm_1_1ms__demangle_1_1RttiBaseClassDescriptorNode.html" title=" " alt="" coords="469,397,682,439"/>
+<area shape="rect" id="node10" href="$structllvm_1_1ms__demangle_1_1StructorIdentifierNode.html" title=" " alt="" coords="493,463,658,504"/>
+<area shape="rect" id="node11" href="$structllvm_1_1ms__demangle_1_1VcallThunkIdentifierNode.html" title=" " alt="" coords="482,528,669,569"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1Node.html" title=" " alt="" coords="5,274,199,301"/>
+</map>

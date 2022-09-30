@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1InstCombiner.html" title="The core instruction combiner logic." alt="" coords="55,5,201,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InstCombinerImpl.html" title=" " alt="" coords="299,35,473,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="5,57,251,98"/>
+</map>

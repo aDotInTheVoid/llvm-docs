@@ -1,0 +1,5 @@
+<map id="llvm::orc::remote::mem::DestroyRemoteAllocator" name="llvm::orc::remote::mem::DestroyRemoteAllocator">
+<area shape="rect" id="node1" title="Destroys a remote allocator, freeing any memory allocated by it." alt="" coords="740,29,964,70"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="471,14,691,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="5,21,208,77"/>
+</map>

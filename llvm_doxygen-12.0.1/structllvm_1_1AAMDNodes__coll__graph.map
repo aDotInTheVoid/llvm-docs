@@ -1,0 +1,6 @@
+<map id="llvm::AAMDNodes" name="llvm::AAMDNodes">
+<area shape="rect" id="node1" title="A collection of metadata nodes that might be associated with a memory access used by the alias&#45;analys..." alt="" coords="5,348,136,375"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="17,215,124,241"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="17,139,125,165"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="33,5,108,32"/>
+</map>

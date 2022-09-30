@@ -1,0 +1,5 @@
+<map id="llvm::ArgDescriptor" name="llvm::ArgDescriptor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,228,140,255"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCRegister.html" title="Wrapper class representing physical registers. Should be passed by value." alt="" coords="119,139,242,165"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="6,5,81,32"/>
+</map>

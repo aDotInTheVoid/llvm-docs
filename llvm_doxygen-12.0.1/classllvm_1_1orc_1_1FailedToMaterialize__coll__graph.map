@@ -1,0 +1,7 @@
+<map id="llvm::orc::FailedToMaterialize" name="llvm::orc::FailedToMaterialize">
+<area shape="rect" id="node1" title="Used to notify a JITDylib that the given set of symbols failed to materialize." alt="" coords="58,289,249,316"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,171,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="15,5,150,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="105,81,263,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="195,193,242,219"/>
+</map>

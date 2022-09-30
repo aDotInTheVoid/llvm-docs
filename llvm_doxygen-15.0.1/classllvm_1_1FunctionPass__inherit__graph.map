@@ -1,0 +1,51 @@
+<map id="llvm::FunctionPass" name="llvm::FunctionPass">
+<area shape="rect" id="node1" title="FunctionPass class &#45; This class is used to implement most global optimizations." alt="" coords="141,1211,284,1237"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AAEvalLegacyPass.html" title=" " alt="" coords="381,5,561,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AAResultsWrapperPass.html" title="A wrapper pass to provide the legacy pass manager access to a suitably prepared AAResults object." alt="" coords="367,56,576,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BasicAAWrapperPass.html" title="Legacy wrapper pass to provide the BasicAAResult object." alt="" coords="374,107,569,133"/>
+<area shape="rect" id="node6" href="$classllvm_1_1BlockFrequencyInfoWrapperPass.html" title="Legacy analysis pass which computes BlockFrequencyInfo." alt="" coords="378,158,565,199"/>
+<area shape="rect" id="node7" href="$classllvm_1_1BranchProbabilityInfoWrapperPass.html" title="Legacy analysis pass which computes BranchProbabilityInfo." alt="" coords="372,223,571,265"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CycleInfoWrapperPass.html" title="Legacy analysis pass which computes a CycleInfo." alt="" coords="369,289,573,316"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DemandedBitsWrapperPass.html" title=" " alt="" coords="352,340,591,367"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DependenceAnalysisWrapperPass.html" title="Legacy pass manager pass to access dependence information." alt="" coords="374,391,569,433"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DominanceFrontierWrapperPass.html" title=" " alt="" coords="338,457,605,484"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DominatorTreeWrapperPass.html" title="Legacy analysis pass which computes a DominatorTree." alt="" coords="352,508,591,535"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DOTGraphTraitsPrinterWrapperPass.html" title=" " alt="" coords="352,559,591,630"/>
+<area shape="rect" id="node14" href="$classllvm_1_1DOTGraphTraitsViewerWrapperPass.html" title=" " alt="" coords="352,654,591,725"/>
+<area shape="rect" id="node15" href="$classllvm_1_1gvn_1_1GVNLegacyPass.html" title=" " alt="" coords="374,749,569,776"/>
+<area shape="rect" id="node16" href="$classllvm_1_1GVNHoistLegacyPass.html" title=" " alt="" coords="373,800,570,827"/>
+<area shape="rect" id="node17" href="$classllvm_1_1InjectTLIMappingsLegacy.html" title=" " alt="" coords="360,851,583,877"/>
+<area shape="rect" id="node18" href="$classllvm_1_1InstructionCombiningPass.html" title="The legacy pass manager&#39;s instcombine pass." alt="" coords="358,901,585,928"/>
+<area shape="rect" id="node19" href="$classllvm_1_1IntervalPartition.html" title=" " alt="" coords="390,952,553,979"/>
+<area shape="rect" id="node20" href="$classllvm_1_1LazyBlockFrequencyInfoPass.html" title="This is an alternative analysis pass to BlockFrequencyInfoWrapperPass." alt="" coords="375,1003,567,1045"/>
+<area shape="rect" id="node21" href="$classllvm_1_1LazyBranchProbabilityInfoPass.html" title="This is an alternative analysis pass to BranchProbabilityInfoWrapperPass." alt="" coords="369,1069,573,1110"/>
+<area shape="rect" id="node22" href="$classllvm_1_1LazyValueInfoWrapperPass.html" title="Wrapper around LazyValueInfo." alt="" coords="354,1135,589,1161"/>
+<area shape="rect" id="node23" href="$structllvm_1_1LCSSAVerificationPass.html" title=" " alt="" coords="370,1185,573,1212"/>
+<area shape="rect" id="node24" href="$classllvm_1_1LegacyDivergenceAnalysis.html" title=" " alt="" coords="354,1236,589,1263"/>
+<area shape="rect" id="node25" href="$classllvm_1_1LoopAccessLegacyAnalysis.html" title="This analysis provides dependence information for the memory accesses of a loop." alt="" coords="353,1287,589,1313"/>
+<area shape="rect" id="node26" href="$classllvm_1_1LoopInfoWrapperPass.html" title="The legacy pass manager&#39;s analysis pass to compute loop information." alt="" coords="372,1337,571,1364"/>
+<area shape="rect" id="node27" href="$classllvm_1_1LPPassManager.html" title=" " alt="" coords="391,1388,551,1415"/>
+<area shape="rect" id="node28" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="372,1439,571,1465"/>
+<area shape="rect" id="node34" href="$classllvm_1_1MemoryDependenceWrapperPass.html" title="A wrapper analysis pass for the legacy pass manager that exposes a MemoryDepnedenceResults instance." alt="" coords="332,1489,611,1516"/>
+<area shape="rect" id="node35" href="$classllvm_1_1MemorySSAPrinterLegacyPass.html" title=" " alt="" coords="343,1540,600,1567"/>
+<area shape="rect" id="node36" href="$classllvm_1_1MemorySSAWrapperPass.html" title="Legacy analysis pass which computes MemorySSA." alt="" coords="360,1591,583,1617"/>
+<area shape="rect" id="node37" href="$classllvm_1_1OptimizationRemarkEmitterWrapperPass.html" title="OptimizationRemarkEmitter legacy analysis pass." alt="" coords="374,1642,569,1683"/>
+<area shape="rect" id="node38" href="$classllvm_1_1PhiValuesWrapperPass.html" title="Wrapper pass for the legacy pass manager." alt="" coords="368,1708,575,1735"/>
+<area shape="rect" id="node39" href="$structllvm_1_1PostDominatorTreeWrapperPass.html" title=" " alt="" coords="338,1759,605,1785"/>
+<area shape="rect" id="node40" href="$classllvm_1_1PredicateInfoPrinterLegacyPass.html" title=" " alt="" coords="377,1810,565,1851"/>
+<area shape="rect" id="node41" href="$classllvm_1_1RegionInfoPass.html" title=" " alt="" coords="392,1876,551,1903"/>
+<area shape="rect" id="node42" href="$structllvm_1_1ReplaceWithVeclibLegacy.html" title=" " alt="" coords="358,1927,585,1953"/>
+<area shape="rect" id="node43" href="$classllvm_1_1RGPassManager.html" title="The pass manager to schedule RegionPasses." alt="" coords="389,1977,553,2004"/>
+<area shape="rect" id="node44" href="$classllvm_1_1ScalarEvolutionWrapperPass.html" title=" " alt="" coords="349,2028,593,2055"/>
+<area shape="rect" id="node45" href="$classllvm_1_1SCEVAAWrapperPass.html" title="Legacy wrapper pass to provide the SCEVAAResult object." alt="" coords="375,2079,568,2105"/>
+<area shape="rect" id="node46" href="$classllvm_1_1sroa_1_1SROALegacyPass.html" title="A legacy pass for the legacy pass manager that wraps the SROA pass." alt="" coords="368,2129,575,2156"/>
+<area shape="rect" id="node47" href="$classllvm_1_1StackProtector.html" title=" " alt="" coords="394,2180,549,2207"/>
+<area shape="rect" id="node48" href="$classllvm_1_1StackSafetyInfoWrapperPass.html" title="StackSafetyInfo wrapper for the legacy pass manager." alt="" coords="348,2231,595,2257"/>
+<area shape="rect" id="node49" href="$classllvm_1_1UnifyFunctionExitNodesLegacyPass.html" title=" " alt="" coords="364,2282,579,2323"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="5,1211,93,1237"/>
+<area shape="rect" id="node29" href="$classllvm_1_1ARMBlockPlacement.html" title=" " alt="" coords="659,1337,853,1364"/>
+<area shape="rect" id="node30" href="$classllvm_1_1AsmPrinter.html" title="This class is intended to be used as a driving class for all asm writers." alt="" coords="691,1388,821,1415"/>
+<area shape="rect" id="node31" href="$structllvm_1_1AVRFrameAnalyzer.html" title="The frame analyzer pass." alt="" coords="665,1439,847,1465"/>
+<area shape="rect" id="node32" href="$classllvm_1_1BreakFalseDeps.html" title=" " alt="" coords="675,1489,837,1516"/>
+<area shape="rect" id="node33" href="$classllvm_1_1CFIFixup.html" title=" " alt="" coords="699,1540,813,1567"/>
+</map>

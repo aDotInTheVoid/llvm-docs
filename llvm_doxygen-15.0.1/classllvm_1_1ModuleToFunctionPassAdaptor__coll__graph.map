@@ -1,0 +1,5 @@
+<map id="llvm::ModuleToFunctionPassAdaptor" name="llvm::ModuleToFunctionPassAdaptor">
+<area shape="rect" id="node1" title="Trivial adaptor that maps from a module to its functions." alt="" coords="27,200,233,241"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,109,255,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="55,5,205,47"/>
+</map>

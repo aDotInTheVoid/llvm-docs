@@ -1,0 +1,52 @@
+<map id="lib/Target/RISCV/RISCVLegalizerInfo.cpp" name="lib/Target/RISCV/RISCVLegalizerInfo.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2728,5,2955,47"/>
+<area shape="rect" id="node2" href="$RISCVLegalizerInfo_8h.html" title=" " alt="" coords="1805,95,1963,121"/>
+<area shape="rect" id="node25" href="$TargetOpcodes_8h.html" title=" " alt="" coords="300,355,527,382"/>
+<area shape="rect" id="node43" href="$DerivedTypes_8h.html" title=" " alt="" coords="2755,355,2927,382"/>
+<area shape="rect" id="node44" href="$Type_8h.html" title=" " alt="" coords="3760,445,3875,471"/>
+<area shape="rect" id="node50" href="$ValueTypes_8h.html" title=" " alt="" coords="3564,355,3767,382"/>
+<area shape="rect" id="node3" href="$LegalizerInfo_8h.html" title=" " alt="" coords="1001,169,1185,211"/>
+<area shape="rect" id="node4" href="$SmallBitVector_8h.html" title=" " alt="" coords="634,601,827,628"/>
+<area shape="rect" id="node6" title=" " alt="" coords="953,825,1013,852"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3056,751,3125,777"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3987,751,4053,777"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title=" " alt="" coords="1238,676,1413,703"/>
+<area shape="rect" id="node24" href="$LegacyLegalizerInfo_8h.html" title=" " alt="" coords="593,259,777,300"/>
+<area shape="rect" id="node27" href="$LowLevelTypeImpl_8h.html" title=" " alt="" coords="1244,348,1444,389"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2257,751,2311,777"/>
+<area shape="rect" id="node42" href="$MachineMemOperand_8h.html" title=" " alt="" coords="1207,266,1481,293"/>
+<area shape="rect" id="node47" href="$AtomicOrdering_8h.html" title=" " alt="" coords="606,355,829,382"/>
+<area shape="rect" id="node48" href="$MCInstrDesc_8h.html" title=" " alt="" coords="102,527,277,553"/>
+<area shape="rect" id="node49" href="$CommandLine_8h.html" title=" " alt="" coords="1233,527,1447,553"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title=" " alt="" coords="182,751,373,777"/>
+<area shape="rect" id="node7" href="$MathExtras_8h.html" title=" " alt="" coords="2449,676,2644,703"/>
+<area shape="rect" id="node12" title=" " alt="" coords="448,751,515,777"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1443,751,1501,777"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1283,751,1368,777"/>
+<area shape="rect" id="node19" title=" " alt="" coords="710,751,781,777"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title=" " alt="" coords="3475,825,3653,852"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2511,751,2574,777"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1525,751,1592,777"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1999,751,2091,777"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3394,900,3579,927"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3604,900,3679,927"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1094,751,1205,777"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2650,751,2721,777"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2131,751,2208,777"/>
+<area shape="rect" id="node26" title=" " alt="" coords="251,445,482,471"/>
+<area shape="rect" id="node28" href="$MachineValueType_8h.html" title=" " alt="" coords="2816,437,3016,479"/>
+<area shape="rect" id="node29" href="$Sequence_8h.html" title=" " alt="" coords="2895,601,3057,628"/>
+<area shape="rect" id="node30" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="3607,751,3817,777"/>
+<area shape="rect" id="node31" href="$TypeSize_8h.html" title=" " alt="" coords="2540,527,2719,553"/>
+<area shape="rect" id="node32" href="$ArrayRef_8h.html" title=" " alt="" coords="2044,601,2199,628"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2871,676,2927,703"/>
+<area shape="rect" id="node40" href="$raw__ostream_8h.html" title=" " alt="" coords="1307,601,1514,628"/>
+<area shape="rect" id="node33" href="$Hashing_8h.html" title=" " alt="" coords="2274,676,2425,703"/>
+<area shape="rect" id="node36" href="$None_8h.html" title=" " alt="" coords="1590,676,1722,703"/>
+<area shape="rect" id="node37" href="$STLExtras_8h.html" title=" " alt="" coords="1935,676,2097,703"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1746,676,1809,703"/>
+<area shape="rect" id="node34" title=" " alt="" coords="837,751,896,777"/>
+<area shape="rect" id="node41" href="$StringRef_8h.html" title=" " alt="" coords="904,676,1061,703"/>
+<area shape="rect" id="node46" href="$Casting_8h.html" title=" " alt="" coords="3305,676,3476,703"/>
+<area shape="rect" id="node45" href="$CBindingWrapping_8h.html" title=" " alt="" coords="3487,527,3729,553"/>
+</map>

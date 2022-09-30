@@ -1,0 +1,14 @@
+<map id="llvm::codeview::UnionRecord" name="llvm::codeview::UnionRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="892,203,1083,229"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TagRecord.html" title=" " alt="" coords="636,169,815,196"/>
+<area shape="rect" id="node3" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="304,7,489,33"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,7,123,33"/>
+<area shape="rect" id="node5" title=" " alt="" coords="363,57,431,84"/>
+<area shape="rect" id="node6" title=" " alt="" coords="377,144,416,171"/>
+<area shape="rect" id="node7" title=" " alt="" coords="346,195,447,221"/>
+<area shape="rect" id="node8" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="343,248,451,275"/>
+<area shape="rect" id="node9" href="$classsize__t.html" title=" " alt="" coords="36,237,92,264"/>
+<area shape="rect" id="node10" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="309,309,485,336"/>
+<area shape="rect" id="node11" href="$classuint32__t.html" title=" " alt="" coords="30,327,98,353"/>
+<area shape="rect" id="node12" title=" " alt="" coords="691,220,759,247"/>
+</map>

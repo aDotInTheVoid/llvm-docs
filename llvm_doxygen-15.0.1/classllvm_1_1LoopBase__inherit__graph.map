@@ -1,0 +1,7 @@
+<map id="llvm::LoopBase&lt; BlockT, LoopT &gt;" name="llvm::LoopBase&lt; BlockT, LoopT &gt;">
+<area shape="rect" id="node1" title="Instances of this class are used to represent loops that are detected in the flow graph." alt="" coords="5,39,191,80"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LoopBase.html" title=" " alt="" coords="388,5,615,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1LoopBase.html" title=" " alt="" coords="395,71,607,112"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineLoop.html" title=" " alt="" coords="664,13,809,39"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Loop.html" title="Represents a single loop in the control flow graph." alt="" coords="691,78,782,105"/>
+</map>

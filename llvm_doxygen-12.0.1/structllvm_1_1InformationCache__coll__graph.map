@@ -1,0 +1,10 @@
+<map id="llvm::InformationCache" name="llvm::InformationCache">
+<area shape="rect" id="node1" title="Data structure to hold cached (LLVM&#45;IR) information." alt="" coords="163,499,319,525"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SmallPtrSet.html" title=" " alt="" coords="169,395,313,436"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallPtrSetImpl.html" title="A templated base class for SmallPtrSet which provides the typesafe interface that is common across al..." alt="" coords="161,200,310,241"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallPtrSet.html" title="SmallPtrSet &#45; This class implements a set which is optimized for holding SmallSize or less elements." alt="" coords="257,291,406,332"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallPtrSetImplBase.html" title="SmallPtrSetImplBase &#45; This is the common code shared among all the SmallPtrSet&lt;&gt;&#39;s,..." alt="" coords="146,124,325,151"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DebugEpochBase.html" title=" " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="188,5,283,32"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="307,5,382,32"/>
+</map>

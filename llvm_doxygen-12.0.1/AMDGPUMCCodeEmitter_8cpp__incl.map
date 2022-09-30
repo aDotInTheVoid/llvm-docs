@@ -1,0 +1,6 @@
+<map id="lib/Target/AMDGPU/MCTargetDesc/AMDGPUMCCodeEmitter.cpp" name="lib/Target/AMDGPU/MCTargetDesc/AMDGPUMCCodeEmitter.cpp">
+<area shape="rect" id="node1" title="CodeEmitter interface for R600 and SI codegen." alt="" coords="50,5,283,47"/>
+<area shape="rect" id="node2" href="$AMDGPUMCCodeEmitter_8h.html" title="CodeEmitter interface for R600 and SI codegen." alt="" coords="75,95,259,121"/>
+<area shape="rect" id="node3" href="$MCCodeEmitter_8h.html" title=" " alt="" coords="5,169,184,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="208,169,269,196"/>
+</map>

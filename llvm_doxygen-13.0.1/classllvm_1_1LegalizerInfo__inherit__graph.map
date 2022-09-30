@@ -1,0 +1,11 @@
+<map id="llvm::LegalizerInfo" name="llvm::LegalizerInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,148,209"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64LegalizerInfo.html" title="This class provides the information for the target register banks." alt="" coords="199,5,396,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AMDGPULegalizerInfo.html" title="This class provides the information for the target register banks." alt="" coords="196,56,399,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ARMLegalizerInfo.html" title="This class provides the information for the target register banks." alt="" coords="211,107,384,133"/>
+<area shape="rect" id="node5" href="$structllvm_1_1M68kLegalizerInfo.html" title="This struct provides the information for the target register banks." alt="" coords="208,157,387,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MipsLegalizerInfo.html" title="This class provides legalization strategies." alt="" coords="210,208,385,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PPCLegalizerInfo.html" title="This class provides the information for the PowerPC target legalizer for GlobalISel." alt="" coords="213,259,381,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1RISCVLegalizerInfo.html" title="This class provides the information for the target register banks." alt="" coords="206,309,389,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1X86LegalizerInfo.html" title="This class provides the information for the target register banks." alt="" coords="213,360,381,387"/>
+</map>

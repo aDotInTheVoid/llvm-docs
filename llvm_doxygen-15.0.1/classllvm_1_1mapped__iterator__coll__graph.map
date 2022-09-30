@@ -1,0 +1,10 @@
+<map id="llvm::mapped_iterator&lt; ItTy, FuncTy, ReferenceTy &gt;" name="llvm::mapped_iterator&lt; ItTy, FuncTy, ReferenceTy &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="2759,519,2973,561"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="2376,439,2709,641"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="1447,176,1780,379"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,369,255,439"/>
+<area shape="rect" id="node7" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="852,402,1423,678"/>
+<area shape="rect" id="node5" href="$classItTy.html" title=" " alt="" coords="1919,600,1964,627"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1804,505,2079,575"/>
+<area shape="rect" id="node8" href="$classWrappedIteratorT.html" title=" " alt="" coords="1069,703,1205,729"/>
+</map>

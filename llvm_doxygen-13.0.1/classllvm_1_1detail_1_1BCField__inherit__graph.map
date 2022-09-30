@@ -1,0 +1,11 @@
+<map id="llvm::detail::BCField&lt; Compound &gt;" name="llvm::detail::BCField&lt; Compound &gt;">
+<area shape="rect" id="node1" title="Convenience base for all kinds of bitcode abbreviation fields." alt="" coords="5,150,159,191"/>
+<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1BCField.html" title=" " alt="" coords="268,107,443,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1detail_1_1BCField.html" title=" " alt="" coords="279,201,432,242"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BCChar6.html" title="Represents a character encoded in LLVM&#39;s Char6 encoding." alt="" coords="540,5,655,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BCFixed.html" title="Represents a fixed&#45;width value in a bitcode record." alt="" coords="508,56,687,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BCLiteral.html" title="Represents a literal operand in a bitcode record." alt="" coords="505,107,689,133"/>
+<area shape="rect" id="node6" href="$classllvm_1_1BCVBR.html" title="Represents a variable&#45;width value in a bitcode record." alt="" coords="511,157,683,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1BCArray.html" title="Represents an array of some other type." alt="" coords="492,208,703,235"/>
+<area shape="rect" id="node9" href="$classllvm_1_1BCBlob.html" title="Represents an untyped blob of bytes." alt="" coords="544,259,651,285"/>
+</map>

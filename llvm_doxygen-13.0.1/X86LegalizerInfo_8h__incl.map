@@ -1,0 +1,52 @@
+<map id="lib/Target/X86/X86LegalizerInfo.h" name="lib/Target/X86/X86LegalizerInfo.h">
+<area shape="rect" id="node1" title="This file declares the targeting of the Machinelegalizer class for X86." alt="" coords="2231,5,2430,47"/>
+<area shape="rect" id="node2" href="$LegalizerInfo_8h.html" title="Interface for Targets to specify which operations they can successfully select and how the others sho..." alt="" coords="2239,95,2423,136"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title=" " alt="" coords="2057,437,2223,464"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2573,736,2633,763"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2104,661,2173,688"/>
+<area shape="rect" id="node14" title=" " alt="" coords="5191,661,5246,688"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1032,587,1099,613"/>
+<area shape="rect" id="node29" href="$None_8h.html" title=" " alt="" coords="5621,587,5753,613"/>
+<area shape="rect" id="node30" href="$Optional_8h.html" title=" " alt="" coords="5259,512,5413,539"/>
+<area shape="rect" id="node33" href="$STLExtras_8h.html" title=" " alt="" coords="4587,437,4749,464"/>
+<area shape="rect" id="node37" href="$SmallBitVector_8h.html" title=" " alt="" coords="702,191,895,218"/>
+<area shape="rect" id="node40" href="$SmallVector_8h.html" title=" " alt="" coords="4043,512,4218,539"/>
+<area shape="rect" id="node41" href="$LegacyLegalizerInfo_8h.html" title="Interface for Targets to specify which operations they can successfully select and how the others sho..." alt="" coords="2109,184,2293,225"/>
+<area shape="rect" id="node42" href="$TargetOpcodes_8h.html" title=" " alt="" coords="1901,273,2128,300"/>
+<area shape="rect" id="node43" href="$LowLevelTypeImpl_8h.html" title="Implement a low&#45;level type suitable for MachineInstr level instruction selection." alt="" coords="1497,348,1697,389"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2254,273,2378,300"/>
+<area shape="rect" id="node45" href="$MachineFunction_8h.html" title=" " alt="" coords="2600,191,2840,218"/>
+<area shape="rect" id="node49" href="$CommandLine_8h.html" title=" " alt="" coords="4577,273,4791,300"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title=" " alt="" coords="2850,437,3057,464"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title=" " alt="" coords="1173,512,1365,539"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="3633,736,3812,763"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title=" " alt="" coords="3527,661,3718,688"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3837,736,3929,763"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2389,661,2475,688"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2499,661,2565,688"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2774,587,2845,613"/>
+<area shape="rect" id="node17" href="$EpochTracker_8h.html" title=" " alt="" coords="1491,512,1674,539"/>
+<area shape="rect" id="node19" href="$AlignOf_8h.html" title=" " alt="" coords="2197,661,2365,688"/>
+<area shape="rect" id="node20" href="$MathExtras_8h.html" title=" " alt="" coords="448,512,643,539"/>
+<area shape="rect" id="node23" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="3876,587,4063,613"/>
+<area shape="rect" id="node25" href="$ReverseIteration_8h.html" title=" " alt="" coords="1749,512,1979,539"/>
+<area shape="rect" id="node26" title=" " alt="" coords="4415,587,4526,613"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3007,587,3078,613"/>
+<area shape="rect" id="node28" title=" " alt="" coords="4290,587,4339,613"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title=" " alt="" coords="2457,587,2607,613"/>
+<area shape="rect" id="node6" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4087,661,4297,688"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1767,587,1961,613"/>
+<area shape="rect" id="node21" title=" " alt="" coords="436,587,503,613"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1579,587,1637,613"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3946,661,4011,688"/>
+<area shape="rect" id="node31" href="$STLForwardCompat_8h.html" title=" " alt="" coords="5372,587,5596,613"/>
+<area shape="rect" id="node32" title=" " alt="" coords="4551,587,4628,613"/>
+<area shape="rect" id="node34" href="$iterator_8h.html" title=" " alt="" coords="3467,512,3613,539"/>
+<area shape="rect" id="node35" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3154,587,3345,613"/>
+<area shape="rect" id="node36" title=" " alt="" coords="4906,587,4993,613"/>
+<area shape="rect" id="node38" href="$BitVector_8h.html" title=" " alt="" coords="721,273,877,300"/>
+<area shape="rect" id="node39" href="$ArrayRef_8h.html" title=" " alt="" coords="3775,355,3929,382"/>
+<area shape="rect" id="node46" href="$GraphTraits_8h.html" title=" " alt="" coords="2801,355,2973,382"/>
+<area shape="rect" id="node47" href="$ilist_8h.html" title=" " alt="" coords="2560,512,2683,539"/>
+<area shape="rect" id="node48" href="$EHPersonalities_8h.html" title=" " alt="" coords="3214,355,3442,382"/>
+</map>

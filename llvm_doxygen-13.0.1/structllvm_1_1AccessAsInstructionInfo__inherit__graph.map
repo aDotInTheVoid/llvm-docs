@@ -1,0 +1,5 @@
+<map id="llvm::AccessAsInstructionInfo" name="llvm::AccessAsInstructionInfo">
+<area shape="rect" id="node1" title="Helper for AA::PointerInfo::Acccess DenseMap/Set usage ignoring everythign but the instruction." alt="" coords="5,185,220,212"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="36,95,189,136"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="17,5,208,32"/>
+</map>

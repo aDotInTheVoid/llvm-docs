@@ -1,0 +1,6 @@
+<map id="llvm::DILabel" name="llvm::DILabel">
+<area shape="rect" id="node1" title="Label." alt="" coords="12,229,120,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node." alt="" coords="13,155,119,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="9,80,123,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="5,5,127,32"/>
+</map>

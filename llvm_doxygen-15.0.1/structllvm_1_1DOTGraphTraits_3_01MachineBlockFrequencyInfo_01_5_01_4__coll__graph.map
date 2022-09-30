@@ -1,0 +1,13 @@
+<map id="llvm::DOTGraphTraits&lt; MachineBlockFrequencyInfo * &gt;" name="llvm::DOTGraphTraits&lt; MachineBlockFrequencyInfo * &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="2044,155,2291,196"/>
+<area shape="rect" id="node2" href="$structllvm_1_1BFIDOTGraphTraitsBase.html" title=" " alt="" coords="1693,97,1883,124"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="1250,50,1459,77"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="1317,101,1392,128"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1693,148,1883,204"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="823,70,1200,244"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DebugEpochBase.html" title=" " alt="" coords="5,220,177,246"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="227,205,419,261"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="879,268,1143,382"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1249,223,1460,264"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1759,228,1817,254"/>
+</map>

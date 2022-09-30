@@ -1,0 +1,52 @@
+<map id="lib/Transforms/Instrumentation/GCOVProfiling.cpp" name="lib/Transforms/Instrumentation/GCOVProfiling.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2131,5,2354,47"/>
+<area shape="rect" id="node2" href="$CFGMST_8h.html" title=" " alt="" coords="1936,273,2024,300"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title=" " alt="" coords="778,437,945,464"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title=" " alt="" coords="1587,594,1738,621"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1633,751,1693,777"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1160,676,1245,703"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3589,676,3648,703"/>
+<area shape="rect" id="node16" href="$STLExtras_8h.html" title=" " alt="" coords="1349,355,1512,382"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2197,437,2275,464"/>
+<area shape="rect" id="node18" href="$BlockFrequencyInfo_8h.html" title=" " alt="" coords="2775,348,2993,389"/>
+<area shape="rect" id="node19" href="$Pass_8h.html" title=" " alt="" coords="2948,437,3044,464"/>
+<area shape="rect" id="node20" href="$BranchProbabilityInfo_8h.html" title=" " alt="" coords="1688,348,1917,389"/>
+<area shape="rect" id="node21" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="1198,437,1309,464"/>
+<area shape="rect" id="node24" href="$Debug_8h.html" title=" " alt="" coords="2043,355,2205,382"/>
+<area shape="rect" id="node25" href="$raw__ostream_8h.html" title=" " alt="" coords="3410,355,3617,382"/>
+<area shape="rect" id="node28" href="$MapVector_8h.html" title=" " alt="" coords="769,355,935,382"/>
+<area shape="rect" id="node29" href="$Sequence_8h.html" title="This routine provides some synthesis utilities to produce sequences of values." alt="" coords="34,191,195,218"/>
+<area shape="rect" id="node30" href="$Statistic_8h.html" title=" " alt="" coords="2331,355,2482,382"/>
+<area shape="rect" id="node31" href="$StringExtras_8h.html" title=" " alt="" coords="4082,594,4259,621"/>
+<area shape="rect" id="node32" href="$StringMap_8h.html" title=" " alt="" coords="3170,355,3334,382"/>
+<area shape="rect" id="node33" href="$EHPersonalities_8h.html" title=" " alt="" coords="622,191,850,218"/>
+<area shape="rect" id="node34" href="$TargetLibraryInfo_8h.html" title=" " alt="" coords="2433,184,2631,225"/>
+<area shape="rect" id="node35" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="2534,273,2666,300"/>
+<area shape="rect" id="node36" href="$llvm_2IR_2DebugInfo_8h.html" title=" " alt="" coords="1387,273,1538,300"/>
+<area shape="rect" id="node37" href="$DebugLoc_8h.html" title=" " alt="" coords="1363,191,1511,218"/>
+<area shape="rect" id="node38" href="$IRBuilder_8h.html" title=" " alt="" coords="1254,102,1397,129"/>
+<area shape="rect" id="node39" href="$Instructions_8h.html" title=" " alt="" coords="1061,273,1221,300"/>
+<area shape="rect" id="node40" href="$IntrinsicInst_8h.html" title=" " alt="" coords="1077,191,1237,218"/>
+<area shape="rect" id="node41" href="$InstIterator_8h.html" title=" " alt="" coords="3996,102,4151,129"/>
+<area shape="rect" id="node42" href="$InitializePasses_8h.html" title=" " alt="" coords="4175,102,4342,129"/>
+<area shape="rect" id="node43" href="$CRC_8h.html" title=" " alt="" coords="4366,102,4514,129"/>
+<area shape="rect" id="node44" href="$CommandLine_8h.html" title=" " alt="" coords="3203,273,3418,300"/>
+<area shape="rect" id="node45" href="$FileSystem_8h.html" title=" " alt="" coords="2506,355,2699,382"/>
+<area shape="rect" id="node46" href="$Path_8h.html" title=" " alt="" coords="4539,102,4688,129"/>
+<area shape="rect" id="node47" href="$Regex_8h.html" title=" " alt="" coords="3895,594,4057,621"/>
+<area shape="rect" id="node48" href="$Instrumentation_8h.html" title=" " alt="" coords="3573,273,3819,300"/>
+<area shape="rect" id="node49" href="$GCOVProfiler_8h.html" title="This file provides the interface for the GCOV style profiler pass." alt="" coords="3585,95,3820,136"/>
+<area shape="rect" id="node50" href="$ModuleUtils_8h.html" title=" " alt="" coords="1814,587,1975,628"/>
+<area shape="rect" id="node22" href="$BranchProbability_8h.html" title=" " alt="" coords="1637,437,1872,464"/>
+<area shape="rect" id="node23" href="$Analysis_2CFG_8h.html" title=" " alt="" coords="2038,676,2191,703"/>
+<area shape="rect" id="node26" href="$BasicBlockUtils_8h.html" title=" " alt="" coords="1163,348,1325,389"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2706,437,2769,464"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title=" " alt="" coords="1637,512,1829,539"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title=" " alt="" coords="1270,676,1461,703"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="329,751,508,777"/>
+<area shape="rect" id="node11" href="$EpochTracker_8h.html" title=" " alt="" coords="579,512,762,539"/>
+<area shape="rect" id="node12" href="$AlignOf_8h.html" title=" " alt="" coords="787,512,955,539"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title=" " alt="" coords="5,512,200,539"/>
+<area shape="rect" id="node14" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="325,594,512,621"/>
+<area shape="rect" id="node15" href="$ReverseIteration_8h.html" title=" " alt="" coords="979,512,1208,539"/>
+</map>

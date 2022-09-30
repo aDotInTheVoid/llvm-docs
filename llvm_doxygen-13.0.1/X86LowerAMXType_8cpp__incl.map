@@ -1,0 +1,52 @@
+<map id="lib/Target/X86/X86LowerAMXType.cpp" name="lib/Target/X86/X86LowerAMXType.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2335,5,2601,32"/>
+<area shape="rect" id="node2" href="$X86_8h.html" title=" " alt="" coords="869,162,928,189"/>
+<area shape="rect" id="node4" href="$PostOrderIterator_8h.html" title=" " alt="" coords="2481,333,2690,360"/>
+<area shape="rect" id="node21" href="$SmallSet_8h.html" title=" " alt="" coords="1953,333,2109,360"/>
+<area shape="rect" id="node23" href="$OptimizationRemarkEmitter_8h.html" title=" " alt="" coords="2110,155,2309,196"/>
+<area shape="rect" id="node26" href="$Function_8h.html" title=" " alt="" coords="3560,408,3699,435"/>
+<area shape="rect" id="node28" href="$Pass_8h.html" title=" " alt="" coords="1193,408,1289,435"/>
+<area shape="rect" id="node30" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes." alt="" coords="2675,155,2893,196"/>
+<area shape="rect" id="node38" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="559,333,734,360"/>
+<area shape="rect" id="node41" href="$TargetPassConfig_8h.html" title="Target&#45;Independent Code Generator Pass Configuration Options pass." alt="" coords="947,333,1187,360"/>
+<area shape="rect" id="node42" href="$ValueTypes_8h.html" title=" " alt="" coords="5,408,208,435"/>
+<area shape="rect" id="node43" href="$DataLayout_8h.html" title=" " alt="" coords="1313,333,1471,360"/>
+<area shape="rect" id="node44" href="$IRBuilder_8h.html" title=" " alt="" coords="3798,80,3941,107"/>
+<area shape="rect" id="node45" href="$Instructions_8h.html" title=" " alt="" coords="3699,251,3859,278"/>
+<area shape="rect" id="node46" href="$IntrinsicInst_8h.html" title=" " alt="" coords="3520,162,3680,189"/>
+<area shape="rect" id="node47" title=" " alt="" coords="4059,80,4227,107"/>
+<area shape="rect" id="node48" href="$PatternMatch_8h.html" title=" " alt="" coords="3571,80,3741,107"/>
+<area shape="rect" id="node49" href="$InitializePasses_8h.html" title=" " alt="" coords="4251,80,4418,107"/>
+<area shape="rect" id="node50" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="1163,251,1370,278"/>
+<area shape="rect" id="node3" href="$CodeGen_8h.html" title=" " alt="" coords="887,408,1067,435"/>
+<area shape="rect" id="node5" href="$GraphTraits_8h.html" title=" " alt="" coords="2794,408,2966,435"/>
+<area shape="rect" id="node6" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3283,483,3474,509"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2650,557,2710,584"/>
+<area shape="rect" id="node8" href="$Optional_8h.html" title=" " alt="" coords="3129,408,3282,435"/>
+<area shape="rect" id="node14" href="$SmallPtrSet_8h.html" title=" " alt="" coords="2391,408,2566,435"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2371,483,2442,509"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title=" " alt="" coords="2039,408,2214,435"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1921,408,1964,435"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2990,408,3053,435"/>
+<area shape="rect" id="node9" href="$None_8h.html" title=" " alt="" coords="4322,483,4454,509"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title=" " alt="" coords="1847,557,2025,584"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title=" " alt="" coords="2025,483,2215,509"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3099,483,3168,509"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2074,557,2166,584"/>
+<area shape="rect" id="node15" title=" " alt="" coords="4049,483,4119,509"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1385,483,1471,509"/>
+<area shape="rect" id="node22" href="$iterator_8h.html" title=" " alt="" coords="3875,408,4021,435"/>
+<area shape="rect" id="node24" href="$BlockFrequencyInfo_8h.html" title=" " alt="" coords="2174,244,2391,285"/>
+<area shape="rect" id="node25" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="2235,333,2405,360"/>
+<area shape="rect" id="node29" href="$DiagnosticInfo_8h.html" title=" " alt="" coords="1749,333,1928,360"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1127,483,1185,509"/>
+<area shape="rect" id="node31" href="$IVDescriptors_8h.html" title=" " alt="" coords="3080,251,3293,278"/>
+<area shape="rect" id="node32" href="$InstrTypes_8h.html" title=" " alt="" coords="3294,333,3445,360"/>
+<area shape="rect" id="node33" href="$Operator_8h.html" title=" " alt="" coords="3977,333,4117,360"/>
+<area shape="rect" id="node34" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="4201,333,4423,360"/>
+<area shape="rect" id="node35" href="$BranchProbability_8h.html" title=" " alt="" coords="2821,251,3056,278"/>
+<area shape="rect" id="node36" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="2867,333,3056,360"/>
+<area shape="rect" id="node37" href="$InstructionCost_8h.html" title="This file defines an InstructionCost class that is used when calculating the cost of an instruction,..." alt="" coords="2568,244,2747,285"/>
+<area shape="rect" id="node39" href="$Discriminator_8h.html" title=" " alt="" coords="283,408,491,435"/>
+<area shape="rect" id="node40" href="$RegAllocCommon_8h.html" title=" " alt="" coords="617,408,863,435"/>
+</map>

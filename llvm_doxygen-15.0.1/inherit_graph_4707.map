@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,151,105,177"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="178,136,333,192"/>
+<area shape="rect" id="node4" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="169,216,342,272"/>
+<area shape="rect" id="node6" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="155,5,356,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1ObjectLinkingLayer.html" title="An ObjectLayer implementation built on JITLink." alt="" coords="429,111,605,153"/>
+<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1ObjectTransformLayer.html" title=" " alt="" coords="419,223,614,265"/>
+<area shape="rect" id="node7" href="$classllvm_1_1orc_1_1RTDyldObjectLinkingLayer.html" title=" " alt="" coords="405,30,628,71"/>
+<area shape="rect" id="node8" href="$classllvm_1_1orc_1_1ResourceManager.html" title="Listens for ResourceTracker operations." alt="" coords="153,85,357,112"/>
+</map>

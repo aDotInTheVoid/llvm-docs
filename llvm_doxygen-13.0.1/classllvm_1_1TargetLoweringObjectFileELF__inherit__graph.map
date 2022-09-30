@@ -1,0 +1,19 @@
+<map id="llvm::TargetLoweringObjectFileELF" name="llvm::TargetLoweringObjectFileELF">
+<area shape="rect" id="node1" title=" " alt="" coords="495,327,695,369"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AArch64__ELFTargetObjectFile.html" title="This implementation is used for AArch64 ELF targets (Linux in particular)." alt="" coords="743,5,989,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUTargetObjectFile.html" title=" " alt="" coords="755,56,977,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ARMElfTargetObjectFile.html" title=" " alt="" coords="761,107,971,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1AVRTargetObjectFile.html" title="Lowering for an AVR ELF32 object file." alt="" coords="771,157,961,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1HexagonTargetObjectFile.html" title=" " alt="" coords="755,208,977,235"/>
+<area shape="rect" id="node9" href="$classllvm_1_1LanaiTargetObjectFile.html" title=" " alt="" coords="767,259,965,285"/>
+<area shape="rect" id="node10" href="$classllvm_1_1M68kELFTargetObjectFile.html" title=" " alt="" coords="755,309,977,336"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MipsTargetObjectFile.html" title=" " alt="" coords="769,360,963,387"/>
+<area shape="rect" id="node12" href="$classllvm_1_1PPC64LinuxTargetObjectFile.html" title="PPC64LinuxTargetObjectFile &#45; This implementation is used for 64&#45;bit PowerPC Linux." alt="" coords="746,411,986,437"/>
+<area shape="rect" id="node13" href="$classllvm_1_1RISCVELFTargetObjectFile.html" title="This implementation is used for RISCV ELF targets." alt="" coords="753,461,979,488"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SparcELFTargetObjectFile.html" title=" " alt="" coords="755,512,977,539"/>
+<area shape="rect" id="node15" href="$classllvm_1_1X86ELFTargetObjectFile.html" title="This implementation is used for X86 ELF targets that don&#39;t have a further specialization." alt="" coords="761,563,971,589"/>
+<area shape="rect" id="node16" href="$classllvm_1_1XCoreTargetObjectFile.html" title=" " alt="" coords="765,613,967,640"/>
+<area shape="rect" id="node17" href="$classVEELFTargetObjectFile.html" title=" " alt="" coords="783,664,949,691"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFile.html" title=" " alt="" coords="224,335,447,361"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCObjectFileInfo.html" title=" " alt="" coords="5,335,176,361"/>
+</map>

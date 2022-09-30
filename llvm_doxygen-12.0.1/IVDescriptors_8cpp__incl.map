@@ -1,0 +1,52 @@
+<map id="lib/Analysis/IVDescriptors.cpp" name="lib/Analysis/IVDescriptors.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2883,5,3080,32"/>
+<area shape="rect" id="node2" href="$IVDescriptors_8h.html" title=" " alt="" coords="1989,355,2184,382"/>
+<area shape="rect" id="node24" href="$ValueHandle_8h.html" title=" " alt="" coords="2837,437,2989,464"/>
+<area shape="rect" id="node25" href="$ScopeExit_8h.html" title=" " alt="" coords="4543,661,4694,688"/>
+<area shape="rect" id="node26" href="$BasicAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s primary stateless and local alias analysis." alt="" coords="3903,169,4068,211"/>
+<area shape="rect" id="node29" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="2438,437,2559,464"/>
+<area shape="rect" id="node30" href="$Pass_8h.html" title=" " alt="" coords="3993,437,4084,464"/>
+<area shape="rect" id="node31" href="$Debug_8h.html" title=" " alt="" coords="4979,437,5128,464"/>
+<area shape="rect" id="node34" href="$DemandedBits_8h.html" title=" " alt="" coords="3133,266,3333,293"/>
+<area shape="rect" id="node35" href="$DomTreeUpdater_8h.html" title=" " alt="" coords="2731,177,2944,203"/>
+<area shape="rect" id="node36" href="$Dominators_8h.html" title=" " alt="" coords="4843,266,4989,293"/>
+<area shape="rect" id="node38" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals." alt="" coords="3019,169,3191,211"/>
+<area shape="rect" id="node39" href="$InstructionSimplify_8h.html" title=" " alt="" coords="1529,348,1693,389"/>
+<area shape="rect" id="node40" href="$LoopInfo_8h.html" title=" " alt="" coords="4467,266,4631,293"/>
+<area shape="rect" id="node41" href="$Instructions_8h.html" title=" " alt="" coords="1819,355,1965,382"/>
+<area shape="rect" id="node42" href="$LoopPass_8h.html" title=" " alt="" coords="4339,177,4511,203"/>
+<area shape="rect" id="node43" href="$MustExecute_8h.html" title="Contains a collection of routines for determining if a given instruction is guaranteed to execute if ..." alt="" coords="5302,266,5493,293"/>
+<area shape="rect" id="node44" href="$ScalarEvolution_8h.html" title=" " alt="" coords="2435,266,2639,293"/>
+<area shape="rect" id="node45" href="$ScalarEvolutionAliasAnalysis_8h.html" title="This is the interface for a SCEV&#45;based alias analysis." alt="" coords="2679,80,2873,121"/>
+<area shape="rect" id="node46" href="$ScalarEvolutionExpressions_8h.html" title=" " alt="" coords="2513,169,2706,211"/>
+<area shape="rect" id="node47" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes." alt="" coords="3357,259,3555,300"/>
+<area shape="rect" id="node48" href="$ValueTracking_8h.html" title=" " alt="" coords="1107,355,1301,382"/>
+<area shape="rect" id="node49" href="$PatternMatch_8h.html" title=" " alt="" coords="448,266,605,293"/>
+<area shape="rect" id="node50" href="$KnownBits_8h.html" title=" " alt="" coords="198,512,373,539"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title=" " alt="" coords="4060,661,4215,688"/>
+<area shape="rect" id="node9" href="$SmallPtrSet_8h.html" title=" " alt="" coords="937,437,1097,464"/>
+<area shape="rect" id="node10" href="$SmallVector_8h.html" title=" " alt="" coords="3503,437,3665,464"/>
+<area shape="rect" id="node12" href="$StringRef_8h.html" title=" " alt="" coords="2024,587,2168,613"/>
+<area shape="rect" id="node13" href="$InstrTypes_8h.html" title=" " alt="" coords="1451,437,1591,464"/>
+<area shape="rect" id="node17" href="$Casting_8h.html" title=" " alt="" coords="2405,587,2560,613"/>
+<area shape="rect" id="node21" href="$IR_2Instruction_8h.html" title=" " alt="" coords="1707,512,1847,539"/>
+<area shape="rect" id="node23" href="$Operator_8h.html" title=" " alt="" coords="1667,437,1797,464"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="2084,736,2247,763"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3929,736,4004,763"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1282,736,1347,763"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4229,736,4312,763"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4908,736,4961,763"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2714,661,2785,688"/>
+<area shape="rect" id="node14" href="$Optional_8h.html" title=" " alt="" coords="2243,587,2381,613"/>
+<area shape="rect" id="node15" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="1088,512,1227,539"/>
+<area shape="rect" id="node18" title=" " alt="" coords="969,587,1031,613"/>
+<area shape="rect" id="node19" href="$Function_8h.html" title=" " alt="" coords="2227,512,2357,539"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3858,512,3915,539"/>
+<area shape="rect" id="node16" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="501,587,624,613"/>
+<area shape="rect" id="node20" href="$DenseSet_8h.html" title=" " alt="" coords="4495,587,4643,613"/>
+<area shape="rect" id="node27" href="$AliasAnalysis_8h.html" title=" " alt="" coords="3680,266,3872,293"/>
+<area shape="rect" id="node28" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="4491,355,4650,382"/>
+<area shape="rect" id="node33" title=" " alt="" coords="3526,355,3605,382"/>
+<area shape="rect" id="node32" title=" " alt="" coords="4109,437,4147,464"/>
+<area shape="rect" id="node37" href="$GraphTraits_8h.html" title=" " alt="" coords="5030,355,5189,382"/>
+</map>

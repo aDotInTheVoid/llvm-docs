@@ -1,0 +1,4 @@
+<map id="llvm::outliner::Candidate" name="llvm::outliner::Candidate">
+<area shape="rect" id="node1" title="An individual sequence of instructions to be replaced with a call to an outlined function." alt="" coords="5,139,188,165"/>
+<area shape="rect" id="node2" title=" " alt="" coords="56,5,137,32"/>
+</map>

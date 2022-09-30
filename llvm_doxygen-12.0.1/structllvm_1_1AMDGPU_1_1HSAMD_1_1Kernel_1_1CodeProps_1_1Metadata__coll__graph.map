@@ -1,0 +1,7 @@
+<map id="llvm::AMDGPU::HSAMD::Kernel::CodeProps::Metadata" name="llvm::AMDGPU::HSAMD::Kernel::CodeProps::Metadata">
+<area shape="rect" id="node1" title="In&#45;memory representation of kernel code properties metadata." alt="" coords="199,153,368,209"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="173,5,241,32"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title=" " alt="" coords="327,5,395,32"/>
+<area shape="rect" id="node5" href="$classbool.html" title=" " alt="" coords="528,5,575,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::pdb::GSIHashIterator" name="llvm::pdb::GSIHashIterator">
+<area shape="rect" id="node1" title="Iterator over hash records producing symbol record offsets." alt="" coords="2776,619,2971,645"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="2495,582,2727,682"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="1447,249,1937,495"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,403,255,474"/>
+<area shape="rect" id="node8" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="852,387,1423,663"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FixedStreamArrayIterator.html" title=" " alt="" coords="1987,694,2210,735"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FixedStreamArrayIterator.html" title=" " alt="" coords="1007,739,1268,765"/>
+<area shape="rect" id="node7" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1961,597,2236,667"/>
+<area shape="rect" id="node9" href="$classWrappedIteratorT.html" title=" " alt="" coords="1069,688,1205,715"/>
+</map>

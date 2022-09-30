@@ -1,0 +1,5 @@
+<map id="llvm::InstrItinerary" name="llvm::InstrItinerary">
+<area shape="rect" id="node1" title="An itinerary represents the scheduling information for an instruction." alt="" coords="46,139,189,165"/>
+<area shape="rect" id="node2" href="$classuint16__t.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="160,5,227,32"/>
+</map>

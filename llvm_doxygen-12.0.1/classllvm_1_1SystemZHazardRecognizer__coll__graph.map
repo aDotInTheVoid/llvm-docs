@@ -1,0 +1,6 @@
+<map id="llvm::SystemZHazardRecognizer" name="llvm::SystemZHazardRecognizer">
+<area shape="rect" id="node1" title="SystemZHazardRecognizer maintains the state for one MBB during scheduling." alt="" coords="125,184,338,211"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleHazardRecognizer.html" title="HazardRecognizer &#45; This determines whether or not an instruction can be issued this cycle,..." alt="" coords="5,95,220,121"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="75,5,150,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="244,95,299,121"/>
+</map>

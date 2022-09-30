@@ -1,0 +1,52 @@
+<map id="lib/Target/RISCV/RISCVInsertVSETVLI.cpp" name="lib/Target/RISCV/RISCVInsertVSETVLI.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2165,5,2370,47"/>
+<area shape="rect" id="node2" href="$RISCV_8h.html" title=" " alt="" coords="622,244,692,271"/>
+<area shape="rect" id="node29" href="$RISCVSubtarget_8h.html" title=" " alt="" coords="1934,95,2070,121"/>
+<area shape="rect" id="node44" href="$LiveIntervals_8h.html" title=" " alt="" coords="3607,169,3822,196"/>
+<area shape="rect" id="node48" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="2103,393,2331,435"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2356,95,2419,121"/>
+<area shape="rect" id="node3" href="$RISCVBaseInfo_8h.html" title=" " alt="" coords="544,319,770,345"/>
+<area shape="rect" id="node15" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="1227,319,1434,345"/>
+<area shape="rect" id="node4" href="$RISCVMCTargetDesc_8h.html" title=" " alt="" coords="990,393,1209,435"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title=" " alt="" coords="1196,579,1353,606"/>
+<area shape="rect" id="node11" href="$StringSwitch_8h.html" title=" " alt="" coords="1553,490,1732,517"/>
+<area shape="rect" id="node12" href="$MCInstrDesc_8h.html" title=" " alt="" coords="292,401,467,427"/>
+<area shape="rect" id="node13" href="$SubtargetFeature_8h.html" title=" " alt="" coords="628,490,832,517"/>
+<area shape="rect" id="node14" title=" " alt="" coords="46,401,268,427"/>
+<area shape="rect" id="node5" title=" " alt="" coords="959,490,1158,517"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="2900,811,3078,837"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3309,736,3378,763"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1245,811,1304,837"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1756,736,1816,763"/>
+<area shape="rect" id="node16" href="$Triple_8h.html" title=" " alt="" coords="1334,401,1468,427"/>
+<area shape="rect" id="node17" href="$DataLayout_8h.html" title=" " alt="" coords="2508,401,2667,427"/>
+<area shape="rect" id="node23" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="796,401,966,427"/>
+<area shape="rect" id="node24" href="$Pass_8h.html" title=" " alt="" coords="136,490,232,517"/>
+<area shape="rect" id="node25" href="$CodeGen_8h.html" title=" " alt="" coords="519,579,699,606"/>
+<area shape="rect" id="node26" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="2370,579,2520,606"/>
+<area shape="rect" id="node27" href="$CGPassBuilderOption_8h.html" title=" " alt="" coords="1335,483,1528,524"/>
+<area shape="rect" id="node28" href="$TargetOptions_8h.html" title=" " alt="" coords="1378,579,1579,606"/>
+<area shape="rect" id="node18" href="$ArrayRef_8h.html" title=" " alt="" coords="3964,579,4118,606"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title=" " alt="" coords="2902,661,3076,688"/>
+<area shape="rect" id="node20" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="2145,736,2356,763"/>
+<area shape="rect" id="node21" href="$TypeSize_8h.html" title=" " alt="" coords="4374,490,4553,517"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3513,661,3580,688"/>
+<area shape="rect" id="node30" href="$RISCVFrameLowering_8h.html" title=" " alt="" coords="4380,319,4553,345"/>
+<area shape="rect" id="node34" href="$RISCVISelLowering_8h.html" title=" " alt="" coords="579,169,735,196"/>
+<area shape="rect" id="node35" href="$RISCVInstrInfo_8h.html" title=" " alt="" coords="156,244,283,271"/>
+<area shape="rect" id="node36" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls." alt="" coords="3121,393,3305,435"/>
+<area shape="rect" id="node38" href="$InstructionSelector_8h.html" title=" " alt="" coords="3490,393,3674,435"/>
+<area shape="rect" id="node39" href="$LegalizerInfo_8h.html" title="Interface for Targets to specify which operations they can successfully select and how the others sho..." alt="" coords="2742,393,2926,435"/>
+<area shape="rect" id="node41" href="$RegisterBankInfo_8h.html" title=" " alt="" coords="2161,572,2345,613"/>
+<area shape="rect" id="node42" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="358,483,604,524"/>
+<area shape="rect" id="node43" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1756,483,1977,524"/>
+<area shape="rect" id="node31" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="4303,393,4502,435"/>
+<area shape="rect" id="node32" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="4294,572,4502,613"/>
+<area shape="rect" id="node33" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="4730,661,4907,688"/>
+<area shape="rect" id="node37" href="$MachineFunction_8h.html" title=" " alt="" coords="3254,490,3494,517"/>
+<area shape="rect" id="node40" href="$CommandLine_8h.html" title=" " alt="" coords="2508,490,2723,517"/>
+<area shape="rect" id="node45" href="$IndexedMap_8h.html" title=" " alt="" coords="3711,579,3888,606"/>
+<area shape="rect" id="node46" href="$LiveInterval_8h.html" title=" " alt="" coords="3540,244,3747,271"/>
+<area shape="rect" id="node47" href="$SlotIndexes_8h.html" title=" " alt="" coords="2981,319,3186,345"/>
+<area shape="rect" id="node49" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="3919,483,4131,524"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::OptionalOperandTraits&lt; SubClass, ARITY &gt;" name="llvm::OptionalOperandTraits&lt; SubClass, ARITY &gt;">
+<area shape="rect" id="node1" title="OptionalOperandTraits &#45; when the number of operands may change at runtime." alt="" coords="11,200,194,241"/>
+<area shape="rect" id="node4" href="$structllvm_1_1OptionalOperandTraits.html" title=" " alt="" coords="11,304,194,345"/>
+<area shape="rect" id="node2" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="5,109,200,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1OperandTraits_3_01GlobalVariable_01_4.html" title=" " alt="" coords="35,395,170,436"/>
+</map>

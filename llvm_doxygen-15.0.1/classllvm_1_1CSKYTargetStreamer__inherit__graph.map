@@ -1,0 +1,6 @@
+<map id="llvm::CSKYTargetStreamer" name="llvm::CSKYTargetStreamer">
+<area shape="rect" id="node1" title=" " alt="" coords="141,80,333,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CSKYTargetAsmStreamer.html" title=" " alt="" coords="5,155,227,181"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CSKYTargetELFStreamer.html" title=" " alt="" coords="251,155,466,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface." alt="" coords="147,5,327,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::BlockFrequencyInfoImpl&lt; BT &gt;" name="llvm::BlockFrequencyInfoImpl&lt; BT &gt;">
+<area shape="rect" id="node1" title="Shared implementation for block frequency analysis." alt="" coords="577,104,748,145"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BlockFrequencyInfoImplBase.html" title="Base class for BlockFrequencyInfoImpl." alt="" coords="357,104,528,145"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SparseBitVector.html" title=" " alt="" coords="34,5,183,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,71,212,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="20,136,197,177"/>
+<area shape="rect" id="node6" title=" " alt="" coords="11,201,206,243"/>
+</map>

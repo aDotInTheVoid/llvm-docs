@@ -1,0 +1,6 @@
+<map id="Function values" name="Function values">
+<area shape="rect" id="node1" href="$group__LLVMCCoreValueConstant.html" title="This section contains APIs for interacting with LLVMValueRef that correspond to llvm::Constant instan..." alt="" coords="5,31,92,56"/>
+<area shape="rect" id="node2" title="Functions in this group operate on LLVMValueRef instances that correspond to llvm::Function instances..." alt="" coords="140,31,264,56"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueGlobalIFunc.html" title="Functions in this group relate to indirect functions." alt="" coords="358,5,421,31"/>
+<area shape="rect" id="node4" href="$group__LLVMCCoreValueFunctionParameters.html" title="Functions in this group relate to arguments/parameters on functions." alt="" coords="312,55,467,80"/>
+</map>

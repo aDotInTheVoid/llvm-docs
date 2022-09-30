@@ -1,0 +1,7 @@
+<map id="llvm::FunctionPropertiesAnalysis" name="llvm::FunctionPropertiesAnalysis">
+<area shape="rect" id="node1" title=" " alt="" coords="121,304,285,345"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="5,200,211,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="34,5,171,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="125,96,281,137"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisKey.html" title="A special type used by analysis passes to provide an address that identifies that particular analysis..." alt="" coords="235,207,360,234"/>
+</map>

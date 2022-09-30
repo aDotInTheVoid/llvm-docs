@@ -1,0 +1,11 @@
+<map id="llvm::InlineAsmIdentifierInfo" name="llvm::InlineAsmIdentifierInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="447,123,631,149"/>
+<area shape="rect" id="node2" title=" " alt="" coords="213,36,341,63"/>
+<area shape="rect" id="node3" href="$structllvm_1_1InlineAsmIdentifierInfo_1_1VariableIdentifier.html" title=" " alt="" coords="196,87,359,129"/>
+<area shape="rect" id="node4" href="$classbool.html" title=" " alt="" coords="19,5,66,32"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="15,148,70,175"/>
+<area shape="rect" id="node7" href="$structllvm_1_1InlineAsmIdentifierInfo_1_1LabelIdentifier.html" title=" " alt="" coords="196,153,359,194"/>
+<area shape="rect" id="node8" href="$structllvm_1_1InlineAsmIdentifierInfo_1_1EnumIdentifier.html" title=" " alt="" coords="196,218,359,259"/>
+<area shape="rect" id="node9" title=" " alt="" coords="12,225,73,252"/>
+</map>

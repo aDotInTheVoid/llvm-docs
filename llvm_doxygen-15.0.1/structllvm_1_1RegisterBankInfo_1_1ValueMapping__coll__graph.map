@@ -1,0 +1,5 @@
+<map id="llvm::RegisterBankInfo::ValueMapping" name="llvm::RegisterBankInfo::ValueMapping">
+<area shape="rect" id="node1" title="Helper struct that represents how a value is mapped through different register banks." alt="" coords="34,95,205,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="165,5,223,32"/>
+</map>

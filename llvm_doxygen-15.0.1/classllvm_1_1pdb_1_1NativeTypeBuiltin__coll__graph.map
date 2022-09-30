@@ -1,0 +1,12 @@
+<map id="llvm::pdb::NativeTypeBuiltin" name="llvm::pdb::NativeTypeBuiltin">
+<area shape="rect" id="node1" title=" " alt="" coords="847,120,1053,147"/>
+<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1NativeRawSymbol.html" title=" " alt="" coords="539,69,749,96"/>
+<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1IPDBRawSymbol.html" title="IPDBRawSymbol defines an interface used to represent an arbitrary symbol." alt="" coords="227,61,425,88"/>
+<area shape="rect" id="node4" href="$classllvm_1_1pdb_1_1NativeSession.html" title=" " alt="" coords="234,5,418,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1pdb_1_1IPDBSession.html" title="IPDBSession defines an interface used to provide a context for querying debug information from a debu..." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="289,163,363,189"/>
+<area shape="rect" id="node7" title=" " alt="" coords="269,112,383,139"/>
+<area shape="rect" id="node8" href="$classuint64__t.html" title=" " alt="" coords="607,120,681,147"/>
+<area shape="rect" id="node9" title=" " alt="" coords="580,171,708,197"/>
+<area shape="rect" id="node10" title=" " alt="" coords="581,221,707,248"/>
+</map>

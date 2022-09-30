@@ -1,0 +1,5 @@
+<map id="llvm::BCGenericRecordLayout&lt; IDField, Fields &gt;" name="llvm::BCGenericRecordLayout&lt; IDField, Fields &gt;">
+<area shape="rect" id="node1" title="Represents a single bitcode record type." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BCGenericRecordLayout.html" title=" " alt="" coords="5,124,201,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BCRecordLayout.html" title="A record with a fixed record code." alt="" coords="23,229,184,271"/>
+</map>

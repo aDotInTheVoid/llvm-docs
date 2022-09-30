@@ -1,0 +1,4 @@
+<map id="llvm::coverage::Counter" name="llvm::coverage::Counter">
+<area shape="rect" id="node1" title="A Counter is an abstract value that describes how to compute the execution count for a region of code..." alt="" coords="5,139,165,165"/>
+<area shape="rect" id="node2" href="$classunsigned.html" title=" " alt="" coords="48,5,123,32"/>
+</map>

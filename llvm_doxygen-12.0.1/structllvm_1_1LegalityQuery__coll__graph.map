@@ -1,0 +1,7 @@
+<map id="llvm::LegalityQuery" name="llvm::LegalityQuery">
+<area shape="rect" id="node1" title="The LegalityQuery object bundles together all the information that&#39;s needed to decide whether a given..." alt="" coords="639,78,773,105"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="345,5,486,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="5,46,143,73"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="320,71,511,112"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="378,137,453,163"/>
+</map>

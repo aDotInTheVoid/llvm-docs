@@ -1,0 +1,6 @@
+<map id="llvm::PatternMatch::ThreeOps_match&lt; T0, T1, T2, Opcode &gt;" name="llvm::PatternMatch::ThreeOps_match&lt; T0, T1, T2, Opcode &gt;">
+<area shape="rect" id="node1" title="Matches instructions with Opcode and three operands." alt="" coords="7,95,168,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,44,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="68,5,107,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="131,5,169,32"/>
+</map>

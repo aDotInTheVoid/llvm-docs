@@ -1,0 +1,8 @@
+<map id="llvm::StructLayout" name="llvm::StructLayout">
+<area shape="rect" id="node1" title="Used to lazily calculate structure layout information for a target machine, based on the DataLayout s..." alt="" coords="1888,108,2029,135"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="1644,101,1839,142"/>
+<area shape="rect" id="node3" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="904,31,1220,145"/>
+<area shape="rect" id="node4" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,98,232,169"/>
+<area shape="rect" id="node6" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="537,127,880,227"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type." alt="" coords="1244,142,1419,183"/>
+</map>

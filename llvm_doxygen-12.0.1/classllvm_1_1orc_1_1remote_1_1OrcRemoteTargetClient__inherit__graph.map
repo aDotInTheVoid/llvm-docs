@@ -1,0 +1,7 @@
+<map id="llvm::orc::remote::OrcRemoteTargetClient" name="llvm::orc::remote::OrcRemoteTargetClient">
+<area shape="rect" id="node1" title="This class provides utilities (including memory manager, indirect stubs manager, and compile callback..." alt="" coords="1404,13,1563,54"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1SingleThreadedRPCEndpoint.html" title=" " alt="" coords="1160,5,1355,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1RPCEndpointBase.html" title="Contains primitive utilities for defining, calling and handling calls to remote procedures." alt="" coords="5,10,215,81"/>
+<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1RPCEndpointBase.html" title=" " alt="" coords="468,43,695,128"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1shared_1_1SingleThreadedRPCEndpoint.html" title=" " alt="" coords="744,45,935,115"/>
+</map>

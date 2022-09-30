@@ -1,0 +1,7 @@
+<map id="llvm::yaml::Token" name="llvm::yaml::Token">
+<area shape="rect" id="node1" title="Token &#45; A single YAML token." alt="" coords="79,184,201,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,88,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="113,95,167,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="191,95,299,121"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title=" " alt="" coords="217,5,273,32"/>
+</map>

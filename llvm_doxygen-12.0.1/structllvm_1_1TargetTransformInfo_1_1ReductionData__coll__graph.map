@@ -1,0 +1,6 @@
+<map id="llvm::TargetTransformInfo::ReductionData" name="llvm::TargetTransformInfo::ReductionData">
+<area shape="rect" id="node1" title="Contains opcode + LHS/RHS parts of the reduction operations." alt="" coords="53,316,224,357"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="95,212,182,239"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="207,212,313,239"/>
+</map>

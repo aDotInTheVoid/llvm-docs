@@ -1,0 +1,8 @@
+<map id="llvm::codeview::InlineSiteSym" name="llvm::codeview::InlineSiteSym">
+<area shape="rect" id="node1" title=" " alt="" coords="215,245,413,272"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1SymbolRecord.html" title=" " alt="" coords="5,147,207,174"/>
+<area shape="rect" id="node3" title=" " alt="" coords="39,5,173,32"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title=" " alt="" coords="280,5,348,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="357,147,533,174"/>
+<area shape="rect" id="node5" title=" " alt="" coords="557,147,677,174"/>
+</map>

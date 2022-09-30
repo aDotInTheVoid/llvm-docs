@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::MultiThreadedRPCEndpoint&lt; ChannelT, FunctionIdT, SequenceNumberT &gt;" name="llvm::orc::shared::MultiThreadedRPCEndpoint&lt; ChannelT, FunctionIdT, SequenceNumberT &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="744,14,927,85"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1RPCEndpointBase.html" title=" " alt="" coords="468,7,695,92"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1RPCEndpointBase.html" title="Contains primitive utilities for defining, calling and handling calls to remote procedures." alt="" coords="5,14,215,85"/>
+</map>

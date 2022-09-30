@@ -1,0 +1,4 @@
+<map id="llvm::orc::remote::OrcRemoteTargetClient::RemoteIndirectStubsManager" name="llvm::orc::remote::OrcRemoteTargetClient::RemoteIndirectStubsManager">
+<area shape="rect" id="node1" title="Remote indirect stubs manager." alt="" coords="5,95,228,151"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1IndirectStubsManager.html" title="Base class for managing collections of named indirect stubs." alt="" coords="31,5,203,47"/>
+</map>

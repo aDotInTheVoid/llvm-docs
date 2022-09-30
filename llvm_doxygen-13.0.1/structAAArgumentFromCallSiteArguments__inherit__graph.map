@@ -1,0 +1,12 @@
+<map id="AAArgumentFromCallSiteArguments&lt; AAType, BaseType, StateType, BridgeCallBaseContext &gt;" name="AAArgumentFromCallSiteArguments&lt; AAType, BaseType, StateType, BridgeCallBaseContext &gt;">
+<area shape="rect" id="node1" title="Helper class for generic deduction: call site argument &#45;&gt; argument position." alt="" coords="139,97,397,153"/>
+<area shape="rect" id="node3" href="$structAAArgumentFromCallSiteArguments.html" title=" " alt="" coords="657,5,999,47"/>
+<area shape="rect" id="node5" href="$structAAArgumentFromCallSiteArguments.html" title=" " alt="" coords="699,71,957,112"/>
+<area shape="rect" id="node7" href="$structAAArgumentFromCallSiteArguments.html" title=" " alt="" coords="699,136,957,177"/>
+<area shape="rect" id="node9" href="$structAAArgumentFromCallSiteArguments.html" title=" " alt="" coords="699,201,957,243"/>
+<area shape="rect" id="node2" href="$classBaseType.html" title=" " alt="" coords="5,111,89,138"/>
+<area shape="rect" id="node4" href="$structAADereferenceableArgument.html" title="Dereferenceable attribute for an argument." alt="" coords="1048,13,1260,39"/>
+<area shape="rect" id="node6" href="$structAAAlignArgument.html" title="Align attribute for function argument." alt="" coords="1085,78,1223,105"/>
+<area shape="rect" id="node8" href="$structAANoAliasArgument.html" title="NoAlias attribute for an argument." alt="" coords="1077,143,1231,170"/>
+<area shape="rect" id="node10" href="$structAANonNullArgument.html" title="NonNull attribute for function argument." alt="" coords="1076,209,1232,235"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::InstrItineraryData" name="llvm::InstrItineraryData">
+<area shape="rect" id="node1" title="Itinerary data supplied by a subtarget to be used by a target." alt="" coords="335,363,510,389"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MCSchedModel.html" title="Machine model for scheduling, bundling, and heuristics." alt="" coords="186,257,345,284"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="439,5,497,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="131,5,213,32"/>
+</map>

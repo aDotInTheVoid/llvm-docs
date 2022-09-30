@@ -1,0 +1,4 @@
+<map id="User value" name="User value">
+<area shape="rect" id="node1" href="$group__LLVMCCoreValues.html" title="The bulk of LLVM&#39;s object model consists of values, which comprise a very rich type hierarchy." alt="" coords="5,5,67,31"/>
+<area shape="rect" id="node2" title="Function in this group pertain to LLVMValueRef instances that descent from llvm::User." alt="" coords="115,5,199,31"/>
+</map>

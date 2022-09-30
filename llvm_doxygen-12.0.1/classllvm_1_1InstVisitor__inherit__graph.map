@@ -1,0 +1,27 @@
+<map id="llvm::InstVisitor&lt; SubClass, RetTy &gt;" name="llvm::InstVisitor&lt; SubClass, RetTy &gt;">
+<area shape="rect" id="node1" title="Base class for instruction visitors." alt="" coords="5,485,143,526"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="984,169,1116,210"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="389,105,558,146"/>
+<area shape="rect" id="node6" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="388,171,559,227"/>
+<area shape="rect" id="node8" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="405,251,541,307"/>
+<area shape="rect" id="node9" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="413,332,534,373"/>
+<area shape="rect" id="node11" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="402,398,545,454"/>
+<area shape="rect" id="node13" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="398,478,549,534"/>
+<area shape="rect" id="node15" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="398,558,549,600"/>
+<area shape="rect" id="node17" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="413,624,534,665"/>
+<area shape="rect" id="node19" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="364,689,583,730"/>
+<area shape="rect" id="node21" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="391,754,555,796"/>
+<area shape="rect" id="node22" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="382,820,565,876"/>
+<area shape="rect" id="node24" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="391,900,556,956"/>
+<area shape="rect" id="node3" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices." alt="" coords="1165,176,1336,203"/>
+<area shape="rect" id="node5" href="$structllvm_1_1PGOIndirectCallVisitor.html" title=" " alt="" coords="643,112,828,139"/>
+<area shape="rect" id="node7" href="$structllvm_1_1IRSimilarity_1_1IRInstructionMapper_1_1InstructionClassification.html" title="Custom InstVisitor to classify different instructions for whether it can be analyzed for similarity." alt="" coords="650,171,821,227"/>
+<area shape="rect" id="node10" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value." alt="" coords="669,292,801,333"/>
+<area shape="rect" id="node12" href="$classllvm_1_1sroa_1_1AllocaSliceRewriter.html" title="Visitor to rewrite instructions using p particular slice of an alloca to use a new alloca." alt="" coords="635,412,835,439"/>
+<area shape="rect" id="node14" href="$classllvm_1_1UnrolledInstAnalyzer.html" title=" " alt="" coords="648,492,823,519"/>
+<area shape="rect" id="node16" href="$classfalse_1_1LibCallsShrinkWrap.html" title=" " alt="" coords="650,566,821,592"/>
+<area shape="rect" id="node18" href="$classllvm_1_1Interpreter.html" title=" " alt="" coords="678,631,793,658"/>
+<area shape="rect" id="node20" href="$classllvm_1_1InstCombinerImpl.html" title=" " alt="" coords="657,696,814,723"/>
+<area shape="rect" id="node23" href="$classllvm_1_1ObjectSizeOffsetEvaluator.html" title="Evaluate the size and offset of an object pointed to by a Value*." alt="" coords="632,835,839,862"/>
+<area shape="rect" id="node25" href="$classllvm_1_1ObjectSizeOffsetVisitor.html" title="Evaluate the size and offset of an object pointed to by a Value* statically." alt="" coords="641,915,830,942"/>
+</map>

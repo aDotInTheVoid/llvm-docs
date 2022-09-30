@@ -1,0 +1,12 @@
+<map id="llvm::msgpack::DocNode" name="llvm::msgpack::DocNode">
+<area shape="rect" id="node1" title="A node in a MsgPack Document." alt="" coords="277,184,447,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,81,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="105,95,165,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="189,95,257,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="281,95,352,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="377,95,438,121"/>
+<area shape="rect" id="node7" href="$classbool.html" title=" " alt="" coords="463,95,509,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="534,95,662,121"/>
+<area shape="rect" id="node9" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="687,95,795,121"/>
+<area shape="rect" id="node10" href="$classsize__t.html" title=" " alt="" coords="713,5,769,32"/>
+</map>

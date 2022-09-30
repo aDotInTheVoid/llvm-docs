@@ -1,0 +1,6 @@
+<map id="llvm::MCSchedModel" name="llvm::MCSchedModel">
+<area shape="rect" id="node1" title="Machine model for scheduling, bundling, and heuristics." alt="" coords="97,256,255,283"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="147,5,205,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="339,5,421,32"/>
+</map>

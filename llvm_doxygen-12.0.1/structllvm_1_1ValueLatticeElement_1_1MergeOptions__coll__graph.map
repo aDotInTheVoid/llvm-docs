@@ -1,0 +1,5 @@
+<map id="llvm::ValueLatticeElement::MergeOptions" name="llvm::ValueLatticeElement::MergeOptions">
+<area shape="rect" id="node1" title="Struct to control some aspects related to merging constant ranges." alt="" coords="9,109,182,151"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="5,5,52,32"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="125,5,199,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::MachineSchedPolicy" name="llvm::MachineSchedPolicy">
+<area shape="rect" id="node1" title="Define a generic scheduling policy for targets that don&#39;t provide their own MachineSchedStrategy." alt="" coords="5,168,197,195"/>
+<area shape="rect" id="node2" title=" " alt="" coords="76,5,127,32"/>
+</map>

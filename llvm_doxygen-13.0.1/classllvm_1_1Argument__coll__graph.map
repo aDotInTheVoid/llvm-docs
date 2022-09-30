@@ -1,0 +1,6 @@
+<map id="llvm::Argument" name="llvm::Argument">
+<area shape="rect" id="node1" title="This class represents an incoming formal argument to a Function." alt="" coords="69,259,191,285"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="83,183,177,209"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,63,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="185,5,267,32"/>
+</map>

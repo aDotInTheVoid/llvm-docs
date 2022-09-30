@@ -1,0 +1,12 @@
+<map id="llvm::DIType" name="llvm::DIType">
+<area shape="rect" id="node1" title="Base class for types." alt="" coords="616,107,711,133"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DIBasicType.html" title="Basic type, like &#39;int&#39; or &#39;float&#39;." alt="" coords="773,5,903,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DICompositeType.html" title="Composite types." alt="" coords="759,56,917,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DIDerivedType.html" title="Derived types." alt="" coords="768,107,908,133"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DIStringType.html" title="String type, Fortran CHARACTER(n)" alt="" coords="773,157,903,184"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DISubroutineType.html" title="Type array for a subprogram." alt="" coords="759,208,917,235"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts." alt="" coords="463,107,568,133"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node." alt="" coords="316,107,415,133"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="161,107,268,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="5,107,113,133"/>
+</map>

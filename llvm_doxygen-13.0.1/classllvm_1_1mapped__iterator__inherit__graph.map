@@ -1,0 +1,8 @@
+<map id="llvm::mapped_iterator&lt; ItTy, FuncTy, FuncReturnTy &gt;" name="llvm::mapped_iterator&lt; ItTy, FuncTy, FuncReturnTy &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="2699,491,2921,533"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="2429,447,2649,577"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="1447,237,1860,601"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,519,255,590"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="852,518,1423,794"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1884,589,2159,659"/>
+</map>

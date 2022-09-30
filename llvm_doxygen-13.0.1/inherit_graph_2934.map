@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="5,5,469,325"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="517,137,780,193"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LazyCallGraph_1_1EdgeSequence_1_1iterator.html" title="An iterator used for the edges to both entry nodes and child nodes." alt="" coords="828,145,1009,186"/>
+</map>

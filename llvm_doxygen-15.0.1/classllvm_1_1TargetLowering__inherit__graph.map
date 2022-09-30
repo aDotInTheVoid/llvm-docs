@@ -1,0 +1,32 @@
+<map id="llvm::TargetLowering" name="llvm::TargetLowering">
+<area shape="rect" id="node1" title="This class defines information used to lower LLVM code to legal SelectionDAG operators that the targe..." alt="" coords="244,588,403,615"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AArch64TargetLowering.html" title=" " alt="" coords="470,5,682,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUTargetLowering.html" title=" " alt="" coords="467,56,685,83"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ARCTargetLowering.html" title=" " alt="" coords="483,107,669,133"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ARMTargetLowering.html" title=" " alt="" coords="482,157,670,184"/>
+<area shape="rect" id="node9" href="$classllvm_1_1AVRTargetLowering.html" title="Performs target lowering for the AVR." alt="" coords="485,208,667,235"/>
+<area shape="rect" id="node10" href="$classllvm_1_1BPFTargetLowering.html" title=" " alt="" coords="485,259,667,285"/>
+<area shape="rect" id="node11" href="$classllvm_1_1CSKYTargetLowering.html" title=" " alt="" coords="481,309,671,336"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DirectXTargetLowering.html" title=" " alt="" coords="473,360,679,387"/>
+<area shape="rect" id="node13" href="$classllvm_1_1HexagonTargetLowering.html" title=" " alt="" coords="468,411,684,437"/>
+<area shape="rect" id="node14" href="$classllvm_1_1LanaiTargetLowering.html" title=" " alt="" coords="479,461,673,488"/>
+<area shape="rect" id="node15" href="$classllvm_1_1LoongArchTargetLowering.html" title=" " alt="" coords="463,512,689,539"/>
+<area shape="rect" id="node16" href="$classllvm_1_1M68kTargetLowering.html" title=" " alt="" coords="479,563,673,589"/>
+<area shape="rect" id="node17" href="$classllvm_1_1MipsTargetLowering.html" title=" " alt="" coords="481,613,671,640"/>
+<area shape="rect" id="node20" href="$classllvm_1_1MSP430TargetLowering.html" title=" " alt="" coords="471,664,681,691"/>
+<area shape="rect" id="node21" href="$classllvm_1_1NVPTXTargetLowering.html" title=" " alt="" coords="475,715,677,741"/>
+<area shape="rect" id="node22" href="$classllvm_1_1PPCTargetLowering.html" title=" " alt="" coords="485,765,667,792"/>
+<area shape="rect" id="node23" href="$classllvm_1_1RISCVTargetLowering.html" title=" " alt="" coords="477,816,675,843"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SparcTargetLowering.html" title=" " alt="" coords="479,867,673,893"/>
+<area shape="rect" id="node25" href="$classllvm_1_1SPIRVTargetLowering.html" title=" " alt="" coords="478,917,674,944"/>
+<area shape="rect" id="node26" href="$classllvm_1_1SystemZTargetLowering.html" title=" " alt="" coords="468,968,684,995"/>
+<area shape="rect" id="node27" href="$classllvm_1_1VETargetLowering.html" title=" " alt="" coords="489,1019,663,1045"/>
+<area shape="rect" id="node28" href="$classllvm_1_1WebAssemblyTargetLowering.html" title=" " alt="" coords="451,1069,701,1096"/>
+<area shape="rect" id="node29" href="$classllvm_1_1X86TargetLowering.html" title=" " alt="" coords="485,1120,667,1147"/>
+<area shape="rect" id="node30" href="$classllvm_1_1XCoreTargetLowering.html" title=" " alt="" coords="478,1171,674,1197"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringBase.html" title="This base class for TargetLowering contains the SelectionDAG&#45;independent parts that can be used from ..." alt="" coords="5,588,196,615"/>
+<area shape="rect" id="node5" href="$classllvm_1_1R600TargetLowering.html" title=" " alt="" coords="757,31,947,57"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SITargetLowering.html" title=" " alt="" coords="767,81,937,108"/>
+<area shape="rect" id="node18" href="$classllvm_1_1Mips16TargetLowering.html" title=" " alt="" coords="749,588,955,615"/>
+<area shape="rect" id="node19" href="$classllvm_1_1MipsSETargetLowering.html" title=" " alt="" coords="749,639,955,665"/>
+</map>

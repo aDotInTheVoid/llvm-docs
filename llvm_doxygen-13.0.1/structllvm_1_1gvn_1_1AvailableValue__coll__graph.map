@@ -1,0 +1,6 @@
+<map id="llvm::gvn::AvailableValue" name="llvm::gvn::AvailableValue">
+<area shape="rect" id="node1" title="Represents a particular available value that we know how to materialize." alt="" coords="103,243,289,269"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="5,139,216,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer." alt="" coords="19,5,202,61"/>
+<area shape="rect" id="node4" title=" " alt="" coords="241,146,322,173"/>
+</map>

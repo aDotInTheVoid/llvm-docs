@@ -1,0 +1,52 @@
+<map id="lib/Transforms/Utils/BuildLibCalls.cpp" name="lib/Transforms/Utils/BuildLibCalls.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1998,5,2146,47"/>
+<area shape="rect" id="node2" href="$BuildLibCalls_8h.html" title=" " alt="" coords="1569,95,1730,136"/>
+<area shape="rect" id="node3" href="$TargetLibraryInfo_8h.html" title=" " alt="" coords="1455,184,1654,225"/>
+<area shape="rect" id="node21" href="$Function_8h.html" title=" " alt="" coords="1592,437,1731,464"/>
+<area shape="rect" id="node26" href="$Type_8h.html" title=" " alt="" coords="4616,587,4731,613"/>
+<area shape="rect" id="node36" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4176,437,4325,464"/>
+<area shape="rect" id="node38" href="$LLVMContext_8h.html" title=" " alt="" coords="1958,512,2127,539"/>
+<area shape="rect" id="node39" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="1243,363,1375,389"/>
+<area shape="rect" id="node40" href="$DataLayout_8h.html" title=" " alt="" coords="3477,437,3635,464"/>
+<area shape="rect" id="node45" href="$SmallString_8h.html" title=" " alt="" coords="1189,661,1363,688"/>
+<area shape="rect" id="node46" href="$Statistic_8h.html" title=" " alt="" coords="6295,736,6446,763"/>
+<area shape="rect" id="node48" href="$IRBuilder_8h.html" title=" " alt="" coords="2145,281,2287,307"/>
+<area shape="rect" id="node49" href="$Intrinsics_8h.html" title=" " alt="" coords="4806,587,4949,613"/>
+<area shape="rect" id="node50" href="$MemoryBuiltins_8h.html" title=" " alt="" coords="1805,102,2035,129"/>
+<area shape="rect" id="node4" href="$BitVector_8h.html" title=" " alt="" coords="2409,661,2565,688"/>
+<area shape="rect" id="node16" href="$Optional_8h.html" title=" " alt="" coords="5438,885,5591,912"/>
+<area shape="rect" id="node20" href="$DenseMap_8h.html" title=" " alt="" coords="651,736,818,763"/>
+<area shape="rect" id="node35" href="$InstrTypes_8h.html" title=" " alt="" coords="2495,363,2646,389"/>
+<area shape="rect" id="node42" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="554,281,723,307"/>
+<area shape="rect" id="node43" href="$Pass_8h.html" title=" " alt="" coords="277,363,373,389"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1481,273,1679,315"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title=" " alt="" coords="4201,736,4356,763"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2967,960,3036,987"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2565,885,2632,912"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title=" " alt="" coords="3039,811,3233,837"/>
+<area shape="rect" id="node6" href="$None_8h.html" title=" " alt="" coords="6479,960,6611,987"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title=" " alt="" coords="4193,811,4367,837"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title=" " alt="" coords="4956,960,5135,987"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1203,885,1274,912"/>
+<area shape="rect" id="node14" title=" " alt="" coords="5311,960,5388,987"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title=" " alt="" coords="3364,811,3527,837"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1662,811,1725,837"/>
+<area shape="rect" id="node10" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4696,885,4907,912"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5650,1035,5835,1061"/>
+<area shape="rect" id="node11" title=" " alt="" coords="483,960,541,987"/>
+<area shape="rect" id="node22" href="$DenseSet_8h.html" title=" " alt="" coords="904,661,1064,688"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title=" " alt="" coords="1564,736,1721,763"/>
+<area shape="rect" id="node24" href="$Twine_8h.html" title=" " alt="" coords="1945,661,2079,688"/>
+<area shape="rect" id="node25" href="$DerivedTypes_8h.html" title=" " alt="" coords="3838,512,4010,539"/>
+<area shape="rect" id="node29" href="$Casting_8h.html" title=" " alt="" coords="5277,736,5448,763"/>
+<area shape="rect" id="node31" href="$OperandTraits_8h.html" title=" " alt="" coords="2659,512,2834,539"/>
+<area shape="rect" id="node33" href="$Value_8h.html" title=" " alt="" coords="2893,661,3013,688"/>
+<area shape="rect" id="node30" href="$TypeSize_8h.html" title=" " alt="" coords="3787,661,3965,688"/>
+<area shape="rect" id="node27" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="4395,661,4543,688"/>
+<area shape="rect" id="node28" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4042,736,4174,763"/>
+<area shape="rect" id="node32" href="$User_8h.html" title=" " alt="" coords="2945,587,3058,613"/>
+<area shape="rect" id="node34" href="$Alignment_8h.html" title=" " alt="" coords="2915,736,3103,763"/>
+<area shape="rect" id="node37" href="$Constant_8h.html" title=" " alt="" coords="3315,512,3458,539"/>
+<area shape="rect" id="node41" href="$TrailingObjects_8h.html" title="This header defines support for implementing classes that have some trailing object (or arrays of obj..." alt="" coords="3089,661,3306,688"/>
+<area shape="rect" id="node47" title=" " alt="" coords="6337,811,6404,837"/>
+</map>

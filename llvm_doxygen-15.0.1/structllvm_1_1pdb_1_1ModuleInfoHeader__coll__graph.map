@@ -1,0 +1,8 @@
+<map id="llvm::pdb::ModuleInfoHeader" name="llvm::pdb::ModuleInfoHeader">
+<area shape="rect" id="node1" title="The header preceding each entry in the Module Info substream of the DBI stream." alt="" coords="596,79,807,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,60,195,116"/>
+<area shape="rect" id="node5" href="$structllvm_1_1pdb_1_1SectionContrib.html" title=" " alt="" coords="340,123,527,149"/>
+<area shape="rect" id="node3" title=" " alt="" coords="75,5,125,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,256,195,312"/>
+<area shape="rect" id="node6" title=" " alt="" coords="9,156,191,212"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="include/llvm/IR/PseudoProbe.h" name="include/llvm/IR/PseudoProbe.h">
+<area shape="rect" id="node1" title=" " alt="" coords="5179,5,5397,32"/>
+<area shape="rect" id="node2" href="$MachineInstr_8h.html" title=" " alt="" coords="2929,80,3095,121"/>
+<area shape="rect" id="node10" href="$AsmPrinter_8cpp.html" title=" " alt="" coords="4441,527,4618,568"/>
+<area shape="rect" id="node25" href="$PseudoProbeInserter_8cpp.html" title=" " alt="" coords="4802,534,5067,561"/>
+<area shape="rect" id="node26" href="$InstrEmitter_8cpp.html" title=" " alt="" coords="4065,527,4260,568"/>
+<area shape="rect" id="node35" href="$TargetLoweringObjectFileImpl_8cpp.html" title=" " alt="" coords="1249,348,1453,389"/>
+<area shape="rect" id="node43" href="$SampleProfileProbe_8h.html" title="This file provides the interface for the pseudo probe implementation for AutoFDO." alt="" coords="4983,80,5174,121"/>
+<area shape="rect" id="node44" href="$PseudoProbePrinter_8cpp.html" title=" " alt="" coords="5199,80,5377,121"/>
+<area shape="rect" id="node45" href="$PseudoProbe_8cpp.html" title=" " alt="" coords="5401,87,5572,114"/>
+<area shape="rect" id="node46" href="$IRMover_8cpp.html" title=" " alt="" coords="5596,87,5761,114"/>
+<area shape="rect" id="node47" href="$SampleProf_8cpp.html" title=" " alt="" coords="5785,87,6004,114"/>
+<area shape="rect" id="node48" href="$BasicBlockUtils_8cpp.html" title=" " alt="" coords="6028,80,6183,121"/>
+<area shape="rect" id="node49" href="$Local_8cpp.html" title=" " alt="" coords="6207,80,6355,121"/>
+<area shape="rect" id="node50" href="$SimplifyCFG_8cpp.html" title=" " alt="" coords="6379,80,6527,121"/>
+<area shape="rect" id="node3" href="$AntiDepBreaker_8h.html" title=" " alt="" coords="3223,259,3388,300"/>
+<area shape="rect" id="node4" href="$GenericMachineInstrs_8h.html" title="Declares convenience wrapper classes for interpreting MachineInstr instances as specific generic oper..." alt="" coords="3875,437,4125,479"/>
+<area shape="rect" id="node5" href="$CombinerHelper_8cpp.html" title=" " alt="" coords="3701,527,3872,568"/>
+<area shape="rect" id="node6" href="$LiveVariables_8h.html" title=" " alt="" coords="4404,169,4569,211"/>
+<area shape="rect" id="node7" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1605,169,1771,211"/>
+<area shape="rect" id="node8" href="$MachineDominators_8h.html" title=" " alt="" coords="2927,259,3097,300"/>
+<area shape="rect" id="node9" href="$MIRFSDiscriminator_8h.html" title=" " alt="" coords="1477,348,1643,389"/>
+<area shape="rect" id="node11" href="$EarlyIfConversion_8cpp.html" title=" " alt="" coords="2062,534,2309,561"/>
+<area shape="rect" id="node12" href="$MachineFunction_8h.html" title=" " alt="" coords="1901,259,2067,300"/>
+<area shape="rect" id="node13" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="2174,348,2341,389"/>
+<area shape="rect" id="node14" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="2175,437,2340,479"/>
+<area shape="rect" id="node15" href="$AggressiveAntiDepBreaker_8cpp.html" title=" " alt="" coords="309,527,512,568"/>
+<area shape="rect" id="node16" href="$BranchFolding_8cpp.html" title=" " alt="" coords="1619,534,1843,561"/>
+<area shape="rect" id="node17" href="$BranchRelaxation_8cpp.html" title=" " alt="" coords="10,534,257,561"/>
+<area shape="rect" id="node18" href="$CalcSpillWeights_8cpp.html" title=" " alt="" coords="3437,534,3677,561"/>
+<area shape="rect" id="node19" href="$CriticalAntiDepBreaker_8cpp.html" title=" " alt="" coords="613,527,790,568"/>
+<area shape="rect" id="node20" href="$DFAPacketizer_8cpp.html" title=" " alt="" coords="2333,534,2555,561"/>
+<area shape="rect" id="node21" href="$ExpandPostRAPseudos_8cpp.html" title=" " alt="" coords="2939,534,3219,561"/>
+<area shape="rect" id="node22" href="$MachineIRBuilder_8cpp.html" title="This file implements the MachineIRBuidler class." alt="" coords="1867,527,2037,568"/>
+<area shape="rect" id="node23" href="$CodeGen_2GlobalISel_2Utils_8cpp.html" title=" " alt="" coords="3243,527,3413,568"/>
+<area shape="rect" id="node24" href="$IfConversion_8cpp.html" title=" " alt="" coords="1379,534,1594,561"/>
+<area shape="rect" id="node27" href="$SlotIndexes_8h.html" title=" " alt="" coords="2467,348,2632,389"/>
+<area shape="rect" id="node28" href="$CodeViewDebug_8cpp.html" title=" " alt="" coords="2657,348,2834,389"/>
+<area shape="rect" id="node29" href="$DbgEntityHistoryCalculator_8cpp.html" title=" " alt="" coords="549,348,779,389"/>
+<area shape="rect" id="node30" href="$DebugHandlerBase_8cpp.html" title=" " alt="" coords="2859,348,3037,389"/>
+<area shape="rect" id="node31" href="$DwarfCompileUnit_8cpp.html" title=" " alt="" coords="3214,348,3391,389"/>
+<area shape="rect" id="node32" href="$EHStreamer_8cpp.html" title=" " alt="" coords="3415,348,3593,389"/>
+<area shape="rect" id="node33" href="$InstructionSelector_8cpp.html" title="This file implements the InstructionSelector class." alt="" coords="803,348,978,389"/>
+<area shape="rect" id="node34" href="$RegBankSelect_8cpp.html" title="This file implements the RegBankSelect class." alt="" coords="1003,348,1173,389"/>
+<area shape="rect" id="node36" href="$CFGuardLongjmp_8cpp.html" title="This file contains a machine function pass to insert a symbol after each call to _setjmp and store th..." alt="" coords="550,266,794,293"/>
+<area shape="rect" id="node37" href="$EHContGuardCatchret_8cpp.html" title="This file contains a machine function pass to insert a symbol before each valid catchret target and s..." alt="" coords="869,266,1144,293"/>
+<area shape="rect" id="node38" href="$ScheduleDAG_8h.html" title=" " alt="" coords="499,437,664,479"/>
+<area shape="rect" id="node39" href="$StackMaps_8h.html" title=" " alt="" coords="4200,437,4365,479"/>
+<area shape="rect" id="node40" href="$TileShapeInfo_8h.html" title=" " alt="" coords="3919,169,4084,211"/>
+<area shape="rect" id="node41" href="$DwarfDebug_8h.html" title=" " alt="" coords="4643,437,4821,479"/>
+<area shape="rect" id="node42" href="$LegalizerInfo_8cpp.html" title=" " alt="" coords="4108,169,4279,211"/>
+</map>

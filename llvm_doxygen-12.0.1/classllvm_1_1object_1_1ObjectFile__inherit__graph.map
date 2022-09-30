@@ -1,0 +1,11 @@
+<map id="llvm::object::ObjectFile" name="llvm::object::ObjectFile">
+<area shape="rect" id="node1" title="This class is the base class for all object file types." alt="" coords="408,107,564,133"/>
+<area shape="rect" id="node4" href="$classllvm_1_1object_1_1COFFObjectFile.html" title=" " alt="" coords="621,5,813,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1object_1_1ELFObjectFileBase.html" title=" " alt="" coords="612,56,823,83"/>
+<area shape="rect" id="node7" href="$classllvm_1_1object_1_1MachOObjectFile.html" title=" " alt="" coords="618,107,817,133"/>
+<area shape="rect" id="node8" href="$classllvm_1_1object_1_1WasmObjectFile.html" title=" " alt="" coords="621,157,814,184"/>
+<area shape="rect" id="node9" href="$classllvm_1_1object_1_1XCOFFObjectFile.html" title=" " alt="" coords="617,208,817,235"/>
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1SymbolicFile.html" title=" " alt="" coords="188,107,360,133"/>
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1Binary.html" title=" " alt="" coords="5,107,140,133"/>
+<area shape="rect" id="node6" href="$classllvm_1_1object_1_1ELFObjectFile.html" title=" " alt="" coords="871,49,1051,90"/>
+</map>

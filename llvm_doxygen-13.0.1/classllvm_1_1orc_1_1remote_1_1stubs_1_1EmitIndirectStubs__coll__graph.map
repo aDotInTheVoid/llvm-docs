@@ -1,0 +1,5 @@
+<map id="llvm::orc::remote::stubs::EmitIndirectStubs" name="llvm::orc::remote::stubs::EmitIndirectStubs">
+<area shape="rect" id="node1" title="EmitIndirectStubs result is (StubsBase, PtrsBase, NumStubsEmitted)." alt="" coords="912,58,1092,99"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="559,29,863,129"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="5,51,208,107"/>
+</map>

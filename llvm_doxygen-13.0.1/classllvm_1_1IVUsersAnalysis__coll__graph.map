@@ -1,0 +1,7 @@
+<map id="llvm::IVUsersAnalysis" name="llvm::IVUsersAnalysis">
+<area shape="rect" id="node1" title="Analysis pass that exposes the IVUsers for a loop." alt="" coords="97,304,261,331"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="91,213,266,255"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,109,163,151"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="104,5,253,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="187,109,362,151"/>
+</map>

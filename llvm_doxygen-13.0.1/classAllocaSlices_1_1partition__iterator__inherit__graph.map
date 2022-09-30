@@ -1,0 +1,5 @@
+<map id="AllocaSlices::partition_iterator" name="AllocaSlices::partition_iterator">
+<area shape="rect" id="node1" title="An iterator over partitions of the alloca&#39;s slices." alt="" coords="680,29,843,70"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="440,14,631,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,14,255,85"/>
+</map>

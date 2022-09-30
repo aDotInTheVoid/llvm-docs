@@ -1,0 +1,9 @@
+<map id="llvm::pointee_iterator&lt; WrappedIteratorT, T &gt;" name="llvm::pointee_iterator&lt; WrappedIteratorT, T &gt;">
+<area shape="rect" id="node1" title="An iterator type that allows iterating over the pointees via some other iterator." alt="" coords="2127,423,2288,464"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1829,408,2077,479"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="1273,147,1772,423"/>
+<area shape="rect" id="node4" title=" " alt="" coords="249,5,748,281"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="387,392,610,463"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,407,200,448"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1461,447,1584,474"/>
+</map>

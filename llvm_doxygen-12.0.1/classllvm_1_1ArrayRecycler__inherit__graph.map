@@ -1,0 +1,6 @@
+<map id="llvm::ArrayRecycler&lt; T, Align &gt;" name="llvm::ArrayRecycler&lt; T, Align &gt;">
+<area shape="rect" id="node1" title="Recycle small arrays allocated from a BumpPtrAllocator." alt="" coords="5,71,140,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRecycler.html" title=" " alt="" coords="367,5,502,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRecycler.html" title=" " alt="" coords="363,71,507,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRecycler.html" title=" " alt="" coords="347,136,523,177"/>
+</map>

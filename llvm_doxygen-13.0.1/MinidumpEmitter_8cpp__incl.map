@@ -1,0 +1,52 @@
+<map id="lib/ObjectYAML/MinidumpEmitter.cpp" name="lib/ObjectYAML/MinidumpEmitter.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3845,5,4108,32"/>
+<area shape="rect" id="node2" href="$MinidumpYAML_8h.html" title=" " alt="" coords="3136,80,3337,121"/>
+<area shape="rect" id="node34" href="$raw__ostream_8h.html" title=" " alt="" coords="3396,468,3603,495"/>
+<area shape="rect" id="node49" href="$yaml2obj_8h.html" title="Common declarations for yaml2obj." alt="" coords="5,543,215,569"/>
+<area shape="rect" id="node50" href="$ConvertUTF_8h.html" title=" " alt="" coords="4648,468,4844,495"/>
+<area shape="rect" id="node3" href="$BinaryFormat_2Minidump_8h.html" title=" " alt="" coords="5071,543,5295,569"/>
+<area shape="rect" id="node13" href="$Object_2Minidump_8h.html" title=" " alt="" coords="3021,169,3199,196"/>
+<area shape="rect" id="node38" href="$YAML_8h.html" title=" " alt="" coords="1721,244,1904,271"/>
+<area shape="rect" id="node39" href="$YAMLTraits_8h.html" title=" " alt="" coords="2864,319,3055,345"/>
+<area shape="rect" id="node4" href="$BitmaskEnum_8h.html" title=" " alt="" coords="4715,707,4905,733"/>
+<area shape="rect" id="node7" href="$DenseMapInfo_8h.html" title=" " alt="" coords="4162,625,4354,651"/>
+<area shape="rect" id="node10" href="$Endian_8h.html" title=" " alt="" coords="4581,625,4746,651"/>
+<area shape="rect" id="node12" title=" " alt="" coords="5072,617,5284,659"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2255,781,2325,808"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2041,856,2133,883"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3249,781,3320,808"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3517,707,3583,733"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3415,707,3482,733"/>
+<area shape="rect" id="node14" href="$DenseMap_8h.html" title=" " alt="" coords="423,543,589,569"/>
+<area shape="rect" id="node18" href="$StringExtras_8h.html" title=" " alt="" coords="3893,393,4071,420"/>
+<area shape="rect" id="node26" href="$iterator_8h.html" title=" " alt="" coords="2885,707,3031,733"/>
+<area shape="rect" id="node32" href="$Binary_8h.html" title=" " alt="" coords="1204,244,1357,271"/>
+<area shape="rect" id="node33" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="1205,319,1356,345"/>
+<area shape="rect" id="node15" href="$AlignOf_8h.html" title=" " alt="" coords="645,625,813,651"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2724,781,2795,808"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1108,781,1157,808"/>
+<area shape="rect" id="node19" href="$ArrayRef_8h.html" title=" " alt="" coords="1242,543,1397,569"/>
+<area shape="rect" id="node29" href="$StringRef_8h.html" title=" " alt="" coords="2597,543,2754,569"/>
+<area shape="rect" id="node30" title=" " alt="" coords="3798,625,3857,651"/>
+<area shape="rect" id="node31" href="$Twine_8h.html" title=" " alt="" coords="2892,468,3027,495"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title=" " alt="" coords="2160,625,2335,651"/>
+<area shape="rect" id="node22" title=" " alt="" coords="891,781,969,808"/>
+<area shape="rect" id="node23" href="$STLExtras_8h.html" title=" " alt="" coords="1293,625,1455,651"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1581,625,1644,651"/>
+<area shape="rect" id="node21" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2485,781,2676,808"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title=" " alt="" coords="1693,707,1847,733"/>
+<area shape="rect" id="node25" href="$STLForwardCompat_8h.html" title=" " alt="" coords="1658,781,1882,808"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1170,707,1365,733"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3765,543,3873,569"/>
+<area shape="rect" id="node35" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="3106,543,3295,569"/>
+<area shape="rect" id="node36" title=" " alt="" coords="3319,543,3386,569"/>
+<area shape="rect" id="node40" href="$StringMap_8h.html" title=" " alt="" coords="4512,393,4676,420"/>
+<area shape="rect" id="node41" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="2242,543,2421,569"/>
+<area shape="rect" id="node42" href="$Regex_8h.html" title=" " alt="" coords="4581,543,4743,569"/>
+<area shape="rect" id="node43" href="$SMLoc_8h.html" title=" " alt="" coords="1871,625,2034,651"/>
+<area shape="rect" id="node44" href="$Support_2SourceMgr_8h.html" title=" " alt="" coords="1826,543,2015,569"/>
+<area shape="rect" id="node45" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[...." alt="" coords="4101,543,4303,569"/>
+<area shape="rect" id="node46" href="$YAMLParser_8h.html" title=" " alt="" coords="2369,468,2563,495"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2829,543,2879,569"/>
+<area shape="rect" id="node48" title=" " alt="" coords="4095,393,4160,420"/>
+</map>

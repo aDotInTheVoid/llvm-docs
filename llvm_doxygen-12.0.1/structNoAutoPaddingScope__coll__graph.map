@@ -1,0 +1,5 @@
+<map id="NoAutoPaddingScope" name="NoAutoPaddingScope">
+<area shape="rect" id="node1" title="A RAII helper which defines a region of instructions which can&#39;t have padding added between them for ..." alt="" coords="48,95,199,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCStreamer.html" title="Streaming machine code generation interface." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node3" href="$classbool.html" title=" " alt="" coords="156,5,203,32"/>
+</map>

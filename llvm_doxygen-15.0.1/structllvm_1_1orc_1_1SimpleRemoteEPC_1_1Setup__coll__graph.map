@@ -1,0 +1,6 @@
+<map id="llvm::orc::SimpleRemoteEPC::Setup" name="llvm::orc::SimpleRemoteEPC::Setup">
+<area shape="rect" id="node1" title="A setup object containing callbacks to construct a memory manager and memory access object." alt="" coords="851,36,1059,77"/>
+<area shape="rect" id="node2" href="$classllvm_1_1unique__function.html" title=" " alt="" coords="451,5,614,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1unique__function.html" title="unique_function is a type&#45;erasing functor similar to std::function." alt="" coords="5,39,168,80"/>
+<area shape="rect" id="node4" href="$classllvm_1_1unique__function.html" title=" " alt="" coords="421,71,644,112"/>
+</map>

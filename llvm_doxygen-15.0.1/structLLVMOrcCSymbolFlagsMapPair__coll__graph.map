@@ -1,0 +1,6 @@
+<map id="LLVMOrcCSymbolFlagsMapPair" name="LLVMOrcCSymbolFlagsMapPair">
+<area shape="rect" id="node1" title="Represents a pair of a symbol name and LLVMJITSymbolFlags." alt="" coords="5,199,228,225"/>
+<area shape="rect" id="node2" title=" " alt="" coords="50,109,109,136"/>
+<area shape="rect" id="node3" href="$structLLVMJITSymbolFlags.html" title="Represents the linkage flags for a symbol definition." alt="" coords="133,109,289,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="178,5,245,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="llvm::MinidumpYAML::detail::ParsedMemoryDescriptor" name="llvm::MinidumpYAML::detail::ParsedMemoryDescriptor">
+<area shape="rect" id="node1" title="A structure containing all data describing a single memory region." alt="" coords="948,134,1167,175"/>
+<area shape="rect" id="node2" href="$structllvm_1_1minidump_1_1MemoryDescriptor.html" title="Describes a single memory range (both its VM address and where to find it in the file) of the process..." alt="" coords="623,65,849,92"/>
+<area shape="rect" id="node3" href="$structllvm_1_1minidump_1_1LocationDescriptor.html" title="Specifies the location (and size) of various objects in the minidump file." alt="" coords="275,14,441,55"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,7,169,63"/>
+<area shape="rect" id="node5" title=" " alt="" coords="276,80,440,136"/>
+<area shape="rect" id="node6" title=" " alt="" coords="690,116,782,143"/>
+<area shape="rect" id="node7" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob." alt="" coords="663,167,809,193"/>
+<area shape="rect" id="node8" title=" " alt="" coords="691,217,781,244"/>
+</map>

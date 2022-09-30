@@ -1,0 +1,52 @@
+<map id="include/llvm/Support/TypeSize.h" name="include/llvm/Support/TypeSize.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4716,5,4872,47"/>
+<area shape="rect" id="node2" href="$MemoryLocation_8h.html" title="This file provides utility analysis objects describing memory locations." alt="" coords="1256,199,1417,240"/>
+<area shape="rect" id="node24" href="$LegalizeVectorTypes_8cpp.html" title=" " alt="" coords="2686,377,2880,419"/>
+<area shape="rect" id="node25" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="6184,288,6352,329"/>
+<area shape="rect" id="node26" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="4778,102,4956,143"/>
+<area shape="rect" id="node27" href="$InstrRefBasedImpl_8cpp.html" title="This is a separate implementation of LiveDebugValues, see LiveDebugValues.cpp and VarLocBasedImpl...." alt="" coords="3629,199,3846,240"/>
+<area shape="rect" id="node28" href="$VarLocBasedImpl_8cpp.html" title=" " alt="" coords="3870,199,4088,240"/>
+<area shape="rect" id="node29" href="$AArch64FrameLowering_8h.html" title=" " alt="" coords="4112,199,4304,240"/>
+<area shape="rect" id="node30" href="$ARMFrameLowering_8h.html" title=" " alt="" coords="4329,206,4592,233"/>
+<area shape="rect" id="node31" href="$NVPTXFrameLowering_8h.html" title=" " alt="" coords="4616,199,4835,240"/>
+<area shape="rect" id="node32" href="$RISCVFrameLowering_8h.html" title=" " alt="" coords="4910,199,5120,240"/>
+<area shape="rect" id="node33" href="$SparcFrameLowering_8h.html" title=" " alt="" coords="5144,199,5347,240"/>
+<area shape="rect" id="node34" href="$SystemZFrameLowering_8h.html" title=" " alt="" coords="5372,199,5568,240"/>
+<area shape="rect" id="node35" href="$VEFrameLowering_8h.html" title=" " alt="" coords="5592,206,5828,233"/>
+<area shape="rect" id="node36" href="$X86FrameLowering_8h.html" title=" " alt="" coords="5852,206,6104,233"/>
+<area shape="rect" id="node37" href="$ValueTypes_8h.html" title=" " alt="" coords="6128,199,6294,240"/>
+<area shape="rect" id="node38" href="$ValueTypes_8cpp.html" title=" " alt="" coords="3516,295,3722,322"/>
+<area shape="rect" id="node39" href="$DataLayout_8h.html" title=" " alt="" coords="2583,295,2794,322"/>
+<area shape="rect" id="node40" href="$DataLayout_8cpp.html" title=" " alt="" coords="3482,385,3644,411"/>
+<area shape="rect" id="node41" href="$Instructions_8cpp.html" title=" " alt="" coords="3728,385,3891,411"/>
+<area shape="rect" id="node42" href="$DerivedTypes_8h.html" title=" " alt="" coords="2976,206,3198,233"/>
+<area shape="rect" id="node43" href="$Type_8cpp.html" title=" " alt="" coords="3325,295,3441,322"/>
+<area shape="rect" id="node44" href="$DiagnosticInfo_8h.html" title=" " alt="" coords="1750,102,1942,143"/>
+<area shape="rect" id="node45" href="$Intrinsics_8h.html" title=" " alt="" coords="6427,295,6622,322"/>
+<area shape="rect" id="node46" href="$Type_8h.html" title=" " alt="" coords="2664,109,2830,136"/>
+<area shape="rect" id="node47" href="$MachineValueType_8h.html" title=" " alt="" coords="6132,102,6290,143"/>
+<area shape="rect" id="node48" href="$LoopVectorizationLegality_8h.html" title="This file defines the LoopVectorizationLegality class." alt="" coords="6521,95,6728,151"/>
+<area shape="rect" id="node49" href="$TypeSize_8cpp.html" title=" " alt="" coords="6752,109,6932,136"/>
+<area shape="rect" id="node50" href="$AArch64InstrInfo_8h.html" title=" " alt="" coords="6956,102,7103,143"/>
+<area shape="rect" id="node3" href="$AliasAnalysis_8h.html" title=" " alt="" coords="1144,288,1305,329"/>
+<area shape="rect" id="node4" href="$CFLSteensAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s unification&#45;based alias analysis implemented with CFL graph reachabi..." alt="" coords="273,377,466,419"/>
+<area shape="rect" id="node5" href="$AliasAnalysis_8cpp.html" title=" " alt="" coords="81,474,296,501"/>
+<area shape="rect" id="node6" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="1025,377,1186,419"/>
+<area shape="rect" id="node7" href="$MemorySSA_8cpp.html" title=" " alt="" coords="2050,474,2258,501"/>
+<area shape="rect" id="node8" href="$InterleavedLoadCombinePass_8cpp.html" title=" " alt="" coords="1000,467,1211,508"/>
+<area shape="rect" id="node9" href="$AliasSetTracker_8cpp.html" title=" " alt="" coords="1454,385,1680,411"/>
+<area shape="rect" id="node10" href="$BasicAliasAnalysis_8cpp.html" title=" " alt="" coords="3006,385,3256,411"/>
+<area shape="rect" id="node11" href="$CFLAndersAliasAnalysis_8cpp.html" title=" " alt="" coords="46,377,248,419"/>
+<area shape="rect" id="node12" href="$Lint_8cpp.html" title=" " alt="" coords="2248,385,2400,411"/>
+<area shape="rect" id="node13" href="$Loads_8cpp.html" title=" " alt="" coords="1262,385,1429,411"/>
+<area shape="rect" id="node14" href="$LoopAccessAnalysis_8cpp.html" title=" " alt="" coords="1704,385,1963,411"/>
+<area shape="rect" id="node15" href="$MemoryDependenceAnalysis_8cpp.html" title=" " alt="" coords="1988,377,2224,419"/>
+<area shape="rect" id="node16" href="$TypeBasedAliasAnalysis_8cpp.html" title=" " alt="" coords="747,377,950,419"/>
+<area shape="rect" id="node17" href="$ImplicitNullChecks_8cpp.html" title=" " alt="" coords="542,377,722,419"/>
+<area shape="rect" id="node18" href="$AliasSetTracker_8h.html" title=" " alt="" coords="1485,288,1646,329"/>
+<area shape="rect" id="node19" href="$MemoryDependenceAnalysis_8h.html" title=" " alt="" coords="1824,288,2052,329"/>
+<area shape="rect" id="node20" href="$MemoryLocation_8cpp.html" title=" " alt="" coords="2424,385,2662,411"/>
+<area shape="rect" id="node21" href="$ScopedNoAliasAA_8cpp.html" title=" " alt="" coords="133,288,332,329"/>
+<area shape="rect" id="node22" href="$AsmPrinter_8cpp.html" title=" " alt="" coords="3281,377,3458,419"/>
+<area shape="rect" id="node23" href="$MachineIRBuilder_8cpp.html" title="This file implements the MachineIRBuidler class." alt="" coords="407,288,578,329"/>
+</map>

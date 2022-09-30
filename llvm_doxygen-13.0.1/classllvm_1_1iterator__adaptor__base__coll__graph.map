@@ -1,0 +1,6 @@
+<map id="llvm::iterator_adaptor_base&lt; DerivedT, WrappedIteratorT, IteratorCategoryT, T, DifferenceTypeT, PointerT, ReferenceT &gt;" name="llvm::iterator_adaptor_base&lt; DerivedT, WrappedIteratorT, IteratorCategoryT, T, DifferenceTypeT, PointerT, ReferenceT &gt;">
+<area shape="rect" id="node1" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1480,393,1755,463"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="852,131,1423,407"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,234,255,305"/>
+<area shape="rect" id="node4" href="$classWrappedIteratorT.html" title=" " alt="" coords="1069,432,1205,459"/>
+</map>

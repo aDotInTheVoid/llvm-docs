@@ -1,0 +1,6 @@
+<map id="lib/Target/BPF/BTF.h" name="lib/Target/BPF/BTF.h">
+<area shape="rect" id="node1" title="This file contains the layout of .BTF and .BTF.ext ELF sections." alt="" coords="161,5,304,32"/>
+<area shape="rect" id="node2" href="$BTFDebug_8h.html" title="This file contains support for writing BTF debug info." alt="" coords="141,80,324,107"/>
+<area shape="rect" id="node3" href="$BPFAsmPrinter_8cpp.html" title=" " alt="" coords="5,155,228,181"/>
+<area shape="rect" id="node4" href="$BTFDebug_8cpp.html" title=" " alt="" coords="252,155,448,181"/>
+</map>

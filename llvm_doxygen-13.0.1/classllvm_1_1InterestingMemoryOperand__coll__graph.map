@@ -1,0 +1,13 @@
+<map id="llvm::InterestingMemoryOperand" name="llvm::InterestingMemoryOperand">
+<area shape="rect" id="node1" title=" " alt="" coords="418,361,656,388"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="24,272,114,299"/>
+<area shape="rect" id="node3" title=" " alt="" coords="58,95,139,121"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="278,272,372,299"/>
+<area shape="rect" id="node4" href="$structllvm_1_1MaybeAlign.html" title="This struct is a compact representation of a valid (power of two) or undefined (0) alignment." alt="" coords="397,272,533,299"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="442,95,619,121"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title=" " alt="" coords="454,5,606,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="557,272,632,299"/>
+<area shape="rect" id="node9" title=" " alt="" coords="320,95,378,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="656,272,706,299"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="731,272,815,299"/>
+</map>

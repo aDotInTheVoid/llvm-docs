@@ -1,0 +1,12 @@
+<map id="llvm::CodeMetrics" name="llvm::CodeMetrics">
+<area shape="rect" id="node1" title="Utility to calculate the size and a few similar metrics for a set of basic blocks." alt="" coords="1928,147,2068,174"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InstructionCost.html" title=" " alt="" coords="1571,21,1728,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1624,125,1675,151"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1560,175,1739,231"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="764,68,1083,256"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DebugEpochBase.html" title=" " alt="" coords="5,233,177,259"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="227,218,419,274"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="791,281,1055,395"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1132,229,1343,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1609,274,1690,301"/>
+</map>

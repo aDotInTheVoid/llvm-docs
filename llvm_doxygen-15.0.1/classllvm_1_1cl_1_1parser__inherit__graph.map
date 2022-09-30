@@ -1,0 +1,10 @@
+<map id="llvm::cl::parser&lt; DataType &gt;" name="llvm::cl::parser&lt; DataType &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="267,78,477,105"/>
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="698,5,887,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="697,71,888,112"/>
+<area shape="rect" id="node7" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="708,136,877,177"/>
+<area shape="rect" id="node2" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="5,78,217,105"/>
+<area shape="rect" id="node4" href="$classllvm_1_1remarks_1_1HotnessThresholdParser.html" title=" " alt="" coords="937,5,1176,47"/>
+<area shape="rect" id="node6" href="$classllvm_1_1RegisterPassParser.html" title="RegisterPassParser class &#45; Handle the addition of new machine passes." alt="" coords="965,71,1148,112"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PassNameParser.html" title=" " alt="" coords="973,143,1140,170"/>
+</map>

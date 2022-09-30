@@ -1,0 +1,5 @@
+<map id="llvm::DOTGraphTraitsPrinter&lt; AnalysisT, IsSimple, GraphT, AnalysisGraphTraitsT &gt;" name="llvm::DOTGraphTraitsPrinter&lt; AnalysisT, IsSimple, GraphT, AnalysisGraphTraitsT &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="775,65,997,121"/>
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="463,36,725,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,73,155,114"/>
+</map>

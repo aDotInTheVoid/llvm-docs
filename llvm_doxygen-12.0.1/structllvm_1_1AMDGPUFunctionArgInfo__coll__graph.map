@@ -1,0 +1,6 @@
+<map id="llvm::AMDGPUFunctionArgInfo" name="llvm::AMDGPUFunctionArgInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,464,209,491"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ArgDescriptor.html" title=" " alt="" coords="40,228,175,255"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCRegister.html" title="Wrapper class representing physical registers. Should be passed by value." alt="" coords="154,139,277,165"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="41,5,115,32"/>
+</map>

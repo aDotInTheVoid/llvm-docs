@@ -1,0 +1,5 @@
+<map id="llvm::vfs::detail::DirIterImpl" name="llvm::vfs::detail::DirIterImpl">
+<area shape="rect" id="node1" title="An interface for virtual file systems to provide an iterator over the (non&#45;recursive) contents of a d..." alt="" coords="154,5,286,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1vfs_1_1RedirectingFSDirIterImpl.html" title="Directory iterator implementation for RedirectingFileSystem&#39;s directory entries." alt="" coords="5,95,200,136"/>
+<area shape="rect" id="node3" href="$classRedirectingFSDirRemapIterImpl.html" title="Directory iterator implementation for RedirectingFileSystem&#39;s directory remap entries that maps the p..." alt="" coords="224,102,451,129"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="llvm::AADereferenceable" name="llvm::AADereferenceable">
+<area shape="rect" id="node1" title="An abstract interface for all dereferenceable attribute." alt="" coords="1237,180,1423,207"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="984,158,1188,229"/>
+<area shape="rect" id="node3" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="693,106,935,147"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions." alt="" coords="241,103,411,129"/>
+<area shape="rect" id="node5" href="$structllvm_1_1IRPosition.html" title="Helper to describe and deal with positions in the LLVM&#45;IR." alt="" coords="31,107,155,133"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AADepGraphNode.html" title="}" alt="" coords="5,56,181,83"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DerefState.html" title="State for dereferenceable attribute." alt="" coords="261,24,391,51"/>
+<area shape="rect" id="node8" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="20,5,167,32"/>
+<area shape="rect" id="node9" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute." alt="" coords="231,154,421,195"/>
+<area shape="rect" id="node10" href="$classBaseType.html" title=" " alt="" coords="51,216,135,243"/>
+<area shape="rect" id="node12" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="487,215,627,257"/>
+<area shape="rect" id="node11" href="$classStateTy.html" title=" " alt="" coords="58,157,129,184"/>
+</map>

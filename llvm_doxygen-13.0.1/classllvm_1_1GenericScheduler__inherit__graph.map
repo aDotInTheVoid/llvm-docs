@@ -1,0 +1,7 @@
+<map id="llvm::GenericScheduler" name="llvm::GenericScheduler">
+<area shape="rect" id="node1" title="GenericScheduler shrinks the unscheduled zone using heuristics to balance the schedule." alt="" coords="155,155,328,181"/>
+<area shape="rect" id="node4" href="$classllvm_1_1GCNMaxOccupancySchedStrategy.html" title="This is a minimal scheduler strategy." alt="" coords="5,229,232,271"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PPCPreRASchedStrategy.html" title="A MachineSchedStrategy implementation for PowerPC pre RA scheduling." alt="" coords="257,237,474,263"/>
+<area shape="rect" id="node2" href="$classllvm_1_1GenericSchedulerBase.html" title="Base class for GenericScheduler." alt="" coords="139,80,344,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI." alt="" coords="137,5,345,32"/>
+</map>

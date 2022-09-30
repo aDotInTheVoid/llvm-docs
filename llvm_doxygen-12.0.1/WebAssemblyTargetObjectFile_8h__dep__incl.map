@@ -1,0 +1,5 @@
+<map id="lib/Target/WebAssembly/WebAssemblyTargetObjectFile.h" name="lib/Target/WebAssembly/WebAssemblyTargetObjectFile.h">
+<area shape="rect" id="node1" title="This file declares the WebAssembly&#45;specific subclass of TargetLoweringObjectFile." alt="" coords="131,5,347,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine." alt="" coords="5,95,225,136"/>
+<area shape="rect" id="node3" href="$WebAssemblyTargetObjectFile_8cpp.html" title="This file defines the functions of the WebAssembly&#45;specific subclass of TargetLoweringObjectFile." alt="" coords="249,95,480,136"/>
+</map>

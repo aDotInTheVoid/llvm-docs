@@ -1,0 +1,27 @@
+<map id="include/llvm/MC/MCRegister.h" name="include/llvm/MC/MCRegister.h">
+<area shape="rect" id="node1" title=" " alt="" coords="244,5,461,32"/>
+<area shape="rect" id="node2" href="$DenseMapInfo_8h.html" title=" " alt="" coords="38,80,230,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="223,155,293,181"/>
+<area shape="rect" id="node8" href="$Hashing_8h.html" title=" " alt="" coords="384,80,535,107"/>
+<area shape="rect" id="node25" title=" " alt="" coords="559,80,618,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,229,76,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="173,229,239,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="144,155,199,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="300,229,360,256"/>
+<area shape="rect" id="node9" href="$Support_2DataTypes_8h.html" title=" " alt="" coords="1346,155,1535,181"/>
+<area shape="rect" id="node14" href="$Support_2ErrorHandling_8h.html" title=" " alt="" coords="1111,155,1322,181"/>
+<area shape="rect" id="node18" href="$SwapByteOrder_8h.html" title=" " alt="" coords="650,155,871,181"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title=" " alt="" coords="896,155,1087,181"/>
+<area shape="rect" id="node22" title=" " alt="" coords="367,155,453,181"/>
+<area shape="rect" id="node23" title=" " alt="" coords="477,155,543,181"/>
+<area shape="rect" id="node24" title=" " alt="" coords="567,155,626,181"/>
+<area shape="rect" id="node10" href="$c_2DataTypes_8h.html" title=" " alt="" coords="1367,229,1514,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1397,304,1484,331"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1508,304,1579,331"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1277,304,1373,331"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title=" " alt="" coords="1030,229,1209,256"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1040,304,1225,331"/>
+<area shape="rect" id="node17" title=" " alt="" coords="941,304,1015,331"/>
+<area shape="rect" id="node19" title=" " alt="" coords="900,229,992,256"/>
+<area shape="rect" id="node20" title=" " alt="" coords="691,229,830,256"/>
+</map>

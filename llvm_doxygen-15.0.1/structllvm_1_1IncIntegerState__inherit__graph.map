@@ -1,0 +1,9 @@
+<map id="llvm::IncIntegerState&lt; base_ty, BestState, WorstState &gt;" name="llvm::IncIntegerState&lt; base_ty, BestState, WorstState &gt;">
+<area shape="rect" id="node1" title="Specialization of the integer state for an increasing value, hence ~0u is the best state and 0 the wo..." alt="" coords="773,13,936,69"/>
+<area shape="rect" id="node5" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="985,13,1176,69"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IntegerStateBase.html" title=" " alt="" coords="553,13,724,69"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="5,31,152,58"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding." alt="" coords="201,49,372,105"/>
+<area shape="rect" id="node6" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="1225,5,1475,76"/>
+<area shape="rect" id="node7" href="$structllvm_1_1AAAlign.html" title="An abstract interface for all align attributes." alt="" coords="1524,27,1635,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::BCFixed&lt; Width &gt;" name="llvm::BCFixed&lt; Width &gt;">
+<area shape="rect" id="node1" title="Represents a fixed&#45;width value in a bitcode record." alt="" coords="5,185,184,212"/>
+<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1BCField.html" title=" " alt="" coords="7,109,182,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1BCField.html" title="Convenience base for all kinds of bitcode abbreviation fields." alt="" coords="18,5,171,47"/>
+</map>

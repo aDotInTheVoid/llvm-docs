@@ -1,0 +1,5 @@
+<map id="llvm::SIMachineFunctionInfo::SpilledReg" name="llvm::SIMachineFunctionInfo::SpilledReg">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,193,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="33,5,72,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="96,5,199,32"/>
+</map>

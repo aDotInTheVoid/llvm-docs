@@ -1,0 +1,52 @@
+<map id="lib/DebugInfo/PDB/Native/DbiModuleDescriptor.cpp" name="lib/DebugInfo/PDB/Native/DbiModuleDescriptor.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3093,5,3283,47"/>
+<area shape="rect" id="node2" href="$DbiModuleDescriptor_8h.html" title=" " alt="" coords="2833,95,3055,136"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3085,915,3152,941"/>
+<area shape="rect" id="node25" href="$RawTypes_8h.html" title=" " alt="" coords="3226,184,3379,225"/>
+<area shape="rect" id="node33" href="$MathExtras_8h.html" title=" " alt="" coords="3581,840,3776,867"/>
+<area shape="rect" id="node37" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="1454,541,1605,568"/>
+<area shape="rect" id="node47" href="$Endian_8h.html" title=" " alt="" coords="3929,765,4095,792"/>
+<area shape="rect" id="node49" href="$BinaryStreamReader_8h.html" title=" " alt="" coords="2491,273,2690,315"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title=" " alt="" coords="2072,765,2229,792"/>
+<area shape="rect" id="node31" href="$BinaryStreamArray_8h.html" title="Lightweight arrays that are backed by an arbitrary BinaryStream." alt="" coords="2207,363,2406,404"/>
+<area shape="rect" id="node36" href="$BinaryStreamRef_8h.html" title=" " alt="" coords="427,452,626,493"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title=" " alt="" coords="1520,840,1683,867"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="505,1064,684,1091"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3893,1064,3985,1091"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1247,1064,1307,1091"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2744,989,2813,1016"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="1554,989,1745,1016"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2838,989,2909,1016"/>
+<area shape="rect" id="node18" title=" " alt="" coords="4087,989,4145,1016"/>
+<area shape="rect" id="node19" title=" " alt="" coords="115,915,200,941"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2395,915,2453,941"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3301,915,3368,941"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title=" " alt="" coords="529,915,682,941"/>
+<area shape="rect" id="node11" title=" " alt="" coords="275,989,352,1016"/>
+<area shape="rect" id="node13" href="$iterator_8h.html" title=" " alt="" coords="1702,915,1847,941"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2176,915,2371,941"/>
+<area shape="rect" id="node17" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="1315,915,1525,941"/>
+<area shape="rect" id="node21" title=" " alt="" coords="758,915,823,941"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1102,915,1189,941"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title=" " alt="" coords="683,989,874,1016"/>
+<area shape="rect" id="node12" title=" " alt="" coords="478,989,527,1016"/>
+<area shape="rect" id="node26" href="$GUID_8h.html" title=" " alt="" coords="3255,452,3446,493"/>
+<area shape="rect" id="node27" href="$TypeRecord_8h.html" title=" " alt="" coords="1979,273,2170,315"/>
+<area shape="rect" id="node28" href="$ArrayRef_8h.html" title=" " alt="" coords="776,765,931,792"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title=" " alt="" coords="993,840,1167,867"/>
+<area shape="rect" id="node30" title=" " alt="" coords="449,840,511,867"/>
+<area shape="rect" id="node32" href="$Alignment_8h.html" title=" " alt="" coords="2982,765,3170,792"/>
+<area shape="rect" id="node34" title=" " alt="" coords="3544,915,3611,941"/>
+<area shape="rect" id="node35" title=" " alt="" coords="3635,915,3698,941"/>
+<area shape="rect" id="node38" href="$llvm-c_2Error_8h.html" title=" " alt="" coords="1521,616,1631,643"/>
+<area shape="rect" id="node39" href="$StringExtras_8h.html" title=" " alt="" coords="2222,616,2399,643"/>
+<area shape="rect" id="node40" href="$Twine_8h.html" title=" " alt="" coords="2265,691,2399,717"/>
+<area shape="rect" id="node41" href="$AlignOf_8h.html" title=" " alt="" coords="4653,989,4821,1016"/>
+<area shape="rect" id="node42" href="$Debug_8h.html" title=" " alt="" coords="1655,616,1817,643"/>
+<area shape="rect" id="node43" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer." alt="" coords="4654,915,4821,941"/>
+<area shape="rect" id="node44" title=" " alt="" coords="4419,989,4527,1016"/>
+<area shape="rect" id="node45" href="$Format_8h.html" title=" " alt="" coords="1506,691,1673,717"/>
+<area shape="rect" id="node46" href="$raw__ostream_8h.html" title=" " alt="" coords="3277,691,3483,717"/>
+<area shape="rect" id="node48" href="$SwapByteOrder_8h.html" title=" " alt="" coords="3901,840,4123,867"/>
+<area shape="rect" id="node50" href="$ConvertUTF_8h.html" title=" " alt="" coords="4281,915,4477,941"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::LazyBlockFrequencyInfoPass" name="llvm::LazyBlockFrequencyInfoPass">
+<area shape="rect" id="node1" title="This is an alternative analysis pass to BlockFrequencyInfoWrapperPass." alt="" coords="41,171,233,212"/>
+<area shape="rect" id="node2" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations." alt="" coords="5,81,148,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="33,5,121,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="173,81,223,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::IRBuilder&lt; FolderTy, InserterTy &gt;" name="llvm::IRBuilder&lt; FolderTy, InserterTy &gt;">
+<area shape="rect" id="node1" title="This provides a uniform API for creating instructions and inserting them into a basic block: either a..." alt="" coords="17,81,190,123"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="5,200,201,241"/>
+<area shape="rect" id="node2" href="$classllvm_1_1IRBuilderBase.html" title="Common base class shared among various IRBuilders." alt="" coords="34,5,173,32"/>
+</map>

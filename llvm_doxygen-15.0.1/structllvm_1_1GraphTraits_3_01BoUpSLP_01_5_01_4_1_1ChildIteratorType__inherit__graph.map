@@ -1,0 +1,8 @@
+<map id="llvm::GraphTraits&lt; BoUpSLP * &gt;::ChildIteratorType" name="llvm::GraphTraits&lt; BoUpSLP * &gt;::ChildIteratorType">
+<area shape="rect" id="node1" title="Add the VectorizableTree to the index iterator to be able to return TreeEntry pointers." alt="" coords="3028,503,3257,545"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="2732,489,2979,559"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="1547,253,2217,617"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,535,255,606"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="952,534,1523,810"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="2241,561,2516,631"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::TrackingVH&lt; ValueTy &gt;" name="llvm::TrackingVH&lt; ValueTy &gt;">
+<area shape="rect" id="node1" title="Value handle that tracks a Value across RAUW." alt="" coords="85,5,277,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TrackingVH.html" title=" " alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TrackingVH.html" title=" " alt="" coords="189,102,367,129"/>
+</map>

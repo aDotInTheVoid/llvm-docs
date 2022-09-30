@@ -1,0 +1,12 @@
+<map id="llvm::jitlink::JITLinkerBase" name="llvm::jitlink::JITLinkerBase">
+<area shape="rect" id="node1" title="Base class for a JIT linker." alt="" coords="5,149,196,175"/>
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="661,103,829,144"/>
+<area shape="rect" id="node4" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="653,5,837,47"/>
+<area shape="rect" id="node6" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="644,273,845,315"/>
+<area shape="rect" id="node8" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="641,181,848,223"/>
+<area shape="rect" id="node10" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="245,141,404,183"/>
+<area shape="rect" id="node3" href="$classllvm_1_1jitlink_1_1ELFJITLinker__riscv.html" title=" " alt="" coords="908,103,1091,144"/>
+<area shape="rect" id="node5" href="$classllvm_1_1jitlink_1_1ELFJITLinker__x86__64.html" title=" " alt="" coords="908,5,1091,47"/>
+<area shape="rect" id="node7" href="$classllvm_1_1jitlink_1_1MachOJITLinker__arm64.html" title=" " alt="" coords="897,273,1101,315"/>
+<area shape="rect" id="node9" href="$classllvm_1_1jitlink_1_1MachOJITLinker__x86__64.html" title=" " alt="" coords="897,181,1101,223"/>
+</map>

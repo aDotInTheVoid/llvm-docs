@@ -1,0 +1,4 @@
+<map id="llvm::InstrProfReaderRemapper" name="llvm::InstrProfReaderRemapper">
+<area shape="rect" id="node1" title="Name matcher supporting fuzzy matching of symbol names to names in profiles." alt="" coords="5,5,209,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InstrProfReaderItaniumRemapper.html" title="A remapper that applies remappings based on a symbol remapping file." alt="" coords="11,80,203,121"/>
+</map>

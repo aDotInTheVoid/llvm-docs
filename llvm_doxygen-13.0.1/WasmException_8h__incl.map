@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/AsmPrinter/WasmException.h" name="lib/CodeGen/AsmPrinter/WasmException.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2826,5,3003,47"/>
+<area shape="rect" id="node2" href="$EHStreamer_8h.html" title=" " alt="" coords="4533,95,4643,121"/>
+<area shape="rect" id="node30" href="$AsmPrinter_8h.html" title=" " alt="" coords="1318,95,1519,121"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title=" " alt="" coords="2799,348,2966,375"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title=" " alt="" coords="2931,572,3109,599"/>
+<area shape="rect" id="node28" href="$AsmPrinterHandler_8h.html" title=" " alt="" coords="4381,177,4633,203"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2644,423,2836,449"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1747,497,1816,524"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2115,497,2186,524"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1193,572,1253,599"/>
+<area shape="rect" id="node9" href="$EpochTracker_8h.html" title=" " alt="" coords="4247,423,4430,449"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title=" " alt="" coords="3687,423,3855,449"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3603,497,3695,524"/>
+<area shape="rect" id="node15" href="$MathExtras_8h.html" title=" " alt="" coords="3113,423,3308,449"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2900,497,2967,524"/>
+<area shape="rect" id="node18" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="1492,423,1679,449"/>
+<area shape="rect" id="node22" href="$ReverseIteration_8h.html" title=" " alt="" coords="3383,423,3612,449"/>
+<area shape="rect" id="node23" href="$type__traits_8h.html" title=" " alt="" coords="3981,423,4171,449"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1635,497,1720,524"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2357,423,2467,449"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2189,423,2259,449"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2283,423,2333,449"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4435,497,4501,524"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2850,647,3035,673"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3060,647,3135,673"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2991,497,3049,524"/>
+<area shape="rect" id="node19" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="609,497,820,524"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1414,497,1479,524"/>
+<area shape="rect" id="node20" title=" " alt="" coords="135,572,193,599"/>
+<area shape="rect" id="node29" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="4412,266,4601,293"/>
+<area shape="rect" id="node31" href="$MapVector_8h.html" title=" " alt="" coords="1687,266,1854,293"/>
+<area shape="rect" id="node32" href="$SmallVector_8h.html" title=" " alt="" coords="1554,348,1729,375"/>
+<area shape="rect" id="node35" title=" " alt="" coords="671,423,748,449"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1357,348,1419,375"/>
+<area shape="rect" id="node37" href="$DwarfStringPoolEntry_8h.html" title=" " alt="" coords="2275,259,2469,300"/>
+<area shape="rect" id="node40" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="1069,169,1297,211"/>
+<area shape="rect" id="node43" href="$InlineAsm_8h.html" title=" " alt="" coords="935,266,1084,293"/>
+<area shape="rect" id="node48" href="$LLVMContext_8h.html" title=" " alt="" coords="298,266,467,293"/>
+<area shape="rect" id="node50" href="$Support_2SourceMgr_8h.html" title=" " alt="" coords="1423,266,1612,293"/>
+<area shape="rect" id="node33" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="1127,497,1318,524"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1381,423,1467,449"/>
+<area shape="rect" id="node38" href="$PointerIntPair_8h.html" title=" " alt="" coords="3957,348,4141,375"/>
+<area shape="rect" id="node39" href="$StringMap_8h.html" title=" " alt="" coords="2290,348,2454,375"/>
+<area shape="rect" id="node41" href="$MachineFunction_8h.html" title=" " alt="" coords="1108,266,1348,293"/>
+<area shape="rect" id="node42" href="$Pass_8h.html" title=" " alt="" coords="81,348,177,375"/>
+<area shape="rect" id="node44" href="$StringRef_8h.html" title=" " alt="" coords="1855,423,2012,449"/>
+<area shape="rect" id="node45" href="$Value_8h.html" title=" " alt="" coords="783,348,903,375"/>
+<area shape="rect" id="node46" href="$Types_8h.html" title=" " alt="" coords="366,497,482,524"/>
+<area shape="rect" id="node47" href="$CBindingWrapping_8h.html" title=" " alt="" coords="303,423,545,449"/>
+<area shape="rect" id="node49" href="$DiagnosticHandler_8h.html" title=" " alt="" coords="927,348,1129,375"/>
+</map>

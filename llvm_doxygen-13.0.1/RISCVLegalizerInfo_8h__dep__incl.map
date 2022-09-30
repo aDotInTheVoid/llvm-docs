@@ -1,0 +1,5 @@
+<map id="lib/Target/RISCV/RISCVLegalizerInfo.h" name="lib/Target/RISCV/RISCVLegalizerInfo.h">
+<area shape="rect" id="node1" title="This file declares the targeting of the Machinelegalizer class for RISCV." alt="" coords="139,5,365,47"/>
+<area shape="rect" id="node2" href="$RISCVLegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for RISCV." alt="" coords="5,95,232,136"/>
+<area shape="rect" id="node3" href="$RISCVSubtarget_8cpp.html" title=" " alt="" coords="256,102,515,129"/>
+</map>

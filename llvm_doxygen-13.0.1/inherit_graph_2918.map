@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="5,5,576,281"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="624,108,899,179"/>
+<area shape="rect" id="node3" href="$structllvm_1_1pointee__iterator.html" title="An iterator type that allows iterating over the pointees via some other iterator." alt="" coords="947,123,1129,164"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::vfs::ProxyFileSystem" name="llvm::vfs::ProxyFileSystem">
+<area shape="rect" id="node1" title="By default, this delegates all calls to the underlying file system." alt="" coords="11,276,190,303"/>
+<area shape="rect" id="node2" href="$classllvm_1_1vfs_1_1FileSystem.html" title="The virtual file system interface." alt="" coords="28,200,173,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title=" " alt="" coords="5,109,196,151"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title="A thread&#45;safe version of RefCountedBase." alt="" coords="5,5,196,47"/>
+</map>

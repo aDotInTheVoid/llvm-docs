@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;::OrcRPCNegotiate" name="llvm::orc::shared::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;::OrcRPCNegotiate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,244,289,315"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="30,139,265,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1shared_1_1RPCFunction.html" title=" " alt="" coords="46,5,249,61"/>
+</map>

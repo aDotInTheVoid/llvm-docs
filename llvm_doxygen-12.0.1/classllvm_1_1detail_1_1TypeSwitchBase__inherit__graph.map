@@ -1,0 +1,6 @@
+<map id="llvm::detail::TypeSwitchBase&lt; DerivedT, T &gt;" name="llvm::detail::TypeSwitchBase&lt; DerivedT, T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="81,5,243,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1TypeSwitchBase.html" title=" " alt="" coords="71,124,253,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TypeSwitch.html" title="This class implements a switch&#45;like dispatch statement for a value of &#39;T&#39; using dyn_cast functionalit..." alt="" coords="5,229,151,271"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TypeSwitch_3_01T_00_01void_01_4.html" title="Specialization of TypeSwitch for void returning callables." alt="" coords="175,229,320,271"/>
+</map>

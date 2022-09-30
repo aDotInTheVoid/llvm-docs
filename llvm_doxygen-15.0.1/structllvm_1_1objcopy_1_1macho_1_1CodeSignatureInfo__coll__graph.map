@@ -1,0 +1,7 @@
+<map id="llvm::objcopy::macho::CodeSignatureInfo" name="llvm::objcopy::macho::CodeSignatureInfo">
+<area shape="rect" id="node1" title="When MachO binaries include a LC_CODE_SIGNATURE load command, the __LINKEDIT data segment will includ..." alt="" coords="192,275,353,316"/>
+<area shape="rect" id="node2" href="$classsize__t.html" title=" " alt="" coords="5,5,65,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="153,103,272,130"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="306,103,381,130"/>
+<area shape="rect" id="node4" title=" " alt="" coords="457,103,523,130"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::IntegerRangeState" name="llvm::IntegerRangeState">
+<area shape="rect" id="node1" title="State for an integer range." alt="" coords="117,109,279,136"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="164,5,232,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ConstantRange.html" title="This class represents a range of values." alt="" coords="257,5,401,32"/>
+</map>

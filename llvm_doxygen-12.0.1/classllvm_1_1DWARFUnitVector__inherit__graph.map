@@ -1,0 +1,12 @@
+<map id="llvm::DWARFUnitVector" name="llvm::DWARFUnitVector">
+<area shape="rect" id="node1" title="Describe a collection of units." alt="" coords="1965,48,2128,74"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1721,33,1916,89"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1179,110,1361,137"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1427,40,1559,82"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="781,103,959,144"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD." alt="" coords="555,103,732,144"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="348,96,505,152"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorBase.html" title="This is all the stuff common to all SmallVectors." alt="" coords="5,103,160,144"/>
+<area shape="rect" id="node8" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="785,6,955,47"/>
+<area shape="rect" id="node10" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="1163,30,1377,86"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::has_rbegin_impl&lt; Ty &gt;" name="llvm::has_rbegin_impl&lt; Ty &gt;">
+<area shape="rect" id="node1" title="Helper to determine if type T has a member called rbegin()." alt="" coords="5,95,155,136"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="57,5,103,32"/>
+</map>

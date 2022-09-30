@@ -1,0 +1,7 @@
+<map id="llvm::DebugHandlerBase" name="llvm::DebugHandlerBase">
+<area shape="rect" id="node1" title="Base class for debug information backends." alt="" coords="147,80,331,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BTFDebug.html" title="Collect and emit BTF information." alt="" coords="5,155,132,181"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CodeViewDebug.html" title="Collects and handles line tables information in a CodeView format." alt="" coords="156,155,323,181"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DwarfDebug.html" title="Collects and handles dwarf debug information." alt="" coords="347,155,487,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AsmPrinterHandler.html" title="Collects and handles AsmPrinter objects required to build debug or EH information." alt="" coords="148,5,331,32"/>
+</map>

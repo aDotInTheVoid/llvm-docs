@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1HashBuilderBase.html" title="Declares the hasher member, and functions forwarding directly to the hasher." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1HashBuilderImpl.html" title="Implementation of the HashBuilder interface." alt="" coords="224,5,412,47"/>
+</map>

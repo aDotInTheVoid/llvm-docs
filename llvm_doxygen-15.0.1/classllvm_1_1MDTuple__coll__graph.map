@@ -1,0 +1,6 @@
+<map id="llvm::MDTuple" name="llvm::MDTuple">
+<area shape="rect" id="node1" title="Tuple of metadata." alt="" coords="9,291,123,317"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="9,215,123,241"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="5,139,127,165"/>
+<area shape="rect" id="node4" title=" " alt="" coords="25,5,107,32"/>
+</map>

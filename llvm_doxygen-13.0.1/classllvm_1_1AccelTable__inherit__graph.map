@@ -1,0 +1,10 @@
+<map id="llvm::AccelTable&lt; DataT &gt;" name="llvm::AccelTable&lt; DataT &gt;">
+<area shape="rect" id="node1" title="This class holds an abstract representation of an Accelerator Table, consisting of a sequence of buck..." alt="" coords="215,195,412,221"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AccelTable.html" title=" " alt="" coords="675,19,897,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AccelTable.html" title=" " alt="" coords="680,85,892,126"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AccelTable.html" title=" " alt="" coords="685,150,887,191"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AccelTable.html" title=" " alt="" coords="680,216,892,272"/>
+<area shape="rect" id="node7" href="$classllvm_1_1AccelTable.html" title=" " alt="" coords="661,297,911,338"/>
+<area shape="rect" id="node8" href="$classllvm_1_1AccelTable.html" title=" " alt="" coords="667,362,905,403"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AccelTableBase.html" title="A base class holding non&#45;template&#45;dependant functionality of the AccelTable class." alt="" coords="5,195,165,221"/>
+</map>

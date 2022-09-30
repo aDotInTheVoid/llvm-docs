@@ -1,0 +1,6 @@
+<map id="llvm::AssemblyAnnotationWriter" name="llvm::AssemblyAnnotationWriter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,200,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MemorySSAAnnotatedWriter.html" title="An assembly annotator class to print Memory SSA information in comments." alt="" coords="251,5,457,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PredicateInfoAnnotatedWriter.html" title="An assembly annotator class to print PredicateInfo information in comments." alt="" coords="248,71,460,112"/>
+<area shape="rect" id="node4" href="$classStackLifetime_1_1LifetimeAnnotationWriter.html" title=" " alt="" coords="257,136,451,177"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::LShrOperator" name="llvm::LShrOperator">
+<area shape="rect" id="node1" title=" " alt="" coords="131,664,261,691"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="111,559,281,615"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PossiblyExactOperator.html" title="A udiv or sdiv instruction, which can be marked as &quot;exact&quot;, indicating that no bits are destroyed." alt="" coords="5,447,192,474"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Operator.html" title="This is a utility class that provides an abstraction for the common functionality between Instruction..." alt="" coords="47,364,151,391"/>
+<area shape="rect" id="node5" href="$classllvm_1_1User.html" title=" " alt="" coords="57,288,140,315"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="55,212,142,239"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="61,5,136,32"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ConcreteOperator.html" title="A helper template for defining operators for individual opcodes." alt="" coords="216,440,373,481"/>
+<area shape="rect" id="node9" href="$classSuperClass.html" title=" " alt="" coords="249,364,340,391"/>
+</map>

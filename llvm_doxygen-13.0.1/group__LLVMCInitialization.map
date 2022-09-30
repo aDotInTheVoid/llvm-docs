@@ -1,0 +1,4 @@
+<map id="Initialization Routines" name="Initialization Routines">
+<area shape="rect" id="node1" title="This module contains routines used to initialize the LLVM system." alt="" coords="203,13,367,38"/>
+<area shape="rect" id="node2" href="$group__LLVMC.html" title="This module exposes parts of the LLVM library as a C API." alt="" coords="5,5,155,45"/>
+</map>

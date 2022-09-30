@@ -1,0 +1,52 @@
+<map id="lib/Target/Hexagon/HexagonSplitDouble.cpp" name="lib/Target/Hexagon/HexagonSplitDouble.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2059,5,2245,47"/>
+<area shape="rect" id="node2" href="$HexagonInstrInfo_8h.html" title=" " alt="" coords="2621,191,2768,218"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title=" " alt="" coords="3750,795,3925,821"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="2760,944,2939,971"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1334,1019,1519,1045"/>
+<area shape="rect" id="node8" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4397,869,4608,896"/>
+<area shape="rect" id="node9" title=" " alt="" coords="4632,869,4717,896"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2713,869,2783,896"/>
+<area shape="rect" id="node11" title=" " alt="" coords="4864,869,4923,896"/>
+<area shape="rect" id="node12" title=" " alt="" coords="965,869,1025,896"/>
+<area shape="rect" id="node13" href="$STLExtras_8h.html" title=" " alt="" coords="4449,713,4612,739"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2028,795,2095,821"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2258,713,2321,739"/>
+<area shape="rect" id="node16" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1385,541,1593,583"/>
+<area shape="rect" id="node17" href="$MachineInstr_8h.html" title=" " alt="" coords="777,631,991,657"/>
+<area shape="rect" id="node19" title=" " alt="" coords="600,795,643,821"/>
+<area shape="rect" id="node20" href="$MachineMemOperand_8h.html" title=" " alt="" coords="398,713,671,739"/>
+<area shape="rect" id="node21" href="$MachineOperand_8h.html" title=" " alt="" coords="1201,713,1441,739"/>
+<area shape="rect" id="node22" href="$DebugLoc_8h.html" title=" " alt="" coords="695,713,843,739"/>
+<area shape="rect" id="node24" href="$MachineFunction_8h.html" title=" " alt="" coords="1132,459,1372,486"/>
+<area shape="rect" id="node25" href="$BitVector_8h.html" title=" " alt="" coords="1922,549,2078,575"/>
+<area shape="rect" id="node26" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="1548,363,1751,404"/>
+<area shape="rect" id="node27" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="3101,452,3313,493"/>
+<area shape="rect" id="node28" href="$StringRef_8h.html" title=" " alt="" coords="4564,631,4721,657"/>
+<area shape="rect" id="node32" href="$HexagonRegisterInfo_8h.html" title=" " alt="" coords="3684,191,3855,218"/>
+<area shape="rect" id="node34" href="$HexagonSubtarget_8h.html" title=" " alt="" coords="3211,102,3365,129"/>
+<area shape="rect" id="node43" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="727,184,955,225"/>
+<area shape="rect" id="node44" href="$Pass_8h.html" title=" " alt="" coords="505,281,601,307"/>
+<area shape="rect" id="node45" href="$MachineLoopInfo_8h.html" title=" " alt="" coords="587,95,791,136"/>
+<area shape="rect" id="node46" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="1825,363,2052,404"/>
+<area shape="rect" id="node47" href="$CommandLine_8h.html" title=" " alt="" coords="4075,459,4290,486"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title=" " alt="" coords="4221,549,4427,575"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title=" " alt="" coords="5311,102,5473,129"/>
+<area shape="rect" id="node50" title=" " alt="" coords="5497,102,5548,129"/>
+<area shape="rect" id="node3" href="$HexagonBaseInfo_8h.html" title=" " alt="" coords="2549,273,2758,315"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title=" " alt="" coords="3313,631,3468,657"/>
+<area shape="rect" id="node23" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1560,273,1747,315"/>
+<area shape="rect" id="node29" href="$MachineValueType_8h.html" title=" " alt="" coords="2887,705,3087,747"/>
+<area shape="rect" id="node30" href="$ValueTypes_8h.html" title=" " alt="" coords="2783,631,2985,657"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2342,281,2525,307"/>
+<area shape="rect" id="node18" href="$SmallSet_8h.html" title=" " alt="" coords="919,713,1075,739"/>
+<area shape="rect" id="node33" title=" " alt="" coords="3785,281,3993,307"/>
+<area shape="rect" id="node35" href="$HexagonArch_8h.html" title=" " alt="" coords="4706,549,4827,575"/>
+<area shape="rect" id="node36" href="$HexagonFrameLowering_8h.html" title=" " alt="" coords="2457,459,2649,486"/>
+<area shape="rect" id="node37" href="$HexagonISelLowering_8h.html" title=" " alt="" coords="2762,549,2937,575"/>
+<area shape="rect" id="node38" href="$HexagonSelectionDAGInfo_8h.html" title=" " alt="" coords="3351,191,3558,218"/>
+<area shape="rect" id="node39" href="$ScheduleDAGMutation_8h.html" title=" " alt="" coords="3594,631,3870,657"/>
+<area shape="rect" id="node40" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="3519,541,3740,583"/>
+<area shape="rect" id="node41" href="$MCInstrItineraries_8h.html" title=" " alt="" coords="4601,370,4809,397"/>
+<area shape="rect" id="node42" href="$Alignment_8h.html" title=" " alt="" coords="3037,370,3225,397"/>
+</map>

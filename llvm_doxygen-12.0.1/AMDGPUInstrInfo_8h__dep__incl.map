@@ -1,0 +1,11 @@
+<map id="lib/Target/AMDGPU/AMDGPUInstrInfo.h" name="lib/Target/AMDGPU/AMDGPUInstrInfo.h">
+<area shape="rect" id="node1" title="Contains the definition of a TargetInstrInfo class that is common to all AMD GPUs." alt="" coords="914,5,1139,47"/>
+<area shape="rect" id="node2" href="$AMDGPUInstCombineIntrinsic_8cpp.html" title=" " alt="" coords="5,95,227,136"/>
+<area shape="rect" id="node3" href="$AMDGPUInstrInfo_8cpp.html" title="Implementation of the TargetInstrInfo class that is common to all AMD GPUs." alt="" coords="251,95,477,136"/>
+<area shape="rect" id="node4" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU." alt="" coords="501,95,761,136"/>
+<area shape="rect" id="node5" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets." alt="" coords="785,95,1007,136"/>
+<area shape="rect" id="node6" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU." alt="" coords="1032,95,1283,136"/>
+<area shape="rect" id="node7" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU." alt="" coords="1307,95,1554,136"/>
+<area shape="rect" id="node8" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo." alt="" coords="1578,95,1758,136"/>
+<area shape="rect" id="node9" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI." alt="" coords="1782,95,1959,136"/>
+</map>

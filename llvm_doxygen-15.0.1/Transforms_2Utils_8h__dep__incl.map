@@ -1,0 +1,42 @@
+<map id="include/llvm/Transforms/Utils.h" name="include/llvm/Transforms/Utils.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4353,5,4531,47"/>
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title=" " alt="" coords="5,102,212,129"/>
+<area shape="rect" id="node3" href="$HardwareLoops_8cpp.html" title=" " alt="" coords="236,102,469,129"/>
+<area shape="rect" id="node4" href="$TargetPassConfig_8cpp.html" title=" " alt="" coords="494,102,737,129"/>
+<area shape="rect" id="node5" href="$AMDGPUTargetMachine_8cpp.html" title=" " alt="" coords="761,95,1009,136"/>
+<area shape="rect" id="node6" href="$AMDGPUUnifyDivergentExitNodes_8cpp.html" title=" " alt="" coords="1033,95,1275,136"/>
+<area shape="rect" id="node7" href="$HexagonLoopIdiomRecognition_8cpp.html" title=" " alt="" coords="1299,95,1555,136"/>
+<area shape="rect" id="node8" href="$HexagonVectorLoopCarriedReuse_8cpp.html" title=" " alt="" coords="1580,95,1851,136"/>
+<area shape="rect" id="node9" href="$PPCLoopInstrFormPrep_8cpp.html" title=" " alt="" coords="1874,95,2074,136"/>
+<area shape="rect" id="node10" href="$WebAssemblyTargetMachine_8cpp.html" title=" " alt="" coords="2098,95,2338,136"/>
+<area shape="rect" id="node11" href="$ControlHeightReduction_8cpp.html" title=" " alt="" coords="2363,95,2585,136"/>
+<area shape="rect" id="node12" href="$LoopExtractor_8cpp.html" title=" " alt="" coords="2609,95,2752,136"/>
+<area shape="rect" id="node13" href="$PassManagerBuilder_8cpp.html" title=" " alt="" coords="2777,95,2961,136"/>
+<area shape="rect" id="node14" href="$LoopDataPrefetch_8cpp.html" title=" " alt="" coords="2985,95,3155,136"/>
+<area shape="rect" id="node15" href="$LoopFuse_8cpp.html" title=" " alt="" coords="3179,95,3337,136"/>
+<area shape="rect" id="node16" href="$LoopLoadElimination_8cpp.html" title=" " alt="" coords="3362,95,3551,136"/>
+<area shape="rect" id="node17" href="$LoopRerollPass_8cpp.html" title=" " alt="" coords="3576,95,3735,136"/>
+<area shape="rect" id="node18" href="$LoopStrengthReduce_8cpp.html" title=" " alt="" coords="3759,95,3946,136"/>
+<area shape="rect" id="node19" href="$LoopUnrollPass_8cpp.html" title=" " alt="" coords="3971,95,4129,136"/>
+<area shape="rect" id="node20" href="$LoopVersioningLICM_8cpp.html" title=" " alt="" coords="4154,95,4338,136"/>
+<area shape="rect" id="node21" href="$Reg2Mem_8cpp.html" title=" " alt="" coords="4363,95,4521,136"/>
+<area shape="rect" id="node22" href="$StructurizeCFG_8cpp.html" title=" " alt="" coords="4545,95,4704,136"/>
+<area shape="rect" id="node23" href="$AddDiscriminators_8cpp.html" title=" " alt="" coords="4729,95,4902,136"/>
+<area shape="rect" id="node24" href="$BreakCriticalEdges_8cpp.html" title=" " alt="" coords="4926,95,5102,136"/>
+<area shape="rect" id="node25" href="$CanonicalizeFreezeInLoops_8cpp.html" title=" " alt="" coords="5126,95,5355,136"/>
+<area shape="rect" id="node26" href="$EntryExitInstrumenter_8cpp.html" title=" " alt="" coords="5379,95,5574,136"/>
+<area shape="rect" id="node27" href="$FixIrreducible_8cpp.html" title=" " alt="" coords="5599,95,5747,136"/>
+<area shape="rect" id="node28" href="$InjectTLIMappings_8cpp.html" title=" " alt="" coords="5771,95,5942,136"/>
+<area shape="rect" id="node29" href="$InstructionNamer_8cpp.html" title=" " alt="" coords="5966,95,6131,136"/>
+<area shape="rect" id="node30" href="$LCSSA_8cpp.html" title=" " alt="" coords="6156,95,6304,136"/>
+<area shape="rect" id="node31" href="$LoopSimplify_8cpp.html" title=" " alt="" coords="6328,95,6476,136"/>
+<area shape="rect" id="node32" href="$LowerGlobalDtors_8cpp.html" title=" " alt="" coords="6500,95,6669,136"/>
+<area shape="rect" id="node33" href="$LowerInvoke_8cpp.html" title=" " alt="" coords="6693,95,6841,136"/>
+<area shape="rect" id="node34" href="$LowerSwitch_8cpp.html" title=" " alt="" coords="6865,95,7013,136"/>
+<area shape="rect" id="node35" href="$Mem2Reg_8cpp.html" title=" " alt="" coords="7037,95,7185,136"/>
+<area shape="rect" id="node36" href="$MetaRenamer_8cpp.html" title=" " alt="" coords="7209,95,7357,136"/>
+<area shape="rect" id="node37" href="$StripNonLineTableDebugInfo_8cpp.html" title=" " alt="" coords="7382,95,7619,136"/>
+<area shape="rect" id="node38" href="$UnifyFunctionExitNodes_8cpp.html" title=" " alt="" coords="7643,95,7851,136"/>
+<area shape="rect" id="node39" href="$UnifyLoopExits_8cpp.html" title=" " alt="" coords="7876,95,8027,136"/>
+<area shape="rect" id="node40" href="$Transforms_2Utils_2Utils_8cpp.html" title=" " alt="" coords="8051,95,8199,136"/>
+</map>

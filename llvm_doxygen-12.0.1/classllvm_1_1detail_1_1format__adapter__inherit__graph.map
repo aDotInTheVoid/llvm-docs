@@ -1,0 +1,13 @@
+<map id="llvm::detail::format_adapter" name="llvm::detail::format_adapter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,228,136,269"/>
+<area shape="rect" id="node2" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="604,5,764,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="614,227,754,268"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="201,139,373,166"/>
+<area shape="rect" id="node10" href="$classllvm_1_1detail_1_1provider__format__adapter.html" title=" " alt="" coords="213,287,361,328"/>
+<area shape="rect" id="node11" href="$classllvm_1_1detail_1_1stream__operator__format__adapter.html" title=" " alt="" coords="185,352,388,393"/>
+<area shape="rect" id="node3" href="$classllvm_1_1codeview_1_1detail_1_1GuidAdapter.html" title=" " alt="" coords="849,5,995,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1detail_1_1ErrorAdapter.html" title=" " alt="" coords="839,234,1005,261"/>
+<area shape="rect" id="node7" href="$classllvm_1_1detail_1_1AlignAdapter.html" title=" " alt="" coords="585,174,783,201"/>
+<area shape="rect" id="node8" href="$classllvm_1_1detail_1_1PadAdapter.html" title=" " alt="" coords="587,73,781,99"/>
+<area shape="rect" id="node9" href="$classllvm_1_1detail_1_1RepeatAdapter.html" title=" " alt="" coords="579,123,789,150"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="5,5,204,120"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="252,13,543,113"/>
+<area shape="rect" id="node3" href="$structllvm_1_1BranchInst_1_1const__succ__op__iterator.html" title="The const version of succ_op_iterator." alt="" coords="595,9,765,50"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IndirectBrInst_1_1const__succ__op__iterator.html" title="The const version of succ_op_iterator." alt="" coords="591,74,769,115"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="llvm::RegisterBankInfo" name="llvm::RegisterBankInfo">
+<area shape="rect" id="node1" title="Holds all the information related to register banks." alt="" coords="5,223,176,250"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64GenRegisterBankInfo.html" title=" " alt="" coords="255,5,449,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUGenRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="224,71,480,98"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ARMGenRegisterBankInfo.html" title=" " alt="" coords="239,122,465,149"/>
+<area shape="rect" id="node8" href="$classllvm_1_1M68kGenRegisterBankInfo.html" title=" " alt="" coords="235,173,469,199"/>
+<area shape="rect" id="node10" href="$classllvm_1_1MipsGenRegisterBankInfo.html" title=" " alt="" coords="238,223,466,250"/>
+<area shape="rect" id="node12" href="$classllvm_1_1PPCGenRegisterBankInfo.html" title=" " alt="" coords="241,274,463,301"/>
+<area shape="rect" id="node14" href="$classllvm_1_1RISCVGenRegisterBankInfo.html" title=" " alt="" coords="234,325,470,351"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SPIRVGenRegisterBankInfo.html" title=" " alt="" coords="235,375,469,402"/>
+<area shape="rect" id="node18" href="$classllvm_1_1X86GenRegisterBankInfo.html" title=" " alt="" coords="241,426,463,453"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AArch64RegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="531,13,756,39"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AMDGPURegisterBankInfo.html" title=" " alt="" coords="528,71,759,98"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ARMRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="543,122,744,149"/>
+<area shape="rect" id="node9" href="$classllvm_1_1M68kRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="540,173,747,199"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MipsRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="542,223,745,250"/>
+<area shape="rect" id="node13" href="$classllvm_1_1PPCRegisterBankInfo.html" title=" " alt="" coords="545,274,741,301"/>
+<area shape="rect" id="node15" href="$classllvm_1_1RISCVRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="538,325,749,351"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SPIRVRegisterBankInfo.html" title=" " alt="" coords="539,375,748,402"/>
+<area shape="rect" id="node19" href="$classllvm_1_1X86RegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="545,426,741,453"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::PPC64LinuxTargetObjectFile" name="llvm::PPC64LinuxTargetObjectFile">
+<area shape="rect" id="node1" title="PPC64LinuxTargetObjectFile &#45; This implementation is used for 64&#45;bit PowerPC Linux." alt="" coords="5,244,227,271"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title=" " alt="" coords="27,155,205,196"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFile.html" title=" " alt="" coords="16,80,216,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCObjectFileInfo.html" title=" " alt="" coords="38,5,194,32"/>
+</map>

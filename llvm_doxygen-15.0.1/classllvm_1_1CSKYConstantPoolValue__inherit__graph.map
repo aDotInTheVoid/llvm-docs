@@ -1,0 +1,8 @@
+<map id="llvm::CSKYConstantPoolValue" name="llvm::CSKYConstantPoolValue">
+<area shape="rect" id="node1" title="CSKYConstantPoolValue &#45; CSKY specific constantpool value." alt="" coords="253,81,467,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CSKYConstantPoolConstant.html" title="CSKY&#45;specific constant pool values for Constants, Functions, and BlockAddresses." alt="" coords="515,5,749,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CSKYConstantPoolJT.html" title="CSKY&#45;specific constantpool value of a jump table." alt="" coords="537,56,727,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CSKYConstantPoolMBB.html" title="CSKYConstantPoolMBB &#45; CSKY&#45;specific constantpool value of a machine basic block." alt="" coords="529,107,735,133"/>
+<area shape="rect" id="node6" href="$classllvm_1_1CSKYConstantPoolSymbol.html" title="CSKYConstantPoolSymbol &#45; CSKY&#45;specific constantpool values for external symbols." alt="" coords="519,157,745,184"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineConstantPoolValue.html" title="Abstract base class for all machine specific constantpool value subclasses." alt="" coords="5,74,205,115"/>
+</map>

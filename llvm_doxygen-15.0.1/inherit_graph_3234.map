@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1jitlink_1_1TableManager.html" title=" " alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1aarch64_1_1GOTTableManager.html" title="Global Offset Table Builder." alt="" coords="256,5,412,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1jitlink_1_1x86__64_1_1GOTTableManager.html" title="Global Offset Table Builder." alt="" coords="248,71,420,112"/>
+</map>

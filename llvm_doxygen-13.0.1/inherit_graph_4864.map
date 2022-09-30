@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="5,123,217,149"/>
+<area shape="rect" id="node2" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="269,5,480,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="290,57,459,98"/>
+<area shape="rect" id="node5" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="280,174,469,215"/>
+<area shape="rect" id="node7" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="279,239,470,281"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PassNameParser.html" title=" " alt="" coords="568,93,735,120"/>
+<area shape="rect" id="node6" href="$classllvm_1_1remarks_1_1HotnessThresholdParser.html" title=" " alt="" coords="532,174,771,215"/>
+<area shape="rect" id="node8" href="$classllvm_1_1RegisterPassParser.html" title="RegisterPassParser class &#45; Handle the addition of new machine passes." alt="" coords="560,275,743,317"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MachinePassRegistryListener.html" title=" " alt="" coords="276,305,473,361"/>
+<area shape="rect" id="node10" href="$structllvm_1_1PassRegistrationListener.html" title="PassRegistrationListener class &#45; This class is meant to be derived from by clients that are intereste..." alt="" coords="265,123,484,149"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1jitlink_1_1JITLinkerBase.html" title="Base class for a JIT linker." alt="" coords="5,143,196,170"/>
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="263,5,431,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="255,71,439,112"/>
+<area shape="rect" id="node6" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="247,136,448,177"/>
+<area shape="rect" id="node8" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="244,201,451,243"/>
+<area shape="rect" id="node10" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="268,267,427,308"/>
+<area shape="rect" id="node3" href="$classllvm_1_1jitlink_1_1ELFJITLinker__riscv.html" title=" " alt="" coords="509,5,692,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1jitlink_1_1ELFJITLinker__x86__64.html" title=" " alt="" coords="509,71,692,112"/>
+<area shape="rect" id="node7" href="$classllvm_1_1jitlink_1_1MachOJITLinker__arm64.html" title=" " alt="" coords="499,136,703,177"/>
+<area shape="rect" id="node9" href="$classllvm_1_1jitlink_1_1MachOJITLinker__x86__64.html" title=" " alt="" coords="499,201,703,243"/>
+</map>

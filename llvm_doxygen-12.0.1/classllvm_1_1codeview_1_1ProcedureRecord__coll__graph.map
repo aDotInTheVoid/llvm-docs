@@ -1,0 +1,10 @@
+<map id="llvm::codeview::ProcedureRecord" name="llvm::codeview::ProcedureRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="637,101,812,142"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="304,7,489,33"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,7,123,33"/>
+<area shape="rect" id="node4" title=" " alt="" coords="333,57,460,84"/>
+<area shape="rect" id="node5" title=" " alt="" coords="363,108,431,135"/>
+<area shape="rect" id="node6" title=" " alt="" coords="338,159,455,185"/>
+<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="309,216,485,243"/>
+<area shape="rect" id="node8" href="$classuint32__t.html" title=" " alt="" coords="30,216,98,243"/>
+</map>

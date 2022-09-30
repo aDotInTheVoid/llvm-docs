@@ -1,0 +1,17 @@
+<map id="llvm::remarks::BitstreamRemarkParser" name="llvm::remarks::BitstreamRemarkParser">
+<area shape="rect" id="node1" title="Parses and holds the state of the latest parsed remark." alt="" coords="1336,179,1521,221"/>
+<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1RemarkParser.html" title="Parser used to parse a raw buffer to remarks::Remark objects." alt="" coords="913,31,1125,57"/>
+<area shape="rect" id="node3" title=" " alt="" coords="530,5,598,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="535,56,593,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="904,81,1135,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="982,136,1057,163"/>
+<area shape="rect" id="node7" title=" " alt="" coords="994,187,1045,213"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title=" " alt="" coords="908,238,1131,279"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title=" " alt="" coords="488,245,640,272"/>
+<area shape="rect" id="node10" href="$structllvm_1_1remarks_1_1BitstreamParserHelper.html" title="Helper to parse any bitstream remark container." alt="" coords="927,303,1112,345"/>
+<area shape="rect" id="node11" href="$classllvm_1_1BitstreamBlockInfo.html" title="This class maintains the abbreviations read from a block info block." alt="" coords="472,304,656,331"/>
+<area shape="rect" id="node12" href="$classllvm_1_1BitstreamCursor.html" title="This represents a position within a bitcode file, implemented on top of a SimpleBitstreamCursor." alt="" coords="481,355,647,381"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SimpleBitstreamCursor.html" title="This represents a position within a bitstream." alt="" coords="212,385,423,412"/>
+<area shape="rect" id="node14" title=" " alt="" coords="5,355,63,381"/>
+<area shape="rect" id="node15" title=" " alt="" coords="921,369,1118,410"/>
+</map>

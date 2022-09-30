@@ -1,0 +1,10 @@
+<map id="llvm::DerefState" name="llvm::DerefState">
+<area shape="rect" id="node1" title="State for dereferenceable attribute." alt="" coords="1203,67,1332,93"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="5,43,152,69"/>
+<area shape="rect" id="node5" href="$structllvm_1_1IntegerStateBase.html" title=" " alt="" coords="617,60,788,116"/>
+<area shape="rect" id="node7" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding." alt="" coords="265,93,436,149"/>
+<area shape="rect" id="node3" title=" " alt="" coords="837,132,1024,159"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IncIntegerState.html" title="Specialization of the integer state for an increasing value, hence ~0u is the best state and 0 the wo..." alt="" coords="849,52,1012,108"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title=" " alt="" coords="313,173,388,200"/>
+<area shape="rect" id="node8" title=" " alt="" coords="42,125,115,152"/>
+</map>

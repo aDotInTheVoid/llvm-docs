@@ -1,0 +1,52 @@
+<map id="include/llvm/CodeGen/GlobalISel/ConstantFoldingMIRBuilder.h" name="include/llvm/CodeGen/GlobalISel/ConstantFoldingMIRBuilder.h">
+<area shape="rect" id="node1" title="This file implements a version of MachineIRBuilder which does trivial constant folding." alt="" coords="1526,5,1711,61"/>
+<area shape="rect" id="node2" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class." alt="" coords="2842,109,3011,151"/>
+<area shape="rect" id="node42" href="$llvm_2CodeGen_2GlobalISel_2Utils_8h.html" title=" " alt="" coords="558,645,727,687"/>
+<area shape="rect" id="node3" href="$CSEInfo_8h.html" title=" " alt="" coords="3621,199,3790,240"/>
+<area shape="rect" id="node23" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2245,467,2435,508"/>
+<area shape="rect" id="node31" href="$TargetOpcodes_8h.html" title=" " alt="" coords="3040,653,3248,679"/>
+<area shape="rect" id="node32" href="$DebugLoc_8h.html" title=" " alt="" coords="2725,653,2864,679"/>
+<area shape="rect" id="node40" href="$LowLevelType_8h.html" title=" " alt="" coords="424,474,627,501"/>
+<area shape="rect" id="node41" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="1180,288,1364,329"/>
+<area shape="rect" id="node47" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="2104,742,2243,769"/>
+<area shape="rect" id="node48" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="3106,288,3313,329"/>
+<area shape="rect" id="node50" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="3881,742,4002,769"/>
+<area shape="rect" id="node4" href="$FoldingSet_8h.html" title=" " alt="" coords="1696,653,1848,679"/>
+<area shape="rect" id="node5" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1664,742,1827,769"/>
+<area shape="rect" id="node13" href="$CSEConfigBase_8h.html" title=" " alt="" coords="3706,295,3921,322"/>
+<area shape="rect" id="node14" href="$GISelChangeObserver_8h.html" title=" " alt="" coords="3513,288,3682,329"/>
+<area shape="rect" id="node37" href="$GISelWorkList_8h.html" title=" " alt="" coords="4083,467,4253,508"/>
+<area shape="rect" id="node38" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="3945,288,4153,329"/>
+<area shape="rect" id="node39" href="$CodeGen_8h.html" title=" " alt="" coords="4003,831,4170,858"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1467,913,1533,940"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2553,831,2615,858"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3345,988,3399,1015"/>
+<area shape="rect" id="node6" href="$Alignment_8h.html" title=" " alt="" coords="704,831,872,858"/>
+<area shape="rect" id="node9" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="470,913,661,940"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2873,913,2935,940"/>
+<area shape="rect" id="node8" title=" " alt="" coords="538,988,593,1015"/>
+<area shape="rect" id="node15" href="$MachineFunction_8h.html" title=" " alt="" coords="3323,385,3541,411"/>
+<area shape="rect" id="node16" href="$ArrayRef_8h.html" title=" " alt="" coords="3027,831,3168,858"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4263,913,4321,940"/>
+<area shape="rect" id="node18" href="$BitVector_8h.html" title=" " alt="" coords="3229,742,3373,769"/>
+<area shape="rect" id="node20" href="$DenseMap_8h.html" title=" " alt="" coords="3448,742,3603,769"/>
+<area shape="rect" id="node21" href="$GraphTraits_8h.html" title=" " alt="" coords="3595,563,3754,590"/>
+<area shape="rect" id="node22" href="$ilist_8h.html" title=" " alt="" coords="2438,653,2549,679"/>
+<area shape="rect" id="node25" href="$MachineInstr_8h.html" title=" " alt="" coords="2619,563,2813,590"/>
+<area shape="rect" id="node19" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3536,913,3707,940"/>
+<area shape="rect" id="node24" href="$SparseBitVector_8h.html" title=" " alt="" coords="1200,831,1387,858"/>
+<area shape="rect" id="node33" href="$MachineInstrBundleIterator_8h.html" title=" " alt="" coords="2259,556,2443,597"/>
+<area shape="rect" id="node34" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="1581,563,1744,590"/>
+<area shape="rect" id="node35" href="$BranchProbability_8h.html" title=" " alt="" coords="1870,563,2082,590"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1478,563,1557,590"/>
+<area shape="rect" id="node26" href="$MachineOperand_8h.html" title=" " alt="" coords="856,653,1075,679"/>
+<area shape="rect" id="node27" href="$Register_8h.html" title=" " alt="" coords="656,742,824,769"/>
+<area shape="rect" id="node28" href="$Intrinsics_8h.html" title=" " alt="" coords="1001,742,1133,769"/>
+<area shape="rect" id="node29" href="$LowLevelTypeImpl_8h.html" title=" " alt="" coords="347,735,530,776"/>
+<area shape="rect" id="node30" href="$MachineValueType_8h.html" title=" " alt="" coords="347,824,528,865"/>
+<area shape="rect" id="node44" href="$MachineInstrBundle_8h.html" title=" " alt="" coords="2248,377,2432,419"/>
+<area shape="rect" id="node45" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="1489,377,1682,419"/>
+<area shape="rect" id="node46" href="$InstrTypes_8h.html" title=" " alt="" coords="2070,653,2210,679"/>
+<area shape="rect" id="node43" href="$StringRef_8h.html" title=" " alt="" coords="2155,831,2299,858"/>
+<area shape="rect" id="node49" href="$IndexedMap_8h.html" title=" " alt="" coords="1310,474,1471,501"/>
+</map>

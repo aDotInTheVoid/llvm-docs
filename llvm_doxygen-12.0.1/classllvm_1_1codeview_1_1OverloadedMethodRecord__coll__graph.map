@@ -1,0 +1,10 @@
+<map id="llvm::codeview::OverloadedMethodRecord" name="llvm::codeview::OverloadedMethodRecord">
+<area shape="rect" id="node1" title="For method overload sets. LF_METHOD." alt="" coords="218,228,399,269"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="5,139,191,165"/>
+<area shape="rect" id="node3" title=" " alt="" coords="39,5,157,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="215,139,283,165"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="312,139,420,165"/>
+<area shape="rect" id="node6" href="$classsize__t.html" title=" " alt="" coords="338,5,394,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="445,139,621,165"/>
+<area shape="rect" id="node8" href="$classuint32__t.html" title=" " alt="" coords="499,5,567,32"/>
+</map>

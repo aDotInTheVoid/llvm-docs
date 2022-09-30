@@ -1,0 +1,10 @@
+<map id="llvm::RelocationEntry" name="llvm::RelocationEntry">
+<area shape="rect" id="node1" title="RelocationEntry &#45; used to represent relocations internally in the dynamic linker." alt="" coords="531,187,693,213"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="233,21,308,48"/>
+<area shape="rect" id="node3" title=" " alt="" coords="237,72,304,99"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title=" " alt="" coords="5,159,80,185"/>
+<area shape="rect" id="node6" href="$structllvm_1_1RelocationEntry_1_1SectionPair.html" title=" " alt="" coords="189,186,352,227"/>
+<area shape="rect" id="node5" title=" " alt="" coords="245,252,296,279"/>
+<area shape="rect" id="node7" title=" " alt="" coords="230,307,311,333"/>
+<area shape="rect" id="node8" title=" " alt="" coords="201,357,340,384"/>
+</map>

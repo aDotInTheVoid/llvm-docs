@@ -1,0 +1,6 @@
+<map id="llvm::ErrorReported" name="llvm::ErrorReported">
+<area shape="rect" id="node1" title="An error that has already been reported." alt="" coords="48,261,197,288"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,240,212"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="44,5,191,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="139,81,314,123"/>
+</map>

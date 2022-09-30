@@ -1,0 +1,8 @@
+<map id="llvm::lto::ThinBackendProc" name="llvm::lto::ThinBackendProc">
+<area shape="rect" id="node1" title="This class defines the interface to the ThinLTO backend." alt="" coords="270,213,465,240"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ModuleSummaryIndex.html" title="Class to hold module path string table and global value map, and encapsulate methods for operating on..." alt="" coords="188,102,395,129"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="254,5,329,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="419,102,470,129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="601,102,659,129"/>
+</map>

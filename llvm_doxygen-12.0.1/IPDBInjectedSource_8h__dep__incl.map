@@ -1,0 +1,12 @@
+<map id="include/llvm/DebugInfo/PDB/IPDBInjectedSource.h" name="include/llvm/DebugInfo/PDB/IPDBInjectedSource.h">
+<area shape="rect" id="node1" title=" " alt="" coords="513,5,700,47"/>
+<area shape="rect" id="node2" href="$DIAEnumInjectedSources_8h.html" title=" " alt="" coords="115,102,362,143"/>
+<area shape="rect" id="node5" href="$DIAInjectedSource_8h.html" title=" " alt="" coords="387,102,592,143"/>
+<area shape="rect" id="node7" href="$NativeEnumInjectedSources_8h.html" title=" " alt="" coords="617,95,831,151"/>
+<area shape="rect" id="node10" href="$PDBInterfaceAnchors_8cpp.html" title=" " alt="" coords="856,102,1069,143"/>
+<area shape="rect" id="node3" href="$DIAEnumInjectedSources_8cpp.html" title=" " alt="" coords="187,199,389,240"/>
+<area shape="rect" id="node4" href="$DIASession_8cpp.html" title=" " alt="" coords="5,199,163,240"/>
+<area shape="rect" id="node6" href="$DIAInjectedSource_8cpp.html" title=" " alt="" coords="414,199,575,240"/>
+<area shape="rect" id="node8" href="$NativeEnumInjectedSources_8cpp.html" title=" " alt="" coords="611,199,827,240"/>
+<area shape="rect" id="node9" href="$NativeSession_8cpp.html" title=" " alt="" coords="851,199,1021,240"/>
+</map>

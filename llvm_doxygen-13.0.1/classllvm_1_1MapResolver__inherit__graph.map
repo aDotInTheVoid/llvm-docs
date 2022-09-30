@@ -1,0 +1,4 @@
+<map id="llvm::MapResolver" name="llvm::MapResolver">
+<area shape="rect" id="node1" title="Resolve arbitrary mappings." alt="" coords="5,80,149,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Resolver.html" title="Interface for looking up the initializer for a variable name, used by Init::resolveReferences." alt="" coords="19,5,135,32"/>
+</map>

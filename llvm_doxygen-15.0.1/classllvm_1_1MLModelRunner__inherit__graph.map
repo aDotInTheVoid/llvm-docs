@@ -1,0 +1,5 @@
+<map id="llvm::MLModelRunner" name="llvm::MLModelRunner">
+<area shape="rect" id="node1" title="MLModelRunner interface: abstraction of a mechanism for evaluating a tensorflow &quot;saved model&quot;." alt="" coords="162,5,326,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1NoInferenceModelRunner.html" title="A pseudo model runner." alt="" coords="5,87,229,114"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ReleaseModeModelRunner.html" title="ReleaseModeModelRunner &#45; production mode implementation of the MLModelRunner." alt="" coords="254,80,487,121"/>
+</map>

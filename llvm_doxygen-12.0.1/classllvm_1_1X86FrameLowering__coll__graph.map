@@ -1,0 +1,12 @@
+<map id="llvm::X86FrameLowering" name="llvm::X86FrameLowering">
+<area shape="rect" id="node1" title=" " alt="" coords="544,139,709,165"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetFrameLowering.html" title="Information about stack frame layout on the target." alt="" coords="201,5,380,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1X86InstrInfo.html" title=" " alt="" coords="228,56,353,83"/>
+<area shape="rect" id="node4" href="$classX86GenInstrInfo.html" title=" " alt="" coords="20,56,137,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1X86Subtarget.html" title=" " alt="" coords="224,107,357,133"/>
+<area shape="rect" id="node6" href="$classX86GenSubtargetInfo.html" title=" " alt="" coords="5,107,152,133"/>
+<area shape="rect" id="node7" href="$classbool.html" title=" " alt="" coords="267,176,314,203"/>
+<area shape="rect" id="node8" href="$classllvm_1_1X86RegisterInfo.html" title=" " alt="" coords="217,227,364,253"/>
+<area shape="rect" id="node9" href="$classX86GenRegisterInfo.html" title=" " alt="" coords="9,227,148,253"/>
+<area shape="rect" id="node10" href="$classunsigned.html" title=" " alt="" coords="253,281,328,308"/>
+</map>

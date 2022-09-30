@@ -1,0 +1,7 @@
+<map id="llvm::omp::AssumptionClauseMappingInfo" name="llvm::omp::AssumptionClauseMappingInfo">
+<area shape="rect" id="node1" title="Helper to describe assume clauses." alt="" coords="5,289,223,331"/>
+<area shape="rect" id="node2" title=" " alt="" coords="18,171,69,197"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringLiteral.html" title="A wrapper around a string literal that serves as a proxy for constructing global tables of StringRefs..." alt="" coords="117,171,255,197"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="127,95,245,121"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title=" " alt="" coords="156,5,216,32"/>
+</map>

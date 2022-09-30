@@ -1,0 +1,52 @@
+<map id="lib/Transforms/IPO/ForceFunctionAttrs.cpp" name="lib/Transforms/IPO/ForceFunctionAttrs.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3115,5,3290,47"/>
+<area shape="rect" id="node2" href="$ForceFunctionAttrs_8h.html" title=" " alt="" coords="574,95,733,136"/>
+<area shape="rect" id="node16" href="$Function_8h.html" title=" " alt="" coords="3412,333,3551,360"/>
+<area shape="rect" id="node35" href="$Module_8h.html" title=" " alt="" coords="2938,259,3070,285"/>
+<area shape="rect" id="node44" href="$InitializePasses_8h.html" title=" " alt="" coords="5237,102,5403,129"/>
+<area shape="rect" id="node45" href="$Pass_8h.html" title=" " alt="" coords="739,483,835,509"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title=" " alt="" coords="1214,483,1429,509"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title=" " alt="" coords="2822,557,3029,584"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title=" " alt="" coords="5428,102,5591,129"/>
+<area shape="rect" id="node3" href="$PassManager_8h.html" title=" " alt="" coords="225,184,394,211"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title=" " alt="" coords="1615,707,1777,733"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1932,856,2001,883"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1769,781,1839,808"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1928,781,2005,808"/>
+<area shape="rect" id="node13" href="$SmallPtrSet_8h.html" title=" " alt="" coords="1415,707,1590,733"/>
+<area shape="rect" id="node14" href="$StringRef_8h.html" title=" " alt="" coords="2203,632,2360,659"/>
+<area shape="rect" id="node24" title=" " alt="" coords="677,707,739,733"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title=" " alt="" coords="1213,781,1366,808"/>
+<area shape="rect" id="node8" href="$iterator__range_8h.html" title=" " alt="" coords="3987,781,4178,808"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3021,781,3091,808"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3531,781,3597,808"/>
+<area shape="rect" id="node6" href="$None_8h.html" title=" " alt="" coords="1014,856,1146,883"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2808,707,2867,733"/>
+<area shape="rect" id="node17" href="$DenseSet_8h.html" title=" " alt="" coords="3245,707,3405,733"/>
+<area shape="rect" id="node18" href="$Twine_8h.html" title=" " alt="" coords="3410,557,3545,584"/>
+<area shape="rect" id="node19" href="$ilist__node_8h.html" title=" " alt="" coords="3053,557,3214,584"/>
+<area shape="rect" id="node20" href="$Argument_8h.html" title=" " alt="" coords="3295,483,3443,509"/>
+<area shape="rect" id="node21" href="$Attributes_8h.html" title=" " alt="" coords="3238,557,3386,584"/>
+<area shape="rect" id="node26" href="$Value_8h.html" title=" " alt="" coords="2525,557,2645,584"/>
+<area shape="rect" id="node28" href="$BasicBlock_8h.html" title=" " alt="" coords="3772,483,3927,509"/>
+<area shape="rect" id="node29" href="$SymbolTableListTraits_8h.html" title=" " alt="" coords="3974,557,4199,584"/>
+<area shape="rect" id="node30" href="$CallingConv_8h.html" title=" " alt="" coords="4313,408,4474,435"/>
+<area shape="rect" id="node31" href="$DerivedTypes_8h.html" title=" " alt="" coords="1771,557,1943,584"/>
+<area shape="rect" id="node32" href="$GlobalObject_8h.html" title=" " alt="" coords="2545,408,2713,435"/>
+<area shape="rect" id="node33" href="$GlobalValue_8h.html" title=" " alt="" coords="2247,483,2409,509"/>
+<area shape="rect" id="node34" href="$OperandTraits_8h.html" title=" " alt="" coords="2295,408,2470,435"/>
+<area shape="rect" id="node22" href="$Types_8h.html" title=" " alt="" coords="4781,707,4897,733"/>
+<area shape="rect" id="node23" href="$ArrayRef_8h.html" title=" " alt="" coords="1619,632,1773,659"/>
+<area shape="rect" id="node25" href="$CodeGen_8h.html" title=" " alt="" coords="3987,632,4167,659"/>
+<area shape="rect" id="node27" href="$CBindingWrapping_8h.html" title=" " alt="" coords="4775,632,5017,659"/>
+<area shape="rect" id="node36" href="$StringMap_8h.html" title=" " alt="" coords="923,557,1087,584"/>
+<area shape="rect" id="node37" href="$IR_2Comdat_8h.html" title=" " alt="" coords="4983,557,5118,584"/>
+<area shape="rect" id="node38" href="$DataLayout_8h.html" title=" " alt="" coords="1742,483,1901,509"/>
+<area shape="rect" id="node39" href="$GlobalAlias_8h.html" title=" " alt="" coords="2123,333,2282,360"/>
+<area shape="rect" id="node40" href="$GlobalIFunc_8h.html" title=" " alt="" coords="2307,333,2467,360"/>
+<area shape="rect" id="node41" href="$GlobalVariable_8h.html" title=" " alt="" coords="2813,333,2992,360"/>
+<area shape="rect" id="node42" href="$Metadata_8h.html" title=" " alt="" coords="4540,483,4687,509"/>
+<area shape="rect" id="node43" href="$ProfileSummary_8h.html" title=" " alt="" coords="749,632,936,659"/>
+<area shape="rect" id="node46" href="$PassAnalysisSupport_8h.html" title=" " alt="" coords="473,632,674,659"/>
+<area shape="rect" id="node47" href="$PassSupport_8h.html" title=" " alt="" coords="752,557,899,584"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="llvm::IRAttribute&lt; AK, BaseType &gt;" name="llvm::IRAttribute&lt; AK, BaseType &gt;">
+<area shape="rect" id="node1" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="135,711,260,753"/>
+<area shape="rect" id="node3" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,34,762,105"/>
+<area shape="rect" id="node5" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="537,129,788,199"/>
+<area shape="rect" id="node7" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,223,762,294"/>
+<area shape="rect" id="node9" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,318,762,389"/>
+<area shape="rect" id="node11" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,413,762,483"/>
+<area shape="rect" id="node13" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="551,507,775,578"/>
+<area shape="rect" id="node15" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,602,762,673"/>
+<area shape="rect" id="node17" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="548,697,777,767"/>
+<area shape="rect" id="node19" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="571,791,755,862"/>
+<area shape="rect" id="node21" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,886,762,957"/>
+<area shape="rect" id="node23" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,981,762,1051"/>
+<area shape="rect" id="node25" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="537,1075,788,1146"/>
+<area shape="rect" id="node27" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,1170,762,1241"/>
+<area shape="rect" id="node29" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="563,1265,762,1335"/>
+<area shape="rect" id="node31" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="593,1360,732,1416"/>
+<area shape="rect" id="node2" href="$classBaseType.html" title=" " alt="" coords="5,719,85,745"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AANonNull.html" title="An abstract interface for all nonnull attributes." alt="" coords="863,56,982,83"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AAMemoryLocation.html" title="An abstract interface for all memory location attributes (readnone/argmemonly/inaccessiblememonly/ina..." alt="" coords="838,151,1007,177"/>
+<area shape="rect" id="node8" href="$structllvm_1_1AANoSync.html" title=" " alt="" coords="863,245,982,272"/>
+<area shape="rect" id="node10" href="$structllvm_1_1AANoRecurse.html" title="An abstract attribute for norecurse." alt="" coords="853,340,992,367"/>
+<area shape="rect" id="node12" href="$structllvm_1_1AANoFree.html" title="An AbstractAttribute for nofree." alt="" coords="865,435,980,461"/>
+<area shape="rect" id="node14" href="$structllvm_1_1AAAlign.html" title="An abstract interface for all align attributes." alt="" coords="872,529,973,556"/>
+<area shape="rect" id="node16" href="$structllvm_1_1AANoReturn.html" title="An AbstractAttribute for noreturn." alt="" coords="859,624,986,651"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AAMemoryBehavior.html" title="An abstract interface for memory access kind related attributes (readnone/readonly/writeonly)." alt="" coords="837,719,1008,745"/>
+<area shape="rect" id="node20" href="$structllvm_1_1AADereferenceable.html" title="An abstract interface for all dereferenceable attribute." alt="" coords="839,813,1006,840"/>
+<area shape="rect" id="node22" href="$structllvm_1_1AANoUndef.html" title="An abstract interface for all noundef attributes." alt="" coords="861,908,985,935"/>
+<area shape="rect" id="node24" href="$structllvm_1_1AAWillReturn.html" title="An abstract attribute for willreturn." alt="" coords="857,1003,988,1029"/>
+<area shape="rect" id="node26" href="$structllvm_1_1AANoCapture.html" title="An abstract interface for all nocapture attributes." alt="" coords="855,1097,990,1124"/>
+<area shape="rect" id="node28" href="$structllvm_1_1AANoAlias.html" title="An abstract interface for all noalias attributes." alt="" coords="863,1192,982,1219"/>
+<area shape="rect" id="node30" href="$structllvm_1_1AANoUnwind.html" title=" " alt="" coords="856,1287,989,1313"/>
+<area shape="rect" id="node32" href="$structllvm_1_1AAReturnedValues.html" title="An abstract attribute for the returned values of a function." alt="" coords="841,1375,1004,1401"/>
+</map>

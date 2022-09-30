@@ -1,0 +1,5 @@
+<map id="llvm::orc::ObjectLinkingLayer::Plugin" name="llvm::orc::ObjectLinkingLayer::Plugin">
+<area shape="rect" id="node1" title="Plugin instances can be added to the ObjectLinkingLayer to receive callbacks when code is loaded or e..." alt="" coords="157,5,333,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1DebugObjectManagerPlugin.html" title="Creates and manages DebugObjects for JITLink artifacts." alt="" coords="5,95,233,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1EHFrameRegistrationPlugin.html" title=" " alt="" coords="257,95,483,136"/>
+</map>

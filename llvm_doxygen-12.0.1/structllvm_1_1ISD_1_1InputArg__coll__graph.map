@@ -1,0 +1,9 @@
+<map id="llvm::ISD::InputArg" name="llvm::ISD::InputArg">
+<area shape="rect" id="node1" title="InputArg &#45; This struct carries flags and type information about a single incoming (formal) argument o..." alt="" coords="155,213,290,240"/>
+<area shape="rect" id="node2" href="$structllvm_1_1EVT.html" title="Extended Value Type." alt="" coords="5,95,85,121"/>
+<area shape="rect" id="node3" href="$classbool.html" title=" " alt="" coords="110,95,157,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MVT.html" title="Machine Value Type." alt="" coords="181,95,264,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="161,5,284,32"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title=" " alt="" coords="288,95,363,121"/>
+<area shape="rect" id="node7" href="$structllvm_1_1ISD_1_1ArgFlagsTy.html" title=" " alt="" coords="387,95,538,121"/>
+</map>

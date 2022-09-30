@@ -1,0 +1,52 @@
+<map id="lib/Target/Hexagon/HexagonLoopIdiomRecognition.h" name="lib/Target/Hexagon/HexagonLoopIdiomRecognition.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2708,5,2949,47"/>
+<area shape="rect" id="node2" href="$PassManager_8h.html" title=" " alt="" coords="2799,363,2968,389"/>
+<area shape="rect" id="node43" href="$LoopPassManager_8h.html" title=" " alt="" coords="2986,95,3157,136"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title=" " alt="" coords="1644,587,1811,613"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2966,736,3035,763"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4399,736,4453,763"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2261,736,2321,763"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2651,811,2743,837"/>
+<area shape="rect" id="node15" title=" " alt="" coords="719,736,786,763"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3977,661,4048,688"/>
+<area shape="rect" id="node23" href="$STLExtras_8h.html" title=" " alt="" coords="3031,512,3194,539"/>
+<area shape="rect" id="node31" title=" " alt="" coords="3870,587,3947,613"/>
+<area shape="rect" id="node32" href="$SmallPtrSet_8h.html" title=" " alt="" coords="809,587,984,613"/>
+<area shape="rect" id="node33" href="$StringRef_8h.html" title=" " alt="" coords="2339,587,2497,613"/>
+<area shape="rect" id="node34" href="$TinyPtrVector_8h.html" title=" " alt="" coords="4174,587,4358,613"/>
+<area shape="rect" id="node35" href="$Function_8h.html" title=" " alt="" coords="3235,512,3374,539"/>
+<area shape="rect" id="node36" href="$Module_8h.html" title=" " alt="" coords="3135,437,3267,464"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3884,512,3947,539"/>
+<area shape="rect" id="node38" href="$PassInstrumentation_8h.html" title=" " alt="" coords="4377,437,4595,464"/>
+<area shape="rect" id="node39" href="$PassManagerInternal_8h.html" title=" " alt="" coords="2788,437,3008,464"/>
+<area shape="rect" id="node40" href="$TimeProfiler_8h.html" title=" " alt="" coords="2128,512,2327,539"/>
+<area shape="rect" id="node41" href="$TypeName_8h.html" title=" " alt="" coords="2452,512,2643,539"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2543,437,2586,464"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title=" " alt="" coords="3305,661,3497,688"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3853,736,3924,763"/>
+<area shape="rect" id="node9" href="$EpochTracker_8h.html" title=" " alt="" coords="177,661,360,688"/>
+<area shape="rect" id="node11" href="$AlignOf_8h.html" title=" " alt="" coords="1606,736,1774,763"/>
+<area shape="rect" id="node13" href="$Compiler_8h.html" title=" " alt="" coords="1190,736,1369,763"/>
+<area shape="rect" id="node14" href="$MathExtras_8h.html" title=" " alt="" coords="891,661,1086,688"/>
+<area shape="rect" id="node16" href="$MemAlloc_8h.html" title=" " alt="" coords="1110,661,1297,688"/>
+<area shape="rect" id="node17" href="$ReverseIteration_8h.html" title=" " alt="" coords="435,661,665,688"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title=" " alt="" coords="1473,661,1664,688"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2043,661,2129,688"/>
+<area shape="rect" id="node20" title=" " alt="" coords="43,661,153,688"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2204,661,2253,688"/>
+<area shape="rect" id="node10" title=" " alt="" coords="171,736,366,763"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title=" " alt="" coords="2521,587,2675,613"/>
+<area shape="rect" id="node25" href="$STLForwardCompat_8h.html" title=" " alt="" coords="3293,736,3517,763"/>
+<area shape="rect" id="node26" href="$STLArrayExtras_8h.html" title=" " alt="" coords="3547,587,3745,613"/>
+<area shape="rect" id="node27" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="2430,661,2659,688"/>
+<area shape="rect" id="node28" href="$identity_8h.html" title=" " alt="" coords="2953,587,3099,613"/>
+<area shape="rect" id="node29" href="$iterator_8h.html" title=" " alt="" coords="3276,587,3421,613"/>
+<area shape="rect" id="node30" href="$iterator__range_8h.html" title=" " alt="" coords="3039,661,3229,688"/>
+<area shape="rect" id="node44" href="$PriorityWorklist_8h.html" title=" " alt="" coords="3816,437,4015,464"/>
+<area shape="rect" id="node45" href="$LoopAnalysisManager_8h.html" title=" " alt="" coords="2775,273,2975,315"/>
+<area shape="rect" id="node46" href="$LoopInfo_8h.html" title=" " alt="" coords="2000,281,2183,307"/>
+<area shape="rect" id="node47" href="$LoopNestAnalysis_8h.html" title=" " alt="" coords="2682,191,2925,218"/>
+<area shape="rect" id="node48" href="$LCSSA_8h.html" title=" " alt="" coords="3163,273,3324,315"/>
+<area shape="rect" id="node49" href="$LoopSimplify_8h.html" title=" " alt="" coords="3288,184,3449,225"/>
+<area shape="rect" id="node50" href="$LoopUtils_8h.html" title=" " alt="" coords="3051,184,3212,225"/>
+</map>

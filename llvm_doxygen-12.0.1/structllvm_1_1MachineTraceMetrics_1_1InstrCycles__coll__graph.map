@@ -1,0 +1,4 @@
+<map id="llvm::MachineTraceMetrics::InstrCycles" name="llvm::MachineTraceMetrics::InstrCycles">
+<area shape="rect" id="node1" title="InstrCycles represents the cycle height and depth of an instruction in a trace." alt="" coords="5,109,184,151"/>
+<area shape="rect" id="node2" href="$classunsigned.html" title=" " alt="" coords="57,5,132,32"/>
+</map>

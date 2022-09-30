@@ -1,0 +1,5 @@
+<map id="llvm::SuffixTree" name="llvm::SuffixTree">
+<area shape="rect" id="node1" title="A data structure for fast substring queries." alt="" coords="40,184,152,211"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="5,95,187,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="27,5,165,32"/>
+</map>

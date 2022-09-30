@@ -1,0 +1,10 @@
+<map id="llvm::ClassInfo" name="llvm::ClassInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="816,143,935,170"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MapVector.html" title=" " alt="" coords="477,5,680,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MapVector.html" title="This class implements a map that also provides access to all stored values in a deterministic order." alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="503,71,654,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="505,136,652,177"/>
+<area shape="rect" id="node6" title=" " alt="" coords="493,202,665,229"/>
+<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="481,253,676,279"/>
+<area shape="rect" id="node8" title=" " alt="" coords="92,253,149,279"/>
+</map>

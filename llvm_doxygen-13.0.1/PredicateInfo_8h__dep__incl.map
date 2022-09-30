@@ -1,0 +1,13 @@
+<map id="include/llvm/Transforms/Utils/PredicateInfo.h" name="include/llvm/Transforms/Utils/PredicateInfo.h">
+<area shape="rect" id="node1" title="This file implements the PredicateInfo analysis, which creates an Extended SSA form for operations us..." alt="" coords="357,5,535,47"/>
+<area shape="rect" id="node2" href="$Scalar_2SCCP_8h.html" title=" " alt="" coords="306,184,485,225"/>
+<area shape="rect" id="node7" href="$Scalar_2SCCP_8cpp.html" title=" " alt="" coords="5,273,164,315"/>
+<area shape="rect" id="node8" href="$SCCPSolver_8h.html" title=" " alt="" coords="357,95,535,136"/>
+<area shape="rect" id="node10" href="$NewGVN_8cpp.html" title="This file implements the new LLVM&#39;s Global Value Numbering pass." alt="" coords="560,95,719,136"/>
+<area shape="rect" id="node11" href="$PredicateInfo_8cpp.html" title=" " alt="" coords="743,95,891,136"/>
+<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="784,281,975,307"/>
+<area shape="rect" id="node4" href="$FunctionSpecialization_8cpp.html" title=" " alt="" coords="188,273,387,315"/>
+<area shape="rect" id="node5" href="$PassManagerBuilder_8cpp.html" title=" " alt="" coords="411,273,595,315"/>
+<area shape="rect" id="node6" href="$IPO_2SCCP_8cpp.html" title=" " alt="" coords="620,273,760,315"/>
+<area shape="rect" id="node9" href="$SCCPSolver_8cpp.html" title=" " alt="" coords="509,184,657,225"/>
+</map>

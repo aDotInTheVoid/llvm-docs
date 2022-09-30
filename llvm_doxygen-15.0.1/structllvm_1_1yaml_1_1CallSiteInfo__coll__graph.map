@@ -1,0 +1,6 @@
+<map id="llvm::yaml::CallSiteInfo" name="llvm::yaml::CallSiteInfo">
+<area shape="rect" id="node1" title="Serializable representation of CallSiteInfo." alt="" coords="580,45,755,71"/>
+<area shape="rect" id="node2" title=" " alt="" coords="203,5,401,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1yaml_1_1CallSiteInfo_1_1MachineInstrLoc.html" title="Identifies call instruction location in machine function." alt="" coords="215,71,389,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,78,87,105"/>
+</map>

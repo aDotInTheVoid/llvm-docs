@@ -1,0 +1,7 @@
+<map id="llvm::orc::shared::ResponseAbandoned" name="llvm::orc::shared::ResponseAbandoned">
+<area shape="rect" id="node1" title="This non&#45;fatal error will be passed to asynchronous result handlers in place of a result if the conne..." alt="" coords="96,289,255,331"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,199,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="23,5,170,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="119,81,293,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="223,193,274,219"/>
+</map>

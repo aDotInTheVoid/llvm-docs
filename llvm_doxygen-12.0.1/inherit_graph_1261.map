@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1FileCollectorBase.html" title=" " alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1FileCollector.html" title="Captures file system interaction and generates data to be later replayed with the RedirectingFileSyst..." alt="" coords="211,5,337,32"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="llvm::rdf::NodeBase" name="llvm::rdf::NodeBase">
+<area shape="rect" id="node1" title=" " alt="" coords="700,267,839,293"/>
+<area shape="rect" id="node2" title=" " alt="" coords="493,21,561,48"/>
+<area shape="rect" id="node3" href="$structllvm_1_1rdf_1_1NodeBase_1_1Ref__struct.html" title=" " alt="" coords="457,259,596,301"/>
+<area shape="rect" id="node4" href="$structllvm_1_1rdf_1_1NodeBase_1_1Def__struct.html" title=" " alt="" coords="206,201,345,242"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title=" " alt="" coords="9,247,77,273"/>
+<area shape="rect" id="node7" href="$structllvm_1_1rdf_1_1NodeBase_1_1PhiU__struct.html" title=" " alt="" coords="206,369,345,410"/>
+<area shape="rect" id="node10" href="$structllvm_1_1rdf_1_1PackedRegisterRef.html" title=" " alt="" coords="181,317,369,344"/>
+<area shape="rect" id="node12" href="$structllvm_1_1rdf_1_1NodeBase_1_1Code__struct.html" title=" " alt="" coords="206,486,345,527"/>
+<area shape="rect" id="node6" title=" " alt="" coords="211,435,339,461"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MachineOperand.html" title="MachineOperand class &#45; Representation of each machine instruction operand." alt="" coords="199,21,351,48"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title=" " alt="" coords="5,21,80,48"/>
+<area shape="rect" id="node11" title=" " alt="" coords="211,267,339,293"/>
+<area shape="rect" id="node13" title=" " alt="" coords="15,493,70,520"/>
+<area shape="rect" id="node14" title=" " alt="" coords="463,535,591,561"/>
+</map>

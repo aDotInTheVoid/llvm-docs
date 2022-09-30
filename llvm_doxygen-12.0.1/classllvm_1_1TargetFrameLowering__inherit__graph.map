@@ -1,0 +1,27 @@
+<map id="llvm::TargetFrameLowering" name="llvm::TargetFrameLowering">
+<area shape="rect" id="node1" title="Information about stack frame layout on the target." alt="" coords="5,461,184,488"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64FrameLowering.html" title=" " alt="" coords="249,5,441,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AMDGPUFrameLowering.html" title="Information about the stack frame layout on the AMDGPU targets." alt="" coords="245,56,445,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ARCFrameLowering.html" title=" " alt="" coords="260,107,431,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ARMFrameLowering.html" title=" " alt="" coords="259,157,431,184"/>
+<area shape="rect" id="node9" href="$classllvm_1_1AVRFrameLowering.html" title="Utilities for creating function call frames." alt="" coords="261,208,429,235"/>
+<area shape="rect" id="node10" href="$classllvm_1_1BPFFrameLowering.html" title=" " alt="" coords="262,259,429,285"/>
+<area shape="rect" id="node11" href="$classllvm_1_1HexagonFrameLowering.html" title=" " alt="" coords="249,309,442,336"/>
+<area shape="rect" id="node12" href="$classllvm_1_1LanaiFrameLowering.html" title=" " alt="" coords="259,360,432,387"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MSP430FrameLowering.html" title=" " alt="" coords="249,411,441,437"/>
+<area shape="rect" id="node14" href="$classllvm_1_1MipsFrameLowering.html" title=" " alt="" coords="260,461,431,488"/>
+<area shape="rect" id="node17" href="$classllvm_1_1NVPTXFrameLowering.html" title=" " alt="" coords="252,512,439,539"/>
+<area shape="rect" id="node18" href="$classllvm_1_1PPCFrameLowering.html" title=" " alt="" coords="261,563,430,589"/>
+<area shape="rect" id="node19" href="$classllvm_1_1RISCVFrameLowering.html" title=" " alt="" coords="254,613,437,640"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SparcFrameLowering.html" title=" " alt="" coords="257,664,433,691"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SystemZFrameLowering.html" title=" " alt="" coords="248,715,443,741"/>
+<area shape="rect" id="node22" href="$classllvm_1_1VEFrameLowering.html" title=" " alt="" coords="266,765,425,792"/>
+<area shape="rect" id="node23" href="$classllvm_1_1WebAssemblyFrameLowering.html" title=" " alt="" coords="232,816,459,843"/>
+<area shape="rect" id="node24" href="$classllvm_1_1X86FrameLowering.html" title=" " alt="" coords="263,867,428,893"/>
+<area shape="rect" id="node25" href="$classllvm_1_1XCoreFrameLowering.html" title=" " alt="" coords="256,917,435,944"/>
+<area shape="rect" id="node4" href="$classllvm_1_1R600FrameLowering.html" title=" " alt="" coords="515,31,688,57"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SIFrameLowering.html" title=" " alt="" coords="524,81,679,108"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Thumb1FrameLowering.html" title=" " alt="" coords="507,157,696,184"/>
+<area shape="rect" id="node15" href="$classllvm_1_1Mips16FrameLowering.html" title=" " alt="" coords="509,436,693,463"/>
+<area shape="rect" id="node16" href="$classllvm_1_1MipsSEFrameLowering.html" title=" " alt="" coords="508,487,695,513"/>
+</map>

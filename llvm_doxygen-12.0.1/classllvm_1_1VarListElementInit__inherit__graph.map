@@ -1,0 +1,5 @@
+<map id="llvm::VarListElementInit" name="llvm::VarListElementInit">
+<area shape="rect" id="node1" title="List[4] &#45; Represent access to one element of a var or field." alt="" coords="5,155,165,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="This is the common superclass of types that have a specific, explicit type, stored in ValueTy." alt="" coords="32,80,139,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Init.html" title=" " alt="" coords="49,5,121,32"/>
+</map>

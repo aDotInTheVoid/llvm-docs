@@ -1,0 +1,52 @@
+<map id="include/llvm/Analysis/LoopAccessAnalysis.h" name="include/llvm/Analysis/LoopAccessAnalysis.h">
+<area shape="rect" id="node1" title=" " alt="" coords="6364,5,6523,47"/>
+<area shape="rect" id="node2" href="$VectorUtils_8h.html" title=" " alt="" coords="2779,102,2923,143"/>
+<area shape="rect" id="node9" href="$LoopAccessAnalysis_8cpp.html" title=" " alt="" coords="5,206,244,233"/>
+<area shape="rect" id="node30" href="$LoopVectorize_8cpp.html" title=" " alt="" coords="2771,467,2932,508"/>
+<area shape="rect" id="node31" href="$SLPVectorizer_8cpp.html" title=" " alt="" coords="5471,199,5632,240"/>
+<area shape="rect" id="node41" href="$LoopVectorizationLegality_8h.html" title="This file defines the LoopVectorizationLegality class." alt="" coords="5770,95,5957,151"/>
+<area shape="rect" id="node42" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="6032,109,6215,136"/>
+<area shape="rect" id="node43" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations." alt="" coords="6239,102,6426,143"/>
+<area shape="rect" id="node44" href="$LoopAccessAnalysisPrinter_8cpp.html" title=" " alt="" coords="6450,102,6661,143"/>
+<area shape="rect" id="node45" href="$LoopDistribute_8cpp.html" title=" " alt="" coords="6685,102,6831,143"/>
+<area shape="rect" id="node46" href="$LoopIdiomRecognize_8cpp.html" title=" " alt="" coords="6855,102,7026,143"/>
+<area shape="rect" id="node47" href="$LoopLoadElimination_8cpp.html" title=" " alt="" coords="7050,102,7221,143"/>
+<area shape="rect" id="node48" href="$LoopVersioningLICM_8cpp.html" title=" " alt="" coords="7245,102,7417,143"/>
+<area shape="rect" id="node49" href="$LoopUtils_8cpp.html" title=" " alt="" coords="7441,102,7576,143"/>
+<area shape="rect" id="node50" href="$LoopVersioning_8cpp.html" title=" " alt="" coords="7600,102,7740,143"/>
+<area shape="rect" id="node3" href="$TargetTransformInfoImpl_8h.html" title="This file provides helpers for the implementation of a TargetTransformInfo&#45;conforming class." alt="" coords="1118,199,1297,240"/>
+<area shape="rect" id="node6" href="$ConstantFolding_8cpp.html" title=" " alt="" coords="1321,206,1533,233"/>
+<area shape="rect" id="node7" href="$InstructionSimplify_8cpp.html" title=" " alt="" coords="1743,199,1896,240"/>
+<area shape="rect" id="node8" href="$LazyCallGraph_8cpp.html" title=" " alt="" coords="1921,206,2123,233"/>
+<area shape="rect" id="node10" href="$VectorUtils_8cpp.html" title=" " alt="" coords="2385,206,2566,233"/>
+<area shape="rect" id="node11" href="$VFABIDemangling_8cpp.html" title=" " alt="" coords="2590,206,2814,233"/>
+<area shape="rect" id="node12" href="$CodeGenPrepare_8cpp.html" title=" " alt="" coords="2889,206,3112,233"/>
+<area shape="rect" id="node13" href="$DAGCombiner_8cpp.html" title=" " alt="" coords="3137,199,3315,240"/>
+<area shape="rect" id="node14" href="$SelectionDAGBuilder_8cpp.html" title=" " alt="" coords="3339,199,3518,240"/>
+<area shape="rect" id="node15" href="$AArch64ISelLowering_8cpp.html" title=" " alt="" coords="3543,199,3717,240"/>
+<area shape="rect" id="node16" href="$ARMISelLowering_8cpp.html" title=" " alt="" coords="3742,206,3985,233"/>
+<area shape="rect" id="node17" href="$X86InterleavedAccess_8cpp.html" title="This file contains the X86 implementation of the interleaved accesses optimization generating X86&#45;spe..." alt="" coords="4009,199,4201,240"/>
+<area shape="rect" id="node18" href="$X86ISelLowering_8cpp.html" title=" " alt="" coords="4225,206,4453,233"/>
+<area shape="rect" id="node19" href="$InstCombineCalls_8cpp.html" title=" " alt="" coords="4477,199,4660,240"/>
+<area shape="rect" id="node20" href="$InstCombineVectorOps_8cpp.html" title=" " alt="" coords="4685,199,4871,240"/>
+<area shape="rect" id="node21" href="$InstructionCombining_8cpp.html" title=" " alt="" coords="4896,199,5079,240"/>
+<area shape="rect" id="node22" href="$LowerMatrixIntrinsics_8cpp.html" title=" " alt="" coords="5103,199,5277,240"/>
+<area shape="rect" id="node23" href="$Scalarizer_8cpp.html" title=" " alt="" coords="5301,199,5447,240"/>
+<area shape="rect" id="node24" href="$InjectTLIMappings_8cpp.html" title=" " alt="" coords="268,199,427,240"/>
+<area shape="rect" id="node25" href="$InlineFunction_8cpp.html" title=" " alt="" coords="451,199,585,240"/>
+<area shape="rect" id="node26" href="$Local_8cpp.html" title=" " alt="" coords="609,199,744,240"/>
+<area shape="rect" id="node27" href="$ModuleUtils_8cpp.html" title=" " alt="" coords="768,199,903,240"/>
+<area shape="rect" id="node28" href="$LoadStoreVectorizer_8cpp.html" title=" " alt="" coords="927,199,1093,240"/>
+<area shape="rect" id="node29" href="$LoopVectorizationLegality_8cpp.html" title=" " alt="" coords="5656,199,5855,240"/>
+<area shape="rect" id="node32" href="$VectorCombine_8cpp.html" title=" " alt="" coords="2199,199,2360,240"/>
+<area shape="rect" id="node33" href="$VPlan_8h.html" title="This file contains the declarations of the Vectorization Plan base classes:" alt="" coords="1557,199,1719,240"/>
+<area shape="rect" id="node39" href="$VPlanSLP_8cpp.html" title=" " alt="" coords="2080,288,2241,329"/>
+<area shape="rect" id="node4" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="1172,288,1323,329"/>
+<area shape="rect" id="node5" href="$TargetTransformInfo_8cpp.html" title=" " alt="" coords="961,288,1147,329"/>
+<area shape="rect" id="node34" href="$LoopVectorizationPlanner_8h.html" title="This file provides a LoopVectorizationPlanner class." alt="" coords="1449,377,1633,419"/>
+<area shape="rect" id="node35" href="$VPlan_8cpp.html" title="This is the LLVM vectorization plan." alt="" coords="1657,377,1819,419"/>
+<area shape="rect" id="node36" href="$VPlanDominatorTree_8h.html" title="This file implements dominator tree analysis for a single level of a VPlan&#39;s H&#45;CFG." alt="" coords="1700,288,1861,329"/>
+<area shape="rect" id="node37" href="$VPlanHCFGBuilder_8h.html" title="This file defines the VPlanHCFGBuilder class which contains the public interface (buildHierarchicalCF..." alt="" coords="1843,377,2004,419"/>
+<area shape="rect" id="node38" href="$VPlanPredicator_8cpp.html" title="This file implements the VPlanPredicator class which contains the public interfaces to predicate and ..." alt="" coords="1412,288,1573,329"/>
+<area shape="rect" id="node40" href="$VPlanTransforms_8h.html" title="This file provides utility VPlan to VPlan transformations." alt="" coords="2889,288,3051,329"/>
+</map>

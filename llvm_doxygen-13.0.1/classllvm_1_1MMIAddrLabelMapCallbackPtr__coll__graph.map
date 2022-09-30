@@ -1,0 +1,5 @@
+<map id="llvm::MMIAddrLabelMapCallbackPtr" name="llvm::MMIAddrLabelMapCallbackPtr">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,260,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CallbackVH.html" title="Value handle with callbacks on RAUW and destruction." alt="" coords="65,80,200,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ValueHandleBase.html" title="This is the common base class of value handles." alt="" coords="46,5,219,32"/>
+</map>

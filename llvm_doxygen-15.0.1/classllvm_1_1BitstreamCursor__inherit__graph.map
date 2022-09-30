@@ -1,0 +1,4 @@
+<map id="llvm::BitstreamCursor" name="llvm::BitstreamCursor">
+<area shape="rect" id="node1" title="This represents a position within a bitcode file, implemented on top of a SimpleBitstreamCursor." alt="" coords="28,80,193,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SimpleBitstreamCursor.html" title="This represents a position within a bitstream." alt="" coords="5,5,216,32"/>
+</map>

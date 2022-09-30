@@ -1,0 +1,6 @@
+<map id="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyInstPrinter.h" name="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyInstPrinter.h">
+<area shape="rect" id="node1" title="This class prints an WebAssembly MCInst to wasm file syntax." alt="" coords="287,5,525,61"/>
+<area shape="rect" id="node2" href="$WebAssemblyInstPrinter_8cpp.html" title="Print MCInst instructions to wasm format." alt="" coords="5,109,244,165"/>
+<area shape="rect" id="node3" href="$WebAssemblyMCTargetDesc_8cpp.html" title="This file provides WebAssembly&#45;specific target descriptions." alt="" coords="268,109,544,165"/>
+<area shape="rect" id="node4" href="$WebAssemblyMachineFunctionInfo_8cpp.html" title="This file implements WebAssembly&#45;specific per&#45;machine&#45;function information." alt="" coords="569,117,849,158"/>
+</map>

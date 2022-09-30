@@ -1,0 +1,18 @@
+<map id="llvm::GCOVBlock" name="llvm::GCOVBlock">
+<area shape="rect" id="node1" title="GCOVBlock &#45; Collects block information." alt="" coords="1669,151,1803,177"/>
+<area shape="rect" id="node4" href="$structllvm_1_1GCOVArc.html" title=" " alt="" coords="1916,96,2033,123"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1424,25,1499,52"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title=" " alt="" coords="1424,147,1499,173"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1436,269,1487,296"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1387,78,1535,119"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="1008,74,1175,115"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="597,176,801,203"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1017,139,1165,181"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="1008,205,1175,246"/>
+<area shape="rect" id="node9" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="605,15,792,57"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,93,56,120"/>
+<area shape="rect" id="node11" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="169,167,356,209"/>
+<area shape="rect" id="node13" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="579,83,819,139"/>
+<area shape="rect" id="node16" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="605,263,792,305"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1380,203,1543,245"/>
+</map>

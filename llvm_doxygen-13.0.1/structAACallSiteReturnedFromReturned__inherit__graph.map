@@ -1,0 +1,10 @@
+<map id="AACallSiteReturnedFromReturned&lt; AAType, BaseType, StateType, IntroduceCallBaseContext &gt;" name="AACallSiteReturnedFromReturned&lt; AAType, BaseType, StateType, IntroduceCallBaseContext &gt;">
+<area shape="rect" id="node1" title="Helper class for generic replication: function returned &#45;&gt; cs returned." alt="" coords="139,63,380,119"/>
+<area shape="rect" id="node3" href="$structAACallSiteReturnedFromReturned.html" title=" " alt="" coords="640,5,981,47"/>
+<area shape="rect" id="node5" href="$structAACallSiteReturnedFromReturned.html" title=" " alt="" coords="690,71,931,112"/>
+<area shape="rect" id="node7" href="$structAACallSiteReturnedFromReturned.html" title=" " alt="" coords="690,136,931,177"/>
+<area shape="rect" id="node2" href="$classBaseType.html" title=" " alt="" coords="5,78,89,105"/>
+<area shape="rect" id="node4" href="$structAADereferenceableCallSiteReturned.html" title="Dereferenceable attribute deduction for a call site return value." alt="" coords="1032,5,1231,47"/>
+<area shape="rect" id="node6" href="$structAAAlignCallSiteReturned.html" title="Align attribute deduction for a call site return value." alt="" coords="1040,78,1223,105"/>
+<area shape="rect" id="node8" href="$structAANonNullCallSiteReturned.html" title="NonNull attribute for a call site return position." alt="" coords="1031,143,1232,170"/>
+</map>

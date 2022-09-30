@@ -1,0 +1,7 @@
+<map id="llvm::remarks::Argument" name="llvm::remarks::Argument">
+<area shape="rect" id="node1" title="A key&#45;value pair with a debug location that is used to display the remarks at the right place in the ..." alt="" coords="123,213,309,240"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title=" " alt="" coords="15,95,228,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="273,102,391,129"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title=" " alt="" coords="322,5,382,32"/>
+</map>

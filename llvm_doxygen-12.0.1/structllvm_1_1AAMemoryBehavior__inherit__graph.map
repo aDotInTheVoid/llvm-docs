@@ -1,0 +1,8 @@
+<map id="llvm::AAMemoryBehavior" name="llvm::AAMemoryBehavior">
+<area shape="rect" id="node1" title="An abstract interface for memory access kind related attributes (readnone/readonly/writeonly)." alt="" coords="848,60,1019,87"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="569,38,799,109"/>
+<area shape="rect" id="node3" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute." alt="" coords="135,85,313,126"/>
+<area shape="rect" id="node4" href="$classBaseType.html" title=" " alt="" coords="5,35,85,61"/>
+<area shape="rect" id="node6" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="161,19,287,61"/>
+<area shape="rect" id="node5" href="$classStateTy.html" title=" " alt="" coords="12,93,79,120"/>
+</map>

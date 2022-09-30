@@ -1,0 +1,5 @@
+<map id="include/llvm/Passes/StandardInstrumentations.h" name="include/llvm/Passes/StandardInstrumentations.h">
+<area shape="rect" id="node1" title="This header defines a class that provides bookkeeping for all standard (i.e in&#45;tree) pass instrumenta..." alt="" coords="114,5,301,47"/>
+<area shape="rect" id="node2" href="$LTOBackend_8cpp.html" title=" " alt="" coords="5,95,172,121"/>
+<area shape="rect" id="node3" href="$StandardInstrumentations_8cpp.html" title="This file defines IR&#45;printing pass instrumentation callbacks as well as StandardInstrumentations clas..." alt="" coords="197,95,458,121"/>
+</map>

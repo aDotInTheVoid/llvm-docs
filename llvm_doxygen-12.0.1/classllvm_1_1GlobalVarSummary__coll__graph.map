@@ -1,0 +1,6 @@
+<map id="llvm::GlobalVarSummary" name="llvm::GlobalVarSummary">
+<area shape="rect" id="node1" title="Global variable summary information to aid decisions and implementation of importing." alt="" coords="72,243,239,269"/>
+<area shape="rect" id="node2" href="$classllvm_1_1GlobalValueSummary.html" title="Function and variable summary information to aid decisions and implementation of importing." alt="" coords="5,146,185,173"/>
+<area shape="rect" id="node3" href="$structllvm_1_1GlobalVarSummary_1_1GVarFlags.html" title=" " alt="" coords="209,139,376,180"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="255,5,330,32"/>
+</map>

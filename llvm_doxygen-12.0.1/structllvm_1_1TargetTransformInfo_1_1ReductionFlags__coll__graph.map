@@ -1,0 +1,4 @@
+<map id="llvm::TargetTransformInfo::ReductionFlags" name="llvm::TargetTransformInfo::ReductionFlags">
+<area shape="rect" id="node1" title="Flags describing the kind of vector reduction." alt="" coords="5,124,176,165"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="67,5,114,32"/>
+</map>

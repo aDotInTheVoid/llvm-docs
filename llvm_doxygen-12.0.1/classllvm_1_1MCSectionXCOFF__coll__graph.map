@@ -1,0 +1,9 @@
+<map id="llvm::MCSectionXCOFF" name="llvm::MCSectionXCOFF">
+<area shape="rect" id="node1" title=" " alt="" coords="183,260,346,287"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCSection.html" title="Instances of this class represent a uniqued identifier for a section in the current translation unit." alt="" coords="205,184,324,211"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SectionKind.html" title="SectionKind &#45; This is a simple POD value that classifies the properties of a section." alt="" coords="5,95,129,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="154,95,261,121"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="285,95,359,121"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="384,95,492,121"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title=" " alt="" coords="410,5,466,32"/>
+</map>

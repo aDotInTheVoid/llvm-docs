@@ -1,0 +1,4 @@
+<map id="llvm::PatternMatch::VScaleVal_match" name="llvm::PatternMatch::VScaleVal_match">
+<area shape="rect" id="node1" title="Matches patterns for vscale." alt="" coords="5,95,137,136"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it." alt="" coords="12,5,131,32"/>
+</map>

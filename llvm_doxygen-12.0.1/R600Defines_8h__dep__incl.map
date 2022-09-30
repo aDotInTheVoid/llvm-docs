@@ -1,0 +1,11 @@
+<map id="lib/Target/AMDGPU/R600Defines.h" name="lib/Target/AMDGPU/R600Defines.h">
+<area shape="rect" id="node1" title=" " alt="" coords="792,5,1020,32"/>
+<area shape="rect" id="node2" href="$R600MCCodeEmitter_8cpp.html" title="The R600 code emitter produces machine code that can be executed directly on the GPU device." alt="" coords="5,80,212,121"/>
+<area shape="rect" id="node3" href="$R600AsmPrinter_8cpp.html" title="The R600AsmPrinter is used to print both assembly string and also binary code." alt="" coords="236,80,435,121"/>
+<area shape="rect" id="node4" href="$R600EmitClauseMarkers_8cpp.html" title="Add CF_ALU." alt="" coords="459,80,657,121"/>
+<area shape="rect" id="node5" href="$R600ExpandSpecialInstrs_8cpp.html" title="Vector, Reduction, and Cube instructions need to fill the entire instruction group to work correctly." alt="" coords="682,80,898,121"/>
+<area shape="rect" id="node6" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo." alt="" coords="923,80,1121,121"/>
+<area shape="rect" id="node7" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600." alt="" coords="1146,80,1341,121"/>
+<area shape="rect" id="node8" href="$R600OptimizeVectorRegisters_8cpp.html" title="This pass merges inputs of swizzeable instructions into vector sharing common data and/or have enough..." alt="" coords="1365,80,1588,121"/>
+<area shape="rect" id="node9" href="$R600RegisterInfo_8cpp.html" title="R600 implementation of the TargetRegisterInfo class." alt="" coords="1612,80,1832,121"/>
+</map>

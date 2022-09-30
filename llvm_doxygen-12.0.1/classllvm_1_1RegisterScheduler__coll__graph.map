@@ -1,0 +1,7 @@
+<map id="llvm::RegisterScheduler" name="llvm::RegisterScheduler">
+<area shape="rect" id="node1" title=" " alt="" coords="695,76,855,103"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryNode.html" title=" " alt="" coords="391,14,593,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistryNode.html" title="MachinePassRegistryNode &#45; Machine pass node stored in registration list." alt="" coords="5,29,188,70"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachinePassRegistry.html" title=" " alt="" coords="401,109,583,150"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MachinePassRegistry.html" title="MachinePassRegistry &#45; Track the registration of machine passes." alt="" coords="5,109,188,150"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::AACallEdgeIterator" name="llvm::AACallEdgeIterator">
+<area shape="rect" id="node1" title="An Iterator for call edges, creates AACallEdges attributes in a lazy way." alt="" coords="2653,481,2836,508"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="2401,459,2604,530"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="1447,239,1908,574"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,506,255,577"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="852,497,1423,773"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1932,529,2207,599"/>
+</map>

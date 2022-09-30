@@ -1,0 +1,5 @@
+<map id="llvm::detail::AnalysisPassModel&lt; IRUnitT, PassT, PreservedAnalysesT, InvalidatorT, ExtraArgTs &gt;" name="llvm::detail::AnalysisPassModel&lt; IRUnitT, PassT, PreservedAnalysesT, InvalidatorT, ExtraArgTs &gt;">
+<area shape="rect" id="node1" title="Wrapper to model the analysis pass concept." alt="" coords="777,5,989,76"/>
+<area shape="rect" id="node2" href="$structllvm_1_1detail_1_1AnalysisPassConcept.html" title=" " alt="" coords="481,13,728,69"/>
+<area shape="rect" id="node3" href="$structllvm_1_1detail_1_1AnalysisPassConcept.html" title="Abstract concept of an analysis pass." alt="" coords="5,13,252,69"/>
+</map>

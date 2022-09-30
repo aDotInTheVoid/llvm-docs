@@ -1,0 +1,52 @@
+<map id="lib/DebugInfo/PDB/Native/NativeTypePointer.cpp" name="lib/DebugInfo/PDB/Native/NativeTypePointer.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2455,5,2641,47"/>
+<area shape="rect" id="node2" href="$NativeTypePointer_8h.html" title=" " alt="" coords="2660,184,2863,225"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1811,973,1880,1000"/>
+<area shape="rect" id="node30" href="$CodeView_8h.html" title=" " alt="" coords="4123,795,4314,836"/>
+<area shape="rect" id="node46" href="$NativeSession_8h.html" title=" " alt="" coords="2175,95,2353,136"/>
+<area shape="rect" id="node3" href="$Optional_8h.html" title=" " alt="" coords="795,802,949,829"/>
+<area shape="rect" id="node15" href="$TypeIndex_8h.html" title=" " alt="" coords="3082,795,3273,836"/>
+<area shape="rect" id="node21" href="$TypeRecord_8h.html" title=" " alt="" coords="2829,616,3019,657"/>
+<area shape="rect" id="node37" href="$IPDBRawSymbol_8h.html" title=" " alt="" coords="2866,363,3019,404"/>
+<area shape="rect" id="node38" href="$PDBTypes_8h.html" title=" " alt="" coords="3616,452,3715,479"/>
+<area shape="rect" id="node45" href="$NativeRawSymbol_8h.html" title=" " alt="" coords="3145,273,3351,315"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title=" " alt="" coords="1011,891,1162,918"/>
+<area shape="rect" id="node5" href="$type__traits_8h.html" title=" " alt="" coords="1193,973,1383,1000"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="1676,1048,1855,1075"/>
+<area shape="rect" id="node8" title=" " alt="" coords="985,1048,1045,1075"/>
+<area shape="rect" id="node12" href="$None_8h.html" title=" " alt="" coords="550,891,682,918"/>
+<area shape="rect" id="node13" href="$STLForwardCompat_8h.html" title=" " alt="" coords="1409,973,1633,1000"/>
+<area shape="rect" id="node14" title=" " alt="" coords="793,973,842,1000"/>
+<area shape="rect" id="node9" title=" " alt="" coords="677,973,763,1000"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3131,973,3197,1000"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1973,1048,2065,1075"/>
+<area shape="rect" id="node16" href="$DenseMapInfo_8h.html" title=" " alt="" coords="2309,891,2501,918"/>
+<area shape="rect" id="node19" href="$Endian_8h.html" title=" " alt="" coords="3608,891,3773,918"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3949,891,4032,918"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2259,973,2330,1000"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3853,973,3920,1000"/>
+<area shape="rect" id="node22" href="$APSInt_8h.html" title=" " alt="" coords="2879,713,3019,739"/>
+<area shape="rect" id="node23" href="$ArrayRef_8h.html" title=" " alt="" coords="1963,802,2117,829"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title=" " alt="" coords="1603,891,1778,918"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2779,891,2842,918"/>
+<area shape="rect" id="node28" href="$StringRef_8h.html" title=" " alt="" coords="2192,802,2349,829"/>
+<area shape="rect" id="node29" href="$CVRecord_8h.html" title=" " alt="" coords="3633,705,3823,747"/>
+<area shape="rect" id="node35" href="$GUID_8h.html" title=" " alt="" coords="4225,705,4415,747"/>
+<area shape="rect" id="node36" href="$BinaryStreamArray_8h.html" title=" " alt="" coords="2281,705,2479,747"/>
+<area shape="rect" id="node26" title=" " alt="" coords="3029,973,3107,1000"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2566,973,2653,1000"/>
+<area shape="rect" id="node34" href="$Support_2Error_8h.html" title=" " alt="" coords="2374,802,2525,829"/>
+<area shape="rect" id="node31" title=" " alt="" coords="4253,891,4403,918"/>
+<area shape="rect" id="node32" title=" " alt="" coords="4427,891,4595,918"/>
+<area shape="rect" id="node33" title=" " alt="" coords="4056,891,4229,918"/>
+<area shape="rect" id="node44" href="$BitmaskEnum_8h.html" title=" " alt="" coords="1187,891,1376,918"/>
+<area shape="rect" id="node39" href="$APFloat_8h.html" title=" " alt="" coords="2605,713,2753,739"/>
+<area shape="rect" id="node40" href="$IPDBEnumChildren_8h.html" title=" " alt="" coords="3373,884,3533,925"/>
+<area shape="rect" id="node41" href="$IPDBFrameData_8h.html" title=" " alt="" coords="4542,616,4695,657"/>
+<area shape="rect" id="node42" href="$RawTypes_8h.html" title=" " alt="" coords="3722,527,3875,568"/>
+<area shape="rect" id="node43" title=" " alt="" coords="3633,534,3698,561"/>
+<area shape="rect" id="node47" href="$IntervalMap_8h.html" title=" " alt="" coords="1303,623,1479,650"/>
+<area shape="rect" id="node48" href="$Allocator_8h.html" title=" " alt="" coords="1301,713,1480,739"/>
+<area shape="rect" id="node49" href="$IPDBSession_8h.html" title=" " alt="" coords="3247,363,3401,404"/>
+<area shape="rect" id="node50" href="$SymbolCache_8h.html" title=" " alt="" coords="3439,184,3614,225"/>
+</map>

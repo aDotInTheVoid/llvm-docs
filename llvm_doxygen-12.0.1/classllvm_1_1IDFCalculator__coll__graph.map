@@ -1,0 +1,5 @@
+<map id="llvm::IDFCalculator&lt; IsPostDom &gt;" name="llvm::IDFCalculator&lt; IsPostDom &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="31,200,166,241"/>
+<area shape="rect" id="node2" href="$classllvm_1_1IDFCalculatorBase.html" title=" " alt="" coords="5,109,192,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IDFCalculatorBase.html" title="Determine the iterated dominance frontier, given a set of defining blocks, and optionally,..." alt="" coords="17,5,181,47"/>
+</map>
