@@ -1,0 +1,5 @@
+<map id="llvm::IDFCalculatorDetail::ChildrenGetterTy&lt; BasicBlock, IsPostDom &gt;" name="llvm::IDFCalculatorDetail::ChildrenGetterTy&lt; BasicBlock, IsPostDom &gt;">
+<area shape="rect" id="node1" title="Specialization for BasicBlock for the optional use of GraphDiff." alt="" coords="5,228,235,284"/>
+<area shape="rect" id="node2" href="$classllvm_1_1GraphDiff.html" title=" " alt="" coords="17,124,223,165"/>
+<area shape="rect" id="node3" href="$classllvm_1_1GraphDiff.html" title=" " alt="" coords="24,5,216,47"/>
+</map>

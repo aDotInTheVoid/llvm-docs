@@ -1,0 +1,5 @@
+<map id="llvm::MachineFunction::ArgRegPair" name="llvm::MachineFunction::ArgRegPair">
+<area shape="rect" id="node1" title="Structure used to represent pair of argument number after call lowering and register used to transfer..." alt="" coords="17,95,186,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="105,5,218,32"/>
+</map>

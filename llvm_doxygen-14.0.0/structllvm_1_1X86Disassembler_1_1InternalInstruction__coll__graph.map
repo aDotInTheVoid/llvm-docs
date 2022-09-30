@@ -1,0 +1,22 @@
+<map id="llvm::X86Disassembler::InternalInstruction" name="llvm::X86Disassembler::InternalInstruction">
+<area shape="rect" id="node1" title="The x86 internal instruction, which is produced by the decoder." alt="" coords="883,475,1056,517"/>
+<area shape="rect" id="node2" title=" " alt="" coords="453,29,583,56"/>
+<area shape="rect" id="node3" title=" " alt="" coords="439,80,597,107"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="481,131,555,157"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="379,182,657,223"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="5,220,160,247"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="423,248,613,275"/>
+<area shape="rect" id="node7" title=" " alt="" coords="45,325,120,352"/>
+<area shape="rect" id="node11" href="$structllvm_1_1X86Disassembler_1_1InstructionSpecifier.html" title="The specification for how to extract and interpret a full instruction and its operands." alt="" coords="431,362,605,403"/>
+<area shape="rect" id="node8" title=" " alt="" coords="485,428,551,455"/>
+<area shape="rect" id="node9" href="$classsize__t.html" title=" " alt="" coords="488,479,548,505"/>
+<area shape="rect" id="node10" title=" " alt="" coords="481,529,555,556"/>
+<area shape="rect" id="node12" href="$classbool.html" title=" " alt="" coords="493,609,543,636"/>
+<area shape="rect" id="node13" title=" " alt="" coords="485,796,551,823"/>
+<area shape="rect" id="node14" title=" " alt="" coords="467,847,569,873"/>
+<area shape="rect" id="node15" title=" " alt="" coords="450,897,586,924"/>
+<area shape="rect" id="node17" title=" " alt="" coords="483,952,553,979"/>
+<area shape="rect" id="node18" title=" " alt="" coords="479,1012,557,1039"/>
+<area shape="rect" id="node19" title=" " alt="" coords="495,1116,541,1143"/>
+<area shape="rect" id="node20" title=" " alt="" coords="445,1167,591,1193"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="include/llvm/CodeGen/GlobalISel/CSEInfo.h" name="include/llvm/CodeGen/GlobalISel/CSEInfo.h">
+<area shape="rect" id="node1" title="Provides analysis for continuously CSEing during GISel passes." alt="" coords="2435,5,2600,47"/>
+<area shape="rect" id="node2" href="$FoldingSet_8h.html" title="This file defines a hash set that can be used to remove duplication of nodes in a graph." alt="" coords="1634,423,1801,449"/>
+<area shape="rect" id="node21" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="2452,505,2631,531"/>
+<area shape="rect" id="node27" href="$CSEConfigBase_8h.html" title=" " alt="" coords="2707,102,2935,129"/>
+<area shape="rect" id="node28" href="$GISelChangeObserver_8h.html" title="This contains common code to allow clients to notify changes to machine instr." alt="" coords="2195,95,2379,136"/>
+<area shape="rect" id="node47" href="$GISelWorkList_8h.html" title=" " alt="" coords="1373,497,1557,539"/>
+<area shape="rect" id="node48" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="2403,95,2631,136"/>
+<area shape="rect" id="node50" href="$CodeGen_8h.html" title=" " alt="" coords="2959,102,3139,129"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title=" " alt="" coords="1930,587,2105,613"/>
+<area shape="rect" id="node7" title=" " alt="" coords="467,811,527,837"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2908,736,2977,763"/>
+<area shape="rect" id="node10" title=" " alt="" coords="611,661,682,688"/>
+<area shape="rect" id="node19" href="$iterator_8h.html" title=" " alt="" coords="409,505,554,531"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3924,736,3991,763"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="2464,811,2643,837"/>
+<area shape="rect" id="node5" href="$type__traits_8h.html" title=" " alt="" coords="1557,736,1747,763"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1863,811,1955,837"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3053,661,3139,688"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1603,661,1669,688"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1349,736,1416,763"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3214,661,3301,688"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1163,661,1274,688"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2907,661,2978,688"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2492,736,2551,763"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3731,661,3808,688"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1771,736,1821,763"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="41,587,231,613"/>
+<area shape="rect" id="node22" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="1947,661,2101,688"/>
+<area shape="rect" id="node23" href="$Alignment_8h.html" title=" " alt="" coords="2315,587,2503,613"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title=" " alt="" coords="2587,661,2781,688"/>
+<area shape="rect" id="node26" href="$AllocatorBase_8h.html" title="This file defines MallocAllocator." alt="" coords="3001,736,3212,763"/>
+<area shape="rect" id="node29" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="1131,587,1306,613"/>
+<area shape="rect" id="node32" href="$MachineFunction_8h.html" title=" " alt="" coords="2211,184,2451,211"/>
+<area shape="rect" id="node30" href="$EpochTracker_8h.html" title="This file defines the DebugEpochBase and DebugEpochBase::HandleBase classes." alt="" coords="2177,661,2359,688"/>
+<area shape="rect" id="node31" href="$ReverseIteration_8h.html" title=" " alt="" coords="909,661,1139,688"/>
+<area shape="rect" id="node33" href="$ArrayRef_8h.html" title=" " alt="" coords="3197,505,3352,531"/>
+<area shape="rect" id="node34" title=" " alt="" coords="3137,587,3199,613"/>
+<area shape="rect" id="node35" href="$BitVector_8h.html" title="This file implements the BitVector class." alt="" coords="2147,423,2303,449"/>
+<area shape="rect" id="node36" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="1382,587,1549,613"/>
+<area shape="rect" id="node37" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="257,348,429,375"/>
+<area shape="rect" id="node38" href="$ilist_8h.html" title="This file defines classes to implement an intrusive doubly linked list class (i.e." alt="" coords="2659,505,2781,531"/>
+<area shape="rect" id="node39" href="$EHPersonalities_8h.html" title=" " alt="" coords="1530,266,1758,293"/>
+<area shape="rect" id="node40" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2767,259,2975,300"/>
+<area shape="rect" id="node41" href="$MachineInstr_8h.html" title=" " alt="" coords="2419,348,2632,375"/>
+<area shape="rect" id="node42" href="$MachineMemOperand_8h.html" title=" " alt="" coords="593,423,866,449"/>
+<area shape="rect" id="node43" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="630,505,853,531"/>
+<area shape="rect" id="node44" href="$ArrayRecycler_8h.html" title=" " alt="" coords="1912,423,2123,449"/>
+<area shape="rect" id="node45" href="$Recycler_8h.html" title=" " alt="" coords="2632,423,2808,449"/>
+<area shape="rect" id="node46" href="$TargetOptions_8h.html" title=" " alt="" coords="3961,266,4162,293"/>
+<area shape="rect" id="node49" href="$Pass_8h.html" title=" " alt="" coords="2475,184,2571,211"/>
+</map>

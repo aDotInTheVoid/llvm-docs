@@ -1,0 +1,6 @@
+<map id="llvm::GISelAddressing::BaseIndexOffset" name="llvm::GISelAddressing::BaseIndexOffset">
+<area shape="rect" id="node1" title="Helper struct to store a base, index and offset that forms an address." alt="" coords="39,109,204,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node3" href="$classbool.html" title=" " alt="" coords="96,5,147,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="197,5,310,32"/>
+</map>

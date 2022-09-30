@@ -1,0 +1,5 @@
+<map id="llvm::jitlink::JITLinkMemoryManager::InFlightAlloc" name="llvm::jitlink::JITLinkMemoryManager::InFlightAlloc">
+<area shape="rect" id="node1" title="Represents an allocation which has not been finalized yet." alt="" coords="5,39,207,80"/>
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1InProcessMemoryManager_1_1IPInFlightAlloc.html" title=" " alt="" coords="255,5,489,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1EPCGenericJITLinkMemoryManager_1_1InFlightAlloc.html" title=" " alt="" coords="261,71,483,112"/>
+</map>

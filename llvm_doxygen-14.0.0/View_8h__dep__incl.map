@@ -1,0 +1,14 @@
+<map id="include/llvm/MCA/View.h" name="include/llvm/MCA/View.h">
+<area shape="rect" id="node1" title="This file defines the main interface for Views." alt="" coords="570,5,753,32"/>
+<area shape="rect" id="node2" href="$CustomBehaviour_8h.html" title="This file defines the base class CustomBehaviour which can be inherited from by specific targets (ex." alt="" coords="416,80,683,107"/>
+<area shape="rect" id="node12" href="$View_8cpp.html" title="This file defines the virtual anchor method in View.h to pin the vtable." alt="" coords="707,80,842,107"/>
+<area shape="rect" id="node3" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="5,162,208,189"/>
+<area shape="rect" id="node5" href="$InOrderIssueStage_8h.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="232,155,416,196"/>
+<area shape="rect" id="node7" href="$CustomBehaviour_8cpp.html" title="This file implements methods from the CustomBehaviour interface." alt="" coords="440,162,659,189"/>
+<area shape="rect" id="node8" href="$AMDGPUCustomBehaviour_8h.html" title="This file defines the AMDGPUCustomBehaviour class which inherits from CustomBehaviour." alt="" coords="683,155,895,196"/>
+<area shape="rect" id="node10" href="$X86CustomBehaviour_8h.html" title="This file defines the X86CustomBehaviour class which inherits from CustomBehaviour." alt="" coords="927,155,1105,196"/>
+<area shape="rect" id="node4" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="36,251,191,278"/>
+<area shape="rect" id="node6" href="$InOrderIssueStage_8cpp.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="221,244,427,285"/>
+<area shape="rect" id="node9" href="$AMDGPUCustomBehaviour_8cpp.html" title="This file implements methods from the AMDGPUCustomBehaviour class." alt="" coords="672,244,899,285"/>
+<area shape="rect" id="node11" href="$X86CustomBehaviour_8cpp.html" title="This file implements methods from the X86CustomBehaviour class." alt="" coords="923,244,1117,285"/>
+</map>

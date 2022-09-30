@@ -1,0 +1,52 @@
+<map id="include/llvm/CodeGen/MIRFormatter.h" name="include/llvm/CodeGen/MIRFormatter.h">
+<area shape="rect" id="node1" title=" " alt="" coords="10233,5,10398,47"/>
+<area shape="rect" id="node2" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="5569,95,5734,136"/>
+<area shape="rect" id="node47" href="$MachineOperand_8cpp.html" title=" " alt="" coords="9997,199,10239,225"/>
+<area shape="rect" id="node48" href="$MachineStableHash_8cpp.html" title=" " alt="" coords="10264,191,10465,233"/>
+<area shape="rect" id="node49" href="$MIParser_8cpp.html" title=" " alt="" coords="10490,191,10661,233"/>
+<area shape="rect" id="node50" href="$AMDGPUMIRFormatter_8h.html" title="AMDGPU specific overrides of MIRFormatter." alt="" coords="10404,102,10712,129"/>
+<area shape="rect" id="node3" href="$InstructionSelectorImpl_8h.html" title=" " alt="" coords="8281,184,8499,240"/>
+<area shape="rect" id="node4" href="$MachinePipeliner_8h.html" title=" " alt="" coords="8523,191,8689,233"/>
+<area shape="rect" id="node5" href="$ModuloSchedule_8h.html" title=" " alt="" coords="8713,191,8878,233"/>
+<area shape="rect" id="node6" href="$TailDuplicator_8h.html" title=" " alt="" coords="8902,191,9067,233"/>
+<area shape="rect" id="node7" href="$MachineBlockPlacement_8cpp.html" title=" " alt="" coords="8947,288,9143,329"/>
+<area shape="rect" id="node8" href="$AggressiveAntiDepBreaker_8cpp.html" title=" " alt="" coords="9142,191,9345,233"/>
+<area shape="rect" id="node9" href="$CodeGen_2Analysis_8cpp.html" title=" " alt="" coords="9369,199,9555,225"/>
+<area shape="rect" id="node10" href="$AsmPrinter_8cpp.html" title=" " alt="" coords="9580,191,9757,233"/>
+<area shape="rect" id="node11" href="$AsmPrinterInlineAsm_8cpp.html" title=" " alt="" coords="9781,191,9972,233"/>
+<area shape="rect" id="node12" href="$DwarfDebug_8cpp.html" title=" " alt="" coords="5,191,183,233"/>
+<area shape="rect" id="node13" href="$BasicBlockSections_8cpp.html" title=" " alt="" coords="207,199,466,225"/>
+<area shape="rect" id="node14" href="$BranchFolding_8cpp.html" title=" " alt="" coords="490,199,714,225"/>
+<area shape="rect" id="node15" href="$BranchRelaxation_8cpp.html" title=" " alt="" coords="739,199,985,225"/>
+<area shape="rect" id="node16" href="$BreakFalseDeps_8cpp.html" title=" " alt="" coords="1009,199,1245,225"/>
+<area shape="rect" id="node17" href="$CalcSpillWeights_8cpp.html" title=" " alt="" coords="1270,199,1510,225"/>
+<area shape="rect" id="node18" href="$CFIInstrInserter_8cpp.html" title=" " alt="" coords="1535,199,1765,225"/>
+<area shape="rect" id="node19" href="$CodeGenCommonISel_8cpp.html" title=" " alt="" coords="1789,191,2012,233"/>
+<area shape="rect" id="node20" href="$CriticalAntiDepBreaker_8cpp.html" title=" " alt="" coords="2036,191,2213,233"/>
+<area shape="rect" id="node21" href="$DFAPacketizer_8cpp.html" title=" " alt="" coords="2237,199,2460,225"/>
+<area shape="rect" id="node22" href="$EarlyIfConversion_8cpp.html" title=" " alt="" coords="2484,199,2731,225"/>
+<area shape="rect" id="node23" href="$ExecutionDomainFix_8cpp.html" title=" " alt="" coords="2755,191,2974,233"/>
+<area shape="rect" id="node24" href="$ExpandPostRAPseudos_8cpp.html" title=" " alt="" coords="2998,199,3278,225"/>
+<area shape="rect" id="node25" href="$FEntryInserter_8cpp.html" title=" " alt="" coords="3303,199,3525,225"/>
+<area shape="rect" id="node26" href="$FixupStatepointCallerSaved_8cpp.html" title="Statepoint instruction in deopt parameters contains values which are meaningful to the runtime and sh..." alt="" coords="3549,191,3756,233"/>
+<area shape="rect" id="node27" href="$GCRootLowering_8cpp.html" title=" " alt="" coords="3781,199,4021,225"/>
+<area shape="rect" id="node28" href="$CombinerHelper_8cpp.html" title=" " alt="" coords="4045,191,4215,233"/>
+<area shape="rect" id="node29" href="$InstructionSelect_8cpp.html" title="This file implements the InstructionSelect class." alt="" coords="4239,191,4410,233"/>
+<area shape="rect" id="node30" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class." alt="" coords="4434,191,4605,233"/>
+<area shape="rect" id="node31" href="$LegalizerHelper_8cpp.html" title=" " alt="" coords="4629,191,4799,233"/>
+<area shape="rect" id="node32" href="$MachineIRBuilder_8cpp.html" title="This file implements the MachineIRBuidler class." alt="" coords="4823,191,4994,233"/>
+<area shape="rect" id="node33" href="$CodeGen_2GlobalISel_2Utils_8cpp.html" title=" " alt="" coords="5018,191,5189,233"/>
+<area shape="rect" id="node34" href="$IfConversion_8cpp.html" title=" " alt="" coords="5213,199,5428,225"/>
+<area shape="rect" id="node35" href="$ImplicitNullChecks_8cpp.html" title=" " alt="" coords="5452,191,5632,233"/>
+<area shape="rect" id="node36" href="$InlineSpiller_8cpp.html" title=" " alt="" coords="5657,199,5865,225"/>
+<area shape="rect" id="node37" href="$InstrRefBasedImpl_8cpp.html" title="This is a separate implementation of LiveDebugValues, see LiveDebugValues.cpp and VarLocBasedImpl...." alt="" coords="5963,288,6180,329"/>
+<area shape="rect" id="node38" href="$InstrRefBasedImpl_8h.html" title=" " alt="" coords="5889,191,6107,233"/>
+<area shape="rect" id="node39" href="$VarLocBasedImpl_8cpp.html" title=" " alt="" coords="6183,191,6400,233"/>
+<area shape="rect" id="node40" href="$LiveDebugVariables_8cpp.html" title=" " alt="" coords="6425,199,6686,225"/>
+<area shape="rect" id="node41" href="$LiveRangeEdit_8cpp.html" title=" " alt="" coords="6711,199,6936,225"/>
+<area shape="rect" id="node42" href="$MachineBasicBlock_8cpp.html" title=" " alt="" coords="6961,191,7155,233"/>
+<area shape="rect" id="node43" href="$MachineCombiner_8cpp.html" title=" " alt="" coords="7180,199,7429,225"/>
+<area shape="rect" id="node44" href="$MachineCopyPropagation_8cpp.html" title=" " alt="" coords="7454,199,7753,225"/>
+<area shape="rect" id="node45" href="$MachineCSE_8cpp.html" title=" " alt="" coords="7777,199,7989,225"/>
+<area shape="rect" id="node46" href="$MachineDebugify_8cpp.html" title=" " alt="" coords="8014,199,8257,225"/>
+</map>

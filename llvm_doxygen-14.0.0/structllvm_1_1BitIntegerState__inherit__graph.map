@@ -1,0 +1,16 @@
+<map id="llvm::BitIntegerState&lt; base_ty, BestState, WorstState &gt;" name="llvm::BitIntegerState&lt; base_ty, BestState, WorstState &gt;">
+<area shape="rect" id="node1" title="Specialization of the integer state for a bit&#45;wise encoding." alt="" coords="110,320,273,376"/>
+<area shape="rect" id="node5" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="84,425,299,481"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IntegerStateBase.html" title=" " alt="" coords="106,215,277,271"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="113,5,259,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding." alt="" coords="207,81,378,137"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AAIsDead.html" title="An abstract interface for liveness abstract attribute." alt="" coords="130,531,253,557"/>
+<area shape="rect" id="node7" href="$structAAIsDeadFunction.html" title=" " alt="" coords="37,607,177,633"/>
+<area shape="rect" id="node9" href="$structAAIsDeadValueImpl.html" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—AAIsDead Function Attribute&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—" alt="" coords="268,607,419,633"/>
+<area shape="rect" id="node8" href="$structAAIsDeadCallSite.html" title="Liveness information for a call sites." alt="" coords="5,683,140,709"/>
+<area shape="rect" id="node10" href="$structAAIsDeadCallSiteArgument.html" title=" " alt="" coords="164,683,363,709"/>
+<area shape="rect" id="node11" href="$structAAIsDeadFloating.html" title=" " alt="" coords="387,683,526,709"/>
+<area shape="rect" id="node14" href="$structAAIsDeadReturned.html" title=" " alt="" coords="550,683,694,709"/>
+<area shape="rect" id="node12" href="$structAAIsDeadArgument.html" title=" " alt="" coords="283,759,433,785"/>
+<area shape="rect" id="node13" href="$structAAIsDeadCallSiteReturned.html" title=" " alt="" coords="457,759,651,785"/>
+</map>

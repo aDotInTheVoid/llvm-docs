@@ -1,0 +1,7 @@
+<map id="llvm::ShouldNotRunFunctionPassesAnalysis" name="llvm::ShouldNotRunFunctionPassesAnalysis">
+<area shape="rect" id="node1" title=" " alt="" coords="120,333,327,375"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="5,215,233,271"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="39,5,189,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="136,96,311,137"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisKey.html" title="A special type used by analysis passes to provide an address that identifies that particular analysis..." alt="" coords="258,229,397,256"/>
+</map>

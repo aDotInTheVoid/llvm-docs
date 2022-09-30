@@ -1,0 +1,22 @@
+<map id="include/llvm/MCA" name="include/llvm/MCA">
+<area shape="rect" id="node1" href="dir_32453792af2ba70c54e3ccae3a790d1b.html" title="ADT" alt="" coords="84,447,156,495"/>
+<area shape="rect" id="node3" href="dir_ae1e398ac700924fa434b51c248a5531.html" title="Support" alt="" coords="145,543,217,591"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000007_000060.html" title="78" alt="" coords="146,516,163,530"/>
+<area shape="rect" id="node2" href="dir_3c463fb0a03f5ca9e2abd53334bc8356.html" title="MC" alt="" coords="128,351,200,399"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000056_000007.html" title="107" alt="" coords="133,426,159,441"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000056_000060.html" title="56" alt="" coords="177,516,195,531"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000060_000007.html" title="211" alt="" coords="134,507,160,522"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000050_000060.html" title="10" alt="" coords="204,524,221,538"/>
+<area shape="rect" id="node5" href="dir_6174df76bdd178a8864b056604028b30.html" title="HardwareUnits" alt="" coords="54,255,173,303"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000050_000059.html" title="9" alt="" coords="98,227,108,242"/>
+<area shape="rect" id="node6" href="dir_fbe0f53625974d46f52f6f50f19f6681.html" title="Stages" alt="" coords="101,159,173,207"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000050_000061.html" title="1" alt="" coords="141,133,150,148"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000059_000007.html" title="7" alt="" coords="121,420,131,435"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000059_000056.html" title="7" alt="" coords="146,323,155,338"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000061_000007.html" title="5" alt="" coords="90,419,99,434"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000061_000056.html" title="3" alt="" coords="184,329,193,344"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000061_000060.html" title="1" alt="" coords="197,520,207,535"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000061_000059.html" title="8" alt="" coords="127,232,137,246"/>
+<area shape="rect" id="clust2" href="dir_e10184ddeeb4432dba6c949335d8ab8d.html" alt="" coords="43,52,184,313"/>
+<area shape="rect" id="clust1" href="dir_dcde91663b8816e1e2311938ccd8f690.html" title="llvm" alt="" coords="16,16,264,601"/>
+</map>

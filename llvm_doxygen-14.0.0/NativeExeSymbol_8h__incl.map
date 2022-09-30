@@ -1,0 +1,52 @@
+<map id="include/llvm/DebugInfo/PDB/Native/NativeExeSymbol.h" name="include/llvm/DebugInfo/PDB/Native/NativeExeSymbol.h">
+<area shape="rect" id="node1" title=" " alt="" coords="717,5,947,47"/>
+<area shape="rect" id="node2" href="$NativeRawSymbol_8h.html" title=" " alt="" coords="16,273,221,315"/>
+<area shape="rect" id="node26" href="$NativeSession_8h.html" title=" " alt="" coords="1575,95,1753,136"/>
+<area shape="rect" id="node3" href="$IPDBRawSymbol_8h.html" title=" " alt="" coords="3363,363,3517,404"/>
+<area shape="rect" id="node12" title=" " alt="" coords="861,705,928,732"/>
+<area shape="rect" id="node24" title=" " alt="" coords="296,631,373,657"/>
+<area shape="rect" id="node4" href="$PDBTypes_8h.html" title=" " alt="" coords="3264,459,3363,486"/>
+<area shape="rect" id="node5" href="$CodeView_8h.html" title=" " alt="" coords="2643,541,2834,583"/>
+<area shape="rect" id="node15" href="$BitmaskEnum_8h.html" title=" " alt="" coords="3632,549,3821,575"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title=" " alt="" coords="3131,549,3306,575"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3109,705,3179,732"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4077,705,4144,732"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1062,631,1149,657"/>
+<area shape="rect" id="node6" title=" " alt="" coords="853,631,936,657"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3953,705,4045,732"/>
+<area shape="rect" id="node8" href="$Endian_8h.html" title=" " alt="" coords="2504,631,2669,657"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title=" " alt="" coords="5077,705,5256,732"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1893,705,1963,732"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2335,705,2395,732"/>
+<area shape="rect" id="node17" href="$MathExtras_8h.html" title=" " alt="" coords="4021,631,4216,657"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3267,705,3325,732"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title=" " alt="" coords="4939,631,5130,657"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2845,631,2931,657"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3633,631,3743,657"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3435,631,3506,657"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2955,631,3005,657"/>
+<area shape="rect" id="node27" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="3846,549,4013,575"/>
+<area shape="rect" id="node33" href="$StringRef_8h.html" title=" " alt="" coords="2259,549,2416,575"/>
+<area shape="rect" id="node37" href="$TypeIndex_8h.html" title=" " alt="" coords="955,541,1146,583"/>
+<area shape="rect" id="node38" href="$IPDBSession_8h.html" title=" " alt="" coords="3135,184,3289,225"/>
+<area shape="rect" id="node41" href="$SymbolCache_8h.html" title=" " alt="" coords="1250,184,1425,225"/>
+<area shape="rect" id="node43" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="2960,459,3139,486"/>
+<area shape="rect" id="node48" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="1299,459,1450,486"/>
+<area shape="rect" id="node28" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="1832,631,2024,657"/>
+<area shape="rect" id="node29" href="$EpochTracker_8h.html" title="This file defines the DebugEpochBase and DebugEpochBase::HandleBase classes." alt="" coords="1625,631,1807,657"/>
+<area shape="rect" id="node30" href="$AlignOf_8h.html" title=" " alt="" coords="4696,631,4864,657"/>
+<area shape="rect" id="node31" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="5205,631,5392,657"/>
+<area shape="rect" id="node32" href="$ReverseIteration_8h.html" title=" " alt="" coords="4341,631,4571,657"/>
+<area shape="rect" id="node34" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="2099,631,2328,657"/>
+<area shape="rect" id="node35" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="1358,631,1549,657"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1173,631,1232,657"/>
+<area shape="rect" id="node39" href="$PDBSymbol_8h.html" title=" " alt="" coords="3291,281,3402,307"/>
+<area shape="rect" id="node40" href="$Casting_8h.html" title=" " alt="" coords="4816,549,4987,575"/>
+<area shape="rect" id="node42" href="$IntervalMap_8h.html" title="This file implements a coalescing interval map for small objects." alt="" coords="2809,370,2985,397"/>
+<area shape="rect" id="node44" href="$Line_8h.html" title=" " alt="" coords="902,452,1093,493"/>
+<area shape="rect" id="node45" href="$SymbolRecord_8h.html" title=" " alt="" coords="1526,452,1717,493"/>
+<area shape="rect" id="node46" href="$TypeDeserializer_8h.html" title=" " alt="" coords="1033,363,1223,404"/>
+<area shape="rect" id="node47" href="$TypeRecord_8h.html" title=" " alt="" coords="2434,452,2625,493"/>
+<area shape="rect" id="node49" href="$ModuleDebugStream_8h.html" title=" " alt="" coords="1299,363,1522,404"/>
+<area shape="rect" id="node50" href="$NativeSourceFile_8h.html" title=" " alt="" coords="1080,273,1275,315"/>
+</map>

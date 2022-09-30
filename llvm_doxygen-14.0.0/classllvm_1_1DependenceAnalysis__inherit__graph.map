@@ -1,0 +1,6 @@
+<map id="llvm::DependenceAnalysis" name="llvm::DependenceAnalysis">
+<area shape="rect" id="node1" title="AnalysisPass to compute dependence information in a function." alt="" coords="5,291,200,317"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="9,200,197,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="23,5,172,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="119,96,294,137"/>
+</map>

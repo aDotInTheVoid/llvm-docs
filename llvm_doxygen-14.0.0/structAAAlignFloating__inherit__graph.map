@@ -1,0 +1,11 @@
+<map id="AAAlignFloating" name="AAAlignFloating">
+<area shape="rect" id="node1" title="Align attribute for a floating value." alt="" coords="1216,60,1343,87"/>
+<area shape="rect" id="node9" href="$structAAAlignCallSiteArgument.html" title=" " alt="" coords="1392,60,1579,87"/>
+<area shape="rect" id="node2" href="$structAAAlignImpl.html" title=" " alt="" coords="1064,60,1167,87"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AAAlign.html" title="An abstract interface for all align attributes." alt="" coords="904,60,1015,87"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="605,38,855,109"/>
+<area shape="rect" id="node5" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute." alt="" coords="139,85,329,126"/>
+<area shape="rect" id="node6" href="$classBaseType.html" title=" " alt="" coords="5,35,89,61"/>
+<area shape="rect" id="node8" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="164,19,304,61"/>
+<area shape="rect" id="node7" href="$classStateTy.html" title=" " alt="" coords="12,93,83,120"/>
+</map>

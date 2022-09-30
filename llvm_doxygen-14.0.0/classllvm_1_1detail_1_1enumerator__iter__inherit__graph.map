@@ -1,0 +1,5 @@
+<map id="llvm::detail::enumerator_iter&lt; R &gt;" name="llvm::detail::enumerator_iter&lt; R &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="771,29,951,70"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="501,14,721,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,14,255,85"/>
+</map>

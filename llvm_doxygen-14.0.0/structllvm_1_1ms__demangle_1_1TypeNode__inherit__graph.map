@@ -1,0 +1,12 @@
+<map id="llvm::ms_demangle::TypeNode" name="llvm::ms_demangle::TypeNode">
+<area shape="rect" id="node1" title=" " alt="" coords="247,201,405,243"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1ArrayTypeNode.html" title=" " alt="" coords="461,5,619,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ms__demangle_1_1CustomTypeNode.html" title=" " alt="" coords="461,71,619,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ms__demangle_1_1FunctionSignatureNode.html" title=" " alt="" coords="453,136,627,177"/>
+<area shape="rect" id="node7" href="$structllvm_1_1ms__demangle_1_1IntrinsicNode.html" title=" " alt="" coords="461,201,619,243"/>
+<area shape="rect" id="node8" href="$structllvm_1_1ms__demangle_1_1PointerTypeNode.html" title=" " alt="" coords="461,267,619,308"/>
+<area shape="rect" id="node9" href="$structllvm_1_1ms__demangle_1_1PrimitiveTypeNode.html" title=" " alt="" coords="461,332,619,373"/>
+<area shape="rect" id="node10" href="$structllvm_1_1ms__demangle_1_1TagTypeNode.html" title=" " alt="" coords="461,397,619,439"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1Node.html" title=" " alt="" coords="5,209,199,235"/>
+<area shape="rect" id="node6" href="$structllvm_1_1ms__demangle_1_1ThunkSignatureNode.html" title=" " alt="" coords="675,136,833,177"/>
+</map>

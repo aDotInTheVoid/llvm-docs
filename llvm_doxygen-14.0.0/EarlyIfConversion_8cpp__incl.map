@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/EarlyIfConversion.cpp" name="lib/CodeGen/EarlyIfConversion.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2774,5,3021,32"/>
+<area shape="rect" id="node2" href="$BitVector_8h.html" title="This file implements the BitVector class." alt="" coords="3250,355,3406,382"/>
+<area shape="rect" id="node24" href="$PostOrderIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build a generic graph post order iterator." alt="" coords="704,437,913,464"/>
+<area shape="rect" id="node26" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="896,512,1070,539"/>
+<area shape="rect" id="node30" href="$SetVector_8h.html" title="This file implements a set that has insertion order iteration characteristics." alt="" coords="1073,355,1232,382"/>
+<area shape="rect" id="node32" href="$SparseSet_8h.html" title="This file defines the SparseSet class derived from the version described in Briggs,..." alt="" coords="2698,437,2860,464"/>
+<area shape="rect" id="node33" href="$Statistic_8h.html" title="This file defines the &#39;Statistic&#39; class, which is designed to be an easy way to expose various metric..." alt="" coords="45,437,196,464"/>
+<area shape="rect" id="node34" href="$MachineBranchProbabilityInfo_8h.html" title=" " alt="" coords="4887,259,5106,300"/>
+<area shape="rect" id="node35" href="$MachineDominators_8h.html" title=" " alt="" coords="2935,87,3196,114"/>
+<area shape="rect" id="node36" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="3530,169,3758,211"/>
+<area shape="rect" id="node37" href="$MachineFunction_8h.html" title=" " alt="" coords="3530,266,3770,293"/>
+<area shape="rect" id="node38" href="$MachineInstr_8h.html" title=" " alt="" coords="4063,437,4276,464"/>
+<area shape="rect" id="node39" href="$MachineLoopInfo_8h.html" title=" " alt="" coords="3554,80,3758,121"/>
+<area shape="rect" id="node40" href="$MachineOptimizationRemarkEmitter_8h.html" title="===&#45; MachineOptimizationRemarkEmitter.h &#45; Opt Diagnostics &#45;*&#45; C++ &#45;*&#45;—===//" alt="" coords="3221,80,3478,121"/>
+<area shape="rect" id="node41" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="2022,169,2248,211"/>
+<area shape="rect" id="node42" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="2816,348,3028,389"/>
+<area shape="rect" id="node43" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1723,348,1944,389"/>
+<area shape="rect" id="node44" href="$MachineTraceMetrics_8h.html" title=" " alt="" coords="2180,80,2386,121"/>
+<area shape="rect" id="node45" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="3834,87,4009,114"/>
+<area shape="rect" id="node46" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="3946,169,4132,211"/>
+<area shape="rect" id="node47" href="$InitializePasses_8h.html" title=" " alt="" coords="4085,87,4252,114"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title=" " alt="" coords="1382,355,1597,382"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title=" " alt="" coords="2365,437,2572,464"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title=" " alt="" coords="4532,87,4695,114"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title=" " alt="" coords="1882,437,2036,464"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2853,736,2913,763"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2608,587,2694,613"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2711,661,2780,688"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2276,587,2341,613"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2518,587,2584,613"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3258,587,3449,613"/>
+<area shape="rect" id="node19" title=" " alt="" coords="4248,661,4315,688"/>
+<area shape="rect" id="node21" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="4114,512,4306,539"/>
+<area shape="rect" id="node22" href="$MathExtras_8h.html" title=" " alt="" coords="2836,512,3031,539"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3079,587,3146,613"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title=" " alt="" coords="1978,512,2153,539"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title=" " alt="" coords="548,736,727,763"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1649,587,1720,613"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1361,587,1472,613"/>
+<area shape="rect" id="node14" title=" " alt="" coords="478,587,549,613"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="1639,512,1802,539"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1450,512,1513,539"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title=" " alt="" coords="830,661,1021,688"/>
+<area shape="rect" id="node16" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="980,587,1133,613"/>
+<area shape="rect" id="node17" href="$identity_8h.html" title=" " alt="" coords="2054,587,2200,613"/>
+<area shape="rect" id="node25" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="3309,512,3481,539"/>
+<area shape="rect" id="node29" title=" " alt="" coords="474,512,516,539"/>
+<area shape="rect" id="node27" href="$EpochTracker_8h.html" title="This file defines the DebugEpochBase and DebugEpochBase::HandleBase classes." alt="" coords="1796,587,1978,613"/>
+<area shape="rect" id="node28" href="$ReverseIteration_8h.html" title=" " alt="" coords="675,587,904,613"/>
+<area shape="rect" id="node31" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="988,437,1148,464"/>
+</map>

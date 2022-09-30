@@ -1,0 +1,5 @@
+<map id="llvm::AssemblyAnnotationWriter" name="llvm::AssemblyAnnotationWriter">
+<area shape="rect" id="node1" title=" " alt="" coords="119,5,313,47"/>
+<area shape="rect" id="node2" href="$classStackLifetime_1_1LifetimeAnnotationWriter.html" title=" " alt="" coords="5,95,200,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PredicateInfoAnnotatedWriter.html" title="An assembly annotator class to print PredicateInfo information in comments." alt="" coords="225,95,437,136"/>
+</map>

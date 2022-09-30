@@ -1,0 +1,4 @@
+<map id="llvm::BTFTypeFloat" name="llvm::BTFTypeFloat">
+<area shape="rect" id="node1" title="Handle binary floating point type." alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BTFTypeBase.html" title="The base class for BTF type generation." alt="" coords="6,5,151,32"/>
+</map>

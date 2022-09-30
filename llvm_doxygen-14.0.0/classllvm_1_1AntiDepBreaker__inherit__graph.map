@@ -1,0 +1,5 @@
+<map id="llvm::AntiDepBreaker" name="llvm::AntiDepBreaker">
+<area shape="rect" id="node1" title="This class works in conjunction with the post&#45;RA scheduler to rename registers to break register anti..." alt="" coords="163,5,324,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AggressiveAntiDepBreaker.html" title=" " alt="" coords="5,80,239,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CriticalAntiDepBreaker.html" title=" " alt="" coords="263,80,469,107"/>
+</map>

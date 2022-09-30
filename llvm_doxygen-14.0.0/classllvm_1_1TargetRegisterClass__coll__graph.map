@@ -1,0 +1,14 @@
+<map id="llvm::TargetRegisterClass" name="llvm::TargetRegisterClass">
+<area shape="rect" id="node1" title=" " alt="" coords="683,257,871,284"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="320,7,543,33"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="5,7,160,33"/>
+<area shape="rect" id="node4" title=" " alt="" coords="366,57,497,84"/>
+<area shape="rect" id="node5" title=" " alt="" coords="45,156,120,183"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MCRegisterClass.html" title="MCRegisterClass &#45; Base class of TargetRegisterClass." alt="" coords="347,317,516,344"/>
+<area shape="rect" id="node7" title=" " alt="" coords="53,327,112,353"/>
+<area shape="rect" id="node8" title=" " alt="" coords="45,261,120,288"/>
+<area shape="rect" id="node9" href="$classbool.html" title=" " alt="" coords="57,472,108,499"/>
+<area shape="rect" id="node10" title=" " alt="" coords="49,396,116,423"/>
+<area shape="rect" id="node11" href="$structllvm_1_1LaneBitmask.html" title=" " alt="" coords="359,556,503,583"/>
+<area shape="rect" id="node12" title=" " alt="" coords="57,556,108,583"/>
+</map>

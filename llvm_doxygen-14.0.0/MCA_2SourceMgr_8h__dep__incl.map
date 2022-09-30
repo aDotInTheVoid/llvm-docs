@@ -1,0 +1,15 @@
+<map id="include/llvm/MCA/SourceMgr.h" name="include/llvm/MCA/SourceMgr.h">
+<area shape="rect" id="node1" title="This file implements class SourceMgr." alt="" coords="811,5,1031,32"/>
+<area shape="rect" id="node2" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="903,177,1105,203"/>
+<area shape="rect" id="node4" href="$CustomBehaviour_8h.html" title="This file defines the base class CustomBehaviour which can be inherited from by specific targets (ex." alt="" coords="492,87,759,114"/>
+<area shape="rect" id="node5" href="$InOrderIssueStage_8h.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="695,169,879,211"/>
+<area shape="rect" id="node12" href="$EntryStage_8h.html" title="This file defines the Entry stage of an instruction pipeline." alt="" coords="1051,80,1235,121"/>
+<area shape="rect" id="node3" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="927,266,1081,293"/>
+<area shape="rect" id="node7" href="$CustomBehaviour_8cpp.html" title="This file implements methods from the CustomBehaviour interface." alt="" coords="249,177,468,203"/>
+<area shape="rect" id="node8" href="$AMDGPUCustomBehaviour_8h.html" title="This file defines the AMDGPUCustomBehaviour class which inherits from CustomBehaviour." alt="" coords="13,169,225,211"/>
+<area shape="rect" id="node10" href="$X86CustomBehaviour_8h.html" title="This file defines the X86CustomBehaviour class which inherits from CustomBehaviour." alt="" coords="492,169,671,211"/>
+<area shape="rect" id="node6" href="$InOrderIssueStage_8cpp.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="689,259,895,300"/>
+<area shape="rect" id="node9" href="$AMDGPUCustomBehaviour_8cpp.html" title="This file implements methods from the AMDGPUCustomBehaviour class." alt="" coords="5,259,232,300"/>
+<area shape="rect" id="node11" href="$X86CustomBehaviour_8cpp.html" title="This file implements methods from the X86CustomBehaviour class." alt="" coords="471,259,665,300"/>
+<area shape="rect" id="node13" href="$EntryStage_8cpp.html" title="This file defines the Fetch stage of an instruction pipeline." alt="" coords="1181,177,1403,203"/>
+</map>

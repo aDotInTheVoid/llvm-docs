@@ -1,0 +1,4 @@
+<map id="lib/Target/AMDGPU/MCA/AMDGPUCustomBehaviour.h" name="lib/Target/AMDGPU/MCA/AMDGPUCustomBehaviour.h">
+<area shape="rect" id="node1" title="This file defines the AMDGPUCustomBehaviour class which inherits from CustomBehaviour." alt="" coords="13,5,225,47"/>
+<area shape="rect" id="node2" href="$AMDGPUCustomBehaviour_8cpp.html" title="This file implements methods from the AMDGPUCustomBehaviour class." alt="" coords="5,95,232,136"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Target/WebAssembly/WebAssemblyMachineFunctionInfo.h" name="lib/Target/WebAssembly/WebAssemblyMachineFunctionInfo.h">
+<area shape="rect" id="node1" title="This file declares WebAssembly&#45;specific per&#45;machine&#45;function information." alt="" coords="1659,5,1925,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions." alt="" coords="905,95,1116,136"/>
+<area shape="rect" id="node33" href="$MIRYamlMapping_8h.html" title=" " alt="" coords="1333,266,1574,293"/>
+<area shape="rect" id="node38" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="3300,259,3527,300"/>
+<area shape="rect" id="node49" href="$MCSymbolWasm_8h.html" title=" " alt="" coords="2912,445,3115,471"/>
+<area shape="rect" id="node3" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget." alt="" coords="629,184,830,211"/>
+<area shape="rect" id="node16" title=" " alt="" coords="804,780,881,807"/>
+<area shape="rect" id="node20" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="616,705,805,732"/>
+<area shape="rect" id="node26" title=" " alt="" coords="461,355,678,382"/>
+<area shape="rect" id="node30" href="$BinaryFormat_2Wasm_8h.html" title=" " alt="" coords="2966,534,3165,561"/>
+<area shape="rect" id="node31" href="$MCInstrDesc_8h.html" title=" " alt="" coords="1235,184,1410,211"/>
+<area shape="rect" id="node32" title=" " alt="" coords="968,184,1211,211"/>
+<area shape="rect" id="node4" href="$WebAssemblyFrameLowering_8h.html" title="This class implements WebAssembly&#45;specific bits of TargetFrameLowering class." alt="" coords="1645,266,1872,293"/>
+<area shape="rect" id="node18" title=" " alt="" coords="423,780,481,807"/>
+<area shape="rect" id="node23" href="$WebAssemblyISelLowering_8h.html" title="This file defines the interfaces that WebAssembly uses to lower LLVM code into a selection DAG." alt="" coords="94,266,303,293"/>
+<area shape="rect" id="node24" href="$WebAssemblyInstrInfo_8h.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class." alt="" coords="969,266,1149,293"/>
+<area shape="rect" id="node27" href="$WebAssemblySelectionDAGInfo_8h.html" title="This file defines the WebAssembly subclass for SelectionDAGTargetInfo." alt="" coords="328,266,568,293"/>
+<area shape="rect" id="node28" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="2416,527,2637,568"/>
+<area shape="rect" id="node29" title=" " alt="" coords="592,266,843,293"/>
+<area shape="rect" id="node5" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="1697,348,1895,389"/>
+<area shape="rect" id="node6" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2183,437,2391,479"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1430,705,1493,732"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="4262,780,4453,807"/>
+<area shape="rect" id="node9" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="2163,534,2341,561"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2341,780,2411,807"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3641,780,3711,807"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3797,705,3864,732"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3877,855,3937,881"/>
+<area shape="rect" id="node10" href="$raw__ostream_8h.html" title=" " alt="" coords="1985,623,2191,650"/>
+<area shape="rect" id="node11" href="$SmallVector_8h.html" title=" " alt="" coords="3335,705,3510,732"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3306,780,3377,807"/>
+<area shape="rect" id="node17" href="$StringRef_8h.html" title=" " alt="" coords="2657,705,2815,732"/>
+<area shape="rect" id="node19" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="1009,705,1162,732"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3531,780,3616,807"/>
+<area shape="rect" id="node25" href="$ArrayRef_8h.html" title=" " alt="" coords="3315,623,3469,650"/>
+<area shape="rect" id="node34" href="$MachineJumpTableInfo_8h.html" title=" " alt="" coords="1033,616,1239,657"/>
+<area shape="rect" id="node35" href="$SMLoc_8h.html" title=" " alt="" coords="779,534,941,561"/>
+<area shape="rect" id="node36" href="$YAMLTraits_8h.html" title=" " alt="" coords="1201,445,1391,471"/>
+<area shape="rect" id="node37" href="$BitVector_8h.html" title="This file implements the BitVector class." alt="" coords="3931,534,4087,561"/>
+<area shape="rect" id="node39" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="3093,705,3259,732"/>
+<area shape="rect" id="node40" href="$IndexedMap_8h.html" title="This file implements an indexed map." alt="" coords="2419,623,2597,650"/>
+<area shape="rect" id="node41" href="$PointerUnion_8h.html" title="This file defines the PointerUnion class, which is a discriminated union of pointer types." alt="" coords="3950,623,4133,650"/>
+<area shape="rect" id="node42" href="$StringSet_8h.html" title="StringSet &#45; A set&#45;like wrapper for the StringMap." alt="" coords="4360,355,4517,382"/>
+<area shape="rect" id="node43" href="$RegisterBank_8h.html" title=" " alt="" coords="3949,437,4133,479"/>
+<area shape="rect" id="node44" href="$LowLevelType_8h.html" title="Implement a low&#45;level type suitable for MachineInstr level instruction selection." alt="" coords="4676,355,4897,382"/>
+<area shape="rect" id="node45" href="$MachineFunction_8h.html" title=" " alt="" coords="3043,355,3283,382"/>
+<area shape="rect" id="node46" href="$MachineInstrBundle_8h.html" title=" " alt="" coords="2275,348,2477,389"/>
+<area shape="rect" id="node47" href="$MachineOperand_8h.html" title=" " alt="" coords="1720,623,1960,650"/>
+<area shape="rect" id="node48" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="3307,348,3519,389"/>
+<area shape="rect" id="node50" href="$MCSymbol_8h.html" title=" " alt="" coords="2925,623,3088,650"/>
+</map>

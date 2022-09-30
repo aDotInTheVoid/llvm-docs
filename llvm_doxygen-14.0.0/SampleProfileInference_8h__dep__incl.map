@@ -1,0 +1,7 @@
+<map id="include/llvm/Transforms/Utils/SampleProfileInference.h" name="include/llvm/Transforms/Utils/SampleProfileInference.h">
+<area shape="rect" id="node1" title="This file provides the interface for the profile inference algorithm, profi." alt="" coords="236,5,459,47"/>
+<area shape="rect" id="node2" href="$SampleProfileLoaderBaseImpl_8h.html" title="This file provides the interface for the sampled PGO profile loader base implementation." alt="" coords="83,95,310,151"/>
+<area shape="rect" id="node4" href="$SampleProfile_8cpp.html" title=" " alt="" coords="276,199,419,240"/>
+<area shape="rect" id="node5" href="$SampleProfileInference_8cpp.html" title=" " alt="" coords="385,102,589,143"/>
+<area shape="rect" id="node3" href="$MIRSampleProfile_8cpp.html" title=" " alt="" coords="5,206,252,233"/>
+</map>

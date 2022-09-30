@@ -1,0 +1,4 @@
+<map id="llvm::orc::InPlaceTaskDispatcher" name="llvm::orc::InPlaceTaskDispatcher">
+<area shape="rect" id="node1" title="Runs all tasks on the current thread." alt="" coords="5,80,239,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1TaskDispatcher.html" title="Abstract base for classes that dispatch ORC Tasks." alt="" coords="29,5,215,32"/>
+</map>

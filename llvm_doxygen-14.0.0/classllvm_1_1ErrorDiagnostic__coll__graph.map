@@ -1,0 +1,7 @@
+<map id="llvm::ErrorDiagnostic" name="llvm::ErrorDiagnostic">
+<area shape="rect" id="node1" title="Class to represent an error holding a diagnostic with location information used when printing it." alt="" coords="134,275,293,301"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,185,251,212"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="49,5,196,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="145,81,319,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="275,185,325,212"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/MIRNamerPass.cpp" name="lib/CodeGen/MIRNamerPass.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1679,5,1909,32"/>
+<area shape="rect" id="node2" href="$MIRVRegNamerUtils_8h.html" title=" " alt="" coords="708,423,875,449"/>
+<area shape="rect" id="node8" href="$PostOrderIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build a generic graph post order iterator." alt="" coords="559,572,768,599"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="2634,647,2797,673"/>
+<area shape="rect" id="node35" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="1213,80,1441,121"/>
+<area shape="rect" id="node43" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="3565,80,3767,121"/>
+<area shape="rect" id="node48" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="1466,80,1693,121"/>
+<area shape="rect" id="node49" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="1909,497,2084,524"/>
+<area shape="rect" id="node50" href="$InitializePasses_8h.html" title=" " alt="" coords="4657,87,4824,114"/>
+<area shape="rect" id="node3" href="$Register_8h.html" title=" " alt="" coords="3740,497,3923,524"/>
+<area shape="rect" id="node5" title=" " alt="" coords="766,497,817,524"/>
+<area shape="rect" id="node6" title=" " alt="" coords="772,647,835,673"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1850,572,1909,599"/>
+<area shape="rect" id="node4" title=" " alt="" coords="3427,796,3497,823"/>
+<area shape="rect" id="node9" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="255,647,427,673"/>
+<area shape="rect" id="node10" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="284,796,475,823"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1043,871,1103,897"/>
+<area shape="rect" id="node12" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="3273,721,3427,748"/>
+<area shape="rect" id="node15" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="961,647,1136,673"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1179,796,1249,823"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title=" " alt="" coords="1263,647,1437,673"/>
+<area shape="rect" id="node25" title=" " alt="" coords="603,647,646,673"/>
+<area shape="rect" id="node13" href="$STLForwardCompat_8h.html" title="This file contains library features backported from future STL versions." alt="" coords="4658,796,4882,823"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4799,871,4891,897"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1780,796,1851,823"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1111,721,1176,748"/>
+<area shape="rect" id="node18" title=" " alt="" coords="924,721,1035,748"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3451,721,3537,748"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1879,721,1965,748"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2193,721,2251,748"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1675,721,1753,748"/>
+<area shape="rect" id="node27" href="$STLArrayExtras_8h.html" title=" " alt="" coords="2428,721,2627,748"/>
+<area shape="rect" id="node28" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="4657,721,4886,748"/>
+<area shape="rect" id="node29" title=" " alt="" coords="4358,796,4425,823"/>
+<area shape="rect" id="node30" href="$identity_8h.html" title=" " alt="" coords="2753,721,2899,748"/>
+<area shape="rect" id="node31" href="$iterator_8h.html" title=" " alt="" coords="1353,721,1499,748"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2923,721,3118,748"/>
+<area shape="rect" id="node33" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3763,721,3974,748"/>
+<area shape="rect" id="node34" title=" " alt="" coords="3143,721,3197,748"/>
+<area shape="rect" id="node36" href="$MachineFunction_8h.html" title=" " alt="" coords="1123,177,1363,203"/>
+<area shape="rect" id="node42" href="$Pass_8h.html" title=" " alt="" coords="1438,266,1534,293"/>
+<area shape="rect" id="node37" href="$ArrayRef_8h.html" title=" " alt="" coords="1671,572,1826,599"/>
+<area shape="rect" id="node38" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1763,259,1971,300"/>
+<area shape="rect" id="node39" href="$MachineInstr_8h.html" title=" " alt="" coords="3913,348,4126,375"/>
+<area shape="rect" id="node40" href="$MachineOperand_8h.html" title=" " alt="" coords="3633,423,3873,449"/>
+<area shape="rect" id="node41" href="$Intrinsics_8h.html" title=" " alt="" coords="3017,497,3160,524"/>
+<area shape="rect" id="node44" href="$llvm_2CodeGen_2GlobalISel_2Utils_8h.html" title=" " alt="" coords="3849,169,4033,211"/>
+<area shape="rect" id="node45" href="$MachineInstrBundle_8h.html" title=" " alt="" coords="1718,169,1921,211"/>
+<area shape="rect" id="node46" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="2047,169,2259,211"/>
+<area shape="rect" id="node47" href="$InstrTypes_8h.html" title=" " alt="" coords="3184,497,3335,524"/>
+</map>

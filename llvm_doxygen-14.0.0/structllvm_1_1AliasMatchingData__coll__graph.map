@@ -1,0 +1,10 @@
+<map id="llvm::AliasMatchingData" name="llvm::AliasMatchingData">
+<area shape="rect" id="node1" title="Tablegenerated data structures needed to match alias patterns." alt="" coords="749,143,932,170"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="401,5,568,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="5,78,160,105"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="405,71,565,112"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="405,136,565,177"/>
+<area shape="rect" id="node5" href="$classbool.html" title=" " alt="" coords="459,202,510,229"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="425,253,544,279"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title=" " alt="" coords="53,253,113,279"/>
+</map>

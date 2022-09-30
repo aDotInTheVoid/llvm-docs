@@ -1,0 +1,11 @@
+<map id="llvm::ClassInfo::MemberInfo" name="llvm::ClassInfo::MemberInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,743,212,769"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="18,653,93,680"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DIDerivedType.html" title="Derived types." alt="" coords="117,653,271,680"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DIType.html" title="Base class for types." alt="" coords="225,577,328,604"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts." alt="" coords="253,501,365,528"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node." alt="" coords="317,358,423,385"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="290,215,405,241"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="251,139,372,165"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title=" " alt="" coords="136,5,217,32"/>
+</map>

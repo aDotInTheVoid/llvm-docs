@@ -1,0 +1,5 @@
+<map id="llvm::SmallPriorityWorklist&lt; T, N &gt;" name="llvm::SmallPriorityWorklist&lt; T, N &gt;">
+<area shape="rect" id="node1" title="A version of PriorityWorklist that selects small size optimized data structures for the vector and ma..." alt="" coords="39,244,235,285"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PriorityWorklist.html" title=" " alt="" coords="5,139,268,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PriorityWorklist.html" title="A FILO worklist that prioritizes on re&#45;insertion without duplication." alt="" coords="56,5,217,47"/>
+</map>

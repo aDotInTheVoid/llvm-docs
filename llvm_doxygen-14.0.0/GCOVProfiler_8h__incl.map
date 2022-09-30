@@ -1,0 +1,52 @@
+<map id="include/llvm/Transforms/Instrumentation/GCOVProfiler.h" name="include/llvm/Transforms/Instrumentation/GCOVProfiler.h">
+<area shape="rect" id="node1" title="This file provides the interface for the GCOV style profiler pass." alt="" coords="4269,5,4499,47"/>
+<area shape="rect" id="node2" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="3430,95,3599,121"/>
+<area shape="rect" id="node50" href="$Instrumentation_8h.html" title=" " alt="" coords="4789,244,5035,271"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="4359,319,4526,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="4367,468,4436,495"/>
+<area shape="rect" id="node8" title=" " alt="" coords="550,468,605,495"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1902,543,1962,569"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3381,543,3473,569"/>
+<area shape="rect" id="node16" title=" " alt="" coords="5713,468,5780,495"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1418,468,1489,495"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="1441,319,1604,345"/>
+<area shape="rect" id="node36" title=" " alt="" coords="296,393,373,420"/>
+<area shape="rect" id="node37" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="3131,319,3306,345"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title=" " alt="" coords="3804,319,3961,345"/>
+<area shape="rect" id="node40" href="$TinyPtrVector_8h.html" title=" " alt="" coords="2275,393,2459,420"/>
+<area shape="rect" id="node41" href="$Function_8h.html" title=" " alt="" coords="3604,244,3743,271"/>
+<area shape="rect" id="node43" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="3449,169,3581,196"/>
+<area shape="rect" id="node44" title=" " alt="" coords="5102,319,5165,345"/>
+<area shape="rect" id="node45" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="5241,244,5458,271"/>
+<area shape="rect" id="node46" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="310,244,530,271"/>
+<area shape="rect" id="node47" href="$TimeProfiler_8h.html" title=" " alt="" coords="2499,169,2698,196"/>
+<area shape="rect" id="node48" href="$TypeName_8h.html" title=" " alt="" coords="3921,169,4111,196"/>
+<area shape="rect" id="node49" title=" " alt="" coords="5123,169,5165,196"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="3603,393,3795,420"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1914,468,1985,495"/>
+<area shape="rect" id="node10" href="$EpochTracker_8h.html" title="This file defines the DebugEpochBase and DebugEpochBase::HandleBase classes." alt="" coords="3294,393,3477,420"/>
+<area shape="rect" id="node12" href="$AlignOf_8h.html" title=" " alt="" coords="4541,468,4709,495"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title=" " alt="" coords="5323,543,5501,569"/>
+<area shape="rect" id="node15" href="$MathExtras_8h.html" title=" " alt="" coords="5101,393,5296,420"/>
+<area shape="rect" id="node18" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="5371,393,5557,420"/>
+<area shape="rect" id="node21" href="$ReverseIteration_8h.html" title=" " alt="" coords="3040,393,3269,420"/>
+<area shape="rect" id="node22" href="$type__traits_8h.html" title=" " alt="" coords="3893,468,4083,495"/>
+<area shape="rect" id="node23" title=" " alt="" coords="4352,393,4437,420"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2038,393,2149,420"/>
+<area shape="rect" id="node26" title=" " alt="" coords="4257,468,4306,495"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3507,468,3573,495"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3136,468,3331,495"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4959,468,5017,495"/>
+<area shape="rect" id="node19" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="5236,468,5447,495"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1187,468,1253,495"/>
+<area shape="rect" id="node28" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="3921,393,4074,420"/>
+<area shape="rect" id="node29" href="$STLForwardCompat_8h.html" title="This file contains library features backported from future STL versions." alt="" coords="2888,468,3112,495"/>
+<area shape="rect" id="node30" href="$STLArrayExtras_8h.html" title=" " alt="" coords="1611,393,1810,420"/>
+<area shape="rect" id="node31" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="2736,393,2965,420"/>
+<area shape="rect" id="node32" href="$identity_8h.html" title=" " alt="" coords="701,393,848,420"/>
+<area shape="rect" id="node33" href="$iterator_8h.html" title=" " alt="" coords="1238,393,1383,420"/>
+<area shape="rect" id="node34" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="819,468,1010,495"/>
+<area shape="rect" id="node35" title=" " alt="" coords="873,393,959,420"/>
+<area shape="rect" id="node39" title=" " alt="" coords="4867,393,4925,420"/>
+<area shape="rect" id="node42" href="$BasicBlock_8h.html" title=" " alt="" coords="1987,319,2141,345"/>
+</map>

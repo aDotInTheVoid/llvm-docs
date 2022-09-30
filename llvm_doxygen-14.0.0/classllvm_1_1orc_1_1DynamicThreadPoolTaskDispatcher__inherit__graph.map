@@ -1,0 +1,4 @@
+<map id="llvm::orc::DynamicThreadPoolTaskDispatcher" name="llvm::orc::DynamicThreadPoolTaskDispatcher">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1TaskDispatcher.html" title="Abstract base for classes that dispatch ORC Tasks." alt="" coords="7,5,194,32"/>
+</map>

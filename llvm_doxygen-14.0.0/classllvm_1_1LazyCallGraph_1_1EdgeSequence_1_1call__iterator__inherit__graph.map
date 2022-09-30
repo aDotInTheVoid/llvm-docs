@@ -1,0 +1,7 @@
+<map id="llvm::LazyCallGraph::EdgeSequence::call_iterator" name="llvm::LazyCallGraph::EdgeSequence::call_iterator">
+<area shape="rect" id="node1" title="An iterator over specifically call edges." alt="" coords="2223,121,2379,177"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="1971,114,2173,184"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,208,255,279"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="852,192,1423,468"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1472,191,1747,262"/>
+</map>

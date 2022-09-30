@@ -1,0 +1,6 @@
+<map id="llvm::IRSimilarity::IRInstructionMapper::InstructionClassification" name="llvm::IRSimilarity::IRInstructionMapper::InstructionClassification">
+<area shape="rect" id="node1" title="Custom InstVisitor to classify different instructions for whether it can be analyzed for similarity." alt="" coords="112,272,299,328"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="5,124,192,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors." alt="" coords="27,5,171,47"/>
+<area shape="rect" id="node4" href="$classbool.html" title=" " alt="" coords="216,139,267,165"/>
+</map>

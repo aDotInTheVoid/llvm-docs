@@ -1,0 +1,6 @@
+<map id="llvm::legacy::PassManagerBase" name="llvm::legacy::PassManagerBase">
+<area shape="rect" id="node1" title="PassManagerBase &#45; An abstract interface to allow code to add passes to a pass manager without having ..." alt="" coords="98,5,325,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1legacy_1_1FunctionPassManager.html" title="FunctionPassManager manages FunctionPasses." alt="" coords="5,80,199,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1legacy_1_1PassManager.html" title="PassManager manages ModulePassManagers." alt="" coords="223,87,418,114"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DebugifyCustomPassManager.html" title="DebugifyCustomPassManager wraps each pass with the debugify passes if needed." alt="" coords="223,169,419,211"/>
+</map>

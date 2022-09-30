@@ -1,0 +1,9 @@
+<map id="llvm::MCObjectTargetWriter" name="llvm::MCObjectTargetWriter">
+<area shape="rect" id="node1" title="Base class for classes that define behaviour that is specific to both the target and the object forma..." alt="" coords="5,129,208,156"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCELFObjectTargetWriter.html" title=" " alt="" coords="256,5,481,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCMachObjectTargetWriter.html" title=" " alt="" coords="270,57,467,98"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MCWasmObjectTargetWriter.html" title=" " alt="" coords="267,122,470,163"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MCWinCOFFObjectTargetWriter.html" title=" " alt="" coords="257,187,480,229"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MCXCOFFObjectTargetWriter.html" title=" " alt="" coords="266,253,471,294"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AVRELFObjectWriter.html" title="Writes AVR machine code into an ELF32 object file." alt="" coords="529,5,720,32"/>
+</map>

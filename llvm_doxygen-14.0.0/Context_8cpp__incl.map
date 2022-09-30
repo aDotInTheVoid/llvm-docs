@@ -1,0 +1,52 @@
+<map id="lib/MCA/Context.cpp" name="lib/MCA/Context.cpp">
+<area shape="rect" id="node1" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="2470,5,2625,32"/>
+<area shape="rect" id="node2" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="2245,87,2397,114"/>
+<area shape="rect" id="node38" href="$RegisterFile_8h.html" title="This file defines a register mapping file class." alt="" coords="1835,259,2022,300"/>
+<area shape="rect" id="node40" href="$RetireControlUnit_8h.html" title="This file simulates the hardware responsible for retiring instructions." alt="" coords="2046,259,2233,300"/>
+<area shape="rect" id="node41" href="$Scheduler_8h.html" title="A scheduler for Processor Resource Units and Processor Resource Groups." alt="" coords="2710,169,2897,211"/>
+<area shape="rect" id="node45" href="$DispatchStage_8h.html" title="This file models the dispatch component of an instruction pipeline." alt="" coords="1975,169,2170,211"/>
+<area shape="rect" id="node46" href="$EntryStage_8h.html" title="This file defines the Entry stage of an instruction pipeline." alt="" coords="3303,177,3523,203"/>
+<area shape="rect" id="node47" href="$ExecuteStage_8h.html" title="This file defines the execution stage of a default instruction pipeline." alt="" coords="2815,87,3053,114"/>
+<area shape="rect" id="node48" href="$InOrderIssueStage_8h.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="2513,80,2731,121"/>
+<area shape="rect" id="node49" href="$MicroOpQueueStage_8h.html" title="This file defines a stage that implements a queue of micro opcodes." alt="" coords="3547,169,3780,211"/>
+<area shape="rect" id="node50" href="$RetireStage_8h.html" title="This file defines the retire stage of a default instruction pipeline." alt="" coords="2359,177,2584,203"/>
+<area shape="rect" id="node3" href="$MCRegisterInfo_8h.html" title=" " alt="" coords="1139,355,1331,382"/>
+<area shape="rect" id="node17" href="$MCSubtargetInfo_8h.html" title=" " alt="" coords="1471,355,1672,382"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3150,587,3227,613"/>
+<area shape="rect" id="node28" href="$CustomBehaviour_8h.html" title="This file defines the base class CustomBehaviour which can be inherited from by specific targets (ex." alt="" coords="1535,177,1751,203"/>
+<area shape="rect" id="node31" href="$MCA_2SourceMgr_8h.html" title="This file implements class SourceMgr." alt="" coords="2671,266,2840,293"/>
+<area shape="rect" id="node34" href="$HardwareUnit_8h.html" title="This file defines a base class for describing a simulated hardware unit." alt="" coords="2198,348,2385,389"/>
+<area shape="rect" id="node35" href="$Pipeline_8h.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend." alt="" coords="3023,177,3176,203"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="2539,437,2705,464"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1449,587,1518,613"/>
+<area shape="rect" id="node9" title=" " alt="" coords="646,587,713,613"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2448,587,2519,613"/>
+<area shape="rect" id="node12" title=" " alt="" coords="648,661,708,688"/>
+<area shape="rect" id="node13" href="$iterator_8h.html" title=" " alt="" coords="24,512,169,539"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="237,587,428,613"/>
+<area shape="rect" id="node15" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="1096,437,1273,464"/>
+<area shape="rect" id="node16" href="$MCRegister_8h.html" title=" " alt="" coords="1400,437,1567,464"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title=" " alt="" coords="2543,587,2722,613"/>
+<area shape="rect" id="node6" href="$MathExtras_8h.html" title=" " alt="" coords="1109,512,1303,539"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2079,587,2165,613"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1021,587,1087,613"/>
+<area shape="rect" id="node18" href="$ArrayRef_8h.html" title=" " alt="" coords="2730,437,2885,464"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title=" " alt="" coords="505,512,662,539"/>
+<area shape="rect" id="node23" title=" " alt="" coords="470,587,529,613"/>
+<area shape="rect" id="node24" href="$Triple_8h.html" title=" " alt="" coords="1925,437,2058,464"/>
+<area shape="rect" id="node25" href="$MCInstrItineraries_8h.html" title=" " alt="" coords="1693,437,1901,464"/>
+<area shape="rect" id="node26" href="$MCSchedule_8h.html" title=" " alt="" coords="2005,512,2177,539"/>
+<area shape="rect" id="node27" href="$SubtargetFeature_8h.html" title=" " alt="" coords="448,437,652,464"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title=" " alt="" coords="3101,512,3276,539"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2253,512,2316,539"/>
+<area shape="rect" id="node29" href="$MCInst_8h.html" title=" " alt="" coords="676,437,813,464"/>
+<area shape="rect" id="node30" href="$MCInstrInfo_8h.html" title=" " alt="" coords="1828,355,1995,382"/>
+<area shape="rect" id="node33" href="$View_8h.html" title="This file defines the main interface for Views." alt="" coords="1577,266,1709,293"/>
+<area shape="rect" id="node32" href="$MCA_2Instruction_8h.html" title="This file defines abstractions used by the Pipeline to model register reads, register writes and inst..." alt="" coords="2561,355,2731,382"/>
+<area shape="rect" id="node36" href="$Stage_8h.html" title="This file defines a stage." alt="" coords="3389,266,3575,293"/>
+<area shape="rect" id="node37" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="2909,437,3060,464"/>
+<area shape="rect" id="node39" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="940,437,1072,464"/>
+<area shape="rect" id="node42" href="$LSUnit_8h.html" title="A Load/Store unit class that models load/store queues and that implements a simple weak memory consis..." alt="" coords="2459,259,2646,300"/>
+<area shape="rect" id="node43" href="$ResourceManager_8h.html" title="The classes here represent processor resource units and their management strategy." alt="" coords="2915,259,3102,300"/>
+<area shape="rect" id="node44" href="$llvm_2MCA_2Support_8h.html" title="Helper functions used by various pipeline components." alt="" coords="2909,355,3060,382"/>
+</map>

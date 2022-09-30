@@ -1,0 +1,5 @@
+<map id="llvm::BasicBlock::phi_iterator_impl&lt; PHINodeT, BBIteratorT &gt;" name="llvm::BasicBlock::phi_iterator_impl&lt; PHINodeT, BBIteratorT &gt;">
+<area shape="rect" id="node1" title="Iterator to walk just the phi nodes in the basic block." alt="" coords="752,36,948,92"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="460,29,703,99"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,29,255,99"/>
+</map>

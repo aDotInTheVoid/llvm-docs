@@ -1,0 +1,4 @@
+<map id="llvm::MachineModuleSlotTracker" name="llvm::MachineModuleSlotTracker">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,239,107"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ModuleSlotTracker.html" title="Manage lifetime of a slot tracker for printing IR." alt="" coords="33,5,211,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::ShiftOfShiftedLogic" name="llvm::ShiftOfShiftedLogic">
+<area shape="rect" id="node1" title=" " alt="" coords="2512,56,2695,83"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="2237,5,2311,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="2217,56,2331,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineInstr.html" title="Representation of each machine instruction." alt="" coords="2203,116,2345,143"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="1941,94,2153,165"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="901,79,1051,121"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1252,142,1441,183"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="643,65,852,135"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,87,199,113"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="248,111,407,153"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="1491,135,1692,191"/>
+</map>

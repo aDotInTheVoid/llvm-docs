@@ -1,0 +1,5 @@
+<map id="llvm::TargetTransformInfo::UnrollingPreferences" name="llvm::TargetTransformInfo::UnrollingPreferences">
+<area shape="rect" id="node1" title="Parameters that control the generic loop unrolling transformation." alt="" coords="36,271,225,312"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="190,5,271,32"/>
+</map>

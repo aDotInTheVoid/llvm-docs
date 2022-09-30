@@ -1,0 +1,10 @@
+<map id="llvm::FixedScalableVFPair" name="llvm::FixedScalableVFPair">
+<area shape="rect" id="node1" title="A class that represents two vectorization factors (initialized with 0 by default)." alt="" coords="137,484,326,511"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ElementCount.html" title=" " alt="" coords="156,380,307,407"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="154,289,309,331"/>
+<area shape="rect" id="node4" href="$classllvm_1_1UnivariateLinearPolyBase.html" title="UnivariateLinearPolyBase is a base class for ElementCount and TypeSize." alt="" coords="129,95,323,136"/>
+<area shape="rect" id="node8" href="$classllvm_1_1LinearPolySize.html" title="LinearPolySize is a base class to represent sizes." alt="" coords="247,185,402,227"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="188,5,264,32"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="288,5,369,32"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="include/llvm/CodeGen/MachineInstrBundle.h" name="include/llvm/CodeGen/MachineInstrBundle.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4582,5,4749,47"/>
+<area shape="rect" id="node2" href="$LiveRegUnits_8h.html" title="A set of register units." alt="" coords="4703,95,4868,136"/>
+<area shape="rect" id="node6" href="$AsmPrinter_8cpp.html" title=" " alt="" coords="6009,370,6186,411"/>
+<area shape="rect" id="node9" href="$DFAPacketizer_8cpp.html" title=" " alt="" coords="6210,377,6433,404"/>
+<area shape="rect" id="node18" href="$InlineSpiller_8cpp.html" title=" " alt="" coords="5,377,213,404"/>
+<area shape="rect" id="node19" href="$InstrRefBasedImpl_8cpp.html" title="This is a separate implementation of LiveDebugValues, see LiveDebugValues.cpp and VarLocBasedImpl...." alt="" coords="5481,370,5698,411"/>
+<area shape="rect" id="node24" href="$MachineInstr_8cpp.html" title=" " alt="" coords="4571,377,4786,404"/>
+<area shape="rect" id="node25" href="$MachineInstrBundle_8cpp.html" title=" " alt="" coords="4811,370,5000,411"/>
+<area shape="rect" id="node28" href="$MachineVerifier_8cpp.html" title=" " alt="" coords="237,377,469,404"/>
+<area shape="rect" id="node30" href="$HexagonInstrInfo_8cpp.html" title=" " alt="" coords="4381,370,4547,411"/>
+<area shape="rect" id="node33" href="$LivePhysRegs_8cpp.html" title=" " alt="" coords="4805,191,5027,218"/>
+<area shape="rect" id="node38" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="3074,184,3241,225"/>
+<area shape="rect" id="node43" href="$MVEVPTBlockPass_8cpp.html" title=" " alt="" coords="4076,273,4287,315"/>
+<area shape="rect" id="node44" href="$Thumb2ITBlockPass_8cpp.html" title=" " alt="" coords="4412,273,4633,315"/>
+<area shape="rect" id="node45" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="1970,95,2142,136"/>
+<area shape="rect" id="node46" href="$LiveIntervals_8cpp.html" title=" " alt="" coords="400,191,616,218"/>
+<area shape="rect" id="node47" href="$RegisterPressure_8cpp.html" title=" " alt="" coords="640,191,883,218"/>
+<area shape="rect" id="node48" href="$ScheduleDAGInstrs_8cpp.html" title=" " alt="" coords="907,191,1163,218"/>
+<area shape="rect" id="node49" href="$SlotIndexes_8h.html" title=" " alt="" coords="352,95,517,136"/>
+<area shape="rect" id="node50" href="$HexagonVLIWPacketizer_8cpp.html" title=" " alt="" coords="5751,95,5961,136"/>
+<area shape="rect" id="node3" href="$MachineOutliner_8h.html" title="Contains all data structures shared between the outliner implemented in MachineOutliner...." alt="" coords="3265,184,3431,225"/>
+<area shape="rect" id="node29" href="$RegisterScavenging_8cpp.html" title="This file implements the machine register scavenger." alt="" coords="5723,377,5984,404"/>
+<area shape="rect" id="node31" href="$HexagonRegisterInfo_8cpp.html" title=" " alt="" coords="5266,370,5457,411"/>
+<area shape="rect" id="node32" href="$RegisterScavenging_8h.html" title="This file declares the machine register scavenger class." alt="" coords="5306,273,5473,315"/>
+<area shape="rect" id="node34" href="$LiveRegUnits_8cpp.html" title=" " alt="" coords="4049,191,4268,218"/>
+<area shape="rect" id="node35" href="$AArch64FalkorHWPFFix_8cpp.html" title=" " alt="" coords="4657,273,4860,315"/>
+<area shape="rect" id="node36" href="$AArch64RedundantCopyElimination_8cpp.html" title=" " alt="" coords="4293,184,4577,225"/>
+<area shape="rect" id="node37" href="$AArch64StackTagging_8cpp.html" title=" " alt="" coords="4885,273,5078,315"/>
+<area shape="rect" id="node4" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="3135,273,3300,315"/>
+<area shape="rect" id="node5" href="$InstructionSelectorImpl_8h.html" title=" " alt="" coords="2025,363,2244,419"/>
+<area shape="rect" id="node7" href="$BranchFolding_8cpp.html" title=" " alt="" coords="2796,377,3020,404"/>
+<area shape="rect" id="node8" href="$CFIInstrInserter_8cpp.html" title=" " alt="" coords="3349,377,3579,404"/>
+<area shape="rect" id="node10" href="$ExpandPostRAPseudos_8cpp.html" title=" " alt="" coords="3044,377,3324,404"/>
+<area shape="rect" id="node11" href="$FEntryInserter_8cpp.html" title=" " alt="" coords="3603,377,3826,404"/>
+<area shape="rect" id="node12" href="$GCRootLowering_8cpp.html" title=" " alt="" coords="3851,377,4091,404"/>
+<area shape="rect" id="node13" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class." alt="" coords="1387,370,1557,411"/>
+<area shape="rect" id="node14" href="$MachineIRBuilder_8cpp.html" title="This file implements the MachineIRBuidler class." alt="" coords="997,370,1168,411"/>
+<area shape="rect" id="node15" href="$CodeGen_2GlobalISel_2Utils_8cpp.html" title=" " alt="" coords="1192,370,1363,411"/>
+<area shape="rect" id="node16" href="$IfConversion_8cpp.html" title=" " alt="" coords="1582,377,1797,404"/>
+<area shape="rect" id="node17" href="$ImplicitNullChecks_8cpp.html" title=" " alt="" coords="1821,370,2001,411"/>
+<area shape="rect" id="node20" href="$VarLocBasedImpl_8cpp.html" title=" " alt="" coords="5025,370,5242,411"/>
+<area shape="rect" id="node21" href="$LiveDebugVariables_8cpp.html" title=" " alt="" coords="493,377,755,404"/>
+<area shape="rect" id="node22" href="$MachineBasicBlock_8cpp.html" title=" " alt="" coords="779,370,973,411"/>
+<area shape="rect" id="node23" href="$MachineDebugify_8cpp.html" title=" " alt="" coords="4115,377,4357,404"/>
+<area shape="rect" id="node26" href="$MachineRegisterInfo_8cpp.html" title=" " alt="" coords="2269,370,2483,411"/>
+<area shape="rect" id="node27" href="$MachineSSAUpdater_8cpp.html" title=" " alt="" coords="2508,377,2772,404"/>
+<area shape="rect" id="node39" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class." alt="" coords="1519,273,1740,315"/>
+<area shape="rect" id="node40" href="$CSEMIRBuilder_8cpp.html" title="This file implements the CSEMIRBuilder class which CSEs as it builds instructions." alt="" coords="3425,273,3596,315"/>
+<area shape="rect" id="node41" href="$MachinePipeliner_8cpp.html" title=" " alt="" coords="2169,281,2412,307"/>
+<area shape="rect" id="node42" href="$MIRCanonicalizerPass_8cpp.html" title=" " alt="" coords="2436,273,2655,315"/>
+</map>

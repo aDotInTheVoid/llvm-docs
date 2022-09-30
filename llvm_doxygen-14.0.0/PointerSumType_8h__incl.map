@@ -1,0 +1,21 @@
+<map id="include/llvm/ADT/PointerSumType.h" name="include/llvm/ADT/PointerSumType.h">
+<area shape="rect" id="node1" title=" " alt="" coords="490,5,673,47"/>
+<area shape="rect" id="node2" href="$bit_8h.html" title="This file implements the C++20 &lt;bit&gt; header." alt="" coords="168,102,283,129"/>
+<area shape="rect" id="node7" title=" " alt="" coords="299,184,391,211"/>
+<area shape="rect" id="node8" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="725,102,917,129"/>
+<area shape="rect" id="node9" title=" " alt="" coords="629,184,699,211"/>
+<area shape="rect" id="node11" title=" " alt="" coords="981,184,1048,211"/>
+<area shape="rect" id="node14" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="427,95,608,136"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title=" " alt="" coords="96,184,275,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,184,72,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="161,259,346,285"/>
+<area shape="rect" id="node5" title=" " alt="" coords="61,259,136,285"/>
+<area shape="rect" id="node10" title=" " alt="" coords="723,184,794,211"/>
+<area shape="rect" id="node12" title=" " alt="" coords="818,184,873,211"/>
+<area shape="rect" id="node13" title=" " alt="" coords="897,184,957,211"/>
+<area shape="rect" id="node15" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="416,184,605,211"/>
+<area shape="rect" id="node16" href="$llvm-c_2DataTypes_8h.html" title=" " alt="" coords="437,259,584,285"/>
+<area shape="rect" id="node17" title=" " alt="" coords="365,333,451,360"/>
+<area shape="rect" id="node18" title=" " alt="" coords="475,333,546,360"/>
+<area shape="rect" id="node19" title=" " alt="" coords="571,333,667,360"/>
+</map>

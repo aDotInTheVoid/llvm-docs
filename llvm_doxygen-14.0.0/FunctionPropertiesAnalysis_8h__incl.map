@@ -1,0 +1,52 @@
+<map id="include/llvm/Analysis/FunctionPropertiesAnalysis.h" name="include/llvm/Analysis/FunctionPropertiesAnalysis.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2902,5,3117,47"/>
+<area shape="rect" id="node2" href="$LoopInfo_8h.html" title=" " alt="" coords="2854,95,3037,121"/>
+<area shape="rect" id="node40" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="5465,169,5634,196"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="2473,617,2639,644"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4445,841,4505,868"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3219,692,3304,719"/>
+<area shape="rect" id="node24" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="2393,543,2553,569"/>
+<area shape="rect" id="node25" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="5974,319,6146,345"/>
+<area shape="rect" id="node27" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="1235,617,1410,644"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title=" " alt="" coords="2942,617,3117,644"/>
+<area shape="rect" id="node31" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="3545,244,3655,271"/>
+<area shape="rect" id="node34" href="$IR_2Instruction_8h.html" title=" " alt="" coords="4817,468,4970,495"/>
+<area shape="rect" id="node39" href="$Instructions_8h.html" title=" " alt="" coords="3089,169,3249,196"/>
+<area shape="rect" id="node49" href="$Pass_8h.html" title=" " alt="" coords="3324,169,3420,196"/>
+<area shape="rect" id="node50" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="777,543,956,569"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="3480,692,3672,719"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3944,767,4013,793"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2057,767,2127,793"/>
+<area shape="rect" id="node9" href="$EpochTracker_8h.html" title="This file defines the DebugEpochBase and DebugEpochBase::HandleBase classes." alt="" coords="1462,692,1645,719"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title=" " alt="" coords="4219,692,4387,719"/>
+<area shape="rect" id="node11" title=" " alt="" coords="4895,767,4987,793"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title=" " alt="" coords="1853,767,2032,793"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title=" " alt="" coords="3747,692,3941,719"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4037,767,4104,793"/>
+<area shape="rect" id="node16" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="2427,692,2613,719"/>
+<area shape="rect" id="node18" href="$ReverseIteration_8h.html" title=" " alt="" coords="1208,692,1437,719"/>
+<area shape="rect" id="node19" href="$type__traits_8h.html" title=" " alt="" coords="1721,692,1911,719"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2089,692,2199,719"/>
+<area shape="rect" id="node22" title=" " alt="" coords="477,767,547,793"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2841,692,2890,719"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5486,767,5541,793"/>
+<area shape="rect" id="node15" title=" " alt="" coords="4265,767,4324,793"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2757,767,2822,793"/>
+<area shape="rect" id="node26" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="5894,767,6085,793"/>
+<area shape="rect" id="node29" title=" " alt="" coords="4715,692,4802,719"/>
+<area shape="rect" id="node30" title=" " alt="" coords="6011,692,6088,719"/>
+<area shape="rect" id="node32" href="$iterator_8h.html" title=" " alt="" coords="5537,692,5682,719"/>
+<area shape="rect" id="node33" href="$BasicBlock_8h.html" title=" " alt="" coords="4347,393,4501,420"/>
+<area shape="rect" id="node36" href="$Value_8h.html" title=" " alt="" coords="4719,543,4839,569"/>
+<area shape="rect" id="node38" href="$Function_8h.html" title=" " alt="" coords="4529,319,4668,345"/>
+<area shape="rect" id="node35" href="$StringRef_8h.html" title=" " alt="" coords="4813,617,4971,644"/>
+<area shape="rect" id="node37" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="5088,617,5251,644"/>
+<area shape="rect" id="node41" href="$TinyPtrVector_8h.html" title=" " alt="" coords="2933,543,3117,569"/>
+<area shape="rect" id="node42" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="5406,244,5538,271"/>
+<area shape="rect" id="node43" title=" " alt="" coords="6222,319,6285,345"/>
+<area shape="rect" id="node44" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="5923,244,6141,271"/>
+<area shape="rect" id="node45" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="5766,543,5986,569"/>
+<area shape="rect" id="node46" href="$TimeProfiler_8h.html" title=" " alt="" coords="6462,244,6661,271"/>
+<area shape="rect" id="node47" href="$TypeName_8h.html" title=" " alt="" coords="5145,393,5335,420"/>
+<area shape="rect" id="node48" title=" " alt="" coords="6685,244,6728,271"/>
+</map>

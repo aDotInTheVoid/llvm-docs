@@ -1,0 +1,52 @@
+<map id="include/llvm/CodeGen/GlobalISel/MIPatternMatch.h" name="include/llvm/CodeGen/GlobalISel/MIPatternMatch.h">
+<area shape="rect" id="node1" title="Contains matchers for matching SSA Machine Instructions." alt="" coords="2218,5,2428,47"/>
+<area shape="rect" id="node2" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1126,363,1258,389"/>
+<area shape="rect" id="node10" href="$llvm_2CodeGen_2GlobalISel_2Utils_8h.html" title=" " alt="" coords="1427,184,1611,225"/>
+<area shape="rect" id="node31" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="2398,95,2624,136"/>
+<area shape="rect" id="node45" href="$InstrTypes_8h.html" title=" " alt="" coords="3905,102,4056,129"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title=" " alt="" coords="2736,587,2915,613"/>
+<area shape="rect" id="node4" href="$MathExtras_8h.html" title=" " alt="" coords="1175,437,1370,464"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1238,587,1307,613"/>
+<area shape="rect" id="node6" title=" " alt="" coords="990,512,1056,539"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1500,512,1567,539"/>
+<area shape="rect" id="node9" title=" " alt="" coords="4430,587,4490,613"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3468,512,3535,539"/>
+<area shape="rect" id="node11" href="$GISelWorkList_8h.html" title=" " alt="" coords="1698,281,1822,307"/>
+<area shape="rect" id="node17" href="$LostDebugLocObserver_8h.html" title="Tracks DebugLocs between checkpoints and verifies that they are transferred." alt="" coords="782,281,965,307"/>
+<area shape="rect" id="node18" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1526,281,1674,307"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title=" " alt="" coords="4422,437,4579,464"/>
+<area shape="rect" id="node26" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2599,273,2807,315"/>
+<area shape="rect" id="node28" href="$Register_8h.html" title=" " alt="" coords="321,281,504,307"/>
+<area shape="rect" id="node29" href="$Alignment_8h.html" title=" " alt="" coords="1282,363,1470,389"/>
+<area shape="rect" id="node30" href="$LowLevelTypeImpl_8h.html" title="Implement a low&#45;level type suitable for MachineInstr level instruction selection." alt="" coords="46,273,246,315"/>
+<area shape="rect" id="node12" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="1597,363,1764,389"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title=" " alt="" coords="2256,437,2430,464"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4072,512,4142,539"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2666,512,2737,539"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1850,512,1927,539"/>
+<area shape="rect" id="node19" href="$ArrayRef_8h.html" title=" " alt="" coords="3156,363,3311,389"/>
+<area shape="rect" id="node20" href="$None_8h.html" title="This file provides None, an enumerator for use in implicit constructors of various (usually templated..." alt="" coords="5014,587,5146,613"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="3970,437,4132,464"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2562,437,2625,464"/>
+<area shape="rect" id="node22" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="4218,512,4372,539"/>
+<area shape="rect" id="node23" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="4650,512,4841,539"/>
+<area shape="rect" id="node27" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="2802,363,2980,389"/>
+<area shape="rect" id="node32" href="$BitVector_8h.html" title="This file implements the BitVector class." alt="" coords="1092,281,1248,307"/>
+<area shape="rect" id="node33" href="$IndexedMap_8h.html" title="This file implements an indexed map." alt="" coords="2194,363,2372,389"/>
+<area shape="rect" id="node34" href="$PointerUnion_8h.html" title="This file defines the PointerUnion class, which is a discriminated union of pointer types." alt="" coords="3952,363,4134,389"/>
+<area shape="rect" id="node35" href="$StringSet_8h.html" title="StringSet &#45; A set&#45;like wrapper for the StringMap." alt="" coords="3479,191,3636,218"/>
+<area shape="rect" id="node37" href="$RegisterBank_8h.html" title=" " alt="" coords="1190,184,1374,225"/>
+<area shape="rect" id="node38" href="$LowLevelType_8h.html" title="Implement a low&#45;level type suitable for MachineInstr level instruction selection." alt="" coords="47,191,268,218"/>
+<area shape="rect" id="node39" href="$MachineFunction_8h.html" title=" " alt="" coords="2234,191,2474,218"/>
+<area shape="rect" id="node40" href="$MachineInstrBundle_8h.html" title=" " alt="" coords="2599,184,2802,225"/>
+<area shape="rect" id="node41" href="$MachineOperand_8h.html" title=" " alt="" coords="292,191,532,218"/>
+<area shape="rect" id="node42" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="2941,184,3153,225"/>
+<area shape="rect" id="node44" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="2050,273,2271,315"/>
+<area shape="rect" id="node36" href="$StringMap_8h.html" title="This file defines the StringMap class." alt="" coords="3525,281,3689,307"/>
+<area shape="rect" id="node43" href="$CallingConv_8h.html" title=" " alt="" coords="3186,281,3348,307"/>
+<area shape="rect" id="node46" href="$Sequence_8h.html" title="Provides some synthesis utilities to produce sequences of values." alt="" coords="788,363,949,389"/>
+<area shape="rect" id="node47" href="$Twine_8h.html" title=" " alt="" coords="3538,363,3673,389"/>
+<area shape="rect" id="node48" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="4018,281,4166,307"/>
+<area shape="rect" id="node49" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4326,191,4475,218"/>
+<area shape="rect" id="node50" href="$DerivedTypes_8h.html" title=" " alt="" coords="4190,281,4362,307"/>
+</map>

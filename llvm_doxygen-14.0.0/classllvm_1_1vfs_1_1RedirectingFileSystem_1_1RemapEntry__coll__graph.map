@@ -1,0 +1,4 @@
+<map id="llvm::vfs::RedirectingFileSystem::RemapEntry" name="llvm::vfs::RedirectingFileSystem::RemapEntry">
+<area shape="rect" id="node1" title="A file or directory in the vfs that is mapped to a file or directory in the external filesystem." alt="" coords="5,95,189,136"/>
+<area shape="rect" id="node2" href="$classllvm_1_1vfs_1_1RedirectingFileSystem_1_1Entry.html" title="A single file or directory in the VFS." alt="" coords="5,5,189,47"/>
+</map>

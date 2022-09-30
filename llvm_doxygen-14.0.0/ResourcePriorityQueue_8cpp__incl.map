@@ -1,0 +1,52 @@
+<map id="lib/CodeGen/SelectionDAG/ResourcePriorityQueue.cpp" name="lib/CodeGen/SelectionDAG/ResourcePriorityQueue.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2492,5,2695,47"/>
+<area shape="rect" id="node2" href="$ResourcePriorityQueue_8h.html" title=" " alt="" coords="2330,95,2555,136"/>
+<area shape="rect" id="node15" href="$MachineInstr_8h.html" title=" " alt="" coords="4228,370,4441,397"/>
+<area shape="rect" id="node31" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code." alt="" coords="1579,281,1808,307"/>
+<area shape="rect" id="node35" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="2295,452,2555,479"/>
+<area shape="rect" id="node37" href="$DFAPacketizer_8h.html" title=" " alt="" coords="819,191,1039,218"/>
+<area shape="rect" id="node41" href="$SelectionDAGISel_8h.html" title=" " alt="" coords="275,281,517,307"/>
+<area shape="rect" id="node43" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="347,363,568,404"/>
+<area shape="rect" id="node45" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="4097,184,4284,225"/>
+<area shape="rect" id="node46" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="3457,184,3669,225"/>
+<area shape="rect" id="node47" href="$CommandLine_8h.html" title=" " alt="" coords="3441,527,3655,553"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title=" " alt="" coords="4929,601,5135,628"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title=" " alt="" coords="5843,102,6005,129"/>
+<area shape="rect" id="node50" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="1382,102,1589,129"/>
+<area shape="rect" id="node3" href="$ScheduleDAG_8h.html" title=" " alt="" coords="2333,191,2552,218"/>
+<area shape="rect" id="node4" href="$BitVector_8h.html" title="This file implements the BitVector class." alt="" coords="2049,527,2205,553"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4220,676,4289,703"/>
+<area shape="rect" id="node9" title=" " alt="" coords="995,676,1058,703"/>
+<area shape="rect" id="node14" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="2681,527,2853,553"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title=" " alt="" coords="1341,601,1496,628"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1917,676,2003,703"/>
+<area shape="rect" id="node10" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="4459,601,4651,628"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5428,676,5495,703"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3311,676,3371,703"/>
+<area shape="rect" id="node13" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2886,601,3077,628"/>
+<area shape="rect" id="node8" title=" " alt="" coords="424,676,501,703"/>
+<area shape="rect" id="node16" href="$PointerSumType_8h.html" title=" " alt="" coords="4976,527,5179,553"/>
+<area shape="rect" id="node17" href="$SmallSet_8h.html" title="This file defines the SmallSet class." alt="" coords="4177,601,4333,628"/>
+<area shape="rect" id="node18" href="$ilist_8h.html" title="This file defines classes to implement an intrusive doubly linked list class (i.e." alt="" coords="3676,452,3799,479"/>
+<area shape="rect" id="node19" href="$ilist__node_8h.html" title="This file defines the ilist_node class template, which is a convenient base class for creating classe..." alt="" coords="2929,527,3090,553"/>
+<area shape="rect" id="node20" href="$MachineMemOperand_8h.html" title=" " alt="" coords="2281,527,2554,553"/>
+<area shape="rect" id="node21" href="$MachineOperand_8h.html" title=" " alt="" coords="5123,452,5363,479"/>
+<area shape="rect" id="node23" href="$TargetOpcodes_8h.html" title=" " alt="" coords="4872,452,5099,479"/>
+<area shape="rect" id="node24" href="$DebugLoc_8h.html" title=" " alt="" coords="3166,527,3314,553"/>
+<area shape="rect" id="node25" href="$InlineAsm_8h.html" title=" " alt="" coords="1723,601,1872,628"/>
+<area shape="rect" id="node26" href="$PseudoProbe_8h.html" title=" " alt="" coords="5499,601,5667,628"/>
+<area shape="rect" id="node27" href="$MCInstrDesc_8h.html" title=" " alt="" coords="4431,452,4606,479"/>
+<area shape="rect" id="node28" href="$MCSymbol_8h.html" title=" " alt="" coords="5160,601,5323,628"/>
+<area shape="rect" id="node29" href="$ArrayRecycler_8h.html" title=" " alt="" coords="3340,452,3551,479"/>
+<area shape="rect" id="node30" href="$TrailingObjects_8h.html" title="This header defines support for implementing classes that have some trailing object (or arrays of obj..." alt="" coords="4630,452,4847,479"/>
+<area shape="rect" id="node22" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="3883,527,4050,553"/>
+<area shape="rect" id="node32" href="$SelectionDAG_8h.html" title=" " alt="" coords="2072,370,2291,397"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1165,452,1216,479"/>
+<area shape="rect" id="node33" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1369,527,1517,553"/>
+<area shape="rect" id="node34" href="$FoldingSet_8h.html" title="This file defines a hash set that can be used to remove duplication of nodes in a graph." alt="" coords="3529,601,3695,628"/>
+<area shape="rect" id="node38" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="3625,273,3833,315"/>
+<area shape="rect" id="node39" href="$ScheduleDAGMutation_8h.html" title=" " alt="" coords="342,452,618,479"/>
+<area shape="rect" id="node40" href="$Automaton_8h.html" title=" " alt="" coords="795,370,989,397"/>
+<area shape="rect" id="node42" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="94,363,322,404"/>
+<area shape="rect" id="node44" href="$BasicBlock_8h.html" title=" " alt="" coords="2820,370,2975,397"/>
+</map>

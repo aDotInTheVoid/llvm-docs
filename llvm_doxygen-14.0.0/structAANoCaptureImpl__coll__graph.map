@@ -1,0 +1,10 @@
+<map id="AANoCaptureImpl" name="AANoCaptureImpl">
+<area shape="rect" id="node1" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— Variable Capturing &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—" alt="" coords="1192,115,1331,141"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AANoCapture.html" title="An abstract interface for all nocapture attributes." alt="" coords="996,115,1143,141"/>
+<area shape="rect" id="node3" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="643,37,929,107"/>
+<area shape="rect" id="node4" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute." alt="" coords="139,87,329,129"/>
+<area shape="rect" id="node5" href="$classBaseType.html" title=" " alt="" coords="5,37,89,64"/>
+<area shape="rect" id="node7" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="164,22,304,63"/>
+<area shape="rect" id="node6" href="$classStateTy.html" title=" " alt="" coords="12,96,83,123"/>
+<area shape="rect" id="node8" title=" " alt="" coords="761,132,811,159"/>
+</map>

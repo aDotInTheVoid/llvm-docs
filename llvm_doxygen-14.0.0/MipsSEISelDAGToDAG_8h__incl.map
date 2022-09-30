@@ -1,0 +1,52 @@
+<map id="lib/Target/Mips/MipsSEISelDAGToDAG.h" name="lib/Target/Mips/MipsSEISelDAGToDAG.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1872,5,2064,47"/>
+<area shape="rect" id="node2" href="$MipsISelDAGToDAG_8h.html" title=" " alt="" coords="1887,95,2049,121"/>
+<area shape="rect" id="node3" href="$Mips_8h.html" title=" " alt="" coords="2579,415,2645,442"/>
+<area shape="rect" id="node25" href="$MipsSubtarget_8h.html" title=" " alt="" coords="2893,244,3021,271"/>
+<area shape="rect" id="node46" href="$MipsTargetMachine_8h.html" title=" " alt="" coords="1771,169,1931,196"/>
+<area shape="rect" id="node47" href="$SelectionDAGISel_8h.html" title=" " alt="" coords="411,415,653,442"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2056,169,2211,196"/>
+<area shape="rect" id="node4" href="$MipsMCTargetDesc_8h.html" title=" " alt="" coords="2847,497,3057,539"/>
+<area shape="rect" id="node10" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="1331,505,1538,531"/>
+<area shape="rect" id="node5" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="3477,683,3667,710"/>
+<area shape="rect" id="node6" title=" " alt="" coords="893,765,971,792"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2861,594,3043,621"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2630,594,2786,621"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3169,594,3359,621"/>
+<area shape="rect" id="node11" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="1891,683,2045,710"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2109,765,2169,792"/>
+<area shape="rect" id="node13" href="$StringRef_8h.html" title=" " alt="" coords="636,683,793,710"/>
+<area shape="rect" id="node14" title=" " alt="" coords="328,765,387,792"/>
+<area shape="rect" id="node15" href="$Triple_8h.html" title=" " alt="" coords="1592,594,1725,621"/>
+<area shape="rect" id="node16" href="$DataLayout_8h.html" title=" " alt="" coords="518,594,677,621"/>
+<area shape="rect" id="node18" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="753,594,922,621"/>
+<area shape="rect" id="node19" href="$Pass_8h.html" title=" " alt="" coords="144,594,240,621"/>
+<area shape="rect" id="node20" href="$CodeGen_8h.html" title=" " alt="" coords="1750,594,1930,621"/>
+<area shape="rect" id="node21" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="1315,683,1466,710"/>
+<area shape="rect" id="node22" href="$PGOOptions_8h.html" title="Define option tunables for PGO." alt="" coords="1267,594,1466,621"/>
+<area shape="rect" id="node23" href="$CGPassBuilderOption_8h.html" title=" " alt="" coords="998,587,1191,628"/>
+<area shape="rect" id="node24" href="$TargetOptions_8h.html" title=" " alt="" coords="926,683,1127,710"/>
+<area shape="rect" id="node17" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="2463,765,2673,792"/>
+<area shape="rect" id="node26" href="$MipsABIInfo_8h.html" title=" " alt="" coords="3837,415,4046,442"/>
+<area shape="rect" id="node29" href="$MipsFrameLowering_8h.html" title=" " alt="" coords="2529,326,2695,353"/>
+<area shape="rect" id="node31" href="$MipsISelLowering_8h.html" title=" " alt="" coords="2995,326,3143,353"/>
+<area shape="rect" id="node38" href="$MipsInstrInfo_8h.html" title=" " alt="" coords="2775,326,2894,353"/>
+<area shape="rect" id="node39" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="3183,497,3430,539"/>
+<area shape="rect" id="node40" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="627,497,848,539"/>
+<area shape="rect" id="node41" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls." alt="" coords="3952,319,4136,360"/>
+<area shape="rect" id="node42" href="$LegalizerInfo_8h.html" title="Interface for Targets to specify which operations they can successfully select and how the others sho..." alt="" coords="3628,408,3812,449"/>
+<area shape="rect" id="node43" href="$RegisterBankInfo_8h.html" title=" " alt="" coords="2347,676,2531,717"/>
+<area shape="rect" id="node44" href="$InstructionSelector_8h.html" title=" " alt="" coords="2201,319,2385,360"/>
+<area shape="rect" id="node45" href="$MCInstrItineraries_8h.html" title=" " alt="" coords="4160,326,4368,353"/>
+<area shape="rect" id="node27" href="$CallingConv_8h.html" title=" " alt="" coords="3937,505,4098,531"/>
+<area shape="rect" id="node28" href="$MCRegisterInfo_8h.html" title=" " alt="" coords="4123,505,4315,531"/>
+<area shape="rect" id="node30" href="$TargetFrameLowering_8h.html" title=" " alt="" coords="2357,408,2555,449"/>
+<area shape="rect" id="node32" href="$MipsBaseInfo_8h.html" title=" " alt="" coords="3233,415,3452,442"/>
+<area shape="rect" id="node33" href="$CallingConvLower_8h.html" title=" " alt="" coords="4070,408,4266,449"/>
+<area shape="rect" id="node34" href="$ISDOpcodes_8h.html" title=" " alt="" coords="2397,594,2605,621"/>
+<area shape="rect" id="node35" href="$MachineMemOperand_8h.html" title=" " alt="" coords="3435,594,3709,621"/>
+<area shape="rect" id="node36" href="$SelectionDAG_8h.html" title=" " alt="" coords="2200,505,2419,531"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="This file defines the StringMap class." alt="" coords="2057,594,2221,621"/>
+<area shape="rect" id="node48" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="145,497,373,539"/>
+<area shape="rect" id="node49" href="$BasicBlock_8h.html" title=" " alt="" coords="397,505,552,531"/>
+</map>

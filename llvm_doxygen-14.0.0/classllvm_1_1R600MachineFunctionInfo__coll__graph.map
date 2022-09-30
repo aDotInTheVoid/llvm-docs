@@ -1,0 +1,10 @@
+<map id="llvm::R600MachineFunctionInfo" name="llvm::R600MachineFunctionInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="968,332,1195,359"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AMDGPUMachineFunction.html" title=" " alt="" coords="691,217,919,244"/>
+<area shape="rect" id="node3" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="301,5,495,32"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="361,56,435,83"/>
+<area shape="rect" id="node5" href="$classbool.html" title=" " alt="" coords="5,221,56,248"/>
+<area shape="rect" id="node7" href="$structllvm_1_1AMDGPU_1_1SIModeRegisterDefaults.html" title=" " alt="" coords="284,229,512,270"/>
+<area shape="rect" id="node6" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment." alt="" coords="352,295,444,321"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title=" " alt="" coords="357,355,439,381"/>
+</map>

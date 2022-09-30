@@ -1,0 +1,52 @@
+<map id="include/llvm/ProfileData/InstrProfCorrelator.h" name="include/llvm/ProfileData/InstrProfCorrelator.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3407,5,3585,47"/>
+<area shape="rect" id="node2" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="4760,869,4920,896"/>
+<area shape="rect" id="node13" href="$DWARFContext_8h.html" title=" " alt="" coords="2037,95,2211,136"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3422,1019,3485,1045"/>
+<area shape="rect" id="node23" href="$ObjectFile_8h.html" title=" " alt="" coords="2283,705,2461,732"/>
+<area shape="rect" id="node25" href="$Binary_8h.html" title=" " alt="" coords="2899,787,3053,814"/>
+<area shape="rect" id="node28" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="1969,944,2119,971"/>
+<area shape="rect" id="node29" href="$MemoryBuffer_8h.html" title=" " alt="" coords="2739,869,2952,896"/>
+<area shape="rect" id="node30" href="$Casting_8h.html" title=" " alt="" coords="2144,944,2315,971"/>
+<area shape="rect" id="node50" href="$InstrProf_8h.html" title=" " alt="" coords="3432,869,3629,896"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="4921,944,5087,971"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="4017,1019,4209,1045"/>
+<area shape="rect" id="node5" title=" " alt="" coords="4513,1093,4583,1120"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4083,1168,4143,1195"/>
+<area shape="rect" id="node8" href="$MathExtras_8h.html" title=" " alt="" coords="3677,1019,3872,1045"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title=" " alt="" coords="4249,1093,4439,1120"/>
+<area shape="rect" id="node11" title=" " alt="" coords="4979,1093,5090,1120"/>
+<area shape="rect" id="node12" title=" " alt="" coords="5331,1093,5402,1120"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3265,1093,3351,1120"/>
+<area shape="rect" id="node6" title=" " alt="" coords="897,1093,964,1120"/>
+<area shape="rect" id="node14" href="$MapVector_8h.html" title="This file implements a map that provides insertion order iteration." alt="" coords="4945,869,5111,896"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title=" " alt="" coords="4257,1019,4431,1045"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2081,1093,2159,1120"/>
+<area shape="rect" id="node18" href="$SmallString_8h.html" title="This file defines the SmallString class." alt="" coords="4211,869,4384,896"/>
+<area shape="rect" id="node19" href="$StringRef_8h.html" title=" " alt="" coords="2339,944,2496,971"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="385,1019,575,1045"/>
+<area shape="rect" id="node21" href="$StringMap_8h.html" title="This file defines the StringMap class." alt="" coords="5225,1019,5389,1045"/>
+<area shape="rect" id="node22" href="$DIContext_8h.html" title=" " alt="" coords="928,631,1131,657"/>
+<area shape="rect" id="node31" href="$DWARFAcceleratorTable_8h.html" title=" " alt="" coords="4611,780,4803,821"/>
+<area shape="rect" id="node32" href="$DWARFCompileUnit_8h.html" title=" " alt="" coords="1183,273,1358,315"/>
+<area shape="rect" id="node33" href="$DWARFUnit_8h.html" title=" " alt="" coords="1310,363,1485,404"/>
+<area shape="rect" id="node34" href="$DWARFDebugLoc_8h.html" title=" " alt="" coords="878,541,1053,583"/>
+<area shape="rect" id="node35" href="$DWARFDie_8h.html" title=" " alt="" coords="753,452,927,493"/>
+<area shape="rect" id="node36" href="$DWARFSection_8h.html" title=" " alt="" coords="2579,452,2754,493"/>
+<area shape="rect" id="node37" href="$DWARFUnitIndex_8h.html" title=" " alt="" coords="1131,541,1306,583"/>
+<area shape="rect" id="node38" href="$DataExtractor_8h.html" title=" " alt="" coords="1171,869,1381,896"/>
+<area shape="rect" id="node39" title=" " alt="" coords="475,869,525,896"/>
+<area shape="rect" id="node40" href="$DWARFDebugAbbrev_8h.html" title=" " alt="" coords="702,780,877,821"/>
+<area shape="rect" id="node41" href="$DWARFDebugAranges_8h.html" title=" " alt="" coords="3853,780,4035,821"/>
+<area shape="rect" id="node42" href="$DWARFDebugFrame_8h.html" title=" " alt="" coords="3281,780,3455,821"/>
+<area shape="rect" id="node43" href="$DWARFDebugLine_8h.html" title=" " alt="" coords="1315,184,1490,225"/>
+<area shape="rect" id="node44" href="$DWARFTypeUnit_8h.html" title=" " alt="" coords="1382,273,1557,315"/>
+<area shape="rect" id="node45" href="$DWARFDebugMacro_8h.html" title=" " alt="" coords="1633,273,1807,315"/>
+<area shape="rect" id="node46" href="$DWARFGdbIndex_8h.html" title=" " alt="" coords="1561,780,1735,821"/>
+<area shape="rect" id="node47" href="$DWARFObject_8h.html" title=" " alt="" coords="2503,363,2678,404"/>
+<area shape="rect" id="node48" href="$Host_8h.html" title=" " alt="" coords="3782,944,3933,971"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2238,191,2301,218"/>
+<area shape="rect" id="node24" href="$Triple_8h.html" title=" " alt="" coords="3624,944,3757,971"/>
+<area shape="rect" id="node27" href="$llvm_2Object_2Error_8h.html" title=" " alt="" coords="2166,869,2309,896"/>
+<area shape="rect" id="node26" href="$Types_8h.html" title=" " alt="" coords="2673,944,2789,971"/>
+</map>

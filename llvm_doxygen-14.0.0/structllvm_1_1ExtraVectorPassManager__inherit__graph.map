@@ -1,0 +1,7 @@
+<map id="llvm::ExtraVectorPassManager" name="llvm::ExtraVectorPassManager">
+<area shape="rect" id="node1" title="A pass manager to run a set of extra function simplification passes after vectorization,..." alt="" coords="1189,15,1409,42"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="977,15,1140,42"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,19,155,60"/>
+<area shape="rect" id="node5" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="383,41,584,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PassManager.html" title="Manages a sequence of passes over a particular unit of IR." alt="" coords="633,42,840,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::UnitIndexEntry" name="llvm::UnitIndexEntry">
+<area shape="rect" id="node1" title=" " alt="" coords="70,228,226,255"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,117,64,143"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="89,117,207,143"/>
+<area shape="rect" id="node4" href="$classsize__t.html" title=" " alt="" coords="118,5,178,32"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DWARFUnitIndex_1_1Entry_1_1SectionContribution.html" title=" " alt="" coords="231,109,430,151"/>
+<area shape="rect" id="node6" title=" " alt="" coords="293,5,368,32"/>
+</map>

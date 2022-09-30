@@ -1,0 +1,7 @@
+<map id="llvm::BranchInst::const_succ_op_iterator" name="llvm::BranchInst::const_succ_op_iterator">
+<area shape="rect" id="node1" title="The const version of succ_op_iterator." alt="" coords="2420,179,2591,221"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="2080,150,2371,250"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,242,255,313"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="852,226,1423,502"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="1472,267,1747,338"/>
+</map>

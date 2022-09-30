@@ -1,0 +1,12 @@
+<map id="llvm::ValueSimplifyStateType" name="llvm::ValueSimplifyStateType">
+<area shape="rect" id="node1" title=" " alt="" coords="122,436,334,463"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node8" href="$structllvm_1_1IntegerStateBase.html" title=" " alt="" coords="72,228,243,269"/>
+<area shape="rect" id="node9" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding." alt="" coords="123,109,293,165"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="255,339,345,366"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="267,235,349,262"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="485,332,643,373"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title=" " alt="" coords="488,235,640,262"/>
+<area shape="rect" id="node7" href="$structllvm_1_1BooleanState.html" title="Simple wrapper for a single bit (boolean) state." alt="" coords="84,339,231,366"/>
+<area shape="rect" id="node10" title=" " alt="" coords="177,5,250,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="llvm::BitTracker::BitValue" name="llvm::BitTracker::BitValue">
+<area shape="rect" id="node1" title=" " alt="" coords="1384,85,1569,112"/>
+<area shape="rect" id="node2" href="$structllvm_1_1BitTracker_1_1BitRef.html" title=" " alt="" coords="1127,52,1297,79"/>
+<area shape="rect" id="node3" title=" " alt="" coords="809,5,883,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers." alt="" coords="789,56,903,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="1123,103,1301,159"/>
+<area shape="rect" id="node6" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title=" " alt="" coords="471,91,725,221"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PointerUnion.html" title="A discriminated union of two or more pointer types, with the discriminator in the low bit of the poin..." alt="" coords="775,165,917,206"/>
+<area shape="rect" id="node7" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title=" " alt="" coords="5,128,224,184"/>
+</map>

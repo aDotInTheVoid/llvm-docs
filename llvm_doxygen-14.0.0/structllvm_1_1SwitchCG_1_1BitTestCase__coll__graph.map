@@ -1,0 +1,13 @@
+<map id="llvm::SwitchCG::BitTestCase" name="llvm::SwitchCG::BitTestCase">
+<area shape="rect" id="node1" title=" " alt="" coords="2456,56,2661,83"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="2210,5,2285,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BranchProbability.html" title=" " alt="" coords="2160,56,2335,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineBasicBlock.html" title=" " alt="" coords="2155,116,2340,143"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="1889,101,2105,157"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="901,78,1051,119"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1252,141,1441,182"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="643,63,852,134"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,85,199,112"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="248,110,407,151"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="1491,133,1692,189"/>
+</map>

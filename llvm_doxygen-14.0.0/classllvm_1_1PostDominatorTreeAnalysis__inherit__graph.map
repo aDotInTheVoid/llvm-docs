@@ -1,0 +1,6 @@
+<map id="llvm::PostDominatorTreeAnalysis" name="llvm::PostDominatorTreeAnalysis">
+<area shape="rect" id="node1" title="Analysis pass which computes a PostDominatorTree." alt="" coords="5,291,244,317"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="9,200,240,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="45,5,194,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="141,96,316,137"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Target/Hexagon/HexagonSelectionDAGInfo.cpp" name="lib/Target/Hexagon/HexagonSelectionDAGInfo.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2367,5,2593,47"/>
+<area shape="rect" id="node2" href="$HexagonTargetMachine_8h.html" title=" " alt="" coords="1745,95,1932,121"/>
+<area shape="rect" id="node35" href="$SelectionDAG_8h.html" title=" " alt="" coords="3012,326,3231,353"/>
+<area shape="rect" id="node3" href="$HexagonInstrInfo_8h.html" title=" " alt="" coords="1876,244,2023,271"/>
+<area shape="rect" id="node30" href="$HexagonSubtarget_8h.html" title=" " alt="" coords="1425,169,1580,196"/>
+<area shape="rect" id="node32" href="$HexagonTargetObjectFile_8h.html" title=" " alt="" coords="1604,169,1801,196"/>
+<area shape="rect" id="node33" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="975,326,1182,353"/>
+<area shape="rect" id="node4" href="$HexagonBaseInfo_8h.html" title=" " alt="" coords="2194,319,2403,360"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title=" " alt="" coords="900,565,1055,591"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title=" " alt="" coords="1645,654,1819,681"/>
+<area shape="rect" id="node11" title=" " alt="" coords="562,654,625,681"/>
+<area shape="rect" id="node12" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2175,557,2383,599"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2569,654,2636,681"/>
+<area shape="rect" id="node18" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1236,319,1423,360"/>
+<area shape="rect" id="node27" href="$ValueTypes_8h.html" title=" " alt="" coords="4287,565,4489,591"/>
+<area shape="rect" id="node28" href="$MachineValueType_8h.html" title=" " alt="" coords="4365,647,4565,688"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1987,326,2170,353"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1231,736,1316,763"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2427,736,2496,763"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1942,736,2029,763"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1702,811,1762,837"/>
+<area shape="rect" id="node13" href="$ilist_8h.html" title="This file defines classes to implement an intrusive doubly linked list class (i.e." alt="" coords="2084,654,2207,681"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3273,736,3463,763"/>
+<area shape="rect" id="node15" href="$DebugLoc_8h.html" title=" " alt="" coords="4010,654,4158,681"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4183,654,4241,681"/>
+<area shape="rect" id="node19" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="1071,654,1238,681"/>
+<area shape="rect" id="node20" href="$MachineFunction_8h.html" title=" " alt="" coords="1653,408,1893,435"/>
+<area shape="rect" id="node26" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4548,736,4759,763"/>
+<area shape="rect" id="node21" href="$iterator_8h.html" title=" " alt="" coords="2762,565,2907,591"/>
+<area shape="rect" id="node22" href="$MachineMemOperand_8h.html" title=" " alt="" coords="3583,483,3857,509"/>
+<area shape="rect" id="node23" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="3786,565,4009,591"/>
+<area shape="rect" id="node24" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1516,565,1695,591"/>
+<area shape="rect" id="node25" href="$ArrayRecycler_8h.html" title=" " alt="" coords="1415,483,1625,509"/>
+<area shape="rect" id="node31" href="$HexagonArch_8h.html" title=" " alt="" coords="195,483,317,509"/>
+<area shape="rect" id="node34" href="$CodeGen_8h.html" title=" " alt="" coords="545,408,725,435"/>
+<area shape="rect" id="node36" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="4903,483,5051,509"/>
+<area shape="rect" id="node37" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="5015,654,5147,681"/>
+<area shape="rect" id="node38" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="1079,565,1239,591"/>
+<area shape="rect" id="node39" href="$FoldingSet_8h.html" title="This file defines a hash set that can be used to remove duplication of nodes in a graph." alt="" coords="2479,483,2646,509"/>
+<area shape="rect" id="node40" href="$SetVector_8h.html" title="This file implements a set that has insertion order iteration characteristics." alt="" coords="1130,483,1289,509"/>
+<area shape="rect" id="node41" href="$StringMap_8h.html" title="This file defines the StringMap class." alt="" coords="2835,408,2999,435"/>
+<area shape="rect" id="node42" href="$DAGCombine_8h.html" title=" " alt="" coords="3382,408,3599,435"/>
+<area shape="rect" id="node43" href="$ISDOpcodes_8h.html" title=" " alt="" coords="4287,483,4495,509"/>
+<area shape="rect" id="node44" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="3623,408,3883,435"/>
+<area shape="rect" id="node45" href="$Instructions_8h.html" title=" " alt="" coords="2924,483,3084,509"/>
+<area shape="rect" id="node46" href="$Casting_8h.html" title=" " alt="" coords="3135,565,3305,591"/>
+<area shape="rect" id="node47" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="3209,483,3356,509"/>
+<area shape="rect" id="node48" title=" " alt="" coords="4570,483,4625,509"/>
+<area shape="rect" id="node49" href="$RecyclingAllocator_8h.html" title=" " alt="" coords="4258,408,4499,435"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4524,408,4575,435"/>
+</map>

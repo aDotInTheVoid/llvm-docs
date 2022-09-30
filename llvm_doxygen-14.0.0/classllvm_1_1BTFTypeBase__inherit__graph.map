@@ -1,0 +1,16 @@
+<map id="llvm::BTFTypeBase" name="llvm::BTFTypeBase">
+<area shape="rect" id="node1" title="The base class for BTF type generation." alt="" coords="5,309,151,336"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BTFKindDataSec.html" title="Handle data sections." alt="" coords="204,5,371,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BTFKindVar.html" title="Handle variable instances." alt="" coords="220,56,355,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BTFTypeArray.html" title="Handle array type." alt="" coords="213,107,361,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BTFTypeDeclTag.html" title="Handle decl tags." alt="" coords="205,157,369,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1BTFTypeDerived.html" title="Handle several derived types include pointer, const, volatile, typedef and restrict." alt="" coords="205,208,369,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1BTFTypeEnum.html" title="Handle enumerate type." alt="" coords="212,259,363,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1BTFTypeFloat.html" title="Handle binary floating point type." alt="" coords="214,309,361,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1BTFTypeFunc.html" title="Handle subprogram." alt="" coords="216,360,359,387"/>
+<area shape="rect" id="node10" href="$classllvm_1_1BTFTypeFuncProto.html" title="Handle function pointer." alt="" coords="199,411,376,437"/>
+<area shape="rect" id="node11" href="$classllvm_1_1BTFTypeFwd.html" title="Handle struct or union forward declaration." alt="" coords="217,461,357,488"/>
+<area shape="rect" id="node12" href="$classllvm_1_1BTFTypeInt.html" title="Handle int type." alt="" coords="222,512,353,539"/>
+<area shape="rect" id="node13" href="$classllvm_1_1BTFTypeStruct.html" title="Handle struct/union type." alt="" coords="212,563,363,589"/>
+<area shape="rect" id="node14" href="$classllvm_1_1BTFTypeTypeTag.html" title=" " alt="" coords="205,613,370,640"/>
+</map>

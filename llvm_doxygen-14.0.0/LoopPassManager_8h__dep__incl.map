@@ -1,0 +1,52 @@
+<map id="include/llvm/Transforms/Scalar/LoopPassManager.h" name="include/llvm/Transforms/Scalar/LoopPassManager.h">
+<area shape="rect" id="node1" title="This header provides classes for managing a pipeline of passes over loops in LLVM IR." alt="" coords="4003,5,4201,47"/>
+<area shape="rect" id="node2" href="$CodeGenPassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="365,95,535,136"/>
+<area shape="rect" id="node4" href="$llvm_2Passes_2PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="1456,95,1607,136"/>
+<area shape="rect" id="node7" href="$LTOBackend_8cpp.html" title=" " alt="" coords="295,191,471,218"/>
+<area shape="rect" id="node9" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="3569,191,3760,218"/>
+<area shape="rect" id="node11" href="$PassBuilderPipelines_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="3899,191,4150,218"/>
+<area shape="rect" id="node16" href="$GuardWidening_8h.html" title=" " alt="" coords="1785,95,1968,136"/>
+<area shape="rect" id="node18" href="$IVUsersPrinter_8h.html" title=" " alt="" coords="2043,95,2222,136"/>
+<area shape="rect" id="node20" href="$LICM_8h.html" title=" " alt="" coords="2733,95,2911,136"/>
+<area shape="rect" id="node22" href="$LICM_8cpp.html" title=" " alt="" coords="2195,184,2353,225"/>
+<area shape="rect" id="node23" href="$LoopAccessAnalysisPrinter_8h.html" title=" " alt="" coords="2247,95,2501,136"/>
+<area shape="rect" id="node25" href="$LoopBoundSplit_8h.html" title=" " alt="" coords="2525,95,2708,136"/>
+<area shape="rect" id="node27" href="$LoopDeletion_8h.html" title=" " alt="" coords="3375,95,3554,136"/>
+<area shape="rect" id="node28" href="$LoopDeletion_8cpp.html" title=" " alt="" coords="3177,184,3336,225"/>
+<area shape="rect" id="node29" href="$LoopFlatten_8h.html" title=" " alt="" coords="4127,95,4306,136"/>
+<area shape="rect" id="node31" href="$LoopInterchange_8h.html" title=" " alt="" coords="4592,95,4783,136"/>
+<area shape="rect" id="node33" href="$LoopPredication_8h.html" title=" " alt="" coords="4381,95,4567,136"/>
+<area shape="rect" id="node35" href="$LoopReroll_8h.html" title=" " alt="" coords="2935,95,3114,136"/>
+<area shape="rect" id="node36" href="$LoopRotation_8h.html" title=" " alt="" coords="4807,95,4986,136"/>
+<area shape="rect" id="node37" href="$LoopRotation_8cpp.html" title=" " alt="" coords="4847,184,5005,225"/>
+<area shape="rect" id="node38" href="$LoopSimplifyCFG_8h.html" title=" " alt="" coords="5011,95,5204,136"/>
+<area shape="rect" id="node39" href="$LoopSimplifyCFG_8cpp.html" title=" " alt="" coords="5144,184,5308,225"/>
+<area shape="rect" id="node40" href="$LoopSink_8h.html" title=" " alt="" coords="5229,95,5407,136"/>
+<area shape="rect" id="node41" href="$LoopSink_8cpp.html" title=" " alt="" coords="5389,184,5548,225"/>
+<area shape="rect" id="node42" href="$LoopUnrollAndJamPass_8h.html" title=" " alt="" coords="3872,95,4103,136"/>
+<area shape="rect" id="node43" href="$LoopVersioningLICM_8h.html" title=" " alt="" coords="3138,95,3351,136"/>
+<area shape="rect" id="node44" href="$SimpleLoopUnswitch_8h.html" title=" " alt="" coords="3629,95,3847,136"/>
+<area shape="rect" id="node45" href="$HexagonLoopIdiomRecognition_8h.html" title=" " alt="" coords="5584,95,5825,136"/>
+<area shape="rect" id="node46" href="$HexagonVectorLoopCarriedReuse_8h.html" title=" " alt="" coords="5849,95,6104,136"/>
+<area shape="rect" id="node47" href="$IndVarSimplify_8cpp.html" title=" " alt="" coords="6128,95,6287,136"/>
+<area shape="rect" id="node48" href="$LoopPassManager_8cpp.html" title=" " alt="" coords="6311,95,6480,136"/>
+<area shape="rect" id="node49" href="$LoopUnrollPass_8cpp.html" title=" " alt="" coords="6504,95,6663,136"/>
+<area shape="rect" id="node50" href="$LoopUnswitch_8cpp.html" title=" " alt="" coords="6687,95,6845,136"/>
+<area shape="rect" id="node3" href="$CodeGenPassBuilder_8cpp.html" title=" " alt="" coords="5,191,271,218"/>
+<area shape="rect" id="node5" href="$Config_8h.html" title=" " alt="" coords="941,191,1127,218"/>
+<area shape="rect" id="node6" href="$SpeculateAnalyses_8cpp.html" title=" " alt="" coords="1151,184,1354,225"/>
+<area shape="rect" id="node8" href="$ThinLTOCodeGenerator_8cpp.html" title=" " alt="" coords="1379,191,1625,218"/>
+<area shape="rect" id="node10" href="$PassBuilderBindings_8cpp.html" title="This file defines the C bindings to the new pass manager." alt="" coords="1650,191,1898,218"/>
+<area shape="rect" id="node12" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for S..." alt="" coords="1922,184,2170,225"/>
+<area shape="rect" id="node13" href="$BPFTargetMachine_8cpp.html" title=" " alt="" coords="495,184,674,225"/>
+<area shape="rect" id="node14" href="$HexagonTargetMachine_8cpp.html" title=" " alt="" coords="5601,184,5808,225"/>
+<area shape="rect" id="node15" href="$NVPTXTargetMachine_8cpp.html" title=" " alt="" coords="698,184,917,225"/>
+<area shape="rect" id="node17" href="$GuardWidening_8cpp.html" title=" " alt="" coords="2377,184,2536,225"/>
+<area shape="rect" id="node19" href="$IVUsersPrinter_8cpp.html" title=" " alt="" coords="2560,184,2719,225"/>
+<area shape="rect" id="node21" href="$PassManagerBuilder_8cpp.html" title=" " alt="" coords="3361,184,3545,225"/>
+<area shape="rect" id="node24" href="$LoopAccessAnalysisPrinter_8cpp.html" title=" " alt="" coords="2743,184,2970,225"/>
+<area shape="rect" id="node26" href="$LoopBoundSplit_8cpp.html" title=" " alt="" coords="2995,184,3153,225"/>
+<area shape="rect" id="node30" href="$LoopFlatten_8cpp.html" title=" " alt="" coords="4175,184,4333,225"/>
+<area shape="rect" id="node32" href="$LoopInterchange_8cpp.html" title=" " alt="" coords="4607,184,4768,225"/>
+<area shape="rect" id="node34" href="$LoopPredication_8cpp.html" title=" " alt="" coords="4395,184,4553,225"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="llvm::MemMoveInst" name="llvm::MemMoveInst">
+<area shape="rect" id="node1" title="This class wraps the llvm.memmove intrinsic." alt="" coords="337,1677,489,1704"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MemTransferInst.html" title="This class wraps the llvm.memcpy/memmove intrinsics." alt="" coords="329,1601,497,1628"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MemTransferBase.html" title=" " alt="" coords="325,1511,501,1552"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MemIntrinsic.html" title="This is the common base class for memset/memcpy/memmove." alt="" coords="251,1414,395,1441"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MemIntrinsicBase.html" title=" " alt="" coords="235,1316,411,1357"/>
+<area shape="rect" id="node6" href="$classllvm_1_1IntrinsicInst.html" title="A wrapper class for inspecting calls to intrinsic functions." alt="" coords="250,1136,385,1163"/>
+<area shape="rect" id="node25" href="$classllvm_1_1MemIntrinsicBase.html" title="Common base class for all memory intrinsics." alt="" coords="339,1212,515,1253"/>
+<area shape="rect" id="node7" href="$classllvm_1_1CallInst.html" title="This class represents a function call, abstracting a target machine&#39;s calling convention." alt="" coords="263,1060,371,1087"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CallBase.html" title="Base class for all callable instructions (InvokeInst and CallInst) Holds everything related to callin..." alt="" coords="259,984,375,1011"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Instruction.html" title=" " alt="" coords="63,895,191,921"/>
+<area shape="rect" id="node10" href="$classllvm_1_1User.html" title=" " alt="" coords="82,779,171,805"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="79,660,174,687"/>
+<area shape="rect" id="node12" href="$classuint64__t.html" title=" " alt="" coords="5,446,80,473"/>
+<area shape="rect" id="node13" href="$classunsigned.html" title=" " alt="" coords="263,446,345,473"/>
+<area shape="rect" id="node24" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="354,660,443,687"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="518,764,677,820"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="527,335,676,376"/>
+<area shape="rect" id="node20" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="641,439,831,480"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="497,215,706,285"/>
+<area shape="rect" id="node17" title=" " alt="" coords="482,5,675,32"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="601,81,759,123"/>
+<area shape="rect" id="node19" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="635,645,837,701"/>
+<area shape="rect" id="node21" href="$classllvm_1_1AttributeList.html" title=" " alt="" coords="215,895,353,921"/>
+<area shape="rect" id="node22" title=" " alt="" coords="378,895,417,921"/>
+<area shape="rect" id="node23" href="$classllvm_1_1FunctionType.html" title="Class to represent function types." alt="" coords="393,844,537,871"/>
+<area shape="rect" id="node26" href="$classllvm_1_1MemTransferBase.html" title="Common base class for all memory transfer intrinsics." alt="" coords="419,1407,595,1448"/>
+<area shape="rect" id="node27" href="$classBaseCL.html" title=" " alt="" coords="471,1323,542,1350"/>
+</map>

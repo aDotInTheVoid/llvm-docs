@@ -1,0 +1,11 @@
+<map id="llvm::BinaryStreamWriter" name="llvm::BinaryStreamWriter">
+<area shape="rect" id="node1" title="Provides write only access to a subclass of WritableBinaryStream." alt="" coords="5,497,193,524"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="41,95,115,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BinaryStreamRefBase.html" title="Common stuff for mutable and immutable StreamRefs." alt="" coords="149,184,351,225"/>
+<area shape="rect" id="node3" href="$classllvm_1_1WritableBinaryStreamRef.html" title=" " alt="" coords="127,408,352,435"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BinaryStreamRefBase.html" title=" " alt="" coords="147,303,353,359"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title=" " alt="" coords="139,95,337,121"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title=" " alt="" coords="162,5,314,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="361,95,560,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="584,95,695,121"/>
+</map>

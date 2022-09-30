@@ -1,0 +1,52 @@
+<map id="include/llvm/Object/SymbolicFile.h" name="include/llvm/Object/SymbolicFile.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1831,5,1979,47"/>
+<area shape="rect" id="node2" href="$COFFImportFile_8h.html" title=" " alt="" coords="249,273,397,315"/>
+<area shape="rect" id="node7" href="$SymbolicFile_8cpp.html" title=" " alt="" coords="734,370,933,397"/>
+<area shape="rect" id="node8" href="$ELFObjectFile_8h.html" title=" " alt="" coords="3514,184,3662,225"/>
+<area shape="rect" id="node27" href="$IRObjectFile_8h.html" title=" " alt="" coords="1171,184,1319,225"/>
+<area shape="rect" id="node33" href="$IRSymtab_8cpp.html" title=" " alt="" coords="1193,281,1372,307"/>
+<area shape="rect" id="node36" href="$IRSymtab_8h.html" title=" " alt="" coords="771,95,919,136"/>
+<area shape="rect" id="node39" href="$Object_2MachO_8h.html" title=" " alt="" coords="5203,184,5351,225"/>
+<area shape="rect" id="node41" href="$MachOObjectFile_8cpp.html" title=" " alt="" coords="5783,281,6009,307"/>
+<area shape="rect" id="node42" href="$ModuleSymbolTable_8h.html" title=" " alt="" coords="1323,95,1493,136"/>
+<area shape="rect" id="node43" href="$ModuleSummaryAnalysis_8cpp.html" title=" " alt="" coords="883,184,1095,225"/>
+<area shape="rect" id="node44" href="$ModuleSymbolTable_8cpp.html" title=" " alt="" coords="1446,191,1693,218"/>
+<area shape="rect" id="node45" href="$FunctionImport_8cpp.html" title=" " alt="" coords="1717,184,1867,225"/>
+<area shape="rect" id="node46" href="$ObjectFile_8h.html" title=" " alt="" coords="4611,95,4759,136"/>
+<area shape="rect" id="node47" href="$ArchiveWriter_8cpp.html" title=" " alt="" coords="5528,191,5731,218"/>
+<area shape="rect" id="node48" href="$WasmObjectFile_8cpp.html" title=" " alt="" coords="5755,191,5975,218"/>
+<area shape="rect" id="node49" href="$RemarkLinker_8cpp.html" title=" " alt="" coords="5999,191,6219,218"/>
+<area shape="rect" id="node50" href="$TapiFile_8h.html" title=" " alt="" coords="6295,95,6443,136"/>
+<area shape="rect" id="node3" href="$COFFModuleDefinition_8h.html" title=" " alt="" coords="296,363,480,404"/>
+<area shape="rect" id="node4" href="$COFFModuleDefinition_8cpp.html" title=" " alt="" coords="135,459,396,486"/>
+<area shape="rect" id="node5" href="$DlltoolDriver_8cpp.html" title=" " alt="" coords="423,452,604,493"/>
+<area shape="rect" id="node6" href="$COFFImportFile_8cpp.html" title=" " alt="" coords="5,370,221,397"/>
+<area shape="rect" id="node9" href="$Symbolize_8h.html" title=" " alt="" coords="4241,273,4420,315"/>
+<area shape="rect" id="node10" href="$ELFObjHandler_8h.html" title="This supports reading and writing of elf dynamic shared objects." alt="" coords="1869,273,2062,315"/>
+<area shape="rect" id="node11" href="$ELFObjHandler_8cpp.html" title=" " alt="" coords="1783,363,1961,404"/>
+<area shape="rect" id="node12" href="$RelocationResolver_8h.html" title=" " alt="" coords="4676,273,4839,315"/>
+<area shape="rect" id="node13" href="$InstrumentationMap_8cpp.html" title=" " alt="" coords="4665,363,4849,404"/>
+<area shape="rect" id="node14" href="$ObjectFileTransformer_8cpp.html" title=" " alt="" coords="5724,363,5919,404"/>
+<area shape="rect" id="node15" href="$SymbolizableObjectFile_8cpp.html" title=" " alt="" coords="4445,273,4651,315"/>
+<area shape="rect" id="node16" href="$ELF__aarch64_8cpp.html" title=" " alt="" coords="3242,273,3425,315"/>
+<area shape="rect" id="node17" href="$ELF__riscv_8cpp.html" title=" " alt="" coords="3449,273,3609,315"/>
+<area shape="rect" id="node18" href="$ELF__x86__64_8cpp.html" title=" " alt="" coords="2086,273,2263,315"/>
+<area shape="rect" id="node19" href="$DebugObjectManagerPlugin_8cpp.html" title=" " alt="" coords="3685,273,3945,315"/>
+<area shape="rect" id="node20" href="$ObjectFileInterface_8cpp.html" title=" " alt="" coords="4863,273,5065,315"/>
+<area shape="rect" id="node21" href="$RuntimeDyld_8cpp.html" title=" " alt="" coords="2288,273,2515,315"/>
+<area shape="rect" id="node22" href="$RuntimeDyldELF_8cpp.html" title=" " alt="" coords="3969,273,4217,315"/>
+<area shape="rect" id="node23" href="$Decompressor_8cpp.html" title=" " alt="" coords="2539,281,2747,307"/>
+<area shape="rect" id="node24" href="$ELFObjectFile_8cpp.html" title=" " alt="" coords="2771,281,2973,307"/>
+<area shape="rect" id="node25" href="$SymbolSize_8cpp.html" title=" " alt="" coords="5090,281,5281,307"/>
+<area shape="rect" id="node26" href="$ELFEmitter_8cpp.html" title="The ELF component of yaml2obj." alt="" coords="2998,281,3218,307"/>
+<area shape="rect" id="node28" href="$LTOModule_8h.html" title=" " alt="" coords="991,273,1169,315"/>
+<area shape="rect" id="node29" href="$LTOModule_8cpp.html" title=" " alt="" coords="1065,370,1234,397"/>
+<area shape="rect" id="node30" href="$LTO_8cpp.html" title=" " alt="" coords="743,281,865,307"/>
+<area shape="rect" id="node31" href="$ThinLTOCodeGenerator_8cpp.html" title=" " alt="" coords="473,281,719,307"/>
+<area shape="rect" id="node32" href="$IRObjectFile_8cpp.html" title=" " alt="" coords="1397,281,1590,307"/>
+<area shape="rect" id="node34" href="$MachOUniversal_8cpp.html" title=" " alt="" coords="5477,370,5699,397"/>
+<area shape="rect" id="node35" href="$MachOUniversalWriter_8cpp.html" title=" " alt="" coords="5257,363,5452,404"/>
+<area shape="rect" id="node37" href="$LTO_8h.html" title=" " alt="" coords="472,191,643,218"/>
+<area shape="rect" id="node38" href="$BitcodeWriter_8cpp.html" title=" " alt="" coords="667,184,808,225"/>
+<area shape="rect" id="node40" href="$MachOUniversal_8h.html" title=" " alt="" coords="5458,273,5606,315"/>
+</map>

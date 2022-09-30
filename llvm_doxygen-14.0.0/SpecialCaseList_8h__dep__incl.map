@@ -1,0 +1,8 @@
+<map id="include/llvm/Support/SpecialCaseList.h" name="include/llvm/Support/SpecialCaseList.h">
+<area shape="rect" id="node1" title=" " alt="" coords="328,5,484,47"/>
+<area shape="rect" id="node2" href="$SanitizerCoverage_8h.html" title=" " alt="" coords="28,95,293,136"/>
+<area shape="rect" id="node4" href="$SanitizerCoverage_8cpp.html" title=" " alt="" coords="220,184,443,225"/>
+<area shape="rect" id="node5" href="$SpecialCaseList_8cpp.html" title=" " alt="" coords="369,102,595,129"/>
+<area shape="rect" id="node6" href="$DataFlowSanitizer_8cpp.html" title="This file is a part of DataFlowSanitizer, a generalised dynamic data flow analysis." alt="" coords="619,95,841,136"/>
+<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,191,196,218"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::yaml::FrameIndex" name="llvm::yaml::FrameIndex">
+<area shape="rect" id="node1" title="A serializaable representation of a reference to a stack object or fixed stack object." alt="" coords="35,199,212,225"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,109,44,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SMRange.html" title="Represents a range in source code." alt="" coords="69,109,189,136"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code." alt="" coords="78,5,179,32"/>
+<area shape="rect" id="node5" href="$classbool.html" title=" " alt="" coords="218,109,269,136"/>
+</map>

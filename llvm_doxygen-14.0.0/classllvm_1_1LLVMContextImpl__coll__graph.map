@@ -1,0 +1,52 @@
+<map id="llvm::LLVMContextImpl" name="llvm::LLVMContextImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="659,1784,832,1811"/>
+<area shape="rect" id="node42" href="$classllvm_1_1LLVMContext.html" title="This is an important class for using LLVM in a threaded context." alt="" coords="973,1784,1117,1811"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="Allocate memory in an ever growing pool, as if by bump&#45;pointer." alt="" coords="164,5,389,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="7,264,96,291"/>
+<area shape="rect" id="node32" href="$classllvm_1_1IntegerType.html" title="Class to represent integer types." alt="" coords="209,295,344,321"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="191,346,362,387"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallPtrSet.html" title=" " alt="" coords="200,411,353,453"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringMap.html" title=" " alt="" coords="173,477,381,504"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="161,528,392,584"/>
+<area shape="rect" id="node8" href="$classllvm_1_1StringMap.html" title=" " alt="" coords="192,609,361,650"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseSet.html" title=" " alt="" coords="167,674,387,715"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ConstantUniqueMap.html" title=" " alt="" coords="181,739,372,781"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="187,805,366,861"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="173,886,380,927"/>
+<area shape="rect" id="node13" href="$classllvm_1_1StringMap.html" title=" " alt="" coords="172,952,381,1008"/>
+<area shape="rect" id="node14" href="$classllvm_1_1OptPassGate.html" title="Extensions to this class implement mechanisms to disable passes and individual optimizations at compi..." alt="" coords="205,1032,348,1059"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="185,1083,368,1139"/>
+<area shape="rect" id="node16" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="187,1163,366,1219"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="172,1243,381,1314"/>
+<area shape="rect" id="node18" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="186,1338,367,1379"/>
+<area shape="rect" id="node19" title=" " alt="" coords="176,1403,377,1445"/>
+<area shape="rect" id="node20" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="187,1469,366,1525"/>
+<area shape="rect" id="node21" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="187,1549,366,1605"/>
+<area shape="rect" id="node22" href="$classllvm_1_1StringMap.html" title=" " alt="" coords="171,1630,382,1671"/>
+<area shape="rect" id="node23" href="$classllvm_1_1ConstantInt.html" title="This is the shared class of boolean and integer constants." alt="" coords="209,1696,344,1723"/>
+<area shape="rect" id="node24" href="$classllvm_1_1ConstantUniqueMap.html" title=" " alt="" coords="181,1747,372,1789"/>
+<area shape="rect" id="node25" title=" " alt="" coords="178,1813,375,1840"/>
+<area shape="rect" id="node26" href="$classllvm_1_1StringMap.html" title=" " alt="" coords="152,1864,401,1920"/>
+<area shape="rect" id="node27" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="191,1945,362,1986"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="170,2011,383,2067"/>
+<area shape="rect" id="node29" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="191,2091,362,2162"/>
+<area shape="rect" id="node30" href="$classllvm_1_1Optional.html" title=" " alt="" coords="178,2187,375,2213"/>
+<area shape="rect" id="node31" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="167,2238,386,2279"/>
+<area shape="rect" id="node33" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="175,2304,379,2360"/>
+<area shape="rect" id="node34" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="165,2385,389,2455"/>
+<area shape="rect" id="node35" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="187,2480,366,2536"/>
+<area shape="rect" id="node36" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="173,2560,381,2616"/>
+<area shape="rect" id="node37" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="191,2641,362,2682"/>
+<area shape="rect" id="node38" href="$classllvm_1_1StringMap.html" title=" " alt="" coords="169,2707,384,2733"/>
+<area shape="rect" id="node39" href="$classllvm_1_1DenseSet.html" title=" " alt="" coords="173,2758,380,2799"/>
+<area shape="rect" id="node40" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="163,2824,391,2880"/>
+<area shape="rect" id="node41" title=" " alt="" coords="178,2905,375,2946"/>
+<area shape="rect" id="node43" href="$classbool.html" title=" " alt="" coords="251,2971,302,2997"/>
+<area shape="rect" id="node44" title=" " alt="" coords="171,3022,383,3063"/>
+<area shape="rect" id="node45" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="187,3088,366,3144"/>
+<area shape="rect" id="node46" href="$classllvm_1_1UniqueStringSaver.html" title="Saves strings in the provided stable storage and returns a StringRef with a stable character pointer." alt="" coords="187,3168,367,3195"/>
+<area shape="rect" id="node47" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="195,3219,359,3304"/>
+<area shape="rect" id="node48" href="$classllvm_1_1Optional.html" title=" " alt="" coords="161,3329,392,3399"/>
+<area shape="rect" id="node49" href="$classllvm_1_1ConstantUniqueMap.html" title=" " alt="" coords="181,3423,372,3465"/>
+<area shape="rect" id="node50" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="145,3489,408,3530"/>
+</map>

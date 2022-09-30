@@ -1,0 +1,52 @@
+<map id="lib/Transforms/Vectorize/LoadStoreVectorizer.cpp" name="lib/Transforms/Vectorize/LoadStoreVectorizer.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2373,5,2555,47"/>
+<area shape="rect" id="node2" href="$LoadStoreVectorizer_8h.html" title=" " alt="" coords="1153,184,1343,225"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="1883,796,2045,823"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2669,871,2859,897"/>
+<area shape="rect" id="node6" title=" " alt="" coords="903,945,963,972"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1399,871,1484,897"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4085,871,4155,897"/>
+<area shape="rect" id="node9" title=" " alt="" coords="797,871,862,897"/>
+<area shape="rect" id="node10" title=" " alt="" coords="231,871,286,897"/>
+<area shape="rect" id="node11" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="619,721,794,748"/>
+<area shape="rect" id="node13" href="$Function_8h.html" title=" " alt="" coords="3821,423,3960,449"/>
+<area shape="rect" id="node14" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2431,497,2579,524"/>
+<area shape="rect" id="node15" href="$ArrayRef_8h.html" title=" " alt="" coords="2520,647,2675,673"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title=" " alt="" coords="1155,721,1330,748"/>
+<area shape="rect" id="node17" href="$BasicBlock_8h.html" title=" " alt="" coords="3516,497,3671,524"/>
+<area shape="rect" id="node18" href="$IR_2Instruction_8h.html" title=" " alt="" coords="3157,572,3310,599"/>
+<area shape="rect" id="node19" href="$User_8h.html" title=" " alt="" coords="3899,647,4013,673"/>
+<area shape="rect" id="node20" href="$Value_8h.html" title=" " alt="" coords="3389,721,3509,748"/>
+<area shape="rect" id="node21" href="$Casting_8h.html" title=" " alt="" coords="4960,796,5131,823"/>
+<area shape="rect" id="node22" href="$DerivedTypes_8h.html" title=" " alt="" coords="4607,497,4779,524"/>
+<area shape="rect" id="node23" href="$Type_8h.html" title=" " alt="" coords="5057,572,5172,599"/>
+<area shape="rect" id="node24" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="2353,348,2485,375"/>
+<area shape="rect" id="node25" href="$DataLayout_8h.html" title=" " alt="" coords="4918,423,5077,449"/>
+<area shape="rect" id="node26" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="5869,497,6001,524"/>
+<area shape="rect" id="node27" href="$MathExtras_8h.html" title=" " alt="" coords="5716,572,5911,599"/>
+<area shape="rect" id="node28" href="$Pass_8h.html" title=" " alt="" coords="1013,273,1109,300"/>
+<area shape="rect" id="node29" href="$MapVector_8h.html" title="This file implements a map that provides insertion order iteration." alt="" coords="835,647,1002,673"/>
+<area shape="rect" id="node30" href="$PostOrderIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build a generic graph post order iterator." alt="" coords="499,647,709,673"/>
+<area shape="rect" id="node31" href="$Statistic_8h.html" title="This file defines the &#39;Statistic&#39; class, which is designed to be an easy way to expose various metric..." alt="" coords="5970,796,6121,823"/>
+<area shape="rect" id="node32" href="$AliasAnalysis_8h.html" title=" " alt="" coords="547,191,760,218"/>
+<area shape="rect" id="node33" href="$MemoryLocation_8h.html" title="This file provides utility analysis objects describing memory locations." alt="" coords="496,273,731,300"/>
+<area shape="rect" id="node34" href="$AssumptionCache_8h.html" title=" " alt="" coords="886,184,1077,225"/>
+<area shape="rect" id="node35" href="$ScalarEvolution_8h.html" title=" " alt="" coords="2149,191,2376,218"/>
+<area shape="rect" id="node36" href="$InstrTypes_8h.html" title=" " alt="" coords="3367,348,3518,375"/>
+<area shape="rect" id="node37" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4389,423,4539,449"/>
+<area shape="rect" id="node38" href="$Instructions_8h.html" title=" " alt="" coords="2797,273,2957,300"/>
+<area shape="rect" id="node39" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes." alt="" coords="1368,184,1587,225"/>
+<area shape="rect" id="node40" href="$ValueTracking_8h.html" title=" " alt="" coords="4325,273,4541,300"/>
+<area shape="rect" id="node41" href="$VectorUtils_8h.html" title=" " alt="" coords="856,572,1053,599"/>
+<area shape="rect" id="node42" href="$Dominators_8h.html" title=" " alt="" coords="1611,191,1771,218"/>
+<area shape="rect" id="node43" href="$IRBuilder_8h.html" title=" " alt="" coords="3659,191,3802,218"/>
+<area shape="rect" id="node44" href="$IntrinsicInst_8h.html" title=" " alt="" coords="4869,191,5029,218"/>
+<area shape="rect" id="node45" href="$InitializePasses_8h.html" title=" " alt="" coords="5697,102,5863,129"/>
+<area shape="rect" id="node46" href="$Debug_8h.html" title=" " alt="" coords="5888,102,6051,129"/>
+<area shape="rect" id="node47" href="$KnownBits_8h.html" title=" " alt="" coords="5822,348,6013,375"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title=" " alt="" coords="1635,647,1842,673"/>
+<area shape="rect" id="node49" href="$Transforms_2Utils_2Local_8h.html" title=" " alt="" coords="3371,95,3533,136"/>
+<area shape="rect" id="node50" href="$llvm_2Transforms_2Vectorize_8h.html" title=" " alt="" coords="6227,102,6429,129"/>
+<area shape="rect" id="node3" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1286,273,1455,300"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title=" " alt="" coords="5184,871,5363,897"/>
+</map>

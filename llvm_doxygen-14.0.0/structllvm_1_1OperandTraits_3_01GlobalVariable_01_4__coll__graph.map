@@ -1,0 +1,7 @@
+<map id="llvm::OperandTraits&lt; GlobalVariable &gt;" name="llvm::OperandTraits&lt; GlobalVariable &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="1276,5,1425,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1OptionalOperandTraits.html" title=" " alt="" coords="1023,5,1227,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,11,220,52"/>
+<area shape="rect" id="node5" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="377,40,592,81"/>
+<area shape="rect" id="node4" href="$structllvm_1_1OptionalOperandTraits.html" title="OptionalOperandTraits &#45; when the number of operands may change at runtime." alt="" coords="641,40,845,81"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::object::XCOFFObjectFile" name="llvm::object::XCOFFObjectFile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,220,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1ObjectFile.html" title="This class is the base class for all object file types." alt="" coords="27,155,199,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1SymbolicFile.html" title=" " alt="" coords="17,80,208,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1object_1_1Binary.html" title=" " alt="" coords="38,5,187,32"/>
+</map>

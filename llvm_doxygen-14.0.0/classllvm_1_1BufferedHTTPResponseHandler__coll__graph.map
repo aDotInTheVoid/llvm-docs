@@ -1,0 +1,7 @@
+<map id="llvm::BufferedHTTPResponseHandler" name="llvm::BufferedHTTPResponseHandler">
+<area shape="rect" id="node1" title="A simple handler which writes returned data to an HTTPResponseBuffer." alt="" coords="25,199,235,240"/>
+<area shape="rect" id="node2" href="$classllvm_1_1HTTPResponseHandler.html" title="A handler for state updates occurring while an HTTPRequest is performed." alt="" coords="5,109,212,136"/>
+<area shape="rect" id="node3" href="$structllvm_1_1HTTPResponseBuffer.html" title="An HTTP response status code bundled with a buffer to store the body." alt="" coords="237,109,431,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="153,5,352,47"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="376,13,457,39"/>
+</map>

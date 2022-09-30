@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/AMDGPUTargetMachine.cpp" name="lib/Target/AMDGPU/AMDGPUTargetMachine.cpp">
+<area shape="rect" id="node1" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for S..." alt="" coords="2649,5,2897,47"/>
+<area shape="rect" id="node2" href="$AMDGPUTargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets." alt="" coords="663,191,851,218"/>
+<area shape="rect" id="node4" href="$TargetPassConfig_8h.html" title="Target&#45;Independent Code Generator Pass Configuration Options pass." alt="" coords="725,281,965,307"/>
+<area shape="rect" id="node8" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1942,370,2111,397"/>
+<area shape="rect" id="node10" href="$AMDGPU_8h.html" title=" " alt="" coords="1221,281,1315,307"/>
+<area shape="rect" id="node11" href="$AMDGPUAliasAnalysis_8h.html" title="This is the AMGPU address space based alias analysis pass." alt="" coords="1362,191,1542,218"/>
+<area shape="rect" id="node13" href="$AMDGPUExportClustering_8h.html" title=" " alt="" coords="2355,102,2557,129"/>
+<area shape="rect" id="node15" href="$AMDGPUMacroFusion_8h.html" title=" " alt="" coords="2581,102,2755,129"/>
+<area shape="rect" id="node16" href="$AMDGPUTargetObjectFile_8h.html" title="This file declares the AMDGPU&#45;specific subclass of TargetLoweringObjectFile." alt="" coords="2779,102,2978,129"/>
+<area shape="rect" id="node17" href="$AMDGPUTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AMDGPU target machine." alt="" coords="1013,191,1235,218"/>
+<area shape="rect" id="node18" href="$GCNIterativeScheduler_8h.html" title="This file defines the class GCNIterativeScheduler, which uses an iterative approach to find a best sc..." alt="" coords="3003,102,3184,129"/>
+<area shape="rect" id="node19" href="$GCNSchedStrategy_8h.html" title=" " alt="" coords="3208,102,3363,129"/>
+<area shape="rect" id="node20" href="$R600_8h.html" title=" " alt="" coords="207,191,273,218"/>
+<area shape="rect" id="node21" href="$R600TargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets." alt="" coords="788,102,951,129"/>
+<area shape="rect" id="node22" href="$SIMachineFunctionInfo_8h.html" title=" " alt="" coords="3387,102,3568,129"/>
+<area shape="rect" id="node23" href="$SIMachineScheduler_8h.html" title="SI Machine Scheduler interface." alt="" coords="3593,102,3757,129"/>
+<area shape="rect" id="node24" href="$AMDGPUTargetInfo_8h.html" title=" " alt="" coords="3781,102,4008,129"/>
+<area shape="rect" id="node25" href="$CGSCCPassManager_8h.html" title="This header provides classes for managing passes over SCCs of the call graph." alt="" coords="1755,281,2011,307"/>
+<area shape="rect" id="node26" href="$IRTranslator_8h.html" title="This file declares the IRTranslator pass." alt="" coords="5,273,189,315"/>
+<area shape="rect" id="node27" href="$InstructionSelect_8h.html" title=" " alt="" coords="4032,95,4216,136"/>
+<area shape="rect" id="node28" href="$Legalizer_8h.html" title=" " alt="" coords="4240,95,4424,136"/>
+<area shape="rect" id="node29" href="$Localizer_8h.html" title=" " alt="" coords="4448,95,4632,136"/>
+<area shape="rect" id="node30" href="$RegBankSelect_8h.html" title="This file describes the interface of the MachineFunctionPass responsible for assigning the generic vi..." alt="" coords="4656,95,4840,136"/>
+<area shape="rect" id="node31" href="$MIParser_8h.html" title=" " alt="" coords="2350,363,2533,404"/>
+<area shape="rect" id="node32" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="351,191,526,218"/>
+<area shape="rect" id="node33" href="$RegAllocRegistry_8h.html" title=" " alt="" coords="4865,102,5103,129"/>
+<area shape="rect" id="node34" title=" " alt="" coords="5128,102,5331,129"/>
+<area shape="rect" id="node35" href="$LegacyPassManager_8h.html" title=" " alt="" coords="5355,102,5570,129"/>
+<area shape="rect" id="node36" href="$PatternMatch_8h.html" title=" " alt="" coords="5595,102,5765,129"/>
+<area shape="rect" id="node37" href="$InitializePasses_8h.html" title=" " alt="" coords="5790,102,5957,129"/>
+<area shape="rect" id="node38" href="$TargetRegistry_8h.html" title=" " alt="" coords="315,281,499,307"/>
+<area shape="rect" id="node39" href="$llvm_2Passes_2PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="1617,191,1807,218"/>
+<area shape="rect" id="node40" href="$llvm_2Transforms_2IPO_8h.html" title=" " alt="" coords="5981,102,6147,129"/>
+<area shape="rect" id="node41" href="$AlwaysInliner_8h.html" title="Provides passes to inlining &quot;always_inline&quot; functions." alt="" coords="1339,273,1493,315"/>
+<area shape="rect" id="node42" href="$GlobalDCE_8h.html" title=" " alt="" coords="2026,184,2179,225"/>
+<area shape="rect" id="node43" href="$Internalize_8h.html" title=" " alt="" coords="2203,184,2357,225"/>
+<area shape="rect" id="node44" href="$llvm_2Transforms_2IPO_2PassManagerBuilder_8h.html" title=" " alt="" coords="6171,95,6341,136"/>
+<area shape="rect" id="node45" href="$llvm_2Transforms_2Scalar_8h.html" title=" " alt="" coords="6365,102,6547,129"/>
+<area shape="rect" id="node46" href="$GVN_8h.html" title="This file provides the interface for LLVM&#39;s Global Value Numbering pass which eliminates fully redund..." alt="" coords="2288,273,2459,315"/>
+<area shape="rect" id="node47" href="$InferAddressSpaces_8h.html" title=" " alt="" coords="1831,184,2001,225"/>
+<area shape="rect" id="node48" href="$llvm_2Transforms_2Utils_8h.html" title=" " alt="" coords="6572,102,6745,129"/>
+<area shape="rect" id="node49" href="$SimplifyLibCalls_8h.html" title=" " alt="" coords="6770,95,6931,136"/>
+<area shape="rect" id="node50" href="$llvm_2Transforms_2Vectorize_8h.html" title=" " alt="" coords="6956,102,7159,129"/>
+<area shape="rect" id="node3" href="$GCNSubtarget_8h.html" title="AMD GCN specific subclass of TargetSubtarget." alt="" coords="574,281,701,307"/>
+<area shape="rect" id="node7" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="990,281,1197,307"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1853,452,1913,479"/>
+<area shape="rect" id="node5" href="$Pass_8h.html" title=" " alt="" coords="1220,370,1316,397"/>
+<area shape="rect" id="node6" href="$CodeGen_8h.html" title=" " alt="" coords="317,370,497,397"/>
+<area shape="rect" id="node12" href="$AliasAnalysis_8h.html" title=" " alt="" coords="1517,281,1731,307"/>
+<area shape="rect" id="node14" href="$ScheduleDAGMutation_8h.html" title=" " alt="" coords="2534,191,2810,218"/>
+</map>

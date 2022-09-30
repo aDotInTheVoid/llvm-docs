@@ -1,0 +1,7 @@
+<map id="llvm::DIModule" name="llvm::DIModule">
+<area shape="rect" id="node1" title="Represents a module in the programming language, for example, a Clang module, or a Fortran module." alt="" coords="5,304,127,331"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts." alt="" coords="10,229,122,256"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node." alt="" coords="13,155,119,181"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="9,80,123,107"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="5,5,127,32"/>
+</map>

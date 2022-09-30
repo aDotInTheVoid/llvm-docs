@@ -1,0 +1,5 @@
+<map id="llvm::HTTPResponseBuffer" name="llvm::HTTPResponseBuffer">
+<area shape="rect" id="node1" title="An HTTP response status code bundled with a buffer to store the body." alt="" coords="89,109,283,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="228,13,309,39"/>
+</map>

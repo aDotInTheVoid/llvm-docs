@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/GCNRegPressure.h" name="lib/Target/AMDGPU/GCNRegPressure.h">
+<area shape="rect" id="node1" title="This file defines the GCNRegPressure class, which tracks registry pressure by bookkeeping number of S..." alt="" coords="3237,5,3440,47"/>
+<area shape="rect" id="node2" href="$GCNSubtarget_8h.html" title="AMD GCN specific subclass of TargetSubtarget." alt="" coords="1210,169,1337,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="4616,661,4701,688"/>
+<area shape="rect" id="node44" href="$LiveIntervals_8h.html" title=" " alt="" coords="3231,95,3446,121"/>
+<area shape="rect" id="node3" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls." alt="" coords="1427,244,1605,271"/>
+<area shape="rect" id="node24" href="$AMDGPUSubtarget_8h.html" title="Base class for AMDGPU specific classes of TargetSubtarget." alt="" coords="1211,415,1367,442"/>
+<area shape="rect" id="node27" href="$SIFrameLowering_8h.html" title=" " alt="" coords="1256,244,1403,271"/>
+<area shape="rect" id="node29" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition." alt="" coords="415,244,545,271"/>
+<area shape="rect" id="node32" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo." alt="" coords="1081,244,1181,271"/>
+<area shape="rect" id="node40" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="2837,319,3083,360"/>
+<area shape="rect" id="node43" title=" " alt="" coords="837,244,1056,271"/>
+<area shape="rect" id="node4" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls." alt="" coords="2141,319,2325,360"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title=" " alt="" coords="3203,505,3357,531"/>
+<area shape="rect" id="node7" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="2775,661,2985,688"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title=" " alt="" coords="4151,587,4326,613"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1684,661,1751,688"/>
+<area shape="rect" id="node19" href="$MachineFunction_8h.html" title=" " alt="" coords="1677,415,1917,442"/>
+<area shape="rect" id="node23" href="$CallingConv_8h.html" title=" " alt="" coords="1422,505,1583,531"/>
+<area shape="rect" id="node6" href="$Hashing_8h.html" title=" " alt="" coords="3485,587,3635,613"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title=" " alt="" coords="2791,736,2969,763"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2643,661,2712,688"/>
+<area shape="rect" id="node12" href="$None_8h.html" title="This file provides None, an enumerator for use in implicit constructors of various (usually templated..." alt="" coords="2994,587,3126,613"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3689,661,3759,688"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3931,661,4042,688"/>
+<area shape="rect" id="node16" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="3761,587,3924,613"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3252,587,3308,613"/>
+<area shape="rect" id="node11" title=" " alt="" coords="4479,661,4539,688"/>
+<area shape="rect" id="node20" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1760,497,1968,539"/>
+<area shape="rect" id="node22" href="$MachineMemOperand_8h.html" title=" " alt="" coords="2347,505,2621,531"/>
+<area shape="rect" id="node21" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen." alt="" coords="5029,587,5206,613"/>
+<area shape="rect" id="node25" href="$Triple_8h.html" title=" " alt="" coords="1213,505,1347,531"/>
+<area shape="rect" id="node26" href="$Alignment_8h.html" title=" " alt="" coords="1001,505,1189,531"/>
+<area shape="rect" id="node28" href="$AMDGPUFrameLowering_8h.html" title="Interface to describe a layout of a stack frame on an AMDGPU target." alt="" coords="1257,326,1450,353"/>
+<area shape="rect" id="node30" href="$AMDGPUISelLowering_8h.html" title="Interface definition of the TargetLowering class that is common to all AMD GPUs." alt="" coords="93,326,269,353"/>
+<area shape="rect" id="node31" href="$AMDGPUArgumentUsageInfo_8h.html" title=" " alt="" coords="294,326,517,353"/>
+<area shape="rect" id="node33" href="$AMDGPUMIRFormatter_8h.html" title="AMDGPU specific overrides of MIRFormatter." alt="" coords="949,326,1131,353"/>
+<area shape="rect" id="node34" href="$SIRegisterInfo_8h.html" title="Interface definition for SIRegisterInfo." alt="" coords="592,326,717,353"/>
+<area shape="rect" id="node35" href="$AMDGPUBaseInfo_8h.html" title=" " alt="" coords="1003,415,1187,442"/>
+<area shape="rect" id="node36" href="$SetVector_8h.html" title="This file implements a set that has insertion order iteration characteristics." alt="" coords="2602,415,2761,442"/>
+<area shape="rect" id="node37" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1931,319,2117,360"/>
+<area shape="rect" id="node38" href="$TargetSchedule_8h.html" title=" " alt="" coords="4141,505,4371,531"/>
+<area shape="rect" id="node39" title=" " alt="" coords="741,326,925,353"/>
+<area shape="rect" id="node41" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="3041,415,3301,442"/>
+<area shape="rect" id="node42" href="$CodeGen_8h.html" title=" " alt="" coords="2837,415,3017,442"/>
+<area shape="rect" id="node45" href="$IndexedMap_8h.html" title="This file implements an indexed map." alt="" coords="3585,505,3762,531"/>
+<area shape="rect" id="node46" href="$LiveInterval_8h.html" title=" " alt="" coords="4553,169,4759,196"/>
+<area shape="rect" id="node47" href="$SlotIndexes_8h.html" title=" " alt="" coords="2388,244,2593,271"/>
+<area shape="rect" id="node48" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="1577,319,1805,360"/>
+<area shape="rect" id="node49" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="2203,408,2415,449"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title=" " alt="" coords="3579,415,3794,442"/>
+</map>

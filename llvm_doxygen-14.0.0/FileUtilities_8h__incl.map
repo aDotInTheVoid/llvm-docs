@@ -1,0 +1,52 @@
+<map id="include/llvm/Support/FileUtilities.h" name="include/llvm/Support/FileUtilities.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1838,5,1994,47"/>
+<area shape="rect" id="node2" href="$StringRef_8h.html" title=" " alt="" coords="2440,401,2597,427"/>
+<area shape="rect" id="node20" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="1430,169,1581,196"/>
+<area shape="rect" id="node42" title=" " alt="" coords="1286,401,1394,427"/>
+<area shape="rect" id="node45" href="$FileSystem_8h.html" title=" " alt="" coords="3138,95,3331,121"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="2299,483,2491,509"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1079,557,1148,584"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2074,557,2145,584"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2815,557,2875,584"/>
+<area shape="rect" id="node9" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="3384,483,3613,509"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1531,632,1623,659"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2934,483,3125,509"/>
+<area shape="rect" id="node13" href="$Compiler_8h.html" title=" " alt="" coords="3919,557,4097,584"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1560,483,1645,509"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1872,483,1939,509"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1963,483,2021,509"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3200,483,3259,509"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3719,557,3785,584"/>
+<area shape="rect" id="node7" title=" " alt="" coords="370,557,425,584"/>
+<area shape="rect" id="node10" href="$STLForwardCompat_8h.html" title="This file contains library features backported from future STL versions." alt="" coords="3353,557,3577,584"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4178,632,4363,659"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3971,632,4045,659"/>
+<area shape="rect" id="node21" href="$llvm-c_2Error_8h.html" title=" " alt="" coords="1021,244,1131,271"/>
+<area shape="rect" id="node23" href="$SmallVector_8h.html" title=" " alt="" coords="1622,401,1797,427"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1318,483,1383,509"/>
+<area shape="rect" id="node26" title=" " alt="" coords="598,483,685,509"/>
+<area shape="rect" id="node29" title=" " alt="" coords="377,483,455,509"/>
+<area shape="rect" id="node30" title=" " alt="" coords="862,483,911,509"/>
+<area shape="rect" id="node31" href="$StringExtras_8h.html" title="This file contains some functions that are useful when dealing with strings." alt="" coords="2171,244,2349,271"/>
+<area shape="rect" id="node34" title=" " alt="" coords="539,401,602,427"/>
+<area shape="rect" id="node36" href="$Twine_8h.html" title=" " alt="" coords="2673,319,2807,345"/>
+<area shape="rect" id="node37" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3925,401,4136,427"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1205,244,1400,271"/>
+<area shape="rect" id="node39" href="$AlignOf_8h.html" title=" " alt="" coords="43,401,211,427"/>
+<area shape="rect" id="node40" href="$Debug_8h.html" title=" " alt="" coords="1424,244,1587,271"/>
+<area shape="rect" id="node41" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer." alt="" coords="1227,319,1394,345"/>
+<area shape="rect" id="node43" href="$Format_8h.html" title=" " alt="" coords="779,244,946,271"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title=" " alt="" coords="1723,319,1930,345"/>
+<area shape="rect" id="node22" href="$ExternC_8h.html" title=" " alt="" coords="1021,319,1152,345"/>
+<area shape="rect" id="node24" href="$type__traits_8h.html" title=" " alt="" coords="2515,483,2706,509"/>
+<area shape="rect" id="node27" title=" " alt="" coords="935,483,1046,509"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1223,483,1294,509"/>
+<area shape="rect" id="node32" href="$APSInt_8h.html" title="This file implements the APSInt class, which is a simple class that represents an arbitrary sized int..." alt="" coords="2057,319,2197,345"/>
+<area shape="rect" id="node33" href="$ArrayRef_8h.html" title=" " alt="" coords="792,319,947,345"/>
+<area shape="rect" id="node35" href="$SmallString_8h.html" title="This file defines the SmallString class." alt="" coords="2373,319,2547,345"/>
+<area shape="rect" id="node46" href="$Chrono_8h.html" title=" " alt="" coords="4121,169,4287,196"/>
+<area shape="rect" id="node47" title=" " alt="" coords="4128,244,4187,271"/>
+<area shape="rect" id="node48" href="$UniqueID_8h.html" title=" " alt="" coords="3416,393,3597,435"/>
+<area shape="rect" id="node49" href="$MD5_8h.html" title=" " alt="" coords="3222,319,3373,345"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3987,169,4045,196"/>
+</map>

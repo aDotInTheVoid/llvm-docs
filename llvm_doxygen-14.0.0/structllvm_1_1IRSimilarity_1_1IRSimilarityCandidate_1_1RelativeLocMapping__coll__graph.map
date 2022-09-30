@@ -1,0 +1,8 @@
+<map id="llvm::IRSimilarity::IRSimilarityCandidate::RelativeLocMapping" name="llvm::IRSimilarity::IRSimilarityCandidate::RelativeLocMapping">
+<area shape="rect" id="node1" title="A helper struct to hold the candidate, for a branch instruction, the relative location of a label,..." alt="" coords="163,301,335,357"/>
+<area shape="rect" id="node2" href="$classllvm_1_1IRSimilarity_1_1IRSimilarityCandidate.html" title="This is a class that wraps a range of IRInstructionData from one point to another in the vector of IR..." alt="" coords="5,197,177,239"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="201,205,296,231"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="127,5,202,32"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="292,5,373,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="320,205,359,231"/>
+</map>

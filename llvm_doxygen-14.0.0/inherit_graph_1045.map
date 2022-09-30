@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1detail_1_1BCField.html" title="Convenience base for all kinds of bitcode abbreviation fields." alt="" coords="5,74,159,115"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BCChar6.html" title="Represents a character encoded in LLVM&#39;s Char6 encoding." alt="" coords="241,5,356,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BCFixed.html" title="Represents a fixed&#45;width value in a bitcode record." alt="" coords="209,56,388,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BCLiteral.html" title="Represents a literal operand in a bitcode record." alt="" coords="207,107,391,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BCVBR.html" title="Represents a variable&#45;width value in a bitcode record." alt="" coords="213,157,385,184"/>
+</map>

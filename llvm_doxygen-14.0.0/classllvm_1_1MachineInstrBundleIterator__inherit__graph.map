@@ -1,0 +1,6 @@
+<map id="llvm::MachineInstrBundleIterator&lt; Ty, IsReverse &gt;" name="llvm::MachineInstrBundleIterator&lt; Ty, IsReverse &gt;">
+<area shape="rect" id="node1" title="MachineBasicBlock iterator that automatically skips over MIs that are inside bundles (i...." alt="" coords="243,39,431,80"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="653,5,841,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="636,71,859,112"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MachineInstrBundleIteratorHelper_3_01false_01_4.html" title=" " alt="" coords="5,39,193,80"/>
+</map>

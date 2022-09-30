@@ -1,0 +1,7 @@
+<map id="llvm::InlineSizeEstimatorAnalysis" name="llvm::InlineSizeEstimatorAnalysis">
+<area shape="rect" id="node1" title=" " alt="" coords="135,304,320,345"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="5,200,239,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="42,5,191,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="139,96,313,137"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisKey.html" title="A special type used by analysis passes to provide an address that identifies that particular analysis..." alt="" coords="263,207,402,234"/>
+</map>

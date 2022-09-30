@@ -1,0 +1,52 @@
+<map id="lib/Analysis/TargetTransformInfo.cpp" name="lib/Analysis/TargetTransformInfo.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3747,5,3954,47"/>
+<area shape="rect" id="node2" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes." alt="" coords="5229,259,5448,300"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1721,1049,1781,1076"/>
+<area shape="rect" id="node14" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="5509,900,5720,927"/>
+<area shape="rect" id="node21" href="$IR_2Instruction_8h.html" title=" " alt="" coords="2483,669,2637,695"/>
+<area shape="rect" id="node24" href="$Operator_8h.html" title=" " alt="" coords="4151,587,4291,613"/>
+<area shape="rect" id="node27" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="1566,423,1698,449"/>
+<area shape="rect" id="node28" href="$DataLayout_8h.html" title=" " alt="" coords="4945,505,5103,531"/>
+<area shape="rect" id="node35" href="$Analysis_2CFG_8h.html" title=" " alt="" coords="145,751,298,777"/>
+<area shape="rect" id="node37" href="$LoopIterator_8h.html" title=" " alt="" coords="811,184,1015,211"/>
+<area shape="rect" id="node40" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="1115,423,1226,449"/>
+<area shape="rect" id="node41" href="$Instructions_8h.html" title=" " alt="" coords="2863,348,3023,375"/>
+<area shape="rect" id="node42" href="$TargetTransformInfoImpl_8h.html" title="This file provides helpers for the implementation of a TargetTransformInfo&#45;conforming class." alt="" coords="4499,95,4717,136"/>
+<area shape="rect" id="node46" href="$IntrinsicInst_8h.html" title=" " alt="" coords="3709,266,3869,293"/>
+<area shape="rect" id="node47" href="$PatternMatch_8h.html" title=" " alt="" coords="3643,184,3813,211"/>
+<area shape="rect" id="node48" href="$Dominators_8h.html" title=" " alt="" coords="1928,266,2088,293"/>
+<area shape="rect" id="node49" href="$InitializePasses_8h.html" title=" " alt="" coords="6337,102,6503,129"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title=" " alt="" coords="4473,669,4687,695"/>
+<area shape="rect" id="node3" href="$InstrTypes_8h.html" title=" " alt="" coords="3258,423,3409,449"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5082,900,5169,927"/>
+<area shape="rect" id="node23" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="2382,751,2605,777"/>
+<area shape="rect" id="node25" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1758,348,1927,375"/>
+<area shape="rect" id="node31" href="$Pass_8h.html" title=" " alt="" coords="2003,348,2099,375"/>
+<area shape="rect" id="node32" href="$BranchProbability_8h.html" title=" " alt="" coords="5603,348,5837,375"/>
+<area shape="rect" id="node33" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="5768,423,5957,449"/>
+<area shape="rect" id="node34" href="$InstructionCost_8h.html" title="This file defines an InstructionCost class that is used when calculating the cost of an instruction,..." alt="" coords="5576,497,5755,539"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title=" " alt="" coords="4395,751,4549,777"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3997,900,4067,927"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2751,975,2822,1001"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1665,975,1735,1001"/>
+<area shape="rect" id="node11" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="2955,825,3117,852"/>
+<area shape="rect" id="node13" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="877,975,1067,1001"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title=" " alt="" coords="2125,825,2283,852"/>
+<area shape="rect" id="node16" href="$DerivedTypes_8h.html" title=" " alt="" coords="3802,587,3974,613"/>
+<area shape="rect" id="node17" href="$Type_8h.html" title=" " alt="" coords="4763,669,4877,695"/>
+<area shape="rect" id="node18" href="$Casting_8h.html" title=" " alt="" coords="3689,825,3860,852"/>
+<area shape="rect" id="node19" href="$Function_8h.html" title=" " alt="" coords="2053,505,2192,531"/>
+<area shape="rect" id="node22" href="$Value_8h.html" title=" " alt="" coords="2629,751,2749,777"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title=" " alt="" coords="4982,825,5157,852"/>
+<area shape="rect" id="node12" href="$iterator_8h.html" title=" " alt="" coords="1263,900,1409,927"/>
+<area shape="rect" id="node20" href="$BasicBlock_8h.html" title=" " alt="" coords="1824,587,1979,613"/>
+<area shape="rect" id="node26" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="1369,825,1543,852"/>
+<area shape="rect" id="node29" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="5318,587,5450,613"/>
+<area shape="rect" id="node30" href="$MathExtras_8h.html" title=" " alt="" coords="5307,669,5501,695"/>
+<area shape="rect" id="node36" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="281,825,453,852"/>
+<area shape="rect" id="node38" href="$PostOrderIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build a generic graph post order iterator." alt="" coords="425,751,634,777"/>
+<area shape="rect" id="node39" href="$LoopInfo_8h.html" title=" " alt="" coords="1283,266,1466,293"/>
+<area shape="rect" id="node43" href="$ScalarEvolutionExpressions_8h.html" title=" " alt="" coords="3929,661,4143,703"/>
+<area shape="rect" id="node44" href="$VectorUtils_8h.html" title=" " alt="" coords="5075,184,5272,211"/>
+<area shape="rect" id="node45" href="$GetElementPtrTypeIterator_8h.html" title=" " alt="" coords="4621,497,4819,539"/>
+</map>

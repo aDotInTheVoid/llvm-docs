@@ -1,0 +1,6 @@
+<map id="llvm::LLVMPassBuilderOptions" name="llvm::LLVMPassBuilderOptions">
+<area shape="rect" id="node1" title="Helper struct for holding a set of builder options for LLVMRunPasses." alt="" coords="5,289,224,316"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PipelineTuningOptions.html" title="Tunable parameters for passes in the default pipelines." alt="" coords="169,199,372,225"/>
+<area shape="rect" id="node3" href="$classbool.html" title=" " alt="" coords="45,5,96,32"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="257,5,338,32"/>
+</map>

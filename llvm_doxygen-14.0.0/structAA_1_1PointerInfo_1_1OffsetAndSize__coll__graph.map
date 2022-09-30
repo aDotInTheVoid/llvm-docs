@@ -1,0 +1,5 @@
+<map id="llvm::AA::PointerInfo::OffsetAndSize" name="llvm::AA::PointerInfo::OffsetAndSize">
+<area shape="rect" id="node1" title="Helper to represent an access offset and size, with logic to deal with uncertainty and check for over..." alt="" coords="87,109,243,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="169,13,343,39"/>
+</map>

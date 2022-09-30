@@ -1,0 +1,38 @@
+<map id="include/llvm/Analysis/LoopPass.h" name="include/llvm/Analysis/LoopPass.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3435,5,3596,47"/>
+<area shape="rect" id="node2" href="$IVUsers_8h.html" title=" " alt="" coords="401,95,563,136"/>
+<area shape="rect" id="node6" href="$IVUsers_8cpp.html" title=" " alt="" coords="519,191,698,218"/>
+<area shape="rect" id="node8" href="$LoopStrengthReduce_8cpp.html" title=" " alt="" coords="722,184,909,225"/>
+<area shape="rect" id="node9" href="$IVDescriptors_8cpp.html" title=" " alt="" coords="697,102,912,129"/>
+<area shape="rect" id="node10" href="$LoopPass_8cpp.html" title=" " alt="" coords="936,102,1124,129"/>
+<area shape="rect" id="node11" href="$MVETailPredication_8cpp.html" title="Armv8.1m introduced MVE, M&#45;Profile Vector Extension, and low&#45;overhead branches to help accelerate DSP..." alt="" coords="1148,102,1419,129"/>
+<area shape="rect" id="node12" href="$HexagonLoopIdiomRecognition_8cpp.html" title=" " alt="" coords="1443,95,1699,136"/>
+<area shape="rect" id="node13" href="$HexagonVectorLoopCarriedReuse_8cpp.html" title=" " alt="" coords="1724,95,1995,136"/>
+<area shape="rect" id="node14" href="$GuardWidening_8cpp.html" title=" " alt="" coords="2019,95,2177,136"/>
+<area shape="rect" id="node15" href="$InductiveRangeCheckElimination_8cpp.html" title=" " alt="" coords="2201,95,2469,136"/>
+<area shape="rect" id="node16" href="$IndVarSimplify_8cpp.html" title=" " alt="" coords="2493,95,2652,136"/>
+<area shape="rect" id="node17" href="$LICM_8cpp.html" title=" " alt="" coords="2676,95,2835,136"/>
+<area shape="rect" id="node18" href="$LoopBoundSplit_8cpp.html" title=" " alt="" coords="2859,95,3017,136"/>
+<area shape="rect" id="node19" href="$LoopDeletion_8cpp.html" title=" " alt="" coords="3041,95,3200,136"/>
+<area shape="rect" id="node20" href="$LoopIdiomRecognize_8cpp.html" title=" " alt="" coords="3224,95,3412,136"/>
+<area shape="rect" id="node21" href="$LoopInstSimplify_8cpp.html" title=" " alt="" coords="3436,95,3595,136"/>
+<area shape="rect" id="node22" href="$LoopInterchange_8cpp.html" title=" " alt="" coords="3619,95,3780,136"/>
+<area shape="rect" id="node23" href="$LoopPredication_8cpp.html" title=" " alt="" coords="3804,95,3963,136"/>
+<area shape="rect" id="node24" href="$LoopRerollPass_8cpp.html" title=" " alt="" coords="3987,95,4145,136"/>
+<area shape="rect" id="node25" href="$LoopRotation_8cpp.html" title=" " alt="" coords="4169,95,4328,136"/>
+<area shape="rect" id="node26" href="$LoopSimplifyCFG_8cpp.html" title=" " alt="" coords="4352,95,4516,136"/>
+<area shape="rect" id="node27" href="$LoopSink_8cpp.html" title=" " alt="" coords="4540,95,4699,136"/>
+<area shape="rect" id="node28" href="$LoopUnrollAndJamPass_8cpp.html" title=" " alt="" coords="4723,95,4926,136"/>
+<area shape="rect" id="node29" href="$LoopUnrollPass_8cpp.html" title=" " alt="" coords="4951,95,5109,136"/>
+<area shape="rect" id="node30" href="$LoopUnswitch_8cpp.html" title=" " alt="" coords="5133,95,5292,136"/>
+<area shape="rect" id="node31" href="$LoopVersioningLICM_8cpp.html" title=" " alt="" coords="5317,95,5501,136"/>
+<area shape="rect" id="node32" href="$SimpleLoopUnswitch_8cpp.html" title=" " alt="" coords="5525,95,5714,136"/>
+<area shape="rect" id="node33" href="$CanonicalizeFreezeInLoops_8cpp.html" title=" " alt="" coords="5738,95,5967,136"/>
+<area shape="rect" id="node34" href="$LCSSA_8cpp.html" title=" " alt="" coords="5992,95,6140,136"/>
+<area shape="rect" id="node35" href="$LoopRotationUtils_8cpp.html" title=" " alt="" coords="6164,95,6333,136"/>
+<area shape="rect" id="node36" href="$LoopUtils_8cpp.html" title=" " alt="" coords="6357,95,6505,136"/>
+<area shape="rect" id="node3" href="$IVUsersPrinter_8h.html" title=" " alt="" coords="266,184,445,225"/>
+<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="323,281,513,307"/>
+<area shape="rect" id="node5" href="$IVUsersPrinter_8cpp.html" title=" " alt="" coords="56,273,215,315"/>
+<area shape="rect" id="node7" href="$MachineFunctionPass_8cpp.html" title=" " alt="" coords="27,184,241,225"/>
+</map>

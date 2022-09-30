@@ -1,0 +1,12 @@
+<map id="include/llvm/MCA/CustomBehaviour.h" name="include/llvm/MCA/CustomBehaviour.h">
+<area shape="rect" id="node1" title="This file defines the base class CustomBehaviour which can be inherited from by specific targets (ex." alt="" coords="416,5,683,32"/>
+<area shape="rect" id="node2" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="5,87,208,114"/>
+<area shape="rect" id="node4" href="$InOrderIssueStage_8h.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="232,80,416,121"/>
+<area shape="rect" id="node6" href="$CustomBehaviour_8cpp.html" title="This file implements methods from the CustomBehaviour interface." alt="" coords="440,87,659,114"/>
+<area shape="rect" id="node7" href="$AMDGPUCustomBehaviour_8h.html" title="This file defines the AMDGPUCustomBehaviour class which inherits from CustomBehaviour." alt="" coords="683,80,895,121"/>
+<area shape="rect" id="node9" href="$X86CustomBehaviour_8h.html" title="This file defines the X86CustomBehaviour class which inherits from CustomBehaviour." alt="" coords="927,80,1105,121"/>
+<area shape="rect" id="node3" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="36,177,191,203"/>
+<area shape="rect" id="node5" href="$InOrderIssueStage_8cpp.html" title="InOrderIssueStage implements an in&#45;order execution pipeline." alt="" coords="221,169,427,211"/>
+<area shape="rect" id="node8" href="$AMDGPUCustomBehaviour_8cpp.html" title="This file implements methods from the AMDGPUCustomBehaviour class." alt="" coords="672,169,899,211"/>
+<area shape="rect" id="node10" href="$X86CustomBehaviour_8cpp.html" title="This file implements methods from the X86CustomBehaviour class." alt="" coords="923,169,1117,211"/>
+</map>

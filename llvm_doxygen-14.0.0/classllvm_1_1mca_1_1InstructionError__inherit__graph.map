@@ -1,0 +1,6 @@
+<map id="llvm::mca::InstructionError&lt; T &gt;" name="llvm::mca::InstructionError&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,291,239,317"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="23,200,221,241"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="43,5,190,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="139,81,313,123"/>
+</map>

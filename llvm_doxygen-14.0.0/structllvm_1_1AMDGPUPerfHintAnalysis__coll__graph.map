@@ -1,0 +1,6 @@
+<map id="llvm::AMDGPUPerfHintAnalysis" name="llvm::AMDGPUPerfHintAnalysis">
+<area shape="rect" id="node1" title=" " alt="" coords="85,171,312,197"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CallGraphSCCPass.html" title=" " alt="" coords="5,81,184,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="51,5,139,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="208,81,259,108"/>
+</map>

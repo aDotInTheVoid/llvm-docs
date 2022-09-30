@@ -1,0 +1,12 @@
+<map id="Transforms" name="Transforms">
+<area shape="rect" id="node1" href="$group__LLVMCTransformsPassManagerBuilder.html" title=" " alt="" coords="379,5,541,31"/>
+<area shape="rect" id="node2" href="$group__LLVMCTransformsScalar.html" title=" " alt="" coords="375,55,545,80"/>
+<area shape="rect" id="node3" href="$group__LLVMCTransformsVectorize.html" title=" " alt="" coords="353,104,567,129"/>
+<area shape="rect" id="node4" href="$group__LLVMCTransformsCoroutines.html" title=" " alt="" coords="363,153,557,179"/>
+<area shape="rect" id="node5" href="$group__LLVMCTransformsAggressiveInstCombine.html" title=" " alt="" coords="358,203,562,243"/>
+<area shape="rect" id="node6" title=" " alt="" coords="203,183,297,208"/>
+<area shape="rect" id="node7" href="$group__LLVMCTransformsUtils.html" title=" " alt="" coords="373,268,547,293"/>
+<area shape="rect" id="node8" href="$group__LLVMCTransformsInstCombine.html" title=" " alt="" coords="377,318,543,358"/>
+<area shape="rect" id="node9" href="$group__LLVMCTransformsIPO.html" title=" " alt="" coords="345,383,575,408"/>
+<area shape="rect" id="node10" href="$group__LLVMC.html" title="This module exposes parts of the LLVM library as a C API." alt="" coords="5,175,155,215"/>
+</map>

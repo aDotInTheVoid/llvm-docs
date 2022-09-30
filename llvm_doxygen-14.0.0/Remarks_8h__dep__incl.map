@@ -1,0 +1,29 @@
+<map id="include/llvm&#45;c/Remarks.h" name="include/llvm&#45;c/Remarks.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1673,5,1861,32"/>
+<area shape="rect" id="node2" href="$Remark_8h.html" title=" " alt="" coords="1305,80,1469,121"/>
+<area shape="rect" id="node26" href="$RemarkParser_8cpp.html" title=" " alt="" coords="2213,266,2435,293"/>
+<area shape="rect" id="node3" href="$LLVMRemarkStreamer_8h.html" title=" " alt="" coords="1701,259,1909,300"/>
+<area shape="rect" id="node11" href="$RemarkLinker_8h.html" title=" " alt="" coords="151,169,315,211"/>
+<area shape="rect" id="node13" href="$RemarkSerializer_8h.html" title=" " alt="" coords="502,169,666,211"/>
+<area shape="rect" id="node18" href="$AsmPrinter_8cpp.html" title=" " alt="" coords="817,348,994,389"/>
+<area shape="rect" id="node22" href="$BitstreamRemarkParser_8cpp.html" title=" " alt="" coords="1052,169,1271,211"/>
+<area shape="rect" id="node23" href="$Remark_8cpp.html" title=" " alt="" coords="1295,177,1478,203"/>
+<area shape="rect" id="node24" href="$RemarkStringTable_8cpp.html" title=" " alt="" coords="1502,169,1695,211"/>
+<area shape="rect" id="node25" href="$YAMLRemarkParser_8h.html" title=" " alt="" coords="1941,177,2182,203"/>
+<area shape="rect" id="node4" href="$LLVMContext_8cpp.html" title=" " alt="" coords="1284,355,1455,382"/>
+<area shape="rect" id="node5" href="$LLVMContextImpl_8cpp.html" title=" " alt="" coords="1479,355,1679,382"/>
+<area shape="rect" id="node6" href="$LLVMRemarkStreamer_8cpp.html" title=" " alt="" coords="1703,355,1934,382"/>
+<area shape="rect" id="node7" href="$LTO_8cpp.html" title=" " alt="" coords="1958,355,2079,382"/>
+<area shape="rect" id="node8" href="$LTOBackend_8cpp.html" title=" " alt="" coords="2104,355,2280,382"/>
+<area shape="rect" id="node9" href="$LTOCodeGenerator_8cpp.html" title=" " alt="" coords="2304,355,2523,382"/>
+<area shape="rect" id="node10" href="$ThinLTOCodeGenerator_8cpp.html" title=" " alt="" coords="2547,355,2794,382"/>
+<area shape="rect" id="node12" href="$RemarkLinker_8cpp.html" title=" " alt="" coords="23,266,243,293"/>
+<area shape="rect" id="node14" href="$BitstreamRemarkSerializer_8h.html" title=" " alt="" coords="268,259,481,300"/>
+<area shape="rect" id="node16" href="$RemarkSerializer_8cpp.html" title=" " alt="" coords="248,355,491,382"/>
+<area shape="rect" id="node17" href="$RemarkStreamer_8h.html" title=" " alt="" coords="1171,259,1335,300"/>
+<area shape="rect" id="node20" href="$YAMLRemarkSerializer_8h.html" title=" " alt="" coords="556,259,740,300"/>
+<area shape="rect" id="node15" href="$BitstreamRemarkSerializer_8cpp.html" title=" " alt="" coords="5,348,224,389"/>
+<area shape="rect" id="node19" href="$RemarkStreamer_8cpp.html" title=" " alt="" coords="1018,355,1259,382"/>
+<area shape="rect" id="node21" href="$YAMLRemarkSerializer_8cpp.html" title=" " alt="" coords="515,355,792,382"/>
+<area shape="rect" id="node27" href="$YAMLRemarkParser_8cpp.html" title=" " alt="" coords="1933,266,2189,293"/>
+</map>

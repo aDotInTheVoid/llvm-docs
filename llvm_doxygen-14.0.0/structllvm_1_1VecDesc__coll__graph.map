@@ -1,0 +1,12 @@
+<map id="llvm::VecDesc" name="llvm::VecDesc">
+<area shape="rect" id="node1" title="Describes a possible vectorization of a function." alt="" coords="254,497,369,524"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ElementCount.html" title=" " alt="" coords="156,393,307,420"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="154,289,309,331"/>
+<area shape="rect" id="node4" href="$classllvm_1_1UnivariateLinearPolyBase.html" title="UnivariateLinearPolyBase is a base class for ElementCount and TypeSize." alt="" coords="129,95,323,136"/>
+<area shape="rect" id="node8" href="$classllvm_1_1LinearPolySize.html" title="LinearPolySize is a base class to represent sizes." alt="" coords="247,185,402,227"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="188,5,264,32"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title=" " alt="" coords="288,5,369,32"/>
+<area shape="rect" id="node9" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="332,393,451,420"/>
+<area shape="rect" id="node10" href="$classsize__t.html" title=" " alt="" coords="361,297,421,323"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Target/ARM/ARMTargetMachine.cpp" name="lib/Target/ARM/ARMTargetMachine.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2780,5,2970,47"/>
+<area shape="rect" id="node2" href="$ARMTargetMachine_8h.html" title=" " alt="" coords="2517,191,2676,218"/>
+<area shape="rect" id="node3" href="$ARMSubtarget_8h.html" title=" " alt="" coords="1370,273,1497,300"/>
+<area shape="rect" id="node4" href="$Triple_8h.html" title=" " alt="" coords="1308,445,1442,471"/>
+<area shape="rect" id="node5" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes." alt="" coords="3495,348,3714,389"/>
+<area shape="rect" id="node6" href="$Pass_8h.html" title=" " alt="" coords="3943,445,4039,471"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2624,616,2683,643"/>
+<area shape="rect" id="node9" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls." alt="" coords="1263,348,1447,389"/>
+<area shape="rect" id="node10" href="$MachineFunction_8h.html" title=" " alt="" coords="588,445,828,471"/>
+<area shape="rect" id="node11" href="$TargetOptions_8h.html" title=" " alt="" coords="725,534,926,561"/>
+<area shape="rect" id="node12" title=" " alt="" coords="976,616,1054,643"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1884,691,1954,717"/>
+<area shape="rect" id="node15" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1872,445,2020,471"/>
+<area shape="rect" id="node16" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="1842,616,1996,643"/>
+<area shape="rect" id="node17" href="$StringRef_8h.html" title=" " alt="" coords="2231,534,2388,561"/>
+<area shape="rect" id="node18" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="1556,616,1767,643"/>
+<area shape="rect" id="node19" href="$InstructionSelector_8h.html" title=" " alt="" coords="3159,348,3343,389"/>
+<area shape="rect" id="node20" href="$LegalizerInfo_8h.html" title="Interface for Targets to specify which operations they can successfully select and how the others sho..." alt="" coords="644,348,828,389"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="1994,534,2156,561"/>
+<area shape="rect" id="node22" href="$CommandLine_8h.html" title=" " alt="" coords="2888,445,3102,471"/>
+<area shape="rect" id="node24" href="$RegisterBankInfo_8h.html" title=" " alt="" coords="263,527,447,568"/>
+<area shape="rect" id="node26" href="$DataLayout_8h.html" title=" " alt="" coords="2298,445,2457,471"/>
+<area shape="rect" id="node27" href="$CodeGen_8h.html" title=" " alt="" coords="3738,445,3918,471"/>
+<area shape="rect" id="node28" href="$ARM_8h.html" title=" " alt="" coords="4224,355,4288,382"/>
+<area shape="rect" id="node30" href="$ARMMacroFusion_8h.html" title=" " alt="" coords="2887,191,3034,218"/>
+<area shape="rect" id="node31" href="$MachineScheduler_8h.html" title=" " alt="" coords="2786,355,3034,382"/>
+<area shape="rect" id="node32" href="$ARMTargetObjectFile_8h.html" title=" " alt="" coords="3040,102,3209,129"/>
+<area shape="rect" id="node33" href="$ARMTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the ARM target machine." alt="" coords="2567,102,2762,129"/>
+<area shape="rect" id="node34" href="$Function_8h.html" title=" " alt="" coords="1879,355,2018,382"/>
+<area shape="rect" id="node35" href="$ARMMCTargetDesc_8h.html" title=" " alt="" coords="1458,534,1615,561"/>
+<area shape="rect" id="node36" href="$ARMTargetInfo_8h.html" title=" " alt="" coords="3386,102,3585,129"/>
+<area shape="rect" id="node37" href="$ExecutionDomainFix_8h.html" title=" " alt="" coords="3610,95,3842,136"/>
+<area shape="rect" id="node38" href="$IRTranslator_8h.html" title="This file declares the IRTranslator pass." alt="" coords="2092,348,2276,389"/>
+<area shape="rect" id="node39" href="$InstructionSelect_8h.html" title=" " alt="" coords="3311,184,3495,225"/>
+<area shape="rect" id="node40" href="$Legalizer_8h.html" title=" " alt="" coords="3967,95,4151,136"/>
+<area shape="rect" id="node41" href="$RegBankSelect_8h.html" title="This file describes the interface of the MachineFunctionPass responsible for assigning the generic vi..." alt="" coords="26,437,210,479"/>
+<area shape="rect" id="node42" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="4552,355,4726,382"/>
+<area shape="rect" id="node43" href="$TargetPassConfig_8h.html" title="Target&#45;Independent Code Generator Pass Configuration Options pass." alt="" coords="3916,355,4156,382"/>
+<area shape="rect" id="node44" href="$TargetRegistry_8h.html" title=" " alt="" coords="1055,355,1239,382"/>
+<area shape="rect" id="node45" href="$ARMTargetParser_8h.html" title=" " alt="" coords="3280,445,3510,471"/>
+<area shape="rect" id="node46" href="$TargetParser_8h.html" title=" " alt="" coords="4276,191,4476,218"/>
+<area shape="rect" id="node47" href="$TargetLoweringObjectFile_8h.html" title=" " alt="" coords="4653,95,4852,136"/>
+<area shape="rect" id="node48" href="$CFGuard_8h.html" title=" " alt="" coords="4876,102,5074,129"/>
+<area shape="rect" id="node49" href="$llvm_2Transforms_2IPO_8h.html" title=" " alt="" coords="4708,445,4874,471"/>
+<area shape="rect" id="node50" href="$llvm_2Transforms_2Scalar_8h.html" title=" " alt="" coords="4925,273,5108,300"/>
+<area shape="rect" id="node23" href="$StringMap_8h.html" title="This file defines the StringMap class." alt="" coords="2717,534,2881,561"/>
+<area shape="rect" id="node25" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="2352,355,2558,382"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4134,616,4221,643"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3533,534,3596,561"/>
+<area shape="rect" id="node29" href="$LegacyPassManager_8h.html" title=" " alt="" coords="4165,445,4380,471"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="include/llvm/ADT/BitmaskEnum.h" name="include/llvm/ADT/BitmaskEnum.h">
+<area shape="rect" id="node1" title=" " alt="" coords="5435,5,5625,47"/>
+<area shape="rect" id="node2" href="$BinaryFormat_2Minidump_8h.html" title=" " alt="" coords="162,95,357,136"/>
+<area shape="rect" id="node6" href="$MachineMemOperand_8h.html" title=" " alt="" coords="3078,95,3259,136"/>
+<area shape="rect" id="node35" href="$IPDBRawSymbol_8h.html" title=" " alt="" coords="4535,95,4712,136"/>
+<area shape="rect" id="node36" href="$InfoStream_8h.html" title=" " alt="" coords="5097,184,5285,225"/>
+<area shape="rect" id="node37" href="$RawConstants_8h.html" title=" " alt="" coords="4788,95,4997,136"/>
+<area shape="rect" id="node38" href="$MemoryFlags_8h.html" title=" " alt="" coords="5022,95,5235,136"/>
+<area shape="rect" id="node39" href="$JITSymbol_8h.html" title=" " alt="" coords="5310,95,5523,136"/>
+<area shape="rect" id="node40" href="$llvm_2ExecutionEngine_2Orc_2Core_8h.html" title=" " alt="" coords="5310,184,5523,225"/>
+<area shape="rect" id="node41" href="$OMPConstants_8h.html" title="This file defines constans and helpers used when dealing with OpenMP." alt="" coords="5548,95,5739,136"/>
+<area shape="rect" id="node42" href="$DebugInfoMetadata_8h.html" title=" " alt="" coords="920,273,1111,315"/>
+<area shape="rect" id="node43" href="$InstrProf_8h.html" title=" " alt="" coords="5763,95,5942,136"/>
+<area shape="rect" id="node44" href="$BinaryStream_8h.html" title=" " alt="" coords="5967,95,6123,136"/>
+<area shape="rect" id="node45" href="$Regex_8h.html" title=" " alt="" coords="6147,95,6303,136"/>
+<area shape="rect" id="node46" href="$InterfaceFile_8h.html" title=" " alt="" coords="6378,184,6533,225"/>
+<area shape="rect" id="node47" href="$TextStub_8cpp.html" title=" " alt="" coords="6309,281,6487,307"/>
+<area shape="rect" id="node48" href="$Symbol_8h.html" title=" " alt="" coords="6429,95,6583,136"/>
+<area shape="rect" id="node49" href="$SIMemoryLegalizer_8cpp.html" title="Memory legalizer &#45; implements memory model." alt="" coords="6608,95,6823,136"/>
+<area shape="rect" id="node50" href="$ARMHazardRecognizer_8h.html" title=" " alt="" coords="6847,95,7043,136"/>
+<area shape="rect" id="node3" href="$Object_2Minidump_8h.html" title=" " alt="" coords="79,184,227,225"/>
+<area shape="rect" id="node4" href="$MinidumpYAML_8h.html" title=" " alt="" coords="5,273,188,315"/>
+<area shape="rect" id="node5" href="$BinaryFormat_2Minidump_8cpp.html" title=" " alt="" coords="251,191,478,218"/>
+<area shape="rect" id="node7" href="$GenericMachineInstrs_8h.html" title="Declares convenience wrapper classes for interpreting MachineInstr instances as specific generic oper..." alt="" coords="3544,273,3793,315"/>
+<area shape="rect" id="node8" href="$CombinerHelper_8cpp.html" title=" " alt="" coords="4117,363,4287,404"/>
+<area shape="rect" id="node9" href="$MachineFunction_8h.html" title=" " alt="" coords="2477,273,2642,315"/>
+<area shape="rect" id="node10" href="$SelectionDAG_8h.html" title=" " alt="" coords="4578,363,4743,404"/>
+<area shape="rect" id="node11" href="$DAGCombiner_8cpp.html" title=" " alt="" coords="4525,452,4719,493"/>
+<area shape="rect" id="node12" href="$LegalizeDAG_8cpp.html" title=" " alt="" coords="4743,452,4938,493"/>
+<area shape="rect" id="node13" href="$LegalizeVectorOps_8cpp.html" title=" " alt="" coords="4962,452,5157,493"/>
+<area shape="rect" id="node14" href="$SelectionDAG_8cpp.html" title=" " alt="" coords="2971,452,3166,493"/>
+<area shape="rect" id="node15" href="$SelectionDAGBuilder_8cpp.html" title=" " alt="" coords="2233,452,2427,493"/>
+<area shape="rect" id="node16" href="$SelectionDAGDumper_8cpp.html" title=" " alt="" coords="3934,452,4129,493"/>
+<area shape="rect" id="node17" href="$AsmPrinter_8cpp.html" title=" " alt="" coords="705,363,883,404"/>
+<area shape="rect" id="node18" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class." alt="" coords="2245,363,2415,404"/>
+<area shape="rect" id="node19" href="$ImplicitNullChecks_8cpp.html" title=" " alt="" coords="2643,363,2823,404"/>
+<area shape="rect" id="node20" href="$InstrRefBasedImpl_8cpp.html" title="This is a separate implementation of LiveDebugValues, see LiveDebugValues.cpp and VarLocBasedImpl...." alt="" coords="1009,363,1227,404"/>
+<area shape="rect" id="node21" href="$VarLocBasedImpl_8cpp.html" title=" " alt="" coords="1251,363,1468,404"/>
+<area shape="rect" id="node22" href="$MachineFunction_8cpp.html" title=" " alt="" coords="1493,370,1735,397"/>
+<area shape="rect" id="node23" href="$MachineInstr_8cpp.html" title=" " alt="" coords="1760,370,1975,397"/>
+<area shape="rect" id="node24" href="$MachineLICM_8cpp.html" title=" " alt="" coords="2847,370,3066,397"/>
+<area shape="rect" id="node25" href="$MachinePipeliner_8cpp.html" title=" " alt="" coords="3090,370,3333,397"/>
+<area shape="rect" id="node26" href="$MachineVerifier_8cpp.html" title=" " alt="" coords="3357,370,3589,397"/>
+<area shape="rect" id="node27" href="$MIParser_8cpp.html" title=" " alt="" coords="1999,363,2170,404"/>
+<area shape="rect" id="node28" href="$MIRPrinter_8cpp.html" title=" " alt="" coords="3613,370,3812,397"/>
+<area shape="rect" id="node29" href="$ScheduleDAGInstrs_8cpp.html" title=" " alt="" coords="3837,370,4093,397"/>
+<area shape="rect" id="node30" href="$MachineInstr_8h.html" title=" " alt="" coords="2597,184,2762,225"/>
+<area shape="rect" id="node31" href="$FastISel_8cpp.html" title=" " alt="" coords="3071,273,3266,315"/>
+<area shape="rect" id="node32" href="$MIParser_8h.html" title=" " alt="" coords="2034,184,2199,225"/>
+<area shape="rect" id="node33" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="4637,273,4805,315"/>
+<area shape="rect" id="node34" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="4311,363,4503,404"/>
+</map>

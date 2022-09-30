@@ -1,0 +1,5 @@
+<map id="include/llvm/BinaryFormat/AMDGPUMetadataVerifier.h" name="include/llvm/BinaryFormat/AMDGPUMetadataVerifier.h">
+<area shape="rect" id="node1" title="This is a verifier for AMDGPU HSA metadata, which can verify both well&#45;typed metadata and untyped met..." alt="" coords="167,5,371,47"/>
+<area shape="rect" id="node2" href="$AMDGPUMetadataVerifier_8cpp.html" title="Implements a verifier for AMDGPU HSA metadata." alt="" coords="5,95,260,136"/>
+<area shape="rect" id="node3" href="$AMDGPUTargetStreamer_8cpp.html" title=" " alt="" coords="285,95,527,136"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title=" " alt="" coords="5,395,260,525"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="346,5,525,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="349,85,521,141"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="357,165,514,221"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="364,246,507,287"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="308,312,563,368"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="363,392,507,448"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="321,472,549,528"/>
+<area shape="rect" id="node9" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="331,553,539,623"/>
+<area shape="rect" id="node10" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="323,648,548,704"/>
+<area shape="rect" id="node11" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="346,728,525,784"/>
+<area shape="rect" id="node12" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="325,809,545,879"/>
+<area shape="rect" id="node13" href="$classllvm_1_1PointerUnion.html" title="A discriminated union of two or more pointer types, with the discriminator in the low bit of the poin..." alt="" coords="364,903,507,945"/>
+</map>

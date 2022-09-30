@@ -1,0 +1,52 @@
+<map id="lib/Target/SystemZ/SystemZHazardRecognizer.h" name="lib/Target/SystemZ/SystemZHazardRecognizer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1392,5,1605,47"/>
+<area shape="rect" id="node2" href="$SystemZSubtarget_8h.html" title=" " alt="" coords="1297,102,1452,129"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title=" " alt="" coords="939,736,1114,763"/>
+<area shape="rect" id="node31" href="$MCInstrDesc_8h.html" title=" " alt="" coords="3545,579,3719,606"/>
+<area shape="rect" id="node35" title=" " alt="" coords="725,661,784,688"/>
+<area shape="rect" id="node36" href="$MachineFunction_8h.html" title=" " alt="" coords="2188,333,2428,360"/>
+<area shape="rect" id="node48" href="$MachineScheduler_8h.html" title=" " alt="" coords="1183,333,1431,360"/>
+<area shape="rect" id="node49" href="$ScheduleHazardRecognizer_8h.html" title=" " alt="" coords="3758,95,3981,136"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title=" " alt="" coords="398,579,605,606"/>
+<area shape="rect" id="node3" href="$SystemZFrameLowering_8h.html" title=" " alt="" coords="660,184,852,211"/>
+<area shape="rect" id="node4" href="$SystemZISelLowering_8h.html" title=" " alt="" coords="1711,184,1886,211"/>
+<area shape="rect" id="node5" href="$SystemZInstrInfo_8h.html" title=" " alt="" coords="1660,259,1807,285"/>
+<area shape="rect" id="node6" href="$SystemZRegisterInfo_8h.html" title=" " alt="" coords="937,333,1108,360"/>
+<area shape="rect" id="node43" href="$SystemZSelectionDAGInfo_8h.html" title=" " alt="" coords="877,184,1083,211"/>
+<area shape="rect" id="node44" href="$Triple_8h.html" title=" " alt="" coords="1108,184,1241,211"/>
+<area shape="rect" id="node45" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1016,572,1237,613"/>
+<area shape="rect" id="node46" href="$DataLayout_8h.html" title=" " alt="" coords="833,579,991,606"/>
+<area shape="rect" id="node47" title=" " alt="" coords="1266,184,1483,211"/>
+<area shape="rect" id="node25" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1740,408,1948,449"/>
+<area shape="rect" id="node7" href="$ArrayRef_8h.html" title=" " alt="" coords="1213,661,1368,688"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1645,736,1712,763"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title=" " alt="" coords="2039,885,2217,912"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1494,885,1586,912"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1457,811,1543,837"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1796,811,1865,837"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2702,811,2773,837"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1271,811,1382,837"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2473,811,2543,837"/>
+<area shape="rect" id="node22" title=" " alt="" coords="269,811,347,837"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1737,736,1799,763"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title=" " alt="" coords="1941,811,2131,837"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2990,885,3050,912"/>
+<area shape="rect" id="node16" title=" " alt="" coords="833,811,898,837"/>
+<area shape="rect" id="node17" title=" " alt="" coords="923,811,989,837"/>
+<area shape="rect" id="node18" title=" " alt="" coords="570,811,657,837"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1064,811,1123,837"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1198,811,1247,837"/>
+<area shape="rect" id="node26" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="1971,497,2143,524"/>
+<area shape="rect" id="node27" href="$ilist_8h.html" title="This file defines classes to implement an intrusive doubly linked list class (i.e." alt="" coords="2891,661,3013,688"/>
+<area shape="rect" id="node28" href="$MachineInstr_8h.html" title=" " alt="" coords="2371,497,2584,524"/>
+<area shape="rect" id="node29" href="$MachineMemOperand_8h.html" title=" " alt="" coords="3195,579,3469,606"/>
+<area shape="rect" id="node32" href="$ArrayRecycler_8h.html" title=" " alt="" coords="2101,579,2312,606"/>
+<area shape="rect" id="node30" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="3221,661,3443,688"/>
+<area shape="rect" id="node33" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="2536,661,2715,688"/>
+<area shape="rect" id="node37" href="$BitVector_8h.html" title="This file implements the BitVector class." alt="" coords="1465,579,1621,606"/>
+<area shape="rect" id="node38" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="2129,736,2295,763"/>
+<area shape="rect" id="node39" href="$iterator_8h.html" title=" " alt="" coords="2878,736,3023,763"/>
+<area shape="rect" id="node40" href="$EHPersonalities_8h.html" title=" " alt="" coords="2422,415,2650,442"/>
+<area shape="rect" id="node41" href="$Recycler_8h.html" title=" " alt="" coords="2589,579,2765,606"/>
+<area shape="rect" id="node42" href="$TargetOptions_8h.html" title=" " alt="" coords="661,415,862,442"/>
+</map>

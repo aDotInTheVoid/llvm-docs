@@ -1,0 +1,29 @@
+<map id="llvm::PointerIntPair&lt; PointerTy, IntBits, IntType, PtrTraits, Info &gt;" name="llvm::PointerIntPair&lt; PointerTy, IntBits, IntType, PtrTraits, Info &gt;">
+<area shape="rect" id="node1" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer." alt="" coords="5,939,188,995"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="466,41,665,82"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="454,106,677,147"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="464,172,667,228"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="443,252,688,308"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="462,332,669,388"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="451,413,679,483"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="459,508,671,564"/>
+<area shape="rect" id="node9" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="486,588,645,644"/>
+<area shape="rect" id="node10" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="492,669,639,710"/>
+<area shape="rect" id="node11" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="467,735,664,791"/>
+<area shape="rect" id="node12" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="490,815,641,857"/>
+<area shape="rect" id="node13" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="463,881,667,922"/>
+<area shape="rect" id="node14" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="472,946,659,987"/>
+<area shape="rect" id="node15" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="492,1011,639,1053"/>
+<area shape="rect" id="node16" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="486,1077,645,1118"/>
+<area shape="rect" id="node17" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="478,1143,653,1199"/>
+<area shape="rect" id="node18" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="481,1223,649,1279"/>
+<area shape="rect" id="node19" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="482,1303,649,1359"/>
+<area shape="rect" id="node20" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="477,1383,654,1425"/>
+<area shape="rect" id="node21" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="459,1449,672,1519"/>
+<area shape="rect" id="node22" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="471,1543,659,1585"/>
+<area shape="rect" id="node23" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="480,1609,651,1650"/>
+<area shape="rect" id="node25" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="460,1674,671,1715"/>
+<area shape="rect" id="node26" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="471,1740,659,1796"/>
+<area shape="rect" id="node27" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="455,1820,675,1876"/>
+<area shape="rect" id="node24" href="$structllvm_1_1UnderlyingObject.html" title=" " alt="" coords="737,1616,909,1643"/>
+</map>

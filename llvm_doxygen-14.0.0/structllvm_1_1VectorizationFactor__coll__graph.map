@@ -1,0 +1,11 @@
+<map id="llvm::VectorizationFactor" name="llvm::VectorizationFactor">
+<area shape="rect" id="node1" title="TODO: The following VectorizationFactor was pulled out of LoopVectorizationCostModel class." alt="" coords="25,469,207,496"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InstructionCost.html" title=" " alt="" coords="5,380,163,407"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ElementCount.html" title=" " alt="" coords="187,380,338,407"/>
+<area shape="rect" id="node4" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="185,289,340,331"/>
+<area shape="rect" id="node5" href="$classllvm_1_1UnivariateLinearPolyBase.html" title="UnivariateLinearPolyBase is a base class for ElementCount and TypeSize." alt="" coords="160,95,355,136"/>
+<area shape="rect" id="node9" href="$classllvm_1_1LinearPolySize.html" title="LinearPolySize is a base class to represent sizes." alt="" coords="279,185,433,227"/>
+<area shape="rect" id="node6" title=" " alt="" coords="37,5,195,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="219,5,295,32"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title=" " alt="" coords="319,5,401,32"/>
+</map>

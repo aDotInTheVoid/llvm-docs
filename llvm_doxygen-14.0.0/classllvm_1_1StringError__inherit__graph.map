@@ -1,0 +1,16 @@
+<map id="llvm::StringError" name="llvm::StringError">
+<area shape="rect" id="node1" title="This class wraps a string in an Error." alt="" coords="792,143,920,170"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="970,5,1163,47"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="973,71,1161,112"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="969,136,1164,177"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="971,201,1163,243"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="970,267,1163,308"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="528,143,743,170"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="5,149,152,175"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="201,171,376,212"/>
+<area shape="rect" id="node6" href="$classllvm_1_1pdb_1_1RawError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="1235,13,1385,39"/>
+<area shape="rect" id="node8" href="$classllvm_1_1pdb_1_1DIAError.html" title="Base class for errors originating in DIA SDK, e.g. COM calls." alt="" coords="1237,78,1383,105"/>
+<area shape="rect" id="node10" href="$classllvm_1_1codeview_1_1CodeViewError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="1213,136,1407,177"/>
+<area shape="rect" id="node12" href="$classllvm_1_1pdb_1_1PDBError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="1235,209,1385,235"/>
+<area shape="rect" id="node14" href="$classllvm_1_1msf_1_1MSFError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="1235,274,1385,301"/>
+</map>

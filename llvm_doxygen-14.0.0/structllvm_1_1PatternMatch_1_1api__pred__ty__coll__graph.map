@@ -1,0 +1,6 @@
+<map id="llvm::PatternMatch::api_pred_ty&lt; Predicate &gt;" name="llvm::PatternMatch::api_pred_ty&lt; Predicate &gt;">
+<area shape="rect" id="node1" title="This helper class is used to match scalar and vector constants that satisfy a specified predicate,..." alt="" coords="5,213,203,255"/>
+<area shape="rect" id="node2" title=" " alt="" coords="24,124,107,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers." alt="" coords="131,124,224,151"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="140,5,215,32"/>
+</map>

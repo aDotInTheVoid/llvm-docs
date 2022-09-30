@@ -1,0 +1,8 @@
+<map id="llvm::BlockFrequencyInfoImplBase::FrequencyData" name="llvm::BlockFrequencyInfoImplBase::FrequencyData">
+<area shape="rect" id="node1" title="Stats about a block itself." alt="" coords="5,379,195,420"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="8,282,83,309"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScaledNumber.html" title=" " alt="" coords="107,275,261,316"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ScaledNumberBase.html" title=" " alt="" coords="67,95,253,121"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ScaledNumber.html" title="Simple representation of a scaled number." alt="" coords="181,171,336,212"/>
+<area shape="rect" id="node5" title=" " alt="" coords="141,5,179,32"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="llvm::SpecificBumpPtrAllocator&lt; T &gt;" name="llvm::SpecificBumpPtrAllocator&lt; T &gt;">
+<area shape="rect" id="node1" title="A BumpPtrAllocator that allows only elements of a specific type to be allocated." alt="" coords="5,760,267,787"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,26,774,67"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="543,91,782,133"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="550,157,775,198"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,222,774,263"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,287,774,329"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,353,774,394"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,418,774,459"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="520,483,805,525"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,549,774,590"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,614,774,655"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,679,774,721"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="543,745,782,801"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,826,774,867"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,891,774,933"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,957,774,998"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,1023,774,1079"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,1103,774,1145"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,1169,774,1210"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,1234,774,1275"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,1299,774,1341"/>
+<area shape="rect" id="node22" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,1365,774,1406"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,1430,774,1471"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="551,1495,774,1537"/>
+</map>

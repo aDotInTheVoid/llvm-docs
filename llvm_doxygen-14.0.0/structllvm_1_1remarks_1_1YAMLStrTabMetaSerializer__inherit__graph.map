@@ -1,0 +1,5 @@
+<map id="llvm::remarks::YAMLStrTabMetaSerializer" name="llvm::remarks::YAMLStrTabMetaSerializer">
+<area shape="rect" id="node1" title=" " alt="" coords="33,155,229,196"/>
+<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1YAMLMetaSerializer.html" title=" " alt="" coords="5,80,256,107"/>
+<area shape="rect" id="node3" href="$structllvm_1_1remarks_1_1MetaSerializer.html" title="This is the base class for a remark metadata serializer." alt="" coords="23,5,238,32"/>
+</map>

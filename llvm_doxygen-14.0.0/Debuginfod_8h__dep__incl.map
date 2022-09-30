@@ -1,0 +1,6 @@
+<map id="include/llvm/Debuginfod/Debuginfod.h" name="include/llvm/Debuginfod/Debuginfod.h">
+<area shape="rect" id="node1" title="This file contains the declarations of getCachedOrDownloadArtifact and several convenience functions ..." alt="" coords="232,5,413,47"/>
+<area shape="rect" id="node2" href="$DebugInfo_2Symbolize_2DIFetcher_8cpp.html" title="This file defines the implementation of the local debug info fetcher, which searches cache directorie..." alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$Debuginfod_8cpp.html" title="This file defines the fetchInfo function, which retrieves any of the three supported artifact types: ..." alt="" coords="211,102,434,129"/>
+<area shape="rect" id="node4" href="$Debuginfod_2DIFetcher_8cpp.html" title="This file defines a DIFetcher implementation for obtaining debug info from debuginfod." alt="" coords="458,102,667,129"/>
+</map>

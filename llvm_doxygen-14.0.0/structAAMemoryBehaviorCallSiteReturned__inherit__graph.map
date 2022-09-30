@@ -1,0 +1,11 @@
+<map id="AAMemoryBehaviorCallSiteReturned" name="AAMemoryBehaviorCallSiteReturned">
+<area shape="rect" id="node1" title="Memory behavior attribute for a call site return position." alt="" coords="1655,53,1857,94"/>
+<area shape="rect" id="node2" href="$structAAMemoryBehaviorFloating.html" title="Memory behavior attribute for a floating value." alt="" coords="1400,60,1605,87"/>
+<area shape="rect" id="node3" href="$structAAMemoryBehaviorImpl.html" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— Memory Behavior Attributes &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—" alt="" coords="1169,60,1351,87"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AAMemoryBehavior.html" title="An abstract interface for memory access kind related attributes (readnone/readonly/writeonly)." alt="" coords="931,60,1120,87"/>
+<area shape="rect" id="node5" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="619,38,881,109"/>
+<area shape="rect" id="node6" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute." alt="" coords="139,85,329,126"/>
+<area shape="rect" id="node7" href="$classBaseType.html" title=" " alt="" coords="5,35,89,61"/>
+<area shape="rect" id="node9" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="164,19,304,61"/>
+<area shape="rect" id="node8" href="$classStateTy.html" title=" " alt="" coords="12,93,83,120"/>
+</map>

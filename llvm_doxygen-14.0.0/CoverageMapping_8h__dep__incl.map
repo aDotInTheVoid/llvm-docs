@@ -1,0 +1,8 @@
+<map id="include/llvm/ProfileData/Coverage/CoverageMapping.h" name="include/llvm/ProfileData/Coverage/CoverageMapping.h">
+<area shape="rect" id="node1" title=" " alt="" coords="155,5,377,47"/>
+<area shape="rect" id="node2" href="$CoverageMappingReader_8h.html" title=" " alt="" coords="133,95,399,136"/>
+<area shape="rect" id="node3" href="$CoverageMapping_8cpp.html" title=" " alt="" coords="5,184,185,225"/>
+<area shape="rect" id="node5" href="$CoverageMappingWriter_8h.html" title=" " alt="" coords="423,95,685,136"/>
+<area shape="rect" id="node4" href="$CoverageMappingReader_8cpp.html" title=" " alt="" coords="210,184,426,225"/>
+<area shape="rect" id="node6" href="$CoverageMappingWriter_8cpp.html" title=" " alt="" coords="450,184,661,225"/>
+</map>

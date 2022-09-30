@@ -1,0 +1,6 @@
+<map id="llvm::AsmPrinter::HandlerInfo" name="llvm::AsmPrinter::HandlerInfo">
+<area shape="rect" id="node1" title="struct HandlerInfo and Handlers permit users or target extended AsmPrinter to add their own handlers." alt="" coords="56,243,271,269"/>
+<area shape="rect" id="node2" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="5,102,124,129"/>
+<area shape="rect" id="node3" href="$classsize__t.html" title=" " alt="" coords="35,5,95,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="148,95,363,136"/>
+</map>

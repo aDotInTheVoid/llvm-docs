@@ -1,0 +1,10 @@
+<map id="llvm::WritableBinaryStreamRef" name="llvm::WritableBinaryStreamRef">
+<area shape="rect" id="node1" title=" " alt="" coords="257,408,482,435"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BinaryStreamRefBase.html" title=" " alt="" coords="266,303,473,359"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BinaryStreamRefBase.html" title="Common stuff for mutable and immutable StreamRefs." alt="" coords="268,184,471,225"/>
+<area shape="rect" id="node4" href="$classuint64__t.html" title=" " alt="" coords="5,95,80,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="104,95,301,121"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title=" " alt="" coords="127,5,279,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="326,95,525,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="549,95,659,121"/>
+</map>

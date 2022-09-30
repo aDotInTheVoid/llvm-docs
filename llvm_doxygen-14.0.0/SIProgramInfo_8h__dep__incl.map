@@ -1,0 +1,8 @@
+<map id="lib/Target/AMDGPU/SIProgramInfo.h" name="lib/Target/AMDGPU/SIProgramInfo.h">
+<area shape="rect" id="node1" title="Defines struct to track resource usage and hardware flags for kernels and entry functions." alt="" coords="443,5,659,47"/>
+<area shape="rect" id="node2" href="$AMDGPUAsmPrinter_8h.html" title="AMDGPU Assembly printer class." alt="" coords="140,95,377,136"/>
+<area shape="rect" id="node5" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer." alt="" coords="401,95,700,136"/>
+<area shape="rect" id="node6" href="$SIProgramInfo_8cpp.html" title="The SIProgramInfo tracks resource usage and hardware flags for kernels and entry functions." alt="" coords="724,95,940,136"/>
+<area shape="rect" id="node3" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code." alt="" coords="5,184,243,225"/>
+<area shape="rect" id="node4" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst." alt="" coords="267,184,520,225"/>
+</map>

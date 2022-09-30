@@ -1,0 +1,8 @@
+<map id="PreservedCFGCheckerAnalysis" name="PreservedCFGCheckerAnalysis">
+<area shape="rect" id="node1" title=" " alt="" coords="239,319,460,345"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="5,200,256,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="51,5,200,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="147,96,322,137"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisKey.html" title="A special type used by analysis passes to provide an address that identifies that particular analysis..." alt="" coords="280,207,419,234"/>
+<area shape="rect" id="node6" title=" " alt="" coords="443,207,503,234"/>
+</map>

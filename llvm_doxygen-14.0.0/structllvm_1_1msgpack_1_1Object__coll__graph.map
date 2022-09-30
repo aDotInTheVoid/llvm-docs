@@ -1,0 +1,13 @@
+<map id="llvm::msgpack::Object" name="llvm::msgpack::Object">
+<area shape="rect" id="node1" title="MessagePack object, represented as a tagged union of C++ types." alt="" coords="703,241,871,268"/>
+<area shape="rect" id="node2" title=" " alt="" coords="442,5,509,32"/>
+<area shape="rect" id="node3" href="$classuint64__t.html" title=" " alt="" coords="438,56,513,83"/>
+<area shape="rect" id="node4" href="$structllvm_1_1msgpack_1_1ExtensionType.html" title="Extension types are composed of a user&#45;defined type ID and an uninterpreted sequence of bytes." alt="" coords="365,189,585,216"/>
+<area shape="rect" id="node5" title=" " alt="" coords="179,157,238,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="149,208,268,235"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title=" " alt="" coords="5,157,65,184"/>
+<area shape="rect" id="node8" title=" " alt="" coords="442,303,509,329"/>
+<area shape="rect" id="node9" title=" " alt="" coords="406,353,545,380"/>
+<area shape="rect" id="node10" title=" " alt="" coords="449,404,501,431"/>
+<area shape="rect" id="node11" href="$classbool.html" title=" " alt="" coords="450,455,501,481"/>
+</map>

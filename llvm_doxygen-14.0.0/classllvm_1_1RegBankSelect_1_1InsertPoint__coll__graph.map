@@ -1,0 +1,4 @@
+<map id="llvm::RegBankSelect::InsertPoint" name="llvm::RegBankSelect::InsertPoint">
+<area shape="rect" id="node1" title="Abstract class used to represent an insertion point in a CFG." alt="" coords="5,95,163,136"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="59,5,109,32"/>
+</map>

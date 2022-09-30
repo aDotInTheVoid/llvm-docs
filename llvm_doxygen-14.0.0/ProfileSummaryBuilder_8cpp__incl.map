@@ -1,0 +1,52 @@
+<map id="lib/ProfileData/ProfileSummaryBuilder.cpp" name="lib/ProfileData/ProfileSummaryBuilder.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2869,5,3091,47"/>
+<area shape="rect" id="node2" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2971,483,3119,509"/>
+<area shape="rect" id="node25" href="$Function_8h.html" title=" " alt="" coords="2989,259,3128,285"/>
+<area shape="rect" id="node34" href="$Casting_8h.html" title=" " alt="" coords="727,714,897,741"/>
+<area shape="rect" id="node39" href="$Type_8h.html" title=" " alt="" coords="2339,557,2453,584"/>
+<area shape="rect" id="node44" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="1893,408,2040,435"/>
+<area shape="rect" id="node47" href="$InstrProf_8h.html" title=" " alt="" coords="5141,333,5339,360"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title=" " alt="" coords="4477,483,4691,509"/>
+<area shape="rect" id="node49" href="$ProfileCommon_8h.html" title=" " alt="" coords="3833,95,4005,136"/>
+<area shape="rect" id="node50" href="$SampleProf_8h.html" title=" " alt="" coords="4067,184,4285,211"/>
+<area shape="rect" id="node3" href="$Types_8h.html" title=" " alt="" coords="1542,714,1658,741"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title=" " alt="" coords="2549,632,2704,659"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1701,871,1886,897"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2155,796,2224,823"/>
+<area shape="rect" id="node12" title=" " alt="" coords="4351,796,4411,823"/>
+<area shape="rect" id="node13" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="3886,714,4039,741"/>
+<area shape="rect" id="node14" href="$SmallString_8h.html" title="This file defines the SmallString class." alt="" coords="3251,557,3424,584"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title=" " alt="" coords="4253,632,4411,659"/>
+<area shape="rect" id="node17" title=" " alt="" coords="5612,796,5679,823"/>
+<area shape="rect" id="node19" title=" " alt="" coords="4571,714,4629,741"/>
+<area shape="rect" id="node20" href="$Alignment_8h.html" title=" " alt="" coords="3585,632,3773,659"/>
+<area shape="rect" id="node21" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="2099,707,2280,748"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2883,557,2941,584"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3803,557,3845,584"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2966,557,3125,584"/>
+<area shape="rect" id="node5" href="$None_8h.html" title="This file provides None, an enumerator for use in implicit constructors of various (usually templated..." alt="" coords="3039,796,3171,823"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title=" " alt="" coords="2811,714,2986,741"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="3391,796,3569,823"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2750,796,2821,823"/>
+<area shape="rect" id="node11" title=" " alt="" coords="423,796,500,823"/>
+<area shape="rect" id="node16" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="3517,714,3709,741"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="4654,714,4845,741"/>
+<area shape="rect" id="node26" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="3971,557,4131,584"/>
+<area shape="rect" id="node28" href="$Twine_8h.html" title=" " alt="" coords="4662,557,4797,584"/>
+<area shape="rect" id="node30" href="$ilist__node_8h.html" title="This file defines the ilist_node class template, which is a convenient base class for creating classe..." alt="" coords="1451,557,1613,584"/>
+<area shape="rect" id="node31" href="$Argument_8h.html" title=" " alt="" coords="2758,408,2906,435"/>
+<area shape="rect" id="node32" href="$Value_8h.html" title=" " alt="" coords="752,557,872,584"/>
+<area shape="rect" id="node35" href="$BasicBlock_8h.html" title=" " alt="" coords="1311,483,1465,509"/>
+<area shape="rect" id="node36" href="$SymbolTableListTraits_8h.html" title=" " alt="" coords="998,557,1223,584"/>
+<area shape="rect" id="node37" href="$CallingConv_8h.html" title=" " alt="" coords="3083,333,3245,360"/>
+<area shape="rect" id="node38" href="$DerivedTypes_8h.html" title=" " alt="" coords="2607,483,2779,509"/>
+<area shape="rect" id="node40" href="$GlobalObject_8h.html" title=" " alt="" coords="3701,333,3869,360"/>
+<area shape="rect" id="node41" href="$GlobalValue_8h.html" title=" " alt="" coords="3824,408,3987,435"/>
+<area shape="rect" id="node43" href="$OperandTraits_8h.html" title=" " alt="" coords="3269,333,3443,360"/>
+<area shape="rect" id="node27" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="3291,632,3458,659"/>
+<area shape="rect" id="node29" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4739,632,4949,659"/>
+<area shape="rect" id="node33" href="$CBindingWrapping_8h.html" title=" " alt="" coords="1270,632,1511,659"/>
+<area shape="rect" id="node42" href="$Constant_8h.html" title=" " alt="" coords="854,483,997,509"/>
+<area shape="rect" id="node45" href="$PointerUnion_8h.html" title="This file defines the PointerUnion class, which is a discriminated union of pointer types." alt="" coords="2190,632,2373,659"/>
+<area shape="rect" id="node46" href="$LLVMContext_8h.html" title=" " alt="" coords="1790,557,1959,584"/>
+</map>

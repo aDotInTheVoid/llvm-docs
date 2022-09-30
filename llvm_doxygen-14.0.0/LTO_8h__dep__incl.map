@@ -1,0 +1,12 @@
+<map id="include/llvm/LTO/LTO.h" name="include/llvm/LTO/LTO.h">
+<area shape="rect" id="node1" title=" " alt="" coords="531,5,702,32"/>
+<area shape="rect" id="node2" href="$LTOCodeGenerator_8h.html" title=" " alt="" coords="26,80,204,121"/>
+<area shape="rect" id="node3" href="$LTOCodeGenerator_8cpp.html" title=" " alt="" coords="6,169,224,196"/>
+<area shape="rect" id="node4" href="$LTOModule_8h.html" title=" " alt="" coords="228,80,405,121"/>
+<area shape="rect" id="node6" href="$ThinLTOCodeGenerator_8h.html" title=" " alt="" coords="851,80,1038,121"/>
+<area shape="rect" id="node7" href="$ThinLTOCodeGenerator_8cpp.html" title=" " alt="" coords="824,169,1070,196"/>
+<area shape="rect" id="node8" href="$LTOBackend_8h.html" title=" " alt="" coords="429,87,654,114"/>
+<area shape="rect" id="node9" href="$LTO_8cpp.html" title=" " alt="" coords="477,169,598,196"/>
+<area shape="rect" id="node10" href="$LTOBackend_8cpp.html" title=" " alt="" coords="623,169,799,196"/>
+<area shape="rect" id="node5" href="$LTOModule_8cpp.html" title=" " alt="" coords="249,169,418,196"/>
+</map>

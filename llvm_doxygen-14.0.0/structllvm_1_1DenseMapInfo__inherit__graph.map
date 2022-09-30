@@ -1,0 +1,15 @@
+<map id="llvm::DenseMapInfo&lt; T, Enable &gt;" name="llvm::DenseMapInfo&lt; T, Enable &gt;">
+<area shape="rect" id="node1" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="5,175,159,216"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="377,5,530,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="365,71,541,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="376,137,531,193"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="377,217,530,259"/>
+<area shape="rect" id="node9" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="377,283,530,324"/>
+<area shape="rect" id="node12" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="377,365,530,407"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IRSimilarity_1_1IRInstructionDataTraits.html" title=" " alt="" coords="609,71,787,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DenseMapInfo_3_01AA_1_1PointerInfo_01_1_1OffsetAndSize_01_4.html" title="Helper that allows OffsetAndSize as a key in a DenseMap." alt="" coords="621,137,775,193"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DeclMapInfo.html" title="Info type for the DenseMap storing the DeclContext pointers." alt="" coords="627,221,769,247"/>
+<area shape="rect" id="node10" href="$structllvm_1_1AccessAsInstructionInfo.html" title="Helper for AA::PointerInfo::Acccess DenseMap/Set usage ignoring everythign but the instruction." alt="" coords="591,271,805,298"/>
+<area shape="rect" id="node11" href="$structllvm_1_1DenseMapInfo_3_01AAPointerInfo_1_1Access_01_4.html" title="Helper for AA::PointerInfo::Acccess DenseMap/Set usage." alt="" coords="601,323,795,364"/>
+<area shape="rect" id="node13" href="$structllvm_1_1MachineInstrExpressionTrait.html" title="Special DenseMapInfo traits to compare MachineInstr* by value of the instruction rather than by point..." alt="" coords="591,388,805,429"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::StringMapEntryStorage&lt; ValueTy &gt;" name="llvm::StringMapEntryStorage&lt; ValueTy &gt;">
+<area shape="rect" id="node1" title="StringMapEntryStorage &#45; Holds the value in a StringMapEntry." alt="" coords="245,112,455,153"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="843,5,1001,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="843,84,1001,125"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="843,176,1001,217"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringMapEntry.html" title="StringMapEntry &#45; This is used to represent one value that is inserted into a StringMap." alt="" coords="504,81,663,123"/>
+<area shape="rect" id="node2" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances." alt="" coords="5,119,196,146"/>
+</map>

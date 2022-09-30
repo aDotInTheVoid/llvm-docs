@@ -1,0 +1,5 @@
+<map id="lib/Target/AMDGPU/AMDGPUHSAMetadataStreamer.h" name="lib/Target/AMDGPU/AMDGPUHSAMetadataStreamer.h">
+<area shape="rect" id="node1" title="AMDGPU HSA Metadata Streamer." alt="" coords="120,5,419,47"/>
+<area shape="rect" id="node2" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code." alt="" coords="5,95,243,136"/>
+<area shape="rect" id="node3" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer." alt="" coords="267,95,565,136"/>
+</map>

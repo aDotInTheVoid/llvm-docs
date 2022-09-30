@@ -1,0 +1,52 @@
+<map id="include/llvm/MC/MCRegister.h" name="include/llvm/MC/MCRegister.h">
+<area shape="rect" id="node1" title=" " alt="" coords="6593,5,6811,32"/>
+<area shape="rect" id="node2" href="$RegAllocPBQP_8h.html" title=" " alt="" coords="363,169,529,211"/>
+<area shape="rect" id="node5" href="$Register_8h.html" title=" " alt="" coords="2671,80,2837,121"/>
+<area shape="rect" id="node18" href="$MachineLICM_8cpp.html" title=" " alt="" coords="4922,273,5141,300"/>
+<area shape="rect" id="node21" href="$MachineCSE_8cpp.html" title=" " alt="" coords="5644,273,5856,300"/>
+<area shape="rect" id="node36" href="$MCRegisterInfo_8h.html" title=" " alt="" coords="5948,80,6155,121"/>
+<area shape="rect" id="node46" href="$MCAsmStreamer_8cpp.html" title=" " alt="" coords="6459,177,6662,203"/>
+<area shape="rect" id="node47" href="$MCStreamer_8cpp.html" title=" " alt="" coords="6937,177,7112,203"/>
+<area shape="rect" id="node48" href="$MCA_2Instruction_8h.html" title="This file defines abstractions used by the Pipeline to model register reads, register writes and inst..." alt="" coords="6643,87,6865,114"/>
+<area shape="rect" id="node49" href="$TargetLoweringObjectFile_8h.html" title=" " alt="" coords="7187,80,7390,121"/>
+<area shape="rect" id="node50" href="$ARMTargetObjectFile_8h.html" title=" " alt="" coords="7415,80,7605,121"/>
+<area shape="rect" id="node3" href="$RegAllocPBQP_8cpp.html" title=" " alt="" coords="3132,273,3355,300"/>
+<area shape="rect" id="node4" href="$AArch64PBQPRegAlloc_8cpp.html" title=" " alt="" coords="347,266,545,307"/>
+<area shape="rect" id="node6" href="$CallingConvLower_8h.html" title=" " alt="" coords="2731,266,2897,307"/>
+<area shape="rect" id="node7" href="$CombinerHelper_8h.html" title="This contains common combine transformations that may be used in a combine pass,or by the target else..." alt="" coords="2038,169,2251,211"/>
+<area shape="rect" id="node8" href="$GISelKnownBits_8h.html" title="Provides analysis for querying information about KnownBits during GISel passes." alt="" coords="2275,169,2486,211"/>
+<area shape="rect" id="node9" href="$LegalizationArtifactCombiner_8h.html" title=" " alt="" coords="1280,259,1503,315"/>
+<area shape="rect" id="node10" href="$RegisterBankInfo_8h.html" title=" " alt="" coords="119,169,339,211"/>
+<area shape="rect" id="node11" href="$AMDGPURegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for AMDGPU." alt="" coords="5,266,268,307"/>
+<area shape="rect" id="node12" href="$llvm_2CodeGen_2GlobalISel_2Utils_8h.html" title=" " alt="" coords="1849,169,2014,211"/>
+<area shape="rect" id="node13" href="$LoadStoreOpt_8cpp.html" title="This file implements the LoadStoreOpt optimization pass." alt="" coords="2489,266,2659,307"/>
+<area shape="rect" id="node14" href="$AArch64GlobalISelUtils_8h.html" title=" " alt="" coords="2027,266,2254,307"/>
+<area shape="rect" id="node15" href="$LiveInterval_8h.html" title=" " alt="" coords="3161,169,3326,211"/>
+<area shape="rect" id="node16" href="$RegAllocEvictionAdvisor_8h.html" title=" " alt="" coords="3439,266,3653,307"/>
+<area shape="rect" id="node17" href="$MachineFrameInfo_8h.html" title=" " alt="" coords="2611,169,2777,211"/>
+<area shape="rect" id="node19" href="$MachineOperand_8h.html" title=" " alt="" coords="4803,169,4969,211"/>
+<area shape="rect" id="node20" href="$TileShapeInfo_8h.html" title=" " alt="" coords="4422,266,4587,307"/>
+<area shape="rect" id="node22" href="$PPCCTRLoops_8cpp.html" title=" " alt="" coords="4668,266,4811,307"/>
+<area shape="rect" id="node23" href="$MachineSSAUpdater_8h.html" title=" " alt="" coords="3643,169,3814,211"/>
+<area shape="rect" id="node24" href="$MIParser_8h.html" title=" " alt="" coords="3838,169,4003,211"/>
+<area shape="rect" id="node25" href="$SelectionDAGNodes_8h.html" title=" " alt="" coords="4027,169,4195,211"/>
+<area shape="rect" id="node26" href="$SwiftErrorValueTracking_8h.html" title=" " alt="" coords="4220,169,4411,211"/>
+<area shape="rect" id="node27" href="$AllocationOrder_8h.html" title=" " alt="" coords="3351,177,3568,203"/>
+<area shape="rect" id="node28" href="$DwarfExpression_8cpp.html" title=" " alt="" coords="5292,266,5469,307"/>
+<area shape="rect" id="node29" href="$MIRVRegNamerUtils_8h.html" title=" " alt="" coords="603,169,811,211"/>
+<area shape="rect" id="node30" href="$RegisterCoalescer_8h.html" title=" " alt="" coords="2851,177,3086,203"/>
+<area shape="rect" id="node31" href="$AMDGPUArgumentUsageInfo_8h.html" title=" " alt="" coords="835,169,1107,211"/>
+<area shape="rect" id="node32" href="$AMDGPUGlobalISelUtils_8h.html" title=" " alt="" coords="1131,169,1382,211"/>
+<area shape="rect" id="node33" href="$CSKYAsmParser_8cpp.html" title=" " alt="" coords="4537,169,4729,211"/>
+<area shape="rect" id="node34" href="$HexagonBlockRanges_8h.html" title=" " alt="" coords="1407,169,1587,211"/>
+<area shape="rect" id="node35" href="$HexagonConstExtenders_8cpp.html" title=" " alt="" coords="1611,169,1825,211"/>
+<area shape="rect" id="node37" href="$LivePhysRegs_8h.html" title="This file implements the LivePhysRegs utility for tracking liveness of physical registers." alt="" coords="5881,266,6046,307"/>
+<area shape="rect" id="node38" href="$LiveRegUnits_8h.html" title="A set of register units." alt="" coords="6070,266,6235,307"/>
+<area shape="rect" id="node39" href="$RegisterClassInfo_8h.html" title=" " alt="" coords="6299,266,6465,307"/>
+<area shape="rect" id="node40" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="5849,169,6014,211"/>
+<area shape="rect" id="node41" href="$DWARFStreamer_8h.html" title=" " alt="" coords="6191,169,6384,211"/>
+<area shape="rect" id="node42" href="$MCInstrDesc_8h.html" title=" " alt="" coords="5599,177,5824,203"/>
+<area shape="rect" id="node43" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="5145,177,5347,203"/>
+<area shape="rect" id="node44" href="$RegisterFile_8h.html" title="This file defines a register mapping file class." alt="" coords="5371,169,5574,211"/>
+<area shape="rect" id="node45" href="$InstrBuilder_8h.html" title="A builder class for instructions that are statically analyzed by llvm&#45;mca." alt="" coords="6686,177,6913,203"/>
+</map>

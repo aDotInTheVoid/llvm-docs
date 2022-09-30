@@ -1,0 +1,52 @@
+<map id="llvm::GenericSchedulerBase" name="llvm::GenericSchedulerBase">
+<area shape="rect" id="node1" title="Base class for GenericScheduler." alt="" coords="3143,1000,3348,1027"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI." alt="" coords="2803,756,3011,783"/>
+<area shape="rect" id="node3" href="$structllvm_1_1SchedRemainder.html" title="Summarize the unscheduled region." alt="" coords="2189,323,2359,349"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1779,102,1927,143"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="823,195,1027,221"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1298,271,1446,313"/>
+<area shape="rect" id="node33" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1779,465,1927,506"/>
+<area shape="rect" id="node41" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1762,341,1943,397"/>
+<area shape="rect" id="node43" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1772,237,1933,278"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="385,58,583,99"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD." alt="" coords="5,98,203,139"/>
+<area shape="rect" id="node8" href="$classbool.html" title=" " alt="" coords="79,47,129,73"/>
+<area shape="rect" id="node15" href="$classllvm_1_1TargetPassConfig.html" title="Target&#45;Independent Code Generator Pass Configuration Options." alt="" coords="2475,1025,2645,1052"/>
+<area shape="rect" id="node9" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="391,406,577,447"/>
+<area shape="rect" id="node12" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="805,308,1045,364"/>
+<area shape="rect" id="node10" title=" " alt="" coords="79,1165,129,1192"/>
+<area shape="rect" id="node37" href="$classllvm_1_1MachineLoopInfo.html" title=" " alt="" coords="2475,975,2645,1001"/>
+<area shape="rect" id="node45" href="$classllvm_1_1MachineDominatorTree.html" title="DominatorTree Class &#45; Concrete subclass of DominatorTreeBase that is used to compute a normal dominat..." alt="" coords="2455,924,2665,951"/>
+<area shape="rect" id="node47" href="$classllvm_1_1LiveIntervals.html" title=" " alt="" coords="2489,1177,2631,1204"/>
+<area shape="rect" id="node13" href="$classunsigned.html" title=" " alt="" coords="885,771,966,797"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine." alt="" coords="1775,1560,1930,1587"/>
+<area shape="rect" id="node21" href="$classllvm_1_1TargetOptions.html" title=" " alt="" coords="1297,1887,1447,1913"/>
+<area shape="rect" id="node40" href="$classllvm_1_1MachineFunction.html" title=" " alt="" coords="2189,687,2359,713"/>
+<area shape="rect" id="node14" href="$structllvm_1_1MachineSchedContext.html" title="MachineSchedContext provides enough context from the MachineScheduler pass for the target to instanti..." alt="" coords="2805,1000,3009,1027"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ImmutablePass.html" title="ImmutablePass class &#45; This class is used to provide information that does not need to be run." alt="" coords="2195,1105,2353,1132"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ModulePass.html" title="ModulePass class &#45; This class is used to implement unstructured interprocedural optimizations and ana..." alt="" coords="1785,1111,1921,1137"/>
+<area shape="rect" id="node18" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="1328,1112,1416,1139"/>
+<area shape="rect" id="node39" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations." alt="" coords="1781,1012,1924,1039"/>
+<area shape="rect" id="node19" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="2180,1165,2368,1192"/>
+<area shape="rect" id="node22" title=" " alt="" coords="894,1591,957,1617"/>
+<area shape="rect" id="node23" title=" " alt="" coords="896,1920,955,1947"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1285,1278,1459,1319"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1285,1343,1459,1385"/>
+<area shape="rect" id="node26" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information." alt="" coords="1323,1409,1421,1436"/>
+<area shape="rect" id="node27" href="$classllvm_1_1Optional.html" title=" " alt="" coords="1293,1461,1451,1502"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1285,1653,1459,1694"/>
+<area shape="rect" id="node29" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it." alt="" coords="1305,1719,1439,1745"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1343,1769,1401,1796"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1285,1821,1459,1862"/>
+<area shape="rect" id="node32" href="$classllvm_1_1PassConfigImpl.html" title=" " alt="" coords="2195,843,2353,869"/>
+<area shape="rect" id="node34" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1747,835,1959,877"/>
+<area shape="rect" id="node35" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="1276,815,1468,871"/>
+<area shape="rect" id="node42" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1749,740,1956,796"/>
+<area shape="rect" id="node36" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="1267,749,1477,790"/>
+<area shape="rect" id="node38" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="2175,1011,2373,1037"/>
+<area shape="rect" id="node44" href="$classllvm_1_1RegisterClassInfo.html" title=" " alt="" coords="2473,1076,2647,1103"/>
+<area shape="rect" id="node46" href="$classllvm_1_1AAResults.html" title=" " alt="" coords="2497,1127,2623,1153"/>
+<area shape="rect" id="node48" href="$classllvm_1_1TargetRegisterInfo.html" title="TargetRegisterInfo base class &#45; We assume that the target defines a static array of TargetRegisterDes..." alt="" coords="2817,1051,2996,1077"/>
+<area shape="rect" id="node49" href="$classllvm_1_1MCRegisterInfo.html" title="MCRegisterInfo base class &#45; We assume that the target defines a static array of MCRegisterDesc object..." alt="" coords="2481,1228,2639,1255"/>
+<area shape="rect" id="node50" href="$classllvm_1_1TargetSchedModel.html" title="Provide an instruction scheduling machine model to CodeGen passes." alt="" coords="2817,1101,2996,1128"/>
+</map>

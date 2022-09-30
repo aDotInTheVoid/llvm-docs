@@ -1,0 +1,52 @@
+<map id="lib/Analysis/VectorUtils.cpp" name="lib/Analysis/VectorUtils.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2821,5,3019,32"/>
+<area shape="rect" id="node2" href="$VectorUtils_8h.html" title=" " alt="" coords="1701,80,1899,107"/>
+<area shape="rect" id="node14" href="$EquivalenceClasses_8h.html" title="Generic implementation of equivalence classes through the use Tarjan&#39;s efficient union&#45;find algorithm..." alt="" coords="4325,721,4552,748"/>
+<area shape="rect" id="node16" href="$ScalarEvolutionExpressions_8h.html" title=" " alt="" coords="2659,244,2874,285"/>
+<area shape="rect" id="node21" href="$ScalarEvolution_8h.html" title=" " alt="" coords="2487,333,2713,360"/>
+<area shape="rect" id="node29" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4395,572,4544,599"/>
+<area shape="rect" id="node30" href="$Value_8h.html" title=" " alt="" coords="4247,647,4367,673"/>
+<area shape="rect" id="node41" href="$DemandedBits_8h.html" title=" " alt="" coords="1129,415,1351,442"/>
+<area shape="rect" id="node42" href="$LoopInfo_8h.html" title=" " alt="" coords="1427,333,1610,360"/>
+<area shape="rect" id="node43" href="$LoopIterator_8h.html" title=" " alt="" coords="1035,251,1239,278"/>
+<area shape="rect" id="node45" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes." alt="" coords="1888,408,2107,449"/>
+<area shape="rect" id="node46" href="$ValueTracking_8h.html" title=" " alt="" coords="4253,415,4469,442"/>
+<area shape="rect" id="node47" href="$GetElementPtrTypeIterator_8h.html" title=" " alt="" coords="5469,408,5667,449"/>
+<area shape="rect" id="node48" href="$IRBuilder_8h.html" title=" " alt="" coords="3891,333,4034,360"/>
+<area shape="rect" id="node49" href="$PatternMatch_8h.html" title=" " alt="" coords="4080,333,4251,360"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title=" " alt="" coords="2566,572,2781,599"/>
+<area shape="rect" id="node3" href="$MapVector_8h.html" title="This file implements a map that provides insertion order iteration." alt="" coords="2665,647,2831,673"/>
+<area shape="rect" id="node12" href="$SmallVector_8h.html" title=" " alt="" coords="2353,721,2527,748"/>
+<area shape="rect" id="node13" href="$LoopAccessAnalysis_8h.html" title=" " alt="" coords="2390,155,2581,196"/>
+<area shape="rect" id="node40" href="$CheckedArithmetic_8h.html" title=" " alt="" coords="246,572,490,599"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="2162,721,2329,748"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3003,871,3072,897"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4402,871,4473,897"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1197,871,1257,897"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3234,796,3305,823"/>
+<area shape="rect" id="node5" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="4005,796,4197,823"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1676,796,1761,823"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5391,871,5457,897"/>
+<area shape="rect" id="node39" href="$Pass_8h.html" title=" " alt="" coords="1909,497,2005,524"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2856,796,2899,823"/>
+<area shape="rect" id="node17" href="$FoldingSet_8h.html" title="This file defines a hash set that can be used to remove duplication of nodes in a graph." alt="" coords="2323,572,2490,599"/>
+<area shape="rect" id="node20" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="1779,721,1954,748"/>
+<area shape="rect" id="node38" href="$ValueHandle_8h.html" title=" " alt="" coords="5025,572,5191,599"/>
+<area shape="rect" id="node18" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1549,647,1728,673"/>
+<area shape="rect" id="node19" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="934,721,1087,748"/>
+<area shape="rect" id="node22" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="347,647,479,673"/>
+<area shape="rect" id="node23" href="$ArrayRef_8h.html" title=" " alt="" coords="3699,647,3853,673"/>
+<area shape="rect" id="node24" href="$PointerIntPair_8h.html" title="This file defines the PointerIntPair class." alt="" coords="5223,796,5407,823"/>
+<area shape="rect" id="node25" href="$SetVector_8h.html" title="This file implements a set that has insertion order iteration characteristics." alt="" coords="3110,572,3269,599"/>
+<area shape="rect" id="node27" href="$ConstantRange_8h.html" title=" " alt="" coords="3489,415,3671,442"/>
+<area shape="rect" id="node28" href="$InstrTypes_8h.html" title=" " alt="" coords="3710,497,3861,524"/>
+<area shape="rect" id="node31" href="$Function_8h.html" title=" " alt="" coords="3928,572,4067,599"/>
+<area shape="rect" id="node33" href="$Instructions_8h.html" title=" " alt="" coords="3253,415,3413,442"/>
+<area shape="rect" id="node36" href="$Operator_8h.html" title=" " alt="" coords="4139,497,4279,524"/>
+<area shape="rect" id="node37" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1513,497,1682,524"/>
+<area shape="rect" id="node26" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="3160,647,3320,673"/>
+<area shape="rect" id="node32" href="$IR_2Instruction_8h.html" title=" " alt="" coords="3649,572,3802,599"/>
+<area shape="rect" id="node34" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="3169,497,3279,524"/>
+<area shape="rect" id="node35" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="738,721,910,748"/>
+<area shape="rect" id="node44" href="$PostOrderIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build a generic graph post order iterator." alt="" coords="1265,647,1474,673"/>
+</map>

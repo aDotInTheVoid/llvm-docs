@@ -1,0 +1,52 @@
+<map id="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyMCAsmInfo.h" name="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyMCAsmInfo.h">
+<area shape="rect" id="node1" title="This file contains the declaration of the WebAssemblyMCAsmInfo class." alt="" coords="3730,5,3995,61"/>
+<area shape="rect" id="node2" href="$MCAsmInfoWasm_8h.html" title=" " alt="" coords="3759,109,3966,136"/>
+<area shape="rect" id="node3" href="$MCAsmInfo_8h.html" title=" " alt="" coords="3779,184,3946,211"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title=" " alt="" coords="1429,483,1587,509"/>
+<area shape="rect" id="node22" href="$MCDirectives_8h.html" title=" " alt="" coords="3969,259,4148,285"/>
+<area shape="rect" id="node23" href="$MCTargetOptions_8h.html" title=" " alt="" coords="3692,259,3895,285"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3901,408,3963,435"/>
+<area shape="rect" id="node5" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="939,557,1131,584"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1844,632,1913,659"/>
+<area shape="rect" id="node7" title=" " alt="" coords="334,707,405,733"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1259,707,1319,733"/>
+<area shape="rect" id="node11" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="1256,557,1485,584"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1662,707,1754,733"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="521,557,711,584"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title=" " alt="" coords="3244,707,3423,733"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1996,632,2081,659"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2503,632,2569,659"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1813,557,1872,584"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3023,632,3081,659"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1057,707,1124,733"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1126,632,1181,659"/>
+<area shape="rect" id="node12" href="$STLForwardCompat_8h.html" title="This file contains library features backported from future STL versions." alt="" coords="1596,632,1820,659"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3318,781,3503,808"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3219,781,3293,808"/>
+<area shape="rect" id="node24" href="$ArrayRef_8h.html" title=" " alt="" coords="2883,333,3037,360"/>
+<area shape="rect" id="node25" href="$Hashing_8h.html" title=" " alt="" coords="2403,557,2554,584"/>
+<area shape="rect" id="node35" href="$None_8h.html" title="This file provides None, an enumerator for use in implicit constructors of various (usually templated..." alt="" coords="2782,557,2914,584"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title=" " alt="" coords="3051,483,3226,509"/>
+<area shape="rect" id="node39" title=" " alt="" coords="3562,557,3673,584"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2938,557,3009,584"/>
+<area shape="rect" id="node41" title=" " alt="" coords="3697,557,3775,584"/>
+<area shape="rect" id="node43" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="1828,408,1991,435"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3048,408,3104,435"/>
+<area shape="rect" id="node26" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="2593,632,2783,659"/>
+<area shape="rect" id="node31" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3399,632,3609,659"/>
+<area shape="rect" id="node32" href="$SwapByteOrder_8h.html" title=" " alt="" coords="2257,632,2479,659"/>
+<area shape="rect" id="node34" href="$type__traits_8h.html" title=" " alt="" coords="2807,632,2998,659"/>
+<area shape="rect" id="node27" href="$llvm-c_2DataTypes_8h.html" title=" " alt="" coords="2615,707,2761,733"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2645,781,2731,808"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2755,781,2826,808"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2524,781,2620,808"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2299,707,2437,733"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3106,557,3171,584"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3399,557,3486,584"/>
+<area shape="rect" id="node42" title=" " alt="" coords="3033,557,3082,584"/>
+<area shape="rect" id="node44" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="2438,483,2591,509"/>
+<area shape="rect" id="node45" href="$STLArrayExtras_8h.html" title=" " alt="" coords="43,483,242,509"/>
+<area shape="rect" id="node46" href="$identity_8h.html" title=" " alt="" coords="1947,483,2093,509"/>
+<area shape="rect" id="node47" href="$iterator_8h.html" title=" " alt="" coords="902,483,1047,509"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2117,483,2312,509"/>
+</map>

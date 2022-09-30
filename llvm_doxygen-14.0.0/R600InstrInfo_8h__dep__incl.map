@@ -1,0 +1,25 @@
+<map id="lib/Target/AMDGPU/R600InstrInfo.h" name="lib/Target/AMDGPU/R600InstrInfo.h">
+<area shape="rect" id="node1" title="Interface definition for R600InstrInfo." alt="" coords="239,5,449,47"/>
+<area shape="rect" id="node2" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo." alt="" coords="5,169,216,211"/>
+<area shape="rect" id="node3" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600." alt="" coords="241,169,447,211"/>
+<area shape="rect" id="node4" href="$R600Subtarget_8h.html" title="AMDGPU R600 specific subclass of TargetSubtarget." alt="" coords="2131,95,2389,121"/>
+<area shape="rect" id="node5" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget." alt="" coords="3333,177,3632,203"/>
+<area shape="rect" id="node6" href="$AMDILCFGStructurizer_8cpp.html" title=" " alt="" coords="3657,177,3975,203"/>
+<area shape="rect" id="node7" href="$R600AsmPrinter_8cpp.html" title="The R600AsmPrinter is used to print both assembly string and also binary code." alt="" coords="4000,169,4211,211"/>
+<area shape="rect" id="node8" href="$R600ClauseMergePass_8cpp.html" title="R600EmitClauseMarker pass emits CFAlu instruction in a conservative maneer." alt="" coords="4235,169,4461,211"/>
+<area shape="rect" id="node9" href="$R600ControlFlowFinalizer_8cpp.html" title="This pass compute turns all control flow pseudo instructions into native one computing their address ..." alt="" coords="4485,169,4715,211"/>
+<area shape="rect" id="node10" href="$R600EmitClauseMarkers_8cpp.html" title="Add CF_ALU." alt="" coords="4739,169,4951,211"/>
+<area shape="rect" id="node11" href="$R600ExpandSpecialInstrs_8cpp.html" title="Vector, Reduction, and Cube instructions need to fill the entire instruction group to work correctly." alt="" coords="471,169,702,211"/>
+<area shape="rect" id="node12" href="$R600FrameLowering_8cpp.html" title=" " alt="" coords="726,169,949,211"/>
+<area shape="rect" id="node13" href="$R600ISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the R600 subtarget." alt="" coords="973,169,1179,211"/>
+<area shape="rect" id="node14" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface." alt="" coords="1204,169,1441,211"/>
+<area shape="rect" id="node15" href="$R600MCInstLower_8cpp.html" title="Code to lower R600 MachineInstrs to their corresponding MCInst." alt="" coords="1465,169,1692,211"/>
+<area shape="rect" id="node16" href="$R600OptimizeVectorRegisters_8cpp.html" title="This pass merges inputs of swizzeable instructions into vector sharing common data and/or have enough..." alt="" coords="1717,169,1958,211"/>
+<area shape="rect" id="node17" href="$R600Packetizer_8cpp.html" title="This pass implements instructions packetization for R600." alt="" coords="1983,177,2257,203"/>
+<area shape="rect" id="node18" href="$R600RegisterInfo_8cpp.html" title="R600 implementation of the TargetRegisterInfo class." alt="" coords="2282,169,2518,211"/>
+<area shape="rect" id="node19" href="$R600Subtarget_8cpp.html" title="Implements the R600 specific subclass of TargetSubtarget." alt="" coords="2543,177,2815,203"/>
+<area shape="rect" id="node20" href="$R600TargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets." alt="" coords="2839,169,3062,211"/>
+<area shape="rect" id="node23" href="$R600TargetTransformInfo_8cpp.html" title=" " alt="" coords="3086,169,3309,211"/>
+<area shape="rect" id="node21" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for S..." alt="" coords="2696,259,2944,300"/>
+<area shape="rect" id="node22" href="$R600TargetMachine_8cpp.html" title="The AMDGPU&#45;R600 target machine contains all of the hardware specific information needed to emit code ..." alt="" coords="2969,259,3191,300"/>
+</map>

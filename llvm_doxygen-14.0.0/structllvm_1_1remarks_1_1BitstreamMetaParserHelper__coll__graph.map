@@ -1,0 +1,11 @@
+<map id="llvm::remarks::BitstreamMetaParserHelper" name="llvm::remarks::BitstreamMetaParserHelper">
+<area shape="rect" id="node1" title="Helper to parse a META_BLOCK for a bitstream remark container." alt="" coords="967,103,1152,145"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BitstreamBlockInfo.html" title="This class maintains the abbreviations read from a block info block." alt="" coords="612,5,796,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title=" " alt="" coords="605,60,803,87"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title=" " alt="" coords="244,111,396,137"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title=" " alt="" coords="609,111,799,137"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title=" " alt="" coords="625,162,783,203"/>
+<area shape="rect" id="node5" href="$classllvm_1_1BitstreamCursor.html" title="This represents a position within a bitcode file, implemented on top of a SimpleBitstreamCursor." alt="" coords="621,228,787,255"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SimpleBitstreamCursor.html" title="This represents a position within a bitstream." alt="" coords="215,281,425,308"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title=" " alt="" coords="5,251,65,277"/>
+</map>

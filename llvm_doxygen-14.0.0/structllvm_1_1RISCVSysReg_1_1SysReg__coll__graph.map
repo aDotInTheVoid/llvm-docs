@@ -1,0 +1,7 @@
+<map id="llvm::RISCVSysReg::SysReg" name="llvm::RISCVSysReg::SysReg">
+<area shape="rect" id="node1" title=" " alt="" coords="173,124,328,165"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FeatureBitset.html" title="Container class for subtarget features." alt="" coords="103,5,249,32"/>
+<area shape="rect" id="node4" href="$classbool.html" title=" " alt="" coords="300,5,351,32"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="395,5,477,32"/>
+</map>

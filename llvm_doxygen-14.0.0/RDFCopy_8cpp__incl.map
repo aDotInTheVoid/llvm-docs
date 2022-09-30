@@ -1,0 +1,52 @@
+<map id="lib/Target/Hexagon/RDFCopy.cpp" name="lib/Target/Hexagon/RDFCopy.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2748,5,2892,47"/>
+<area shape="rect" id="node2" href="$RDFCopy_8h.html" title=" " alt="" coords="639,95,731,121"/>
+<area shape="rect" id="node3" href="$RDFGraph_8h.html" title=" " alt="" coords="587,244,783,271"/>
+<area shape="rect" id="node4" href="$RDFRegisters_8h.html" title=" " alt="" coords="397,326,520,353"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3985,989,4055,1016"/>
+<area shape="rect" id="node11" title=" " alt="" coords="878,989,938,1016"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1255,989,1321,1016"/>
+<area shape="rect" id="node16" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="1630,408,1842,449"/>
+<area shape="rect" id="node19" href="$MachineInstr_8h.html" title=" " alt="" coords="2919,587,3132,613"/>
+<area shape="rect" id="node26" href="$Debug_8h.html" title=" " alt="" coords="3563,840,3725,867"/>
+<area shape="rect" id="node27" href="$MachineOperand_8h.html" title=" " alt="" coords="4701,669,4941,695"/>
+<area shape="rect" id="node31" href="$TargetOpcodes_8h.html" title=" " alt="" coords="3281,669,3508,695"/>
+<area shape="rect" id="node34" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4387,840,4597,867"/>
+<area shape="rect" id="node37" href="$MCRegisterInfo_8h.html" title=" " alt="" coords="856,758,1048,785"/>
+<area shape="rect" id="node42" href="$RDFLiveness_8h.html" title=" " alt="" coords="246,169,461,196"/>
+<area shape="rect" id="node44" href="$MachineDominators_8h.html" title=" " alt="" coords="3803,244,4064,271"/>
+<area shape="rect" id="node47" href="$raw__ostream_8h.html" title=" " alt="" coords="3801,840,4007,867"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="1623,319,1849,360"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title=" " alt="" coords="2777,758,2991,785"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1326,915,1389,941"/>
+<area shape="rect" id="node41" title=" " alt="" coords="195,415,245,442"/>
+<area shape="rect" id="node43" href="$MachineFunction_8h.html" title=" " alt="" coords="2049,415,2289,442"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title=" " alt="" coords="2662,915,2837,941"/>
+<area shape="rect" id="node5" href="$BitVector_8h.html" title="This file implements the BitVector class." alt="" coords="1275,758,1431,785"/>
+<area shape="rect" id="node6" href="$ArrayRef_8h.html" title=" " alt="" coords="2787,840,2941,867"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2769,989,2855,1016"/>
+<area shape="rect" id="node13" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="2028,915,2220,941"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="705,840,895,867"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4800,989,4877,1016"/>
+<area shape="rect" id="node17" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="3097,497,3305,539"/>
+<area shape="rect" id="node18" href="$ilist_8h.html" title="This file defines classes to implement an intrusive doubly linked list class (i.e." alt="" coords="5067,669,5189,695"/>
+<area shape="rect" id="node32" href="$DebugLoc_8h.html" title=" " alt="" coords="4478,669,4626,695"/>
+<area shape="rect" id="node20" href="$PointerSumType_8h.html" title=" " alt="" coords="2307,840,2509,867"/>
+<area shape="rect" id="node21" href="$SmallSet_8h.html" title="This file defines the SmallSet class." alt="" coords="1630,840,1786,867"/>
+<area shape="rect" id="node22" href="$ilist__node_8h.html" title="This file defines the ilist_node class template, which is a convenient base class for creating classe..." alt="" coords="2854,669,3015,695"/>
+<area shape="rect" id="node23" href="$MachineMemOperand_8h.html" title=" " alt="" coords="4181,669,4454,695"/>
+<area shape="rect" id="node33" href="$InlineAsm_8h.html" title=" " alt="" coords="4539,758,4688,785"/>
+<area shape="rect" id="node35" href="$PseudoProbe_8h.html" title=" " alt="" coords="3219,915,3387,941"/>
+<area shape="rect" id="node36" href="$MCInstrDesc_8h.html" title=" " alt="" coords="2502,669,2677,695"/>
+<area shape="rect" id="node38" href="$MCSymbol_8h.html" title=" " alt="" coords="4352,758,4515,785"/>
+<area shape="rect" id="node39" href="$ArrayRecycler_8h.html" title=" " alt="" coords="2064,669,2275,695"/>
+<area shape="rect" id="node40" href="$TrailingObjects_8h.html" title="This header defines support for implementing classes that have some trailing object (or arrays of obj..." alt="" coords="3039,669,3257,695"/>
+<area shape="rect" id="node24" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="4645,915,4835,941"/>
+<area shape="rect" id="node25" href="$LowLevelTypeImpl_8h.html" title="Implement a low&#45;level type suitable for MachineInstr level instruction selection." alt="" coords="4027,751,4227,792"/>
+<area shape="rect" id="node28" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="1913,840,2079,867"/>
+<area shape="rect" id="node29" href="$Register_8h.html" title=" " alt="" coords="4859,915,5042,941"/>
+<area shape="rect" id="node30" href="$Intrinsics_8h.html" title=" " alt="" coords="2610,758,2753,785"/>
+<area shape="rect" id="node45" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="2537,319,2765,360"/>
+<area shape="rect" id="node46" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph." alt="" coords="3672,758,3901,785"/>
+<area shape="rect" id="node48" href="$GenericDomTreeConstruction_8h.html" title="Generic dominator tree construction &#45; this file provides routines to construct immediate dominator in..." alt="" coords="3685,661,3902,703"/>
+</map>

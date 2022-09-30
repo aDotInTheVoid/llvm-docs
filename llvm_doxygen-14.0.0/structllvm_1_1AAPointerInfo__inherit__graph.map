@@ -1,0 +1,13 @@
+<map id="llvm::AAPointerInfo" name="llvm::AAPointerInfo">
+<area shape="rect" id="node1" title="An abstract interface for struct information." alt="" coords="339,155,487,181"/>
+<area shape="rect" id="node5" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="323,229,503,285"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions." alt="" coords="327,80,498,107"/>
+<area shape="rect" id="node3" href="$structllvm_1_1IRPosition.html" title="Helper to describe and deal with positions in the LLVM&#45;IR." alt="" coords="264,5,388,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AADepGraphNode.html" title="}" alt="" coords="413,5,589,32"/>
+<area shape="rect" id="node6" href="$structAAPointerInfoImpl.html" title=" " alt="" coords="343,333,483,360"/>
+<area shape="rect" id="node7" href="$structAAPointerInfoFloating.html" title=" " alt="" coords="235,408,399,435"/>
+<area shape="rect" id="node11" href="$structAAPointerInfoReturned.html" title=" " alt="" coords="423,408,594,435"/>
+<area shape="rect" id="node8" href="$structAAPointerInfoArgument.html" title=" " alt="" coords="5,483,180,509"/>
+<area shape="rect" id="node9" href="$structAAPointerInfoCallSiteArgument.html" title=" " alt="" coords="204,483,429,509"/>
+<area shape="rect" id="node10" href="$structAAPointerInfoCallSiteReturned.html" title=" " alt="" coords="453,483,673,509"/>
+</map>

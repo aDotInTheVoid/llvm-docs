@@ -1,0 +1,6 @@
+<map id="llvm::FixedVectorType" name="llvm::FixedVectorType">
+<area shape="rect" id="node1" title="Class to represent fixed width SIMD vectors." alt="" coords="5,247,169,273"/>
+<area shape="rect" id="node2" href="$classllvm_1_1VectorType.html" title="Base class of all SIMD vector types." alt="" coords="22,171,153,197"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="173,95,263,121"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="15,5,96,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::opt::Option" name="llvm::opt::Option">
+<area shape="rect" id="node1" title="Option &#45; Abstract representation for a single form of driver argument." alt="" coords="97,272,228,299"/>
+<area shape="rect" id="node2" href="$structllvm_1_1opt_1_1OptTable_1_1Info.html" title="Entry for a single option instance in the option data table." alt="" coords="6,168,151,209"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="86,5,167,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1opt_1_1OptTable.html" title="Provide access to the Option info table." alt="" coords="175,175,321,202"/>
+</map>

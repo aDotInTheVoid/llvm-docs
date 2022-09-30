@@ -1,0 +1,52 @@
+<map id="include/llvm/Analysis/SyncDependenceAnalysis.h" name="include/llvm/Analysis/SyncDependenceAnalysis.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2515,5,2720,47"/>
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="3149,244,3315,271"/>
+<area shape="rect" id="node31" href="$PostOrderIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build a generic graph post order iterator." alt="" coords="519,169,729,196"/>
+<area shape="rect" id="node36" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="2790,244,2965,271"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2011,319,2088,345"/>
+<area shape="rect" id="node41" href="$LoopInfo_8h.html" title=" " alt="" coords="1774,95,1957,121"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2705,95,2756,121"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2781,95,2905,121"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="2411,319,2603,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1789,483,1859,509"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2339,401,2410,427"/>
+<area shape="rect" id="node8" title=" " alt="" coords="857,483,917,509"/>
+<area shape="rect" id="node9" href="$EpochTracker_8h.html" title="This file defines the DebugEpochBase and DebugEpochBase::HandleBase classes." alt="" coords="3582,319,3765,345"/>
+<area shape="rect" id="node11" href="$AlignOf_8h.html" title=" " alt="" coords="4565,319,4733,345"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3973,483,4065,509"/>
+<area shape="rect" id="node13" href="$Compiler_8h.html" title=" " alt="" coords="3404,483,3583,509"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title=" " alt="" coords="4195,319,4389,345"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2751,401,2817,427"/>
+<area shape="rect" id="node21" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="3320,319,3507,345"/>
+<area shape="rect" id="node24" href="$ReverseIteration_8h.html" title=" " alt="" coords="3789,319,4019,345"/>
+<area shape="rect" id="node26" href="$type__traits_8h.html" title=" " alt="" coords="1419,401,1610,427"/>
+<area shape="rect" id="node27" title=" " alt="" coords="4515,401,4600,427"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2678,319,2789,345"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2113,319,2183,345"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1633,319,1682,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3307,401,3373,427"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1743,401,1798,427"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3595,401,3789,427"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3323,557,3509,584"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3533,557,3608,584"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4221,401,4288,427"/>
+<area shape="rect" id="node18" title=" " alt="" coords="4134,401,4197,427"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3397,401,3456,427"/>
+<area shape="rect" id="node22" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="1184,401,1395,427"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3217,401,3282,427"/>
+<area shape="rect" id="node25" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="3928,393,4109,435"/>
+<area shape="rect" id="node32" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="195,319,367,345"/>
+<area shape="rect" id="node33" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="278,401,469,427"/>
+<area shape="rect" id="node34" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="1043,244,1197,271"/>
+<area shape="rect" id="node37" href="$SmallVector_8h.html" title=" " alt="" coords="1558,244,1733,271"/>
+<area shape="rect" id="node39" title=" " alt="" coords="144,244,187,271"/>
+<area shape="rect" id="node40" title=" " alt="" coords="905,244,967,271"/>
+<area shape="rect" id="node35" href="$Hashing_8h.html" title=" " alt="" coords="1102,319,1253,345"/>
+<area shape="rect" id="node42" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="2319,169,2479,196"/>
+<area shape="rect" id="node43" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="438,244,549,271"/>
+<area shape="rect" id="node44" href="$IR_2Instruction_8h.html" title=" " alt="" coords="625,244,778,271"/>
+<area shape="rect" id="node45" href="$Instructions_8h.html" title=" " alt="" coords="1113,169,1273,196"/>
+<area shape="rect" id="node46" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1862,169,2031,196"/>
+<area shape="rect" id="node47" href="$Pass_8h.html" title=" " alt="" coords="1741,169,1837,196"/>
+<area shape="rect" id="node48" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="3967,169,4145,196"/>
+</map>

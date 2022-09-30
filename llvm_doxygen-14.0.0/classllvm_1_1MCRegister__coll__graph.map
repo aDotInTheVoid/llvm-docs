@@ -1,0 +1,4 @@
+<map id="llvm::MCRegister" name="llvm::MCRegister">
+<area shape="rect" id="node1" title="Wrapper class representing physical registers. Should be passed by value." alt="" coords="5,139,140,165"/>
+<area shape="rect" id="node2" href="$classunsigned.html" title=" " alt="" coords="32,5,113,32"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/DebugInfo/PDB/Native/NativeTypeEnum.cpp" name="lib/DebugInfo/PDB/Native/NativeTypeEnum.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2943,5,3129,47"/>
+<area shape="rect" id="node2" href="$NativeTypeEnum_8h.html" title=" " alt="" coords="1745,95,1940,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="948,973,1017,1000"/>
+<area shape="rect" id="node9" href="$TypeRecord_8h.html" title=" " alt="" coords="2033,541,2223,583"/>
+<area shape="rect" id="node27" href="$SymbolCache_8h.html" title=" " alt="" coords="1862,273,2037,315"/>
+<area shape="rect" id="node35" href="$PDBFile_8h.html" title=" " alt="" coords="2299,631,2453,672"/>
+<area shape="rect" id="node38" href="$CVTypeVisitor_8h.html" title=" " alt="" coords="3099,452,3290,493"/>
+<area shape="rect" id="node39" href="$NativeEnumTypes_8h.html" title=" " alt="" coords="4203,452,4405,493"/>
+<area shape="rect" id="node44" href="$NativeSymbolEnumerator_8h.html" title=" " alt="" coords="2019,95,2271,136"/>
+<area shape="rect" id="node45" href="$NativeTypeBuiltin_8h.html" title=" " alt="" coords="3149,273,3349,315"/>
+<area shape="rect" id="node46" href="$TpiStream_8h.html" title=" " alt="" coords="3577,541,3730,583"/>
+<area shape="rect" id="node49" href="$PDBSymbolTypeBuiltin_8h.html" title=" " alt="" coords="3992,452,4179,493"/>
+<area shape="rect" id="node50" href="$FormatVariadic_8h.html" title=" " alt="" coords="371,549,589,575"/>
+<area shape="rect" id="node3" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="753,817,906,843"/>
+<area shape="rect" id="node5" href="$CodeView_8h.html" title=" " alt="" coords="1614,720,1805,761"/>
+<area shape="rect" id="node8" href="$TypeVisitorCallbacks_8h.html" title=" " alt="" coords="2183,452,2374,493"/>
+<area shape="rect" id="node23" href="$NativeRawSymbol_8h.html" title=" " alt="" coords="2768,363,2973,404"/>
+<area shape="rect" id="node24" href="$NativeSession_8h.html" title=" " alt="" coords="1373,184,1552,225"/>
+<area shape="rect" id="node6" href="$Endian_8h.html" title=" " alt="" coords="1979,817,2144,843"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2901,899,2968,925"/>
+<area shape="rect" id="node19" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="2859,817,3010,843"/>
+<area shape="rect" id="node10" href="$APSInt_8h.html" title="This file implements the APSInt class, which is a simple class that represents an arbitrary sized int..." alt="" coords="1678,638,1818,665"/>
+<area shape="rect" id="node11" href="$ArrayRef_8h.html" title=" " alt="" coords="1765,817,1920,843"/>
+<area shape="rect" id="node12" href="$SmallVector_8h.html" title=" " alt="" coords="1021,899,1195,925"/>
+<area shape="rect" id="node13" title=" " alt="" coords="176,973,261,1000"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3873,899,3935,925"/>
+<area shape="rect" id="node16" href="$StringRef_8h.html" title=" " alt="" coords="472,638,629,665"/>
+<area shape="rect" id="node17" href="$CVRecord_8h.html" title=" " alt="" coords="2579,631,2770,672"/>
+<area shape="rect" id="node20" href="$GUID_8h.html" title=" " alt="" coords="2409,809,2599,851"/>
+<area shape="rect" id="node21" href="$TypeIndex_8h.html" title=" " alt="" coords="1057,631,1247,672"/>
+<area shape="rect" id="node22" href="$BinaryStreamArray_8h.html" title="Lightweight arrays that are backed by an arbitrary BinaryStream." alt="" coords="3049,631,3247,672"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3899,973,3976,1000"/>
+<area shape="rect" id="node18" href="$BinaryStreamRef_8h.html" title=" " alt="" coords="2998,720,3197,761"/>
+<area shape="rect" id="node25" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="206,727,373,754"/>
+<area shape="rect" id="node29" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="904,727,1083,754"/>
+<area shape="rect" id="node26" href="$MathExtras_8h.html" title=" " alt="" coords="1145,817,1340,843"/>
+<area shape="rect" id="node28" href="$IntervalMap_8h.html" title="This file implements a coalescing interval map for small objects." alt="" coords="704,638,880,665"/>
+<area shape="rect" id="node30" href="$Line_8h.html" title=" " alt="" coords="1241,541,1431,583"/>
+<area shape="rect" id="node31" href="$SymbolRecord_8h.html" title=" " alt="" coords="1627,541,1818,583"/>
+<area shape="rect" id="node32" href="$TypeDeserializer_8h.html" title=" " alt="" coords="1999,363,2190,404"/>
+<area shape="rect" id="node33" href="$ModuleDebugStream_8h.html" title=" " alt="" coords="3314,452,3537,493"/>
+<area shape="rect" id="node34" href="$NativeSourceFile_8h.html" title=" " alt="" coords="2291,363,2485,404"/>
+<area shape="rect" id="node36" href="$IMSFFile_8h.html" title=" " alt="" coords="2312,720,2467,761"/>
+<area shape="rect" id="node37" href="$MSFCommon_8h.html" title=" " alt="" coords="2133,720,2288,761"/>
+<area shape="rect" id="node40" href="$LazyRandomTypeCollection_8h.html" title=" " alt="" coords="2498,541,2715,583"/>
+<area shape="rect" id="node41" href="$IPDBEnumChildren_8h.html" title=" " alt="" coords="4144,809,4304,851"/>
+<area shape="rect" id="node42" href="$PDBSymbol_8h.html" title=" " alt="" coords="4126,549,4237,575"/>
+<area shape="rect" id="node43" href="$PDBTypes_8h.html" title=" " alt="" coords="4128,638,4227,665"/>
+<area shape="rect" id="node47" href="$HashTable_8h.html" title=" " alt="" coords="3526,720,3679,761"/>
+<area shape="rect" id="node48" href="$RawConstants_8h.html" title=" " alt="" coords="3475,631,3653,672"/>
+</map>

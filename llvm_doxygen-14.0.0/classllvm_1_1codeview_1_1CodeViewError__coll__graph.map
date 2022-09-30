@@ -1,0 +1,9 @@
+<map id="llvm::codeview::CodeViewError" name="llvm::codeview::CodeViewError">
+<area shape="rect" id="node1" title="Base class for errors originating when parsing raw PDB files." alt="" coords="212,455,405,496"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="145,364,339,405"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringError.html" title="This class wraps a string in an Error." alt="" coords="211,275,339,301"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="111,185,325,212"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="82,5,229,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="5,81,180,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="350,185,401,212"/>
+</map>

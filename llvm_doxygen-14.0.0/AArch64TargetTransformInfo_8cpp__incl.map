@@ -1,0 +1,52 @@
+<map id="lib/Target/AArch64/AArch64TargetTransformInfo.cpp" name="lib/Target/AArch64/AArch64TargetTransformInfo.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2694,5,2932,47"/>
+<area shape="rect" id="node2" href="$AArch64TargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AArch64 target machine." alt="" coords="610,102,829,129"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1138,721,1224,748"/>
+<area shape="rect" id="node12" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes." alt="" coords="772,333,990,375"/>
+<area shape="rect" id="node30" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="1646,184,1860,211"/>
+<area shape="rect" id="node32" href="$LoopInfo_8h.html" title=" " alt="" coords="1662,259,1844,285"/>
+<area shape="rect" id="node37" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code." alt="" coords="2953,259,3182,285"/>
+<area shape="rect" id="node38" href="$Intrinsics_8h.html" title=" " alt="" coords="1218,341,1360,367"/>
+<area shape="rect" id="node39" href="$AArch64ExpandImm_8h.html" title=" " alt="" coords="1847,423,2014,449"/>
+<area shape="rect" id="node40" href="$AArch64AddressingModes_8h.html" title=" " alt="" coords="4106,333,4352,375"/>
+<area shape="rect" id="node43" href="$IVDescriptors_8h.html" title=" " alt="" coords="4836,184,5049,211"/>
+<area shape="rect" id="node44" href="$IntrinsicInst_8h.html" title=" " alt="" coords="4578,259,4738,285"/>
+<area shape="rect" id="node46" href="$CostTable_8h.html" title="Cost tables and simple lookup functions." alt="" coords="52,102,246,129"/>
+<area shape="rect" id="node47" title=" " alt="" coords="4498,102,4696,129"/>
+<area shape="rect" id="node48" href="$PatternMatch_8h.html" title=" " alt="" coords="4253,184,4424,211"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title=" " alt="" coords="5552,184,5714,211"/>
+<area shape="rect" id="node50" href="$InstCombiner_8h.html" title="This file provides the interface for the instcombine pass implementation." alt="" coords="5122,95,5336,136"/>
+<area shape="rect" id="node3" href="$AArch64_8h.html" title=" " alt="" coords="158,259,246,285"/>
+<area shape="rect" id="node5" href="$AArch64Subtarget_8h.html" title=" " alt="" coords="372,259,523,285"/>
+<area shape="rect" id="node6" href="$AArch64TargetMachine_8h.html" title=" " alt="" coords="474,184,656,211"/>
+<area shape="rect" id="node7" href="$ArrayRef_8h.html" title=" " alt="" coords="2190,572,2345,599"/>
+<area shape="rect" id="node15" href="$Function_8h.html" title=" " alt="" coords="2870,497,3009,524"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2720,796,2786,823"/>
+<area shape="rect" id="node4" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="306,497,496,524"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title=" " alt="" coords="2054,647,2228,673"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3048,796,3117,823"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2000,721,2060,748"/>
+<area shape="rect" id="node13" href="$InstrTypes_8h.html" title=" " alt="" coords="3403,423,3554,449"/>
+<area shape="rect" id="node22" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="2370,572,2592,599"/>
+<area shape="rect" id="node24" href="$Operator_8h.html" title=" " alt="" coords="3239,423,3379,449"/>
+<area shape="rect" id="node26" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1298,423,1467,449"/>
+<area shape="rect" id="node28" href="$Pass_8h.html" title=" " alt="" coords="974,423,1070,449"/>
+<area shape="rect" id="node29" href="$BranchProbability_8h.html" title=" " alt="" coords="412,423,646,449"/>
+<area shape="rect" id="node14" href="$StringRef_8h.html" title=" " alt="" coords="3246,572,3404,599"/>
+<area shape="rect" id="node20" href="$Casting_8h.html" title=" " alt="" coords="3592,572,3762,599"/>
+<area shape="rect" id="node21" href="$IR_2Instruction_8h.html" title=" " alt="" coords="3135,497,3288,524"/>
+<area shape="rect" id="node23" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3870,497,4081,524"/>
+<area shape="rect" id="node16" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="1725,572,1885,599"/>
+<area shape="rect" id="node17" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="1760,647,1927,673"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title=" " alt="" coords="1730,721,1925,748"/>
+<area shape="rect" id="node25" href="$MapVector_8h.html" title="This file implements a map that provides insertion order iteration." alt="" coords="2719,572,2886,599"/>
+<area shape="rect" id="node27" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="1410,497,1584,524"/>
+<area shape="rect" id="node31" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4258,497,4390,524"/>
+<area shape="rect" id="node35" href="$Instructions_8h.html" title=" " alt="" coords="2902,341,3062,367"/>
+<area shape="rect" id="node33" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="2066,497,2238,524"/>
+<area shape="rect" id="node34" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="2343,423,2454,449"/>
+<area shape="rect" id="node36" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="914,572,1093,599"/>
+<area shape="rect" id="node41" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="4579,423,4727,449"/>
+<area shape="rect" id="node42" href="$bit_8h.html" title="This file implements the C++20 &lt;bit&gt; header." alt="" coords="4237,423,4352,449"/>
+<area shape="rect" id="node45" href="$ValueHandle_8h.html" title=" " alt="" coords="5310,497,5476,524"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::BCArray&lt; ElementTy &gt;" name="llvm::BCArray&lt; ElementTy &gt;">
+<area shape="rect" id="node1" title="Represents an array of some other type." alt="" coords="5,200,216,227"/>
+<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1BCField.html" title=" " alt="" coords="34,109,187,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1BCField.html" title="Convenience base for all kinds of bitcode abbreviation fields." alt="" coords="34,5,187,47"/>
+</map>

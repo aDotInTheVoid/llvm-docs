@@ -1,0 +1,7 @@
+<map id="include/llvm/Analysis/ObjCARCAliasAnalysis.h" name="include/llvm/Analysis/ObjCARCAliasAnalysis.h">
+<area shape="rect" id="node1" title="This file declares a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance..." alt="" coords="355,5,537,47"/>
+<area shape="rect" id="node2" href="$AliasAnalysis_8cpp.html" title=" " alt="" coords="5,102,220,129"/>
+<area shape="rect" id="node3" href="$ObjCARCAliasAnalysis_8cpp.html" title="This file defines a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance ..." alt="" coords="244,95,435,136"/>
+<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="459,102,649,129"/>
+<area shape="rect" id="node5" href="$ObjCARCOpts_8cpp.html" title="This file defines ObjC ARC optimizations." alt="" coords="674,95,850,136"/>
+</map>

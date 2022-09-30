@@ -1,0 +1,7 @@
+<map id="llvm::OptimizedStructLayoutField" name="llvm::OptimizedStructLayoutField">
+<area shape="rect" id="node1" title="A field in a structure." alt="" coords="120,124,328,165"/>
+<area shape="rect" id="node2" href="$classuint64__t.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="111,5,211,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment." alt="" coords="235,5,327,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="352,5,413,32"/>
+</map>

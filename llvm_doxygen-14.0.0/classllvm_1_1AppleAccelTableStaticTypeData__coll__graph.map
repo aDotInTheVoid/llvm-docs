@@ -1,0 +1,10 @@
+<map id="llvm::AppleAccelTableStaticTypeData" name="llvm::AppleAccelTableStaticTypeData">
+<area shape="rect" id="node1" title="Accelerator table data implementation for type accelerator tables with a DIE offset but no actual DIE..." alt="" coords="323,275,525,316"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AppleAccelTableStaticOffsetData.html" title="Accelerator table data implementation for simple Apple accelerator tables with a DIE offset but no ac..." alt="" coords="173,171,376,212"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AppleAccelTableData.html" title="A base class for different implementations of Data classes for Apple Accelerator Tables." alt="" coords="131,81,327,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AccelTableData.html" title="Interface which the different types of accelerator table data have to conform." alt="" coords="150,5,309,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,81,80,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="352,81,496,108"/>
+<area shape="rect" id="node7" title=" " alt="" coords="495,178,569,205"/>
+<area shape="rect" id="node8" href="$classbool.html" title=" " alt="" coords="593,178,644,205"/>
+</map>

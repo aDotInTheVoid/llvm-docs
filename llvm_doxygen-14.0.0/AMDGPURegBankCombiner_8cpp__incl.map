@@ -1,0 +1,52 @@
+<map id="lib/Target/AMDGPU/AMDGPURegBankCombiner.cpp" name="lib/Target/AMDGPU/AMDGPURegBankCombiner.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3066,5,3299,47"/>
+<area shape="rect" id="node2" href="$AMDGPU_8h.html" title=" " alt="" coords="4653,191,4747,218"/>
+<area shape="rect" id="node9" href="$AMDGPULegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for AMDGPU." alt="" coords="1222,191,1399,218"/>
+<area shape="rect" id="node16" href="$AMDGPURegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for AMDGPU." alt="" coords="2487,191,2692,218"/>
+<area shape="rect" id="node21" href="$GCNSubtarget_8h.html" title="AMD GCN specific subclass of TargetSubtarget." alt="" coords="2151,102,2278,129"/>
+<area shape="rect" id="node29" href="$AMDGPUMCTargetDesc_8h.html" title="Provides AMDGPU specific target descriptions." alt="" coords="153,273,391,315"/>
+<area shape="rect" id="node31" href="$SIMachineFunctionInfo_8h.html" title=" " alt="" coords="961,191,1143,218"/>
+<area shape="rect" id="node36" href="$Combiner_8h.html" title="This contains common code to drive combines." alt="" coords="3027,95,3211,136"/>
+<area shape="rect" id="node40" href="$CombinerHelper_8h.html" title="This contains common combine transformations that may be used in a combine pass,or by the target else..." alt="" coords="3551,184,3735,225"/>
+<area shape="rect" id="node43" href="$CombinerInfo_8h.html" title="Interface for Targets to specify which operations are combined how and when." alt="" coords="3285,95,3469,136"/>
+<area shape="rect" id="node44" href="$GISelKnownBits_8h.html" title="Provides analysis for querying information about KnownBits during GISel passes." alt="" coords="2015,184,2199,225"/>
+<area shape="rect" id="node45" href="$MIPatternMatch_8h.html" title="Contains matchers for matching SSA Machine Instructions." alt="" coords="3493,95,3677,136"/>
+<area shape="rect" id="node46" href="$MachineDominators_8h.html" title=" " alt="" coords="2771,191,3032,218"/>
+<area shape="rect" id="node47" href="$TargetPassConfig_8h.html" title="Target&#45;Independent Code Generator Pass Configuration Options pass." alt="" coords="4771,191,5011,218"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3803,102,4005,129"/>
+<area shape="rect" id="node49" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="4151,191,4358,218"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4080,102,4344,129"/>
+<area shape="rect" id="node3" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="4326,281,4495,307"/>
+<area shape="rect" id="node7" href="$Pass_8h.html" title=" " alt="" coords="4485,363,4581,389"/>
+<area shape="rect" id="node8" href="$CodeGen_8h.html" title=" " alt="" coords="4571,281,4751,307"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="1697,363,1863,389"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2584,437,2653,464"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3080,363,3157,389"/>
+<area shape="rect" id="node10" href="$LegalizerInfo_8h.html" title="Interface for Targets to specify which operations they can successfully select and how the others sho..." alt="" coords="1089,273,1273,315"/>
+<area shape="rect" id="node12" href="$AMDGPUArgumentUsageInfo_8h.html" title=" " alt="" coords="2077,281,2299,307"/>
+<area shape="rect" id="node14" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo." alt="" coords="649,281,749,307"/>
+<area shape="rect" id="node11" href="$raw__ostream_8h.html" title=" " alt="" coords="1014,363,1221,389"/>
+<area shape="rect" id="node13" href="$Register_8h.html" title=" " alt="" coords="2171,363,2354,389"/>
+<area shape="rect" id="node15" title=" " alt="" coords="545,363,729,389"/>
+<area shape="rect" id="node17" href="$SmallSet_8h.html" title="This file defines the SmallSet class." alt="" coords="2617,281,2773,307"/>
+<area shape="rect" id="node18" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="2797,273,3005,315"/>
+<area shape="rect" id="node19" href="$RegisterBankInfo_8h.html" title=" " alt="" coords="1868,273,2052,315"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2375,281,2593,307"/>
+<area shape="rect" id="node22" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls." alt="" coords="1642,191,1819,218"/>
+<area shape="rect" id="node23" href="$AMDGPUSubtarget_8h.html" title="Base class for AMDGPU specific classes of TargetSubtarget." alt="" coords="3839,191,3995,218"/>
+<area shape="rect" id="node25" href="$SIFrameLowering_8h.html" title=" " alt="" coords="1844,191,1991,218"/>
+<area shape="rect" id="node26" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition." alt="" coords="2223,191,2353,218"/>
+<area shape="rect" id="node27" href="$SelectionDAGTargetInfo_8h.html" title=" " alt="" coords="4382,184,4629,225"/>
+<area shape="rect" id="node28" title=" " alt="" coords="5,363,224,389"/>
+<area shape="rect" id="node24" href="$Alignment_8h.html" title=" " alt="" coords="4062,281,4250,307"/>
+<area shape="rect" id="node30" title=" " alt="" coords="249,363,458,389"/>
+<area shape="rect" id="node32" href="$AMDGPUMachineFunction_8h.html" title=" " alt="" coords="1489,281,1692,307"/>
+<area shape="rect" id="node33" href="$MapVector_8h.html" title="This file implements a map that provides insertion order iteration." alt="" coords="1298,281,1465,307"/>
+<area shape="rect" id="node34" href="$MIRYamlMapping_8h.html" title=" " alt="" coords="773,281,1014,307"/>
+<area shape="rect" id="node35" href="$PseudoSourceValue_8h.html" title=" " alt="" coords="415,273,625,315"/>
+<area shape="rect" id="node37" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class." alt="" coords="3056,184,3240,225"/>
+<area shape="rect" id="node39" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="3131,273,3359,315"/>
+<area shape="rect" id="node38" href="$LowLevelType_8h.html" title="Implement a low&#45;level type suitable for MachineInstr level instruction selection." alt="" coords="3384,281,3605,307"/>
+<area shape="rect" id="node41" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="3681,281,3829,307"/>
+<area shape="rect" id="node42" href="$GenericMachineInstrs_8h.html" title="Declares convenience wrapper classes for interpreting MachineInstr instances as specific generic oper..." alt="" coords="3853,273,4037,315"/>
+</map>

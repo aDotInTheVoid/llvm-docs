@@ -1,0 +1,44 @@
+<map id="llvm::DivergencePropagator" name="llvm::DivergencePropagator">
+<area shape="rect" id="node1" title=" " alt="" coords="4003,945,4207,972"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PostDominatorTree.html" title="PostDominatorTree Class &#45; Concrete subclass of DominatorTree that is used to compute the post&#45;dominat..." alt="" coords="3439,788,3621,815"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DominatorTreeBase.html" title="Core dominator tree base class." alt="" coords="2769,567,3011,593"/>
+<area shape="rect" id="node4" title=" " alt="" coords="2334,415,2563,441"/>
+<area shape="rect" id="node39" href="$classllvm_1_1DominatorTreeBase.html" title="Core dominator tree base class." alt="" coords="2797,303,2983,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2333,227,2564,269"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="2370,483,2527,539"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1603,435,1807,461"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1983,490,2131,531"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1152,261,1349,302"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD." alt="" coords="772,31,969,73"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="551,24,723,80"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorBase.html" title="This is all the stuff common to all SmallVectors." alt="" coords="179,31,348,73"/>
+<area shape="rect" id="node12" title=" " alt="" coords="5,13,69,40"/>
+<area shape="rect" id="node13" title=" " alt="" coords="7,64,68,91"/>
+<area shape="rect" id="node14" href="$classbool.html" title=" " alt="" coords="845,268,896,295"/>
+<area shape="rect" id="node15" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="1157,559,1344,601"/>
+<area shape="rect" id="node18" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="1585,487,1825,543"/>
+<area shape="rect" id="node16" title=" " alt="" coords="845,668,896,695"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2373,137,2525,178"/>
+<area shape="rect" id="node20" href="$classunsigned.html" title=" " alt="" coords="2408,684,2489,711"/>
+<area shape="rect" id="node28" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="2843,829,2937,856"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2345,313,2552,340"/>
+<area shape="rect" id="node22" href="$structllvm_1_1ModifiedPO.html" title=" " alt="" coords="3686,945,3819,972"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3248,1041,3395,1082"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3234,960,3409,1016"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3657,997,3848,1038"/>
+<area shape="rect" id="node26" title=" " alt="" coords="3645,1063,3860,1089"/>
+<area shape="rect" id="node27" href="$classllvm_1_1BasicBlock.html" title="LLVM Basic Block Representation." alt="" coords="3687,895,3818,921"/>
+<area shape="rect" id="node29" href="$classuint64__t.html" title=" " alt="" coords="2411,857,2486,884"/>
+<area shape="rect" id="node30" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="3241,880,3402,936"/>
+<area shape="rect" id="node31" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1983,906,2132,947"/>
+<area shape="rect" id="node36" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="2354,966,2543,1007"/>
+<area shape="rect" id="node32" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="1601,891,1810,962"/>
+<area shape="rect" id="node33" title=" " alt="" coords="774,997,967,1024"/>
+<area shape="rect" id="node34" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="1171,954,1330,995"/>
+<area shape="rect" id="node35" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="2789,959,2991,1015"/>
+<area shape="rect" id="node37" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree." alt="" coords="3675,768,3830,795"/>
+<area shape="rect" id="node38" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="3228,509,3415,550"/>
+<area shape="rect" id="node40" href="$classllvm_1_1LoopInfo.html" title=" " alt="" coords="3695,1113,3810,1140"/>
+<area shape="rect" id="node41" href="$classllvm_1_1LoopInfoBase.html" title=" " alt="" coords="3240,1106,3403,1147"/>
+<area shape="rect" id="node42" href="$classllvm_1_1LoopInfoBase.html" title="This class builds and contains all of the top&#45;level loop structures in the specified function." alt="" coords="2817,1106,2963,1147"/>
+</map>

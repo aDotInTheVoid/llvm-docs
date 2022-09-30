@@ -1,0 +1,10 @@
+<map id="llvm::MemoryLocation" name="llvm::MemoryLocation">
+<area shape="rect" id="node1" title="Representation for a specific memory location." alt="" coords="113,496,281,523"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AAMDNodes.html" title="A collection of metadata nodes that might be associated with a memory access used by the alias&#45;analys..." alt="" coords="17,407,157,433"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="13,273,127,300"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="5,197,127,224"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="91,5,172,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="152,197,247,224"/>
+<area shape="rect" id="node7" href="$classuint64__t.html" title=" " alt="" coords="350,5,425,32"/>
+<area shape="rect" id="node8" href="$classllvm_1_1LocationSize.html" title=" " alt="" coords="234,407,375,433"/>
+</map>

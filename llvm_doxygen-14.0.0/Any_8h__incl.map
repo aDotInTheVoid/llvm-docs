@@ -1,0 +1,10 @@
+<map id="include/llvm/ADT/Any.h" name="include/llvm/ADT/Any.h">
+<area shape="rect" id="node1" title="This file provides Any, a non&#45;template class modeled in the spirit of std::any." alt="" coords="307,5,479,32"/>
+<area shape="rect" id="node2" href="$STLForwardCompat_8h.html" title="This file contains library features backported from future STL versions." alt="" coords="5,80,229,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="127,155,219,181"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title=" " alt="" coords="304,80,483,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="507,80,576,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="600,80,677,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="271,155,457,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="481,155,556,181"/>
+</map>

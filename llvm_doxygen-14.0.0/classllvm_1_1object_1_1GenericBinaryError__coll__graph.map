@@ -1,0 +1,8 @@
+<map id="llvm::object::GenericBinaryError" name="llvm::object::GenericBinaryError">
+<area shape="rect" id="node1" title="Generic binary error." alt="" coords="73,304,272,345"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,200,196,241"/>
+<area shape="rect" id="node3" title=" " alt="" coords="32,89,127,115"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="151,81,325,123"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="165,5,311,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="221,207,271,234"/>
+</map>

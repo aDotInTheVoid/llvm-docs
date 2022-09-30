@@ -1,0 +1,8 @@
+<map id="lib/Transforms/Vectorize/LoopVectorizationPlanner.h" name="lib/Transforms/Vectorize/LoopVectorizationPlanner.h">
+<area shape="rect" id="node1" title="This file provides a LoopVectorizationPlanner class." alt="" coords="117,5,320,47"/>
+<area shape="rect" id="node2" href="$LoopVectorize_8cpp.html" title=" " alt="" coords="230,184,409,225"/>
+<area shape="rect" id="node3" href="$VPlanHCFGBuilder_8cpp.html" title="This file implements the construction of a VPlan&#45;based Hierarchical CFG (H&#45;CFG) for an incoming IR." alt="" coords="28,95,206,136"/>
+<area shape="rect" id="node4" href="$VPlanPredicator_8h.html" title="This file defines the VPlanPredicator class which contains the public interfaces to predicate and lin..." alt="" coords="433,95,612,136"/>
+<area shape="rect" id="node6" href="$VPRecipeBuilder_8h.html" title=" " alt="" coords="230,95,409,136"/>
+<area shape="rect" id="node5" href="$VPlanPredicator_8cpp.html" title="This file implements the VPlanPredicator class which contains the public interfaces to predicate and ..." alt="" coords="433,184,612,225"/>
+</map>

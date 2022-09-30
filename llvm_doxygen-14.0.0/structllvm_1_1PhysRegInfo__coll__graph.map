@@ -1,0 +1,4 @@
+<map id="llvm::PhysRegInfo" name="llvm::PhysRegInfo">
+<area shape="rect" id="node1" title="Information about how a physical register Reg is used by a set of operands." alt="" coords="5,197,145,224"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="50,5,101,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="include/llvm/Support/Caching.h" name="include/llvm/Support/Caching.h">
+<area shape="rect" id="node1" title=" " alt="" coords="760,5,916,47"/>
+<area shape="rect" id="node2" href="$LTO_8h.html" title=" " alt="" coords="531,95,702,121"/>
+<area shape="rect" id="node12" href="$Debuginfod_8cpp.html" title="This file defines the fetchInfo function, which retrieves any of the three supported artifact types: ..." alt="" coords="726,95,949,121"/>
+<area shape="rect" id="node13" href="$Caching_8cpp.html" title=" " alt="" coords="973,95,1148,121"/>
+<area shape="rect" id="node3" href="$LTOCodeGenerator_8h.html" title=" " alt="" coords="26,169,204,211"/>
+<area shape="rect" id="node4" href="$LTOCodeGenerator_8cpp.html" title=" " alt="" coords="6,259,224,285"/>
+<area shape="rect" id="node5" href="$LTOModule_8h.html" title=" " alt="" coords="228,169,405,211"/>
+<area shape="rect" id="node7" href="$ThinLTOCodeGenerator_8h.html" title=" " alt="" coords="851,169,1038,211"/>
+<area shape="rect" id="node8" href="$ThinLTOCodeGenerator_8cpp.html" title=" " alt="" coords="824,259,1070,285"/>
+<area shape="rect" id="node9" href="$LTOBackend_8h.html" title=" " alt="" coords="429,177,654,203"/>
+<area shape="rect" id="node10" href="$LTO_8cpp.html" title=" " alt="" coords="477,259,598,285"/>
+<area shape="rect" id="node11" href="$LTOBackend_8cpp.html" title=" " alt="" coords="623,259,799,285"/>
+<area shape="rect" id="node6" href="$LTOModule_8cpp.html" title=" " alt="" coords="249,259,418,285"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="lib/Target/M68k/MCTargetDesc/M68kMCTargetDesc.h" name="lib/Target/M68k/MCTargetDesc/M68kMCTargetDesc.h">
+<area shape="rect" id="node1" title="This file provides M68k specific target descriptions." alt="" coords="1769,5,1968,47"/>
+<area shape="rect" id="node2" href="$M68kDisassembler_8cpp.html" title=" " alt="" coords="139,363,353,404"/>
+<area shape="rect" id="node3" href="$M68kCallingConv_8h.html" title="This file contains the custom routines for the M68k Calling Convention that aren&#39;t done by tablegen." alt="" coords="5,273,212,315"/>
+<area shape="rect" id="node5" href="$M68kRegisterInfo_8cpp.html" title="This file contains the CPU0 implementation of the TargetRegisterInfo class." alt="" coords="378,363,594,404"/>
+<area shape="rect" id="node6" href="$M68kTargetMachine_8h.html" title="This file declares the M68k specific subclass of TargetMachine." alt="" coords="1701,363,1903,404"/>
+<area shape="rect" id="node17" href="$M68kBaseInfo_8h.html" title="This file contains small standalone helper functions and enum definitions for the M68k target useful ..." alt="" coords="1953,95,2139,136"/>
+<area shape="rect" id="node28" href="$M68kMCCodeEmitter_8cpp.html" title="This file contains defintions for M68k code emitter." alt="" coords="2744,184,2967,225"/>
+<area shape="rect" id="node29" href="$M68kELFObjectWriter_8cpp.html" title="This file contains definitions for M68k ELF Writers." alt="" coords="2215,95,2440,136"/>
+<area shape="rect" id="node30" href="$M68kMCTargetDesc_8cpp.html" title="This file provides M68k target specific descriptions." alt="" coords="2464,95,2679,136"/>
+<area shape="rect" id="node4" href="$M68kISelLowering_8cpp.html" title="This file defines the interfaces that M68k uses to lower LLVM code into a selection DAG." alt="" coords="573,452,759,493"/>
+<area shape="rect" id="node7" href="$M68kCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="2445,452,2618,493"/>
+<area shape="rect" id="node8" href="$M68kInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for M68k." alt="" coords="1994,452,2205,493"/>
+<area shape="rect" id="node9" href="$M68kAsmPrinter_8h.html" title="This file contains M68k assembler printer declarations." alt="" coords="1498,459,1743,486"/>
+<area shape="rect" id="node12" href="$M68kInstrInfo_8cpp.html" title="This file contains the M68k declaration of the TargetInstrInfo class." alt="" coords="2229,452,2420,493"/>
+<area shape="rect" id="node13" href="$M68kISelDAGToDAG_8cpp.html" title="This file defines an instruction selector for the M68K target." alt="" coords="1287,452,1474,493"/>
+<area shape="rect" id="node14" href="$M68kSubtarget_8cpp.html" title="This file implements the M68k specific subclass of TargetSubtargetInfo." alt="" coords="784,459,1036,486"/>
+<area shape="rect" id="node15" href="$M68kTargetMachine_8cpp.html" title="This file contains implementation for M68k target machine." alt="" coords="1061,452,1263,493"/>
+<area shape="rect" id="node16" href="$M68kTargetObjectFile_8cpp.html" title="This file contains definitions for M68k ELF object file lowering." alt="" coords="1767,452,1970,493"/>
+<area shape="rect" id="node10" href="$M68kAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="1491,549,1751,575"/>
+<area shape="rect" id="node11" href="$M68kMCInstLower_8cpp.html" title="This file contains code to lower M68k MachineInstrs to their corresponding MCInst records." alt="" coords="2552,541,2759,583"/>
+<area shape="rect" id="node18" href="$M68kInstrInfo_8h.html" title="This file contains the M68k implementation of the TargetInstrInfo class." alt="" coords="1840,184,2031,225"/>
+<area shape="rect" id="node26" href="$M68kAsmBackend_8cpp.html" title="This file contains definitions for M68k assembler backend." alt="" coords="2055,184,2261,225"/>
+<area shape="rect" id="node27" href="$M68kInstPrinter_8cpp.html" title="This file contains definitions for an M68k MCInst printer." alt="" coords="2285,184,2471,225"/>
+<area shape="rect" id="node19" href="$M68kAsmParser_8cpp.html" title=" " alt="" coords="2423,273,2618,315"/>
+<area shape="rect" id="node20" href="$M68kRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for M68k." alt="" coords="619,363,820,404"/>
+<area shape="rect" id="node21" href="$M68kCollapseMOVEMPass_8cpp.html" title="MOVEM is an instruction that moves multiple registers a time according to the given mask." alt="" coords="845,363,1063,404"/>
+<area shape="rect" id="node22" href="$M68kExpandPseudo_8cpp.html" title="This file contains a pass that expands pseudo instructions into target instructions to allow proper s..." alt="" coords="1087,363,1298,404"/>
+<area shape="rect" id="node23" href="$M68kFrameLowering_8cpp.html" title="This file contains the M68k implementation of TargetFrameLowering class." alt="" coords="1322,363,1525,404"/>
+<area shape="rect" id="node24" href="$M68kMachineFunction_8cpp.html" title=" " alt="" coords="2080,363,2297,404"/>
+<area shape="rect" id="node25" href="$M68kSubtarget_8h.html" title="This file declares the M68k specific subclass of TargetSubtargetInfo." alt="" coords="1494,281,1731,307"/>
+</map>

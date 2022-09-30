@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="5,55,576,331"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="624,158,899,229"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ImutAVLValueIterator.html" title=" " alt="" coords="955,21,1151,62"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ImutAVLValueIterator.html" title=" " alt="" coords="955,93,1151,134"/>
+<area shape="rect" id="node7" href="$classllvm_1_1filter__iterator__base.html" title=" " alt="" coords="956,158,1149,229"/>
+<area shape="rect" id="node9" href="$classllvm_1_1filter__iterator__base.html" title=" " alt="" coords="947,253,1159,323"/>
+<area shape="rect" id="node11" href="$structllvm_1_1pointee__iterator.html" title="An iterator type that allows iterating over the pointees via some other iterator." alt="" coords="961,347,1144,389"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ImmutableMap_1_1iterator.html" title=" " alt="" coords="1233,5,1392,61"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ImmutableMapRef_1_1iterator.html" title=" " alt="" coords="1223,85,1403,141"/>
+<area shape="rect" id="node8" href="$classllvm_1_1filter__iterator__impl.html" title="Specialization of filter_iterator_base for forward iteration only." alt="" coords="1217,165,1408,221"/>
+<area shape="rect" id="node10" href="$classllvm_1_1filter__iterator__impl_3_01WrappedIteratorT_00_01PredicateT_00_01std_1_1bidirectional__iterator__tag_01_4.html" title="Specialization of filter_iterator_base for bidirectional iteration." alt="" coords="1207,253,1419,323"/>
+</map>

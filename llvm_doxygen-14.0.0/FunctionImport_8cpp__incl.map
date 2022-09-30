@@ -1,0 +1,52 @@
+<map id="lib/Transforms/IPO/FunctionImport.cpp" name="lib/Transforms/IPO/FunctionImport.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3226,5,3377,47"/>
+<area shape="rect" id="node2" href="$FunctionImport_8h.html" title=" " alt="" coords="3943,95,4097,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="2354,676,2414,703"/>
+<area shape="rect" id="node5" href="$StringMap_8h.html" title="This file defines the StringMap class." alt="" coords="3830,452,3994,479"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title=" " alt="" coords="2305,601,2463,628"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1319,676,1388,703"/>
+<area shape="rect" id="node8" title=" " alt="" coords="4379,676,4437,703"/>
+<area shape="rect" id="node9" href="$GlobalValue_8h.html" title=" " alt="" coords="3853,527,4016,553"/>
+<area shape="rect" id="node10" href="$Casting_8h.html" title=" " alt="" coords="3453,601,3624,628"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5252,676,5329,703"/>
+<area shape="rect" id="node12" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="3015,601,3225,628"/>
+<area shape="rect" id="node13" href="$ModuleSummaryIndex_8h.html" title="ModuleSummaryIndex.h This file contains the declarations the classes that hold the module index and s..." alt="" coords="2678,191,2909,218"/>
+<area shape="rect" id="node14" href="$ArrayRef_8h.html" title=" " alt="" coords="1037,452,1192,479"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title=" " alt="" coords="1115,527,1290,553"/>
+<area shape="rect" id="node17" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="2573,527,2736,553"/>
+<area shape="rect" id="node18" title=" " alt="" coords="4598,601,4653,628"/>
+<area shape="rect" id="node19" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="3213,281,3345,307"/>
+<area shape="rect" id="node20" href="$Function_8h.html" title=" " alt="" coords="3365,370,3504,397"/>
+<area shape="rect" id="node21" href="$GlobalObject_8h.html" title=" " alt="" coords="2765,452,2933,479"/>
+<area shape="rect" id="node22" href="$GlobalAlias_8h.html" title=" " alt="" coords="3987,370,4146,397"/>
+<area shape="rect" id="node23" href="$GlobalVariable_8h.html" title=" " alt="" coords="2451,370,2629,397"/>
+<area shape="rect" id="node24" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="2280,370,2427,397"/>
+<area shape="rect" id="node25" href="$raw__ostream_8h.html" title=" " alt="" coords="1825,452,2031,479"/>
+<area shape="rect" id="node26" title=" " alt="" coords="5675,527,5783,553"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2289,281,2332,307"/>
+<area shape="rect" id="node29" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="4734,370,4885,397"/>
+<area shape="rect" id="node30" href="$Debug_8h.html" title=" " alt="" coords="5133,452,5296,479"/>
+<area shape="rect" id="node31" href="$SetVector_8h.html" title="This file implements a set that has insertion order iteration characteristics." alt="" coords="398,370,557,397"/>
+<area shape="rect" id="node32" href="$Statistic_8h.html" title="This file defines the &#39;Statistic&#39; class, which is designed to be an easy way to expose various metric..." alt="" coords="6517,527,6667,553"/>
+<area shape="rect" id="node33" href="$StringSet_8h.html" title="StringSet &#45; A set&#45;like wrapper for the StringMap." alt="" coords="3660,191,3817,218"/>
+<area shape="rect" id="node34" href="$BitcodeReader_8h.html" title=" " alt="" coords="4557,102,4771,129"/>
+<area shape="rect" id="node35" href="$AutoUpgrade_8h.html" title=" " alt="" coords="1518,527,1687,553"/>
+<area shape="rect" id="node36" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="2107,370,2256,397"/>
+<area shape="rect" id="node37" href="$llvm_2IRReader_2IRReader_8h.html" title=" " alt="" coords="3211,452,3399,479"/>
+<area shape="rect" id="node38" href="$InitializePasses_8h.html" title=" " alt="" coords="6567,102,6734,129"/>
+<area shape="rect" id="node39" href="$IRMover_8h.html" title=" " alt="" coords="632,370,795,397"/>
+<area shape="rect" id="node40" href="$ModuleSymbolTable_8h.html" title=" " alt="" coords="5309,184,5507,225"/>
+<area shape="rect" id="node41" href="$SymbolicFile_8h.html" title=" " alt="" coords="5447,281,5643,307"/>
+<area shape="rect" id="node42" href="$Pass_8h.html" title=" " alt="" coords="6345,281,6441,307"/>
+<area shape="rect" id="node43" href="$CommandLine_8h.html" title=" " alt="" coords="1695,370,1910,397"/>
+<area shape="rect" id="node44" href="$Errc_8h.html" title=" " alt="" coords="6023,191,6169,218"/>
+<area shape="rect" id="node45" href="$FileSystem_8h.html" title=" " alt="" coords="4847,281,5041,307"/>
+<area shape="rect" id="node46" href="$Support_2SourceMgr_8h.html" title=" " alt="" coords="233,191,423,218"/>
+<area shape="rect" id="node47" href="$Internalize_8h.html" title=" " alt="" coords="3423,95,3577,136"/>
+<area shape="rect" id="node48" href="$Cloning_8h.html" title=" " alt="" coords="921,273,1082,315"/>
+<area shape="rect" id="node49" href="$ValueMapper_8h.html" title=" " alt="" coords="971,363,1133,404"/>
+<area shape="rect" id="node50" href="$FunctionImportUtils_8h.html" title=" " alt="" coords="2290,95,2457,136"/>
+<area shape="rect" id="node3" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="499,452,659,479"/>
+<area shape="rect" id="node16" title=" " alt="" coords="945,601,1031,628"/>
+<area shape="rect" id="node28" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="3415,191,3585,218"/>
+</map>

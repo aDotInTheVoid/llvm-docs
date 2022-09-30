@@ -1,0 +1,7 @@
+<map id="llvm::InlineAdvisorAnalysis" name="llvm::InlineAdvisorAnalysis">
+<area shape="rect" id="node1" title="The InlineAdvisorAnalysis is a module pass because the InlineAdvisor needs to capture state right bef..." alt="" coords="97,304,295,331"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="5,200,197,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="21,5,171,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="118,96,293,137"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisKey.html" title="A special type used by analysis passes to provide an address that identifies that particular analysis..." alt="" coords="221,207,360,234"/>
+</map>

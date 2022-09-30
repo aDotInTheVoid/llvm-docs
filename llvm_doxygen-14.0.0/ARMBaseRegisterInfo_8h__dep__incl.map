@@ -1,0 +1,52 @@
+<map id="lib/Target/ARM/ARMBaseRegisterInfo.h" name="lib/Target/ARM/ARMBaseRegisterInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1868,5,2104,47"/>
+<area shape="rect" id="node2" href="$A15SDOptimizer_8cpp.html" title=" " alt="" coords="795,191,1048,218"/>
+<area shape="rect" id="node3" href="$ARMBaseInstrInfo_8cpp.html" title=" " alt="" coords="1072,184,1283,225"/>
+<area shape="rect" id="node4" href="$ARMBaseRegisterInfo_8cpp.html" title=" " alt="" coords="1308,184,1544,225"/>
+<area shape="rect" id="node5" href="$ARMExpandPseudoInsts_8cpp.html" title=" " alt="" coords="1568,184,1766,225"/>
+<area shape="rect" id="node6" href="$ARMFastISel_8cpp.html" title=" " alt="" coords="1791,191,2018,218"/>
+<area shape="rect" id="node7" href="$ARMFrameLowering_8cpp.html" title=" " alt="" coords="2042,191,2319,218"/>
+<area shape="rect" id="node8" href="$ARMHazardRecognizer_8cpp.html" title=" " alt="" coords="2344,184,2540,225"/>
+<area shape="rect" id="node9" href="$ARMISelLowering_8cpp.html" title=" " alt="" coords="1718,370,1978,397"/>
+<area shape="rect" id="node10" href="$ARMLoadStoreOptimizer_8cpp.html" title=" " alt="" coords="2564,184,2778,225"/>
+<area shape="rect" id="node11" href="$ARMLowOverheadLoops_8cpp.html" title="Finalize v8.1&#45;m low&#45;overhead loops by converting the associated pseudo instructions into machine oper..." alt="" coords="6018,273,6257,315"/>
+<area shape="rect" id="node12" href="$ARMRegisterInfo_8h.html" title=" " alt="" coords="505,95,709,136"/>
+<area shape="rect" id="node20" href="$ARMSubtarget_8h.html" title=" " alt="" coords="4229,102,4454,129"/>
+<area shape="rect" id="node42" href="$Thumb1FrameLowering_8cpp.html" title=" " alt="" coords="7530,273,7745,315"/>
+<area shape="rect" id="node48" href="$ThumbRegisterInfo_8h.html" title=" " alt="" coords="7060,95,7279,136"/>
+<area shape="rect" id="node13" href="$ARMCallingConv_8cpp.html" title=" " alt="" coords="576,184,771,225"/>
+<area shape="rect" id="node14" href="$ARMInstrInfo_8h.html" title=" " alt="" coords="2854,191,3070,218"/>
+<area shape="rect" id="node18" href="$ARMRegisterInfo_8cpp.html" title=" " alt="" coords="297,184,501,225"/>
+<area shape="rect" id="node19" href="$ARMELFStreamer_8cpp.html" title=" " alt="" coords="59,184,272,225"/>
+<area shape="rect" id="node15" href="$ARMRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for ARM." alt="" coords="2625,273,2829,315"/>
+<area shape="rect" id="node16" href="$ARMSLSHardening_8cpp.html" title=" " alt="" coords="2854,281,3120,307"/>
+<area shape="rect" id="node17" href="$ARMSubtarget_8cpp.html" title=" " alt="" coords="3874,281,4114,307"/>
+<area shape="rect" id="node21" href="$ARMAsmPrinter_8h.html" title=" " alt="" coords="4506,191,4740,218"/>
+<area shape="rect" id="node22" href="$ARMMCInstLower_8cpp.html" title=" " alt="" coords="4603,273,4798,315"/>
+<area shape="rect" id="node23" href="$ARMBlockPlacement_8cpp.html" title=" " alt="" coords="4866,191,5148,218"/>
+<area shape="rect" id="node24" href="$ARMCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="5172,191,5434,218"/>
+<area shape="rect" id="node25" href="$ARMConstantIslandPass_8cpp.html" title=" " alt="" coords="6506,273,6714,315"/>
+<area shape="rect" id="node26" href="$ARMInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for ARM." alt="" coords="3538,273,3756,315"/>
+<area shape="rect" id="node27" href="$ARMLegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for ARM." alt="" coords="5560,184,5769,225"/>
+<area shape="rect" id="node28" href="$ARMMachineFunctionInfo_8cpp.html" title=" " alt="" coords="5794,184,5999,225"/>
+<area shape="rect" id="node29" href="$ARMMacroFusion_8cpp.html" title=" " alt="" coords="6023,191,6282,218"/>
+<area shape="rect" id="node30" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations." alt="" coords="6306,184,6505,225"/>
+<area shape="rect" id="node31" href="$ARMTargetMachine_8cpp.html" title=" " alt="" coords="3974,363,4165,404"/>
+<area shape="rect" id="node32" href="$ARMTargetMachine_8h.html" title=" " alt="" coords="4037,184,4228,225"/>
+<area shape="rect" id="node33" href="$ARMTargetObjectFile_8cpp.html" title=" " alt="" coords="3238,273,3429,315"/>
+<area shape="rect" id="node34" href="$ARMTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the ARM target machine." alt="" coords="4189,273,4380,315"/>
+<area shape="rect" id="node35" href="$ARMTargetTransformInfo_8cpp.html" title=" " alt="" coords="4189,363,4380,404"/>
+<area shape="rect" id="node36" href="$MVETailPredication_8cpp.html" title="Armv8.1m introduced MVE, M&#45;Profile Vector Extension, and low&#45;overhead branches to help accelerate DSP..." alt="" coords="4404,370,4674,397"/>
+<area shape="rect" id="node37" href="$MLxExpansionPass_8cpp.html" title=" " alt="" coords="3297,184,3512,225"/>
+<area shape="rect" id="node38" href="$MVEGatherScatterLowering_8cpp.html" title=" " alt="" coords="3536,184,3729,225"/>
+<area shape="rect" id="node39" href="$MVELaneInterleavingPass_8cpp.html" title=" " alt="" coords="3754,184,4012,225"/>
+<area shape="rect" id="node40" href="$MVETPAndVPTOptimisationsPass_8cpp.html" title=" " alt="" coords="6738,273,7044,315"/>
+<area shape="rect" id="node41" href="$MVEVPTBlockPass_8cpp.html" title=" " alt="" coords="7068,273,7279,315"/>
+<area shape="rect" id="node43" href="$Thumb1InstrInfo_8cpp.html" title=" " alt="" coords="7303,273,7506,315"/>
+<area shape="rect" id="node44" href="$Thumb2InstrInfo_8cpp.html" title=" " alt="" coords="5144,273,5347,315"/>
+<area shape="rect" id="node45" href="$Thumb2ITBlockPass_8cpp.html" title=" " alt="" coords="5566,273,5787,315"/>
+<area shape="rect" id="node46" href="$Thumb2SizeReduction_8cpp.html" title=" " alt="" coords="6282,273,6482,315"/>
+<area shape="rect" id="node47" href="$ThumbRegisterInfo_8cpp.html" title=" " alt="" coords="7060,184,7279,225"/>
+<area shape="rect" id="node49" href="$Thumb1InstrInfo_8h.html" title=" " alt="" coords="7303,184,7506,225"/>
+<area shape="rect" id="node50" href="$Thumb2InstrInfo_8h.html" title=" " alt="" coords="6631,184,6834,225"/>
+</map>

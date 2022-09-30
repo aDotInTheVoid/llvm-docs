@@ -1,0 +1,20 @@
+<map id="llvm::LiveInterval::SubRange" name="llvm::LiveInterval::SubRange">
+<area shape="rect" id="node1" title="A live range for subregisters." alt="" coords="2673,267,2809,309"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LiveRange.html" title="This class represents the liveness of a register, stack slot, etc." alt="" coords="2497,185,2624,212"/>
+<area shape="rect" id="node3" title=" " alt="" coords="2167,163,2367,189"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="2193,214,2341,255"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1590,80,1794,107"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1861,186,2009,227"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="2193,97,2341,138"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1152,73,1349,114"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD." alt="" coords="772,31,969,73"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="551,24,723,80"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorBase.html" title="This is all the stuff common to all SmallVectors." alt="" coords="179,31,348,73"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,13,69,40"/>
+<area shape="rect" id="node11" title=" " alt="" coords="7,64,68,91"/>
+<area shape="rect" id="node12" href="$classbool.html" title=" " alt="" coords="845,97,896,124"/>
+<area shape="rect" id="node13" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="1157,218,1344,259"/>
+<area shape="rect" id="node16" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="1572,181,1812,237"/>
+<area shape="rect" id="node14" title=" " alt="" coords="845,265,896,292"/>
+<area shape="rect" id="node18" href="$structllvm_1_1LaneBitmask.html" title=" " alt="" coords="1389,303,1533,329"/>
+</map>

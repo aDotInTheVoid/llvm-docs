@@ -1,0 +1,72 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,1645,255,1715"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCRegisterInfo_1_1mc__difflist__iterator.html" title=" " alt="" coords="397,5,587,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCRegisterInfo_1_1mc__difflist__iterator.html" title=" " alt="" coords="403,85,581,141"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MIBundleOperandIteratorBase.html" title=" " alt="" coords="381,166,603,207"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MIBundleOperandIteratorBase.html" title=" " alt="" coords="375,231,609,273"/>
+<area shape="rect" id="node10" href="$classllvm_1_1StringMapIterBase.html" title=" " alt="" coords="372,297,612,353"/>
+<area shape="rect" id="node12" href="$classllvm_1_1StringMapIterBase.html" title=" " alt="" coords="367,378,617,449"/>
+<area shape="rect" id="node14" href="$classllvm_1_1concat__iterator.html" title=" " alt="" coords="399,473,585,543"/>
+<area shape="rect" id="node15" href="$structllvm_1_1detail_1_1zip__common.html" title=" " alt="" coords="399,568,585,624"/>
+<area shape="rect" id="node17" href="$structllvm_1_1detail_1_1zip__common.html" title=" " alt="" coords="399,648,585,704"/>
+<area shape="rect" id="node19" href="$classllvm_1_1indexed__accessor__iterator.html" title=" " alt="" coords="395,728,589,784"/>
+<area shape="rect" id="node21" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="383,808,601,893"/>
+<area shape="rect" id="node23" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="303,918,681,1047"/>
+<area shape="rect" id="node24" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="361,1072,623,1157"/>
+<area shape="rect" id="node26" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="391,1182,593,1253"/>
+<area shape="rect" id="node28" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="391,1277,593,1347"/>
+<area shape="rect" id="node30" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="369,1371,615,1442"/>
+<area shape="rect" id="node32" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="371,1466,613,1566"/>
+<area shape="rect" id="node34" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="402,1590,582,1661"/>
+<area shape="rect" id="node36" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="377,1685,607,1785"/>
+<area shape="rect" id="node39" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="385,1809,599,1895"/>
+<area shape="rect" id="node40" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="352,1919,632,2063"/>
+<area shape="rect" id="node42" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="381,2087,603,2187"/>
+<area shape="rect" id="node44" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="407,2212,577,2297"/>
+<area shape="rect" id="node46" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="361,2321,623,2377"/>
+<area shape="rect" id="node48" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="385,2401,599,2487"/>
+<area shape="rect" id="node50" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="373,2511,611,2611"/>
+<area shape="rect" id="node52" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="325,2636,659,2839"/>
+<area shape="rect" id="node54" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="361,2863,623,2993"/>
+<area shape="rect" id="node56" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="389,3017,595,3073"/>
+<area shape="rect" id="node58" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="383,3098,601,3198"/>
+<area shape="rect" id="node60" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="386,3223,598,3308"/>
+<area shape="rect" id="node62" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="376,3333,608,3433"/>
+<area shape="rect" id="node64" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="375,3457,609,3557"/>
+<area shape="rect" id="node66" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="347,3581,637,3681"/>
+<area shape="rect" id="node69" href="$classllvm_1_1memoryaccess__def__iterator__base.html" title=" " alt="" coords="413,3705,571,3761"/>
+<area shape="rect" id="node70" href="$structllvm_1_1detail_1_1zip__common.html" title=" " alt="" coords="399,3786,585,3827"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCRegisterInfo_1_1mc__superreg__iterator.html" title="Forward iterator over all super&#45;registers." alt="" coords="762,13,931,54"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MCRegisterInfo_1_1mc__subreg__iterator.html" title="Forward iterator over all sub&#45;registers." alt="" coords="767,93,926,134"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MIBundleOperands.html" title="MIBundleOperands &#45; Iterate over all operands in a bundle of machine instructions." alt="" coords="755,173,938,200"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ConstMIBundleOperands.html" title="ConstMIBundleOperands &#45; Iterate over all operands in a const bundle of machine instructions." alt="" coords="737,239,956,265"/>
+<area shape="rect" id="node11" href="$classllvm_1_1StringMapIterator.html" title=" " alt="" coords="760,305,933,346"/>
+<area shape="rect" id="node13" href="$classllvm_1_1StringMapConstIterator.html" title=" " alt="" coords="741,393,952,434"/>
+<area shape="rect" id="node16" href="$classllvm_1_1detail_1_1zip__shortest.html" title=" " alt="" coords="755,575,938,617"/>
+<area shape="rect" id="node18" href="$structllvm_1_1detail_1_1zip__first.html" title=" " alt="" coords="769,650,924,691"/>
+<area shape="rect" id="node20" href="$classllvm_1_1detail_1_1indexed__accessor__range__base_1_1iterator.html" title="An iterator element of this range." alt="" coords="758,716,935,801"/>
+<area shape="rect" id="node22" href="$structllvm_1_1User_1_1value__op__iterator.html" title="Iterator for directly iterating over the operand Values." alt="" coords="769,830,925,871"/>
+<area shape="rect" id="node25" href="$classllvm_1_1StringMapKeyIterator.html" title=" " alt="" coords="748,1094,945,1135"/>
+<area shape="rect" id="node27" href="$classllvm_1_1AACallEdgeIterator.html" title="An Iterator for call edges, creates AACallEdges attributes in a lazy way." alt="" coords="755,1204,938,1231"/>
+<area shape="rect" id="node29" href="$classllvm_1_1LazyCallGraph_1_1EdgeSequence_1_1call__iterator.html" title="An iterator over specifically call edges." alt="" coords="769,1284,925,1340"/>
+<area shape="rect" id="node31" href="$structllvm_1_1GraphTraits_3_01BoUpSLP_01_5_01_4_1_1ChildIteratorType.html" title="Add the VectorizableTree to the index iterator to be able to return TreeEntry pointers." alt="" coords="732,1386,961,1427"/>
+<area shape="rect" id="node33" href="$structllvm_1_1MachO_1_1InterfaceFile_1_1const__symbol__iterator.html" title=" " alt="" coords="750,1495,943,1537"/>
+<area shape="rect" id="node35" href="$structllvm_1_1GenericCycleInfo_1_1const__toplevel__iterator.html" title=" " alt="" coords="739,1597,954,1653"/>
+<area shape="rect" id="node37" href="$structllvm_1_1BranchInst_1_1succ__op__iterator.html" title="Iterator type that casts an operand to a basic block." alt="" coords="764,1697,929,1738"/>
+<area shape="rect" id="node38" href="$structllvm_1_1IndirectBrInst_1_1succ__op__iterator.html" title="Iterator type that casts an operand to a basic block." alt="" coords="773,1762,920,1803"/>
+<area shape="rect" id="node41" href="$classllvm_1_1mapped__iterator__base.html" title="A base type of mapped iterator, that is useful for building derived iterators that do not need/want t..." alt="" coords="762,1963,931,2019"/>
+<area shape="rect" id="node43" href="$structllvm_1_1SDNode_1_1value__op__iterator.html" title="Iterator for directly iterating over the operand SDValue&#39;s." alt="" coords="769,2117,924,2158"/>
+<area shape="rect" id="node45" href="$classllvm_1_1DIEValueList_1_1value__iterator.html" title=" " alt="" coords="777,2234,917,2275"/>
+<area shape="rect" id="node47" href="$classllvm_1_1LazyCallGraph_1_1EdgeSequence_1_1iterator.html" title="An iterator used for the edges to both entry nodes and child nodes." alt="" coords="756,2329,937,2370"/>
+<area shape="rect" id="node49" href="$classllvm_1_1early__inc__iterator__impl.html" title="A pseudo&#45;iterator adaptor that is designed to implement &quot;early increment&quot; style loops." alt="" coords="745,2423,948,2465"/>
+<area shape="rect" id="node51" href="$structllvm_1_1User_1_1const__value__op__iterator.html" title=" " alt="" coords="759,2541,934,2582"/>
+<area shape="rect" id="node53" href="$classllvm_1_1mapped__iterator.html" title=" " alt="" coords="739,2717,954,2758"/>
+<area shape="rect" id="node55" href="$classllvm_1_1filter__iterator__base.html" title="An iterator adaptor that filters the elements of given inner iterators." alt="" coords="750,2900,943,2956"/>
+<area shape="rect" id="node57" href="$structllvm_1_1GenericCycle_1_1const__child__iterator.html" title=" " alt="" coords="769,3017,924,3073"/>
+<area shape="rect" id="node59" href="$structllvm_1_1ImutAVLValueIterator.html" title="Generic iterator that wraps a T::TreeTy::iterator and exposes iterator::getValue() on dereference." alt="" coords="729,3135,964,3161"/>
+<area shape="rect" id="node61" href="$classllvm_1_1DIEValueList_1_1const__value__iterator.html" title=" " alt="" coords="765,3245,928,3286"/>
+<area shape="rect" id="node63" href="$classllvm_1_1pdb_1_1GSIHashIterator.html" title="Iterator over hash records producing symbol record offsets." alt="" coords="749,3369,944,3396"/>
+<area shape="rect" id="node65" href="$classllvm_1_1LoopBodyTraits_1_1WrappedSuccIterator.html" title=" " alt="" coords="763,3486,930,3527"/>
+<area shape="rect" id="node67" href="$structllvm_1_1BranchInst_1_1const__succ__op__iterator.html" title="The const version of succ_op_iterator." alt="" coords="761,3581,932,3622"/>
+<area shape="rect" id="node68" href="$structllvm_1_1IndirectBrInst_1_1const__succ__op__iterator.html" title="The const version of succ_op_iterator." alt="" coords="757,3646,936,3687"/>
+</map>

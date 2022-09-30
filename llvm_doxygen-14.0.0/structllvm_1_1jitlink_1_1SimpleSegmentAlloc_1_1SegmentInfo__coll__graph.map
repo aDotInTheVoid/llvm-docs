@@ -1,0 +1,8 @@
+<map id="llvm::jitlink::SimpleSegmentAlloc::SegmentInfo" name="llvm::jitlink::SimpleSegmentAlloc::SegmentInfo">
+<area shape="rect" id="node1" title="Describes the segment working memory and executor address." alt="" coords="21,288,227,329"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ExecutorAddr.html" title="Represents an address in the executor process." alt="" coords="5,191,179,218"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MutableArrayRef.html" title=" " alt="" coords="203,184,373,225"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="71,95,246,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="188,5,343,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MutableArrayRef.html" title="MutableArrayRef &#45; Represent a mutable reference to an array (0 or more elements consecutively in memo..." alt="" coords="270,95,477,121"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Support/ErrorHandling.cpp" name="lib/Support/ErrorHandling.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2991,5,3203,32"/>
+<area shape="rect" id="node2" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="144,379,355,405"/>
+<area shape="rect" id="node4" href="$llvm-c_2ErrorHandling_8h.html" title=" " alt="" coords="3355,80,3523,107"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title=" " alt="" coords="1169,379,1343,405"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2672,453,2741,480"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2977,453,3042,480"/>
+<area shape="rect" id="node20" title=" " alt="" coords="526,453,575,480"/>
+<area shape="rect" id="node21" href="$Twine_8h.html" title=" " alt="" coords="2129,304,2263,331"/>
+<area shape="rect" id="node25" title=" " alt="" coords="4013,80,4163,107"/>
+<area shape="rect" id="node26" href="$Debug_8h.html" title=" " alt="" coords="3471,229,3633,256"/>
+<area shape="rect" id="node27" href="$Errc_8h.html" title=" " alt="" coords="3689,155,3836,181"/>
+<area shape="rect" id="node29" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="2363,155,2514,181"/>
+<area shape="rect" id="node37" href="$raw__ostream_8h.html" title=" " alt="" coords="1603,304,1810,331"/>
+<area shape="rect" id="node40" href="$Process_8h.html" title="Provides a library for accessing information about this process and other processes on the operating ..." alt="" coords="1147,80,1317,107"/>
+<area shape="rect" id="node45" href="$Signals_8h.html" title=" " alt="" coords="3961,155,4129,181"/>
+<area shape="rect" id="node46" href="$Threading_8h.html" title=" " alt="" coords="879,304,1065,331"/>
+<area shape="rect" id="node48" title=" " alt="" coords="480,379,544,405"/>
+<area shape="rect" id="node49" href="$WindowsError_8h.html" title=" " alt="" coords="3455,155,3665,181"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4188,80,4263,107"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title=" " alt="" coords="524,528,703,555"/>
+<area shape="rect" id="node5" href="$ExternC_8h.html" title=" " alt="" coords="3552,304,3683,331"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title=" " alt="" coords="803,453,994,480"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1757,528,1849,555"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2510,528,2570,555"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1987,453,2072,480"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1841,453,1911,480"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1616,453,1683,480"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1121,453,1207,480"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1283,453,1394,480"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1521,453,1591,480"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1707,453,1765,480"/>
+<area shape="rect" id="node19" title=" " alt="" coords="701,453,779,480"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title=" " alt="" coords="1885,379,2043,405"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3067,453,3125,480"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2340,453,2407,480"/>
+<area shape="rect" id="node28" title=" " alt="" coords="3403,379,3511,405"/>
+<area shape="rect" id="node30" href="$llvm-c_2Error_8h.html" title=" " alt="" coords="3337,229,3447,256"/>
+<area shape="rect" id="node31" href="$StringExtras_8h.html" title="This file contains some functions that are useful when dealing with strings." alt="" coords="2223,229,2401,256"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2527,229,2721,256"/>
+<area shape="rect" id="node33" href="$AlignOf_8h.html" title=" " alt="" coords="2117,379,2285,405"/>
+<area shape="rect" id="node34" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer." alt="" coords="2985,304,3151,331"/>
+<area shape="rect" id="node35" href="$Format_8h.html" title=" " alt="" coords="1886,304,2053,331"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2746,229,2809,256"/>
+<area shape="rect" id="node36" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="1469,379,1659,405"/>
+<area shape="rect" id="node38" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="670,379,823,405"/>
+<area shape="rect" id="node41" href="$AllocatorBase_8h.html" title="This file defines MallocAllocator." alt="" coords="291,453,501,480"/>
+<area shape="rect" id="node42" href="$Chrono_8h.html" title=" " alt="" coords="490,155,657,181"/>
+<area shape="rect" id="node43" href="$Program_8h.html" title=" " alt="" coords="2833,229,3009,256"/>
+<area shape="rect" id="node44" href="$BitVector_8h.html" title="This file implements the BitVector class." alt="" coords="2462,379,2618,405"/>
+<area shape="rect" id="node47" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="848,379,1043,405"/>
+</map>

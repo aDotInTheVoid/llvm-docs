@@ -1,0 +1,52 @@
+<map id="lib/Transforms/Coroutines/CoroInstr.h" name="lib/Transforms/Coroutines/CoroInstr.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1879,5,2067,47"/>
+<area shape="rect" id="node2" href="$GlobalVariable_8h.html" title=" " alt="" coords="1884,169,2063,196"/>
+<area shape="rect" id="node41" href="$IntrinsicInst_8h.html" title=" " alt="" coords="3383,95,3543,121"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title=" " alt="" coords="1703,475,1910,502"/>
+<area shape="rect" id="node3" href="$Twine_8h.html" title=" " alt="" coords="2834,475,2969,502"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2461,811,2531,837"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3494,647,3565,673"/>
+<area shape="rect" id="node16" href="$ilist__node_8h.html" title="This file defines the ilist_node class template, which is a convenient base class for creating classe..." alt="" coords="5470,475,5631,502"/>
+<area shape="rect" id="node19" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1102,393,1250,420"/>
+<area shape="rect" id="node32" href="$GlobalObject_8h.html" title=" " alt="" coords="1828,244,1996,271"/>
+<area shape="rect" id="node36" href="$Value_8h.html" title=" " alt="" coords="2340,475,2460,502"/>
+<area shape="rect" id="node39" href="$OperandTraits_8h.html" title=" " alt="" coords="4358,319,4533,345"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title=" " alt="" coords="3013,565,3187,591"/>
+<area shape="rect" id="node11" href="$StringRef_8h.html" title=" " alt="" coords="2089,565,2247,591"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1220,647,1279,673"/>
+<area shape="rect" id="node14" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="4675,647,4885,673"/>
+<area shape="rect" id="node15" title=" " alt="" coords="5203,647,5269,673"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2064,647,2131,673"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3877,647,3947,673"/>
+<area shape="rect" id="node9" title=" " alt="" coords="4261,811,4353,837"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2931,729,2991,755"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2866,647,3057,673"/>
+<area shape="rect" id="node17" href="$ilist__node__base_8h.html" title=" " alt="" coords="5577,557,5727,599"/>
+<area shape="rect" id="node18" href="$ilist__node__options_8h.html" title=" " alt="" coords="5785,721,5935,763"/>
+<area shape="rect" id="node20" href="$Types_8h.html" title=" " alt="" coords="2287,729,2403,755"/>
+<area shape="rect" id="node21" href="$ArrayRef_8h.html" title=" " alt="" coords="3956,475,4111,502"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="1563,647,1717,673"/>
+<area shape="rect" id="node24" href="$SmallString_8h.html" title="This file defines the SmallString class." alt="" coords="2585,475,2759,502"/>
+<area shape="rect" id="node25" title=" " alt="" coords="903,475,1089,502"/>
+<area shape="rect" id="node26" href="$Alignment_8h.html" title=" " alt="" coords="871,565,1059,591"/>
+<area shape="rect" id="node27" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="448,468,629,509"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1113,475,1172,502"/>
+<area shape="rect" id="node30" title=" " alt="" coords="653,475,696,502"/>
+<area shape="rect" id="node31" title=" " alt="" coords="721,475,879,502"/>
+<area shape="rect" id="node22" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="4225,565,4388,591"/>
+<area shape="rect" id="node28" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="1337,565,1527,591"/>
+<area shape="rect" id="node33" href="$GlobalValue_8h.html" title=" " alt="" coords="2604,319,2767,345"/>
+<area shape="rect" id="node34" href="$DerivedTypes_8h.html" title=" " alt="" coords="4513,393,4685,420"/>
+<area shape="rect" id="node35" href="$Casting_8h.html" title=" " alt="" coords="4969,729,5140,755"/>
+<area shape="rect" id="node37" href="$Use_8h.html" title="This defines the Use class." alt="" coords="2372,565,2481,591"/>
+<area shape="rect" id="node38" href="$CBindingWrapping_8h.html" title=" " alt="" coords="2409,647,2650,673"/>
+<area shape="rect" id="node40" href="$User_8h.html" title=" " alt="" coords="3930,393,4043,420"/>
+<area shape="rect" id="node42" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4709,244,4859,271"/>
+<area shape="rect" id="node43" href="$DebugInfoMetadata_8h.html" title=" " alt="" coords="5304,169,5517,196"/>
+<area shape="rect" id="node44" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="3512,393,3659,420"/>
+<area shape="rect" id="node45" href="$FPEnv_8h.html" title="This file contains the declarations of entities that describe floating point environment and related ..." alt="" coords="144,319,267,345"/>
+<area shape="rect" id="node46" href="$Function_8h.html" title=" " alt="" coords="2563,169,2701,196"/>
+<area shape="rect" id="node47" href="$Instructions_8h.html" title=" " alt="" coords="3687,244,3847,271"/>
+<area shape="rect" id="node48" href="$Intrinsics_8h.html" title=" " alt="" coords="1551,393,1694,420"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1703,565,1811,591"/>
+</map>

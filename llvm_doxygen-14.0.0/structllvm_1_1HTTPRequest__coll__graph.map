@@ -1,0 +1,20 @@
+<map id="llvm::HTTPRequest" name="llvm::HTTPRequest">
+<area shape="rect" id="node1" title="A stateless description of an outbound HTTP request." alt="" coords="2980,165,3127,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="2753,106,2859,133"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallString.html" title=" " alt="" coords="2733,158,2879,199"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="2281,99,2432,140"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SmallString.html" title="SmallString &#45; A SmallString is just a SmallVector with methods and accessors that make it work better..." alt="" coords="2481,158,2627,199"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="1923,116,2089,158"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1152,150,1349,191"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1590,166,1794,193"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD." alt="" coords="772,142,969,183"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="551,134,723,190"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorBase.html" title="This is all the stuff common to all SmallVectors." alt="" coords="179,142,348,183"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,124,69,150"/>
+<area shape="rect" id="node11" title=" " alt="" coords="7,174,68,201"/>
+<area shape="rect" id="node12" href="$classbool.html" title=" " alt="" coords="845,217,896,244"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small." alt="" coords="1932,51,2080,92"/>
+<area shape="rect" id="node14" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="1157,11,1344,52"/>
+<area shape="rect" id="node17" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="1572,36,1812,92"/>
+<area shape="rect" id="node15" title=" " alt="" coords="845,18,896,45"/>
+</map>

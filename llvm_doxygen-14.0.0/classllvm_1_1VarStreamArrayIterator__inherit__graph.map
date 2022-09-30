@@ -1,0 +1,5 @@
+<map id="llvm::VarStreamArrayIterator&lt; ValueType, Extractor &gt;" name="llvm::VarStreamArrayIterator&lt; ValueType, Extractor &gt;">
+<area shape="rect" id="node1" title="VarStreamArray represents an array of variable length records backed by a stream." alt="" coords="749,43,960,85"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="473,21,700,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,29,255,99"/>
+</map>

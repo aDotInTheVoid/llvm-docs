@@ -1,0 +1,5 @@
+<map id="llvm::PipelineTuningOptions" name="llvm::PipelineTuningOptions">
+<area shape="rect" id="node1" title="Tunable parameters for passes in the default pipelines." alt="" coords="32,197,235,224"/>
+<area shape="rect" id="node2" href="$classbool.html" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="195,5,277,32"/>
+</map>

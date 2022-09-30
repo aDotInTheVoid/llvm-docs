@@ -1,0 +1,5 @@
+<map id="llvm::VectorType" name="llvm::VectorType">
+<area shape="rect" id="node1" title="Base class of all SIMD vector types." alt="" coords="13,171,143,197"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="164,95,253,121"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="5,5,87,32"/>
+</map>

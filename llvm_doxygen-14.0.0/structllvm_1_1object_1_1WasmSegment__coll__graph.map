@@ -1,0 +1,15 @@
+<map id="llvm::object::WasmSegment" name="llvm::object::WasmSegment">
+<area shape="rect" id="node1" title=" " alt="" coords="5,335,211,361"/>
+<area shape="rect" id="node2" href="$structllvm_1_1wasm_1_1WasmDataSegment.html" title=" " alt="" coords="260,245,495,272"/>
+<area shape="rect" id="node3" title=" " alt="" coords="33,5,108,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1wasm_1_1WasmInitExpr.html" title=" " alt="" coords="279,133,475,159"/>
+<area shape="rect" id="node5" href="$classuint64__t.html" title=" " alt="" coords="132,5,207,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="231,5,369,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="393,5,460,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="484,5,551,32"/>
+<area shape="rect" id="node9" title=" " alt="" coords="575,5,641,32"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="525,133,715,159"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory),..." alt="" coords="665,5,820,32"/>
+<area shape="rect" id="node12" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="790,133,909,159"/>
+<area shape="rect" id="node13" href="$classsize__t.html" title=" " alt="" coords="845,5,905,32"/>
+</map>

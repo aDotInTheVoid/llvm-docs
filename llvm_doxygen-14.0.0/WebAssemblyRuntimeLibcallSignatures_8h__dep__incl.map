@@ -1,0 +1,5 @@
+<map id="lib/Target/WebAssembly/WebAssemblyRuntimeLibcallSignatures.h" name="lib/Target/WebAssembly/WebAssemblyRuntimeLibcallSignatures.h">
+<area shape="rect" id="node1" title="This file provides signature information for runtime libcalls." alt="" coords="109,5,405,47"/>
+<area shape="rect" id="node2" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="5,95,221,136"/>
+<area shape="rect" id="node3" href="$WebAssemblyRuntimeLibcallSignatures_8cpp.html" title="This file contains signature information for runtime libcalls." alt="" coords="246,95,557,136"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::AADereferenceable" name="llvm::AADereferenceable">
+<area shape="rect" id="node1" title="An abstract interface for all dereferenceable attribute." alt="" coords="828,60,1013,87"/>
+<area shape="rect" id="node7" href="$structAADereferenceableImpl.html" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— Dereferenceable Argument Attribute &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—" alt="" coords="1063,60,1240,87"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="575,38,779,109"/>
+<area shape="rect" id="node3" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute." alt="" coords="139,85,329,126"/>
+<area shape="rect" id="node4" href="$classBaseType.html" title=" " alt="" coords="5,35,89,61"/>
+<area shape="rect" id="node6" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="164,19,304,61"/>
+<area shape="rect" id="node5" href="$classStateTy.html" title=" " alt="" coords="12,93,83,120"/>
+<area shape="rect" id="node8" href="$structAADereferenceableFloating.html" title="Dereferenceable attribute for a floating value." alt="" coords="1289,60,1491,87"/>
+<area shape="rect" id="node9" href="$structAADereferenceableCallSiteArgument.html" title="Dereferenceable attribute for a call site argument." alt="" coords="1540,53,1739,94"/>
+</map>

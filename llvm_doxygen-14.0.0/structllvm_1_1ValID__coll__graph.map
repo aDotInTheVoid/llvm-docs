@@ -1,0 +1,21 @@
+<map id="llvm::ValID" name="llvm::ValID">
+<area shape="rect" id="node1" title="ValID &#45; Represents a reference of a definition of some sort with no type." alt="" coords="1432,259,1525,285"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code." alt="" coords="1091,13,1193,40"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1077,64,1207,91"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="1083,177,1201,204"/>
+<area shape="rect" id="node5" href="$classllvm_1_1User.html" title=" " alt="" coords="734,177,823,204"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="457,177,551,204"/>
+<area shape="rect" id="node7" href="$classuint64__t.html" title=" " alt="" coords="79,99,154,125"/>
+<area shape="rect" id="node17" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers." alt="" coords="457,83,551,109"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title=" " alt="" coords="76,441,157,468"/>
+<area shape="rect" id="node10" href="$structllvm_1_1APFloatBase.html" title="A self&#45;contained host&#45; and target&#45;independent arbitrary&#45;precision floating&#45;point software implementat..." alt="" coords="433,280,575,307"/>
+<area shape="rect" id="node19" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="459,455,549,481"/>
+<area shape="rect" id="node9" href="$classllvm_1_1APFloat.html" title=" " alt="" coords="724,229,833,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,225,228,252"/>
+<area shape="rect" id="node12" title=" " alt="" coords="474,229,534,256"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1025,291,1259,317"/>
+<area shape="rect" id="node14" href="$classbool.html" title=" " alt="" coords="1117,341,1167,368"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1113,395,1171,421"/>
+<area shape="rect" id="node16" href="$classllvm_1_1APSInt.html" title="An arbitrary precision integer that knows its signedness." alt="" coords="879,111,980,137"/>
+<area shape="rect" id="node18" href="$classllvm_1_1FunctionType.html" title="Class to represent function types." alt="" coords="857,451,1001,477"/>
+</map>

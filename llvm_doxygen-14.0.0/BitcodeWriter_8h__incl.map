@@ -1,0 +1,52 @@
+<map id="include/llvm/Bitcode/BitcodeWriter.h" name="include/llvm/Bitcode/BitcodeWriter.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4431,5,4585,47"/>
+<area shape="rect" id="node2" href="$StringRef_8h.html" title=" " alt="" coords="2459,333,2616,360"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4903,408,4961,435"/>
+<area shape="rect" id="node18" href="$ModuleSummaryIndex_8h.html" title="ModuleSummaryIndex.h This file contains the declarations the classes that hold the module index and s..." alt="" coords="3027,95,3258,121"/>
+<area shape="rect" id="node22" title=" " alt="" coords="4985,408,5063,435"/>
+<area shape="rect" id="node26" title=" " alt="" coords="5043,333,5106,360"/>
+<area shape="rect" id="node39" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="1943,251,2121,278"/>
+<area shape="rect" id="node44" title=" " alt="" coords="5321,169,5372,196"/>
+<area shape="rect" id="node46" href="$StringTableBuilder_8h.html" title=" " alt="" coords="2103,169,2313,196"/>
+<area shape="rect" id="node48" href="$MemoryBuffer_8h.html" title=" " alt="" coords="4401,169,4615,196"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="2424,408,2616,435"/>
+<area shape="rect" id="node4" title=" " alt="" coords="3311,483,3380,509"/>
+<area shape="rect" id="node5" title=" " alt="" coords="401,483,471,509"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2826,483,2886,509"/>
+<area shape="rect" id="node9" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="4193,408,4423,435"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1781,557,1873,584"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2894,408,3085,435"/>
+<area shape="rect" id="node13" href="$Compiler_8h.html" title=" " alt="" coords="1341,483,1520,509"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2213,408,2299,435"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1043,483,1109,509"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2357,483,2416,509"/>
+<area shape="rect" id="node6" title=" " alt="" coords="4781,483,4848,509"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4433,483,4487,509"/>
+<area shape="rect" id="node10" href="$STLForwardCompat_8h.html" title="This file contains library features backported from future STL versions." alt="" coords="3471,483,3695,509"/>
+<area shape="rect" id="node19" href="$ArrayRef_8h.html" title=" " alt="" coords="3559,251,3713,278"/>
+<area shape="rect" id="node23" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="3729,333,3892,360"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3599,333,3655,360"/>
+<area shape="rect" id="node27" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="1473,333,1639,360"/>
+<area shape="rect" id="node28" href="$MathExtras_8h.html" title=" " alt="" coords="1595,408,1789,435"/>
+<area shape="rect" id="node29" href="$SmallString_8h.html" title="This file defines the SmallString class." alt="" coords="1695,251,1868,278"/>
+<area shape="rect" id="node30" href="$StringExtras_8h.html" title="This file contains some functions that are useful when dealing with strings." alt="" coords="2927,169,3105,196"/>
+<area shape="rect" id="node32" href="$StringMap_8h.html" title="This file defines the StringMap class." alt="" coords="1285,333,1449,360"/>
+<area shape="rect" id="node34" href="$ConstantRange_8h.html" title=" " alt="" coords="3795,408,3978,435"/>
+<area shape="rect" id="node35" href="$GlobalValue_8h.html" title=" " alt="" coords="4864,169,5027,196"/>
+<area shape="rect" id="node36" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="3998,251,4130,278"/>
+<area shape="rect" id="node41" href="$ScaledNumber_8h.html" title=" " alt="" coords="3157,333,3371,360"/>
+<area shape="rect" id="node42" href="$StringSaver_8h.html" title=" " alt="" coords="2540,169,2735,196"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title=" " alt="" coords="2591,251,2798,278"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2809,169,2852,196"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title=" " alt="" coords="1905,333,2079,360"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2118,408,2189,435"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="3211,408,3365,435"/>
+<area shape="rect" id="node31" href="$Twine_8h.html" title=" " alt="" coords="3839,251,3974,278"/>
+<area shape="rect" id="node33" href="$AllocatorBase_8h.html" title="This file defines MallocAllocator." alt="" coords="701,408,912,435"/>
+<area shape="rect" id="node37" href="$Types_8h.html" title=" " alt="" coords="5189,408,5305,435"/>
+<area shape="rect" id="node38" href="$CBindingWrapping_8h.html" title=" " alt="" coords="4778,333,5019,360"/>
+<area shape="rect" id="node40" href="$Alignment_8h.html" title=" " alt="" coords="2945,333,3133,360"/>
+<area shape="rect" id="node47" href="$CachedHashString_8h.html" title="This file defines CachedHashString and CachedHashStringRef." alt="" coords="2146,251,2363,278"/>
+<area shape="rect" id="node49" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer." alt="" coords="4002,408,4169,435"/>
+<area shape="rect" id="node50" href="$MemoryBufferRef_8h.html" title=" " alt="" coords="3281,244,3484,285"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="AAReturnedValuesCallSite" name="AAReturnedValuesCallSite">
+<area shape="rect" id="node1" title="Returned values information for a call sites." alt="" coords="493,681,685,708"/>
+<area shape="rect" id="node2" href="$classAAReturnedValuesImpl.html" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— Function Return Values &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—" alt="" coords="503,605,674,632"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AAReturnedValues.html" title="An abstract attribute for the returned values of a function." alt="" coords="406,529,585,556"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="355,411,510,467"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions." alt="" coords="258,299,429,326"/>
+<area shape="rect" id="node6" href="$structllvm_1_1IRPosition.html" title="Helper to describe and deal with positions in the LLVM&#45;IR." alt="" coords="5,215,129,241"/>
+<area shape="rect" id="node7" href="$structllvm_1_1AADepGraphNode.html" title="}" alt="" coords="274,215,450,241"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="274,109,450,151"/>
+<area shape="rect" id="node9" href="$classllvm_1_1TinyPtrVector.html" title="TinyPtrVector &#45; This class is specialized for cases where there are normally 0 or 1 element in a vect..." alt="" coords="289,5,435,47"/>
+<area shape="rect" id="node10" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="453,292,593,333"/>
+<area shape="rect" id="node11" href="$classBaseType.html" title=" " alt="" coords="481,215,565,241"/>
+<area shape="rect" id="node12" title=" " alt="" coords="534,425,585,452"/>
+<area shape="rect" id="node13" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="609,529,755,556"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Target/X86/X86FloatingPoint.cpp" name="lib/Target/X86/X86FloatingPoint.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2494,5,2687,47"/>
+<area shape="rect" id="node2" href="$X86_8h.html" title=" " alt="" coords="1726,102,1785,129"/>
+<area shape="rect" id="node4" href="$X86InstrInfo_8h.html" title=" " alt="" coords="547,102,660,129"/>
+<area shape="rect" id="node6" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="368,363,578,389"/>
+<area shape="rect" id="node11" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1005,184,1192,225"/>
+<area shape="rect" id="node13" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="1050,273,1253,315"/>
+<area shape="rect" id="node19" href="$DepthFirstIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build generic depth first graph iterator." alt="" coords="2491,191,2703,218"/>
+<area shape="rect" id="node24" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="4602,281,4776,307"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="3305,191,3468,218"/>
+<area shape="rect" id="node33" title=" " alt="" coords="4873,363,4958,389"/>
+<area shape="rect" id="node35" href="$SmallSet_8h.html" title="This file defines the SmallSet class." alt="" coords="4072,102,4228,129"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title=" " alt="" coords="3586,281,3760,307"/>
+<area shape="rect" id="node37" href="$Statistic_8h.html" title="This file defines the &#39;Statistic&#39; class, which is designed to be an easy way to expose various metric..." alt="" coords="1415,102,1566,129"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1267,191,1452,218"/>
+<area shape="rect" id="node39" href="$EdgeBundles_8h.html" title=" " alt="" coords="4878,102,5092,129"/>
+<area shape="rect" id="node40" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="5106,184,5334,225"/>
+<area shape="rect" id="node41" href="$LivePhysRegs_8h.html" title="This file implements the LivePhysRegs utility for tracking liveness of physical registers." alt="" coords="755,281,975,307"/>
+<area shape="rect" id="node42" href="$MachineRegisterInfo_8h.html" title=" " alt="" coords="2628,95,2854,136"/>
+<area shape="rect" id="node43" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="1861,184,2082,225"/>
+<area shape="rect" id="node44" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="3106,191,3280,218"/>
+<area shape="rect" id="node45" href="$InlineAsm_8h.html" title=" " alt="" coords="832,191,981,218"/>
+<area shape="rect" id="node46" href="$InitializePasses_8h.html" title=" " alt="" coords="5168,102,5335,129"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title=" " alt="" coords="5360,102,5522,129"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title=" " alt="" coords="2208,191,2415,218"/>
+<area shape="rect" id="node49" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="1630,191,1836,218"/>
+<area shape="rect" id="node50" title=" " alt="" coords="5546,102,5605,129"/>
+<area shape="rect" id="node3" href="$CodeGen_8h.html" title=" " alt="" coords="1567,281,1747,307"/>
+<area shape="rect" id="node5" href="$X86BaseInfo_8h.html" title=" " alt="" coords="80,281,293,307"/>
+<area shape="rect" id="node7" href="$X86InstrFMA3Info_8h.html" title=" " alt="" coords="443,191,594,218"/>
+<area shape="rect" id="node9" href="$X86RegisterInfo_8h.html" title=" " alt="" coords="618,191,757,218"/>
+<area shape="rect" id="node10" href="$ISDOpcodes_8h.html" title=" " alt="" coords="36,191,244,218"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1480,281,1543,307"/>
+<area shape="rect" id="node18" title=" " alt="" coords="268,191,419,218"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1752,363,1818,389"/>
+<area shape="rect" id="node12" href="$None_8h.html" title="This file provides None, an enumerator for use in implicit constructors of various (usually templated..." alt="" coords="2147,363,2279,389"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1902,363,1972,389"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3814,363,3884,389"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2739,437,2799,464"/>
+<area shape="rect" id="node20" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="2356,281,2528,307"/>
+<area shape="rect" id="node21" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="2540,363,2731,389"/>
+<area shape="rect" id="node22" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="2026,281,2179,307"/>
+<area shape="rect" id="node26" title=" " alt="" coords="3250,363,3320,389"/>
+<area shape="rect" id="node23" href="$STLForwardCompat_8h.html" title="This file contains library features backported from future STL versions." alt="" coords="2857,363,3081,389"/>
+<area shape="rect" id="node25" title=" " alt="" coords="4656,363,4722,389"/>
+<area shape="rect" id="node28" href="$STLArrayExtras_8h.html" title=" " alt="" coords="3887,281,4086,307"/>
+<area shape="rect" id="node29" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="2908,281,3137,307"/>
+<area shape="rect" id="node30" href="$identity_8h.html" title=" " alt="" coords="4110,281,4257,307"/>
+<area shape="rect" id="node31" href="$iterator_8h.html" title=" " alt="" coords="3314,281,3459,307"/>
+<area shape="rect" id="node32" title=" " alt="" coords="4281,281,4476,307"/>
+<area shape="rect" id="node34" title=" " alt="" coords="4754,363,4840,389"/>
+</map>

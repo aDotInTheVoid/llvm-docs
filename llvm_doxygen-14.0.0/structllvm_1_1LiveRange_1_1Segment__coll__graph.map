@@ -1,0 +1,6 @@
+<map id="llvm::LiveRange::Segment" name="llvm::LiveRange::Segment">
+<area shape="rect" id="node1" title="This represents a simple continuous liveness interval for a value." alt="" coords="5,187,199,213"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SlotIndex.html" title="SlotIndex &#45; An opaque wrapper around machine indexes." alt="" coords="21,5,141,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1VNInfo.html" title="VNInfo &#45; Value Number Information." alt="" coords="136,96,239,123"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title=" " alt="" coords="165,5,247,32"/>
+</map>

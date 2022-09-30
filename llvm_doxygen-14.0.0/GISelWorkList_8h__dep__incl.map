@@ -1,0 +1,52 @@
+<map id="include/llvm/CodeGen/GlobalISel/GISelWorkList.h" name="include/llvm/CodeGen/GlobalISel/GISelWorkList.h">
+<area shape="rect" id="node1" title=" " alt="" coords="211,5,410,47"/>
+<area shape="rect" id="node2" href="$CSEInfo_8h.html" title="Provides analysis for continuously CSEing during GISel passes." alt="" coords="83,191,248,233"/>
+<area shape="rect" id="node5" href="$Combiner_8cpp.html" title=" " alt="" coords="337,489,508,530"/>
+<area shape="rect" id="node13" href="$Legalizer_8cpp.html" title=" " alt="" coords="1448,585,1619,627"/>
+<area shape="rect" id="node40" href="$llvm_2CodeGen_2GlobalISel_2Utils_8h.html" title=" " alt="" coords="4055,95,4220,136"/>
+<area shape="rect" id="node3" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class." alt="" coords="2859,295,3080,337"/>
+<area shape="rect" id="node39" href="$CSEInfo_8cpp.html" title=" " alt="" coords="27,295,197,337"/>
+<area shape="rect" id="node4" href="$Combiner_8h.html" title="This contains common code to drive combines." alt="" coords="2356,392,2527,433"/>
+<area shape="rect" id="node6" href="$CombinerHelper_8cpp.html" title=" " alt="" coords="2048,489,2219,530"/>
+<area shape="rect" id="node7" href="$AArch64O0PreLegalizerCombiner_8cpp.html" title=" " alt="" coords="3003,481,3219,537"/>
+<area shape="rect" id="node8" href="$AArch64PostLegalizerCombiner_8cpp.html" title="Post&#45;legalization combines on generic MachineInstrs." alt="" coords="1819,481,2024,537"/>
+<area shape="rect" id="node9" href="$AArch64PostLegalizerLowering_8cpp.html" title="Post&#45;legalization lowering for instructions." alt="" coords="3784,481,3989,537"/>
+<area shape="rect" id="node10" href="$AArch64PreLegalizerCombiner_8cpp.html" title=" " alt="" coords="2779,481,2978,537"/>
+<area shape="rect" id="node11" href="$CSEMIRBuilder_8h.html" title="This file implements a version of MachineIRBuilder which CSEs insts within a MachineBasicBlock." alt="" coords="475,392,677,433"/>
+<area shape="rect" id="node14" href="$LegalizationArtifactCombiner_8h.html" title=" " alt="" coords="1571,481,1794,537"/>
+<area shape="rect" id="node15" href="$Legalizer_8h.html" title=" " alt="" coords="1602,392,1769,433"/>
+<area shape="rect" id="node16" href="$LegalizerHelper_8h.html" title=" " alt="" coords="2551,392,2761,433"/>
+<area shape="rect" id="node18" href="$AArch64LegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AArch64." alt="" coords="3531,489,3760,530"/>
+<area shape="rect" id="node19" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU." alt="" coords="2488,489,2755,530"/>
+<area shape="rect" id="node20" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU." alt="" coords="3243,489,3506,530"/>
+<area shape="rect" id="node21" href="$LoadStoreOpt_8h.html" title=" " alt="" coords="905,392,1101,433"/>
+<area shape="rect" id="node23" href="$Localizer_8h.html" title=" " alt="" coords="2887,392,3052,433"/>
+<area shape="rect" id="node24" href="$RegBankSelect_8h.html" title="This file describes the interface of the MachineFunctionPass responsible for assigning the generic vi..." alt="" coords="1371,392,1578,433"/>
+<area shape="rect" id="node26" href="$CallLowering_8cpp.html" title="This file implements some simple delegations needed for call lowering." alt="" coords="1176,392,1347,433"/>
+<area shape="rect" id="node27" href="$InlineAsmLowering_8cpp.html" title="This file implements the lowering from LLVM IR inline asm to MIR INLINEASM." alt="" coords="3967,392,4145,433"/>
+<area shape="rect" id="node28" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class." alt="" coords="5228,392,5399,433"/>
+<area shape="rect" id="node29" href="$MachineIRBuilder_8cpp.html" title="This file implements the MachineIRBuidler class." alt="" coords="5033,392,5204,433"/>
+<area shape="rect" id="node30" href="$CodeGen_2GlobalISel_2Utils_8cpp.html" title=" " alt="" coords="4379,489,4549,530"/>
+<area shape="rect" id="node31" href="$AArch64CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="4220,392,4449,433"/>
+<area shape="rect" id="node32" href="$AArch64GlobalISelUtils_8h.html" title=" " alt="" coords="3665,392,3892,433"/>
+<area shape="rect" id="node34" href="$AArch64InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AArch64." alt="" coords="4827,489,5093,530"/>
+<area shape="rect" id="node35" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="2098,392,2331,433"/>
+<area shape="rect" id="node36" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU." alt="" coords="4013,489,4291,530"/>
+<area shape="rect" id="node37" href="$ARMCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="4473,399,4735,426"/>
+<area shape="rect" id="node38" href="$X86CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="4759,399,5009,426"/>
+<area shape="rect" id="node12" href="$CSEMIRBuilder_8cpp.html" title="This file implements the CSEMIRBuilder class which CSEs as it builds instructions." alt="" coords="625,489,796,530"/>
+<area shape="rect" id="node17" href="$LegalizerHelper_8cpp.html" title=" " alt="" coords="2243,489,2413,530"/>
+<area shape="rect" id="node22" href="$LoadStoreOpt_8cpp.html" title="This file implements the LoadStoreOpt optimization pass." alt="" coords="1015,489,1185,530"/>
+<area shape="rect" id="node25" href="$RegBankSelect_8cpp.html" title="This file implements the RegBankSelect class." alt="" coords="820,489,991,530"/>
+<area shape="rect" id="node33" href="$AArch64GlobalISelUtils_8cpp.html" title=" " alt="" coords="5245,489,5486,530"/>
+<area shape="rect" id="node41" href="$InstructionSelector_8h.html" title=" " alt="" coords="6280,191,6509,233"/>
+<area shape="rect" id="node42" href="$InstructionSelectorImpl_8h.html" title=" " alt="" coords="5719,288,5937,344"/>
+<area shape="rect" id="node43" href="$X86InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for X86." alt="" coords="5626,392,5835,433"/>
+<area shape="rect" id="node44" href="$InstructionSelect_8cpp.html" title="This file implements the InstructionSelect class." alt="" coords="6012,295,6183,337"/>
+<area shape="rect" id="node45" href="$InstructionSelector_8cpp.html" title="This file implements the InstructionSelector class." alt="" coords="6207,295,6382,337"/>
+<area shape="rect" id="node46" href="$MIPatternMatch_8h.html" title="Contains matchers for matching SSA Machine Instructions." alt="" coords="3127,392,3337,433"/>
+<area shape="rect" id="node47" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="5035,191,5202,233"/>
+<area shape="rect" id="node48" href="$GISelKnownBits_8cpp.html" title=" " alt="" coords="5509,191,5680,233"/>
+<area shape="rect" id="node49" href="$AArch64PostSelectOptimize_8cpp.html" title=" " alt="" coords="5704,191,5976,233"/>
+<area shape="rect" id="node50" href="$AArch64RegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AArch64." alt="" coords="6000,184,6205,240"/>
+</map>

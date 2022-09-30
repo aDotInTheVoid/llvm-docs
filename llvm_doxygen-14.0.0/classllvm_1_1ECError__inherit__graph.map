@@ -1,0 +1,10 @@
+<map id="llvm::ECError" name="llvm::ECError">
+<area shape="rect" id="node1" title="This class wraps a std::error_code in a Error." alt="" coords="749,46,856,73"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="905,5,1112,47"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="914,71,1103,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="507,46,700,73"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="5,51,152,78"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="201,73,376,115"/>
+<area shape="rect" id="node6" href="$classllvm_1_1object_1_1BinaryError.html" title="Base class for all errors indicating malformed binary files." alt="" coords="1162,13,1342,39"/>
+<area shape="rect" id="node8" href="$classllvm_1_1windows__manifest_1_1WindowsManifestError.html" title=" " alt="" coords="1161,71,1343,112"/>
+</map>

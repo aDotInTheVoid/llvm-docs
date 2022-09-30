@@ -1,0 +1,9 @@
+<map id="llvm::FunctionImporter::ImportFailureInfo" name="llvm::FunctionImporter::ImportFailureInfo">
+<area shape="rect" id="node1" title="Information optionally tracked for candidates the importer decided not to import." alt="" coords="199,347,370,388"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,257,161,284"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="185,257,267,284"/>
+<area shape="rect" id="node4" title=" " alt="" coords="291,257,396,284"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ValueInfo.html" title="Struct that holds a reference to a particular GUID in a global value summary." alt="" coords="421,257,541,284"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title=" " alt="" coords="358,139,603,195"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer." alt="" coords="389,5,572,61"/>
+</map>

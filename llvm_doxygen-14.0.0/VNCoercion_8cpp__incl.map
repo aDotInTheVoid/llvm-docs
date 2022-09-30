@@ -1,0 +1,52 @@
+<map id="lib/Transforms/Utils/VNCoercion.cpp" name="lib/Transforms/Utils/VNCoercion.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3647,5,3795,47"/>
+<area shape="rect" id="node2" href="$VNCoercion_8h.html" title=" " alt="" coords="3213,95,3374,136"/>
+<area shape="rect" id="node3" href="$ConstantFolding_8h.html" title=" " alt="" coords="3398,102,3629,129"/>
+<area shape="rect" id="node4" href="$ValueTracking_8h.html" title=" " alt="" coords="917,184,1133,211"/>
+<area shape="rect" id="node40" href="$IRBuilder_8h.html" title=" " alt="" coords="3705,102,3847,129"/>
+<area shape="rect" id="node49" href="$IntrinsicInst_8h.html" title=" " alt="" coords="5576,102,5736,129"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title=" " alt="" coords="5760,102,5923,129"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title=" " alt="" coords="1795,557,1949,584"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5095,856,5164,883"/>
+<area shape="rect" id="node16" href="$Optional_8h.html" title="This file provides Optional, a template class modeled in the spirit of OCaml&#39;s &#39;opt&#39; variant." alt="" coords="739,707,893,733"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4351,707,4417,733"/>
+<area shape="rect" id="node19" href="$SmallSet_8h.html" title="This file defines the SmallSet class." alt="" coords="1057,557,1213,584"/>
+<area shape="rect" id="node20" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="1988,333,2137,360"/>
+<area shape="rect" id="node29" href="$DataLayout_8h.html" title=" " alt="" coords="2734,333,2893,360"/>
+<area shape="rect" id="node30" href="$InstrTypes_8h.html" title=" " alt="" coords="3273,259,3423,285"/>
+<area shape="rect" id="node38" href="$Intrinsics_8h.html" title=" " alt="" coords="483,333,626,360"/>
+<area shape="rect" id="node39" href="$Operator_8h.html" title=" " alt="" coords="2062,259,2202,285"/>
+<area shape="rect" id="node6" href="$Hashing_8h.html" title=" " alt="" coords="1219,781,1370,808"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1527,856,1612,883"/>
+<area shape="rect" id="node10" href="$None_8h.html" title="This file provides None, an enumerator for use in implicit constructors of various (usually templated..." alt="" coords="269,781,401,808"/>
+<area shape="rect" id="node11" href="$SmallVector_8h.html" title=" " alt="" coords="2127,632,2302,659"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title=" " alt="" coords="3339,781,3517,808"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2457,707,2527,733"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="1309,632,1472,659"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1844,632,1900,659"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1090,856,1150,883"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1209,707,1295,733"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title=" " alt="" coords="3349,632,3507,659"/>
+<area shape="rect" id="node22" href="$Constant_8h.html" title=" " alt="" coords="5390,483,5533,509"/>
+<area shape="rect" id="node23" href="$Value_8h.html" title=" " alt="" coords="6017,557,6137,584"/>
+<area shape="rect" id="node26" href="$Casting_8h.html" title=" " alt="" coords="5236,707,5407,733"/>
+<area shape="rect" id="node27" href="$DerivedTypes_8h.html" title=" " alt="" coords="3654,408,3826,435"/>
+<area shape="rect" id="node24" href="$Types_8h.html" title=" " alt="" coords="6422,707,6538,733"/>
+<area shape="rect" id="node25" href="$CBindingWrapping_8h.html" title=" " alt="" coords="5883,632,6125,659"/>
+<area shape="rect" id="node28" href="$Type_8h.html" title=" " alt="" coords="4541,483,4656,509"/>
+<area shape="rect" id="node31" href="$Twine_8h.html" title=" " alt="" coords="4129,483,4263,509"/>
+<area shape="rect" id="node32" href="$Function_8h.html" title=" " alt="" coords="4776,333,4915,360"/>
+<area shape="rect" id="node34" href="$IR_2Instruction_8h.html" title=" " alt="" coords="2886,483,3039,509"/>
+<area shape="rect" id="node37" href="$LLVMContext_8h.html" title=" " alt="" coords="5486,557,5655,584"/>
+<area shape="rect" id="node33" href="$BasicBlock_8h.html" title=" " alt="" coords="5760,408,5915,435"/>
+<area shape="rect" id="node35" href="$DebugLoc_8h.html" title=" " alt="" coords="3033,557,3181,584"/>
+<area shape="rect" id="node36" href="$AtomicOrdering_8h.html" title="Atomic ordering constants." alt="" coords="2481,557,2703,584"/>
+<area shape="rect" id="node41" href="$ConstantFolder_8h.html" title=" " alt="" coords="1595,184,1776,211"/>
+<area shape="rect" id="node42" href="$DebugInfoMetadata_8h.html" title=" " alt="" coords="2459,259,2672,285"/>
+<area shape="rect" id="node44" href="$FPEnv_8h.html" title="This file contains the declarations of entities that describe floating point environment and related ..." alt="" coords="301,184,424,211"/>
+<area shape="rect" id="node45" href="$GlobalVariable_8h.html" title=" " alt="" coords="5389,408,5568,435"/>
+<area shape="rect" id="node46" href="$Instructions_8h.html" title=" " alt="" coords="3696,184,3856,211"/>
+<area shape="rect" id="node47" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class." alt="" coords="4281,259,4413,285"/>
+<area shape="rect" id="node48" href="$ValueHandle_8h.html" title=" " alt="" coords="6673,483,6839,509"/>
+<area shape="rect" id="node43" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses." alt="" coords="4509,408,4656,435"/>
+</map>

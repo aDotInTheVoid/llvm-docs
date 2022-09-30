@@ -1,0 +1,4 @@
+<map id="llvm::orc::ExecutorProcessControl::JITDispatchInfo" name="llvm::orc::ExecutorProcessControl::JITDispatchInfo">
+<area shape="rect" id="node1" title="Contains the address of the dispatch function and context that the ORC runtime can use to call functi..." alt="" coords="5,109,199,151"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ExecutorAddr.html" title="Represents an address in the executor process." alt="" coords="15,5,189,32"/>
+</map>

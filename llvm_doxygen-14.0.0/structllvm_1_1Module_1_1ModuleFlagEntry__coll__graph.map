@@ -1,0 +1,7 @@
+<map id="llvm::Module::ModuleFlagEntry" name="llvm::Module::ModuleFlagEntry">
+<area shape="rect" id="node1" title=" " alt="" coords="64,304,255,345"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="5,139,127,165"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MDString.html" title="A single uniqued string." alt="" coords="100,215,219,241"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title=" " alt="" coords="25,5,107,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="243,215,379,241"/>
+</map>

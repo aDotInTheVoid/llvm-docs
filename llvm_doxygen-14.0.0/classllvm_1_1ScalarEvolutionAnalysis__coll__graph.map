@@ -1,0 +1,6 @@
+<map id="llvm::ScalarEvolutionAnalysis" name="llvm::ScalarEvolutionAnalysis">
+<area shape="rect" id="node1" title="Analysis pass that exposes the ScalarEvolution for a function." alt="" coords="5,291,220,317"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="9,200,217,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="33,5,182,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="129,96,304,137"/>
+</map>

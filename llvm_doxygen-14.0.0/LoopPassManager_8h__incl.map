@@ -1,0 +1,52 @@
+<map id="include/llvm/Transforms/Scalar/LoopPassManager.h" name="include/llvm/Transforms/Scalar/LoopPassManager.h">
+<area shape="rect" id="node1" title="This header provides classes for managing a pipeline of passes over loops in LLVM IR." alt="" coords="1479,5,1678,47"/>
+<area shape="rect" id="node2" href="$PriorityWorklist_8h.html" title="This file provides a priority worklist." alt="" coords="2001,587,2199,613"/>
+<area shape="rect" id="node13" title=" " alt="" coords="172,811,249,837"/>
+<area shape="rect" id="node16" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses." alt="" coords="1616,184,1816,225"/>
+<area shape="rect" id="node20" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM." alt="" coords="1321,355,1490,382"/>
+<area shape="rect" id="node30" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="442,587,659,613"/>
+<area shape="rect" id="node35" href="$LoopInfo_8h.html" title=" " alt="" coords="3447,191,3630,218"/>
+<area shape="rect" id="node41" href="$LoopNestAnalysis_8h.html" title="This file defines the interface for the loop nest analysis." alt="" coords="1715,102,1957,129"/>
+<area shape="rect" id="node42" href="$Dominators_8h.html" title=" " alt="" coords="4009,273,4169,300"/>
+<area shape="rect" id="node48" href="$LCSSA_8h.html" title=" " alt="" coords="1379,184,1541,225"/>
+<area shape="rect" id="node49" href="$LoopSimplify_8h.html" title=" " alt="" coords="1142,184,1303,225"/>
+<area shape="rect" id="node50" href="$LoopUtils_8h.html" title=" " alt="" coords="2641,95,2802,136"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="4035,661,4202,688"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2552,811,2621,837"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3261,811,3331,837"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title=" " alt="" coords="4081,811,4260,837"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1629,811,1699,837"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1014,811,1106,837"/>
+<area shape="rect" id="node12" href="$STLExtras_8h.html" title="This file contains some templates that are useful if you are working with the STL at all." alt="" coords="1643,736,1805,763"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title=" " alt="" coords="2323,736,2498,763"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1881,736,1943,763"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="3840,736,4032,763"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4571,811,4631,837"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5320,811,5405,837"/>
+<area shape="rect" id="node17" href="$PostOrderIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build a generic graph post order iterator." alt="" coords="3113,661,3322,688"/>
+<area shape="rect" id="node18" href="$GraphTraits_8h.html" title="This file defines the little GraphTraits&lt;X&gt; template class that should be specialized by classes that..." alt="" coords="5553,736,5725,763"/>
+<area shape="rect" id="node19" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="4209,736,4383,763"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title=" " alt="" coords="3701,661,3859,688"/>
+<area shape="rect" id="node22" href="$TinyPtrVector_8h.html" title=" " alt="" coords="1667,587,1851,613"/>
+<area shape="rect" id="node25" href="$Function_8h.html" title=" " alt="" coords="2731,437,2869,464"/>
+<area shape="rect" id="node23" href="$ArrayRef_8h.html" title=" " alt="" coords="2376,661,2531,688"/>
+<area shape="rect" id="node24" href="$Hashing_8h.html" title=" " alt="" coords="5123,736,5274,763"/>
+<area shape="rect" id="node26" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="3720,587,3880,613"/>
+<area shape="rect" id="node27" href="$Twine_8h.html" title=" " alt="" coords="2579,587,2714,613"/>
+<area shape="rect" id="node28" href="$BasicBlock_8h.html" title=" " alt="" coords="2832,512,2987,539"/>
+<area shape="rect" id="node29" href="$IR_2Instruction_8h.html" title=" " alt="" coords="3214,587,3367,613"/>
+<area shape="rect" id="node31" href="$Any_8h.html" title="This file provides Any, a non&#45;template class modeled in the spirit of std::any." alt="" coords="458,736,579,763"/>
+<area shape="rect" id="node32" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="296,661,491,688"/>
+<area shape="rect" id="node34" href="$StringMap_8h.html" title="This file defines the StringMap class." alt="" coords="617,661,781,688"/>
+<area shape="rect" id="node33" href="$PointerIntPair_8h.html" title="This file defines the PointerIntPair class." alt="" coords="4560,736,4744,763"/>
+<area shape="rect" id="node36" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="2969,355,3079,382"/>
+<area shape="rect" id="node37" href="$Instructions_8h.html" title=" " alt="" coords="2829,273,2989,300"/>
+<area shape="rect" id="node39" href="$Pass_8h.html" title=" " alt="" coords="3728,355,3824,382"/>
+<area shape="rect" id="node40" href="$Allocator_8h.html" title="This file defines the BumpPtrAllocator interface." alt="" coords="3448,661,3627,688"/>
+<area shape="rect" id="node38" href="$Use_8h.html" title="This defines the Use class." alt="" coords="4760,355,4869,382"/>
+<area shape="rect" id="node43" href="$DepthFirstIterator_8h.html" title="This file builds on the ADT/GraphTraits.h file to build generic depth first graph iterator." alt="" coords="4481,661,4693,688"/>
+<area shape="rect" id="node44" href="$CFGDiff_8h.html" title=" " alt="" coords="4632,512,4803,539"/>
+<area shape="rect" id="node45" href="$CFGUpdate_8h.html" title=" " alt="" coords="4632,587,4827,613"/>
+<area shape="rect" id="node46" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph." alt="" coords="4152,437,4381,464"/>
+<area shape="rect" id="node47" href="$GenericDomTreeConstruction_8h.html" title="Generic dominator tree construction &#45; this file provides routines to construct immediate dominator in..." alt="" coords="4203,348,4421,389"/>
+</map>

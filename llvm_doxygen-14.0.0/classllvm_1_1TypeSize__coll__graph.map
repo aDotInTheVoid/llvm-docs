@@ -1,0 +1,9 @@
+<map id="llvm::TypeSize" name="llvm::TypeSize">
+<area shape="rect" id="node1" title=" " alt="" coords="173,380,289,407"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="154,289,309,331"/>
+<area shape="rect" id="node3" href="$classllvm_1_1UnivariateLinearPolyBase.html" title="UnivariateLinearPolyBase is a base class for ElementCount and TypeSize." alt="" coords="129,95,323,136"/>
+<area shape="rect" id="node7" href="$classllvm_1_1LinearPolySize.html" title="LinearPolySize is a base class to represent sizes." alt="" coords="247,185,402,227"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="188,5,264,32"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title=" " alt="" coords="288,5,369,32"/>
+</map>

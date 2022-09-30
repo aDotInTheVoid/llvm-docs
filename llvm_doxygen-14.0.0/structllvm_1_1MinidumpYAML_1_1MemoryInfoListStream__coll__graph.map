@@ -1,0 +1,7 @@
+<map id="llvm::MinidumpYAML::MemoryInfoListStream" name="llvm::MinidumpYAML::MemoryInfoListStream">
+<area shape="rect" id="node1" title="A structure containing the list of MemoryInfo entries comprising a MemoryInfoList stream." alt="" coords="133,199,312,240"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams." alt="" coords="46,95,205,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="129,5,266,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="229,95,411,136"/>
+</map>

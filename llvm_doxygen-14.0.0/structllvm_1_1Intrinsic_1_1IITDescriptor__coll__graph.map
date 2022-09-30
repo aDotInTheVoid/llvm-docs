@@ -1,0 +1,12 @@
+<map id="llvm::Intrinsic::IITDescriptor" name="llvm::Intrinsic::IITDescriptor">
+<area shape="rect" id="node1" title="This is a type descriptor which explains the type requirements of an intrinsic." alt="" coords="193,528,395,555"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,439,140,465"/>
+<area shape="rect" id="node3" title=" " alt="" coords="165,439,303,465"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ElementCount.html" title=" " alt="" coords="328,439,479,465"/>
+<area shape="rect" id="node5" href="$classllvm_1_1LinearPolySize.html" title=" " alt="" coords="294,348,449,389"/>
+<area shape="rect" id="node6" href="$classllvm_1_1UnivariateLinearPolyBase.html" title="UnivariateLinearPolyBase is a base class for ElementCount and TypeSize." alt="" coords="239,95,434,136"/>
+<area shape="rect" id="node10" href="$classllvm_1_1LinearPolySize.html" title="LinearPolySize is a base class to represent sizes." alt="" coords="315,185,470,227"/>
+<area shape="rect" id="node7" title=" " alt="" coords="116,5,275,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="299,5,375,32"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title=" " alt="" coords="443,5,524,32"/>
+</map>

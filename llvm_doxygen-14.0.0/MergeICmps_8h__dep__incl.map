@@ -1,0 +1,7 @@
+<map id="include/llvm/Transforms/Scalar/MergeICmps.h" name="include/llvm/Transforms/Scalar/MergeICmps.h">
+<area shape="rect" id="node1" title=" " alt="" coords="254,5,433,47"/>
+<area shape="rect" id="node2" href="$CodeGenPassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations,..." alt="" coords="53,95,223,136"/>
+<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="248,102,439,129"/>
+<area shape="rect" id="node5" href="$MergeICmps_8cpp.html" title=" " alt="" coords="463,95,621,136"/>
+<area shape="rect" id="node3" href="$CodeGenPassBuilder_8cpp.html" title=" " alt="" coords="5,184,271,211"/>
+</map>

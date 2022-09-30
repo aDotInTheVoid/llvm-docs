@@ -1,0 +1,6 @@
+<map id="llvm::TypeSwitch&lt; T, ResultT &gt;" name="llvm::TypeSwitch&lt; T, ResultT &gt;">
+<area shape="rect" id="node1" title="This class implements a switch&#45;like dispatch statement for a value of &#39;T&#39; using dyn_cast functionalit..." alt="" coords="27,319,185,360"/>
+<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1TypeSwitchBase.html" title=" " alt="" coords="5,213,207,269"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1TypeSwitchBase.html" title=" " alt="" coords="17,95,195,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="87,5,125,32"/>
+</map>

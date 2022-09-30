@@ -1,0 +1,52 @@
+<map id="lib/Target/Hexagon/HexagonTargetObjectFile.h" name="lib/Target/Hexagon/HexagonTargetObjectFile.h">
+<area shape="rect" id="node1" title=" " alt="" coords="973,5,1174,47"/>
+<area shape="rect" id="node2" href="$TargetLoweringObjectFileImpl_8h.html" title=" " alt="" coords="891,95,1109,136"/>
+<area shape="rect" id="node46" href="$MCSectionELF_8h.html" title=" " alt="" coords="3269,191,3451,218"/>
+<area shape="rect" id="node3" href="$SmallPtrSet_8h.html" title="This file defines the SmallPtrSet class." alt="" coords="1334,423,1509,449"/>
+<area shape="rect" id="node22" href="$XCOFF_8h.html" title=" " alt="" coords="5,191,205,218"/>
+<area shape="rect" id="node24" href="$TargetLoweringObjectFile_8h.html" title=" " alt="" coords="1319,184,1518,225"/>
+<area shape="rect" id="node4" href="$EpochTracker_8h.html" title="This file defines the DebugEpochBase and DebugEpochBase::HandleBase classes." alt="" coords="453,497,635,524"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title=" " alt="" coords="840,661,1019,688"/>
+<area shape="rect" id="node10" href="$ReverseIteration_8h.html" title=" " alt="" coords="711,497,940,524"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3168,661,3237,688"/>
+<area shape="rect" id="node15" href="$type__traits_8h.html" title=" " alt="" coords="1375,579,1566,606"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3262,661,3322,688"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2137,661,2207,688"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1743,579,1809,606"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1884,579,1951,606"/>
+<area shape="rect" id="node20" title=" " alt="" coords="679,579,790,606"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3594,579,3665,606"/>
+<area shape="rect" id="node5" title=" " alt="" coords="460,579,655,606"/>
+<area shape="rect" id="node6" title=" " alt="" coords="749,661,816,688"/>
+<area shape="rect" id="node8" title=" " alt="" coords="837,736,1022,763"/>
+<area shape="rect" id="node9" title=" " alt="" coords="435,736,509,763"/>
+<area shape="rect" id="node11" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="1068,572,1249,613"/>
+<area shape="rect" id="node12" href="$llvm_2Support_2DataTypes_8h.html" title=" " alt="" coords="1167,661,1356,688"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1722,661,1814,688"/>
+<area shape="rect" id="node23" title=" " alt="" coords="134,273,205,300"/>
+<area shape="rect" id="node25" href="$MCObjectFileInfo_8h.html" title=" " alt="" coords="1736,273,1939,300"/>
+<area shape="rect" id="node45" href="$MCRegister_8h.html" title=" " alt="" coords="2199,423,2366,449"/>
+<area shape="rect" id="node26" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="1606,423,1773,449"/>
+<area shape="rect" id="node30" href="$Triple_8h.html" title=" " alt="" coords="1875,348,2008,375"/>
+<area shape="rect" id="node31" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[...." alt="" coords="1947,423,2149,449"/>
+<area shape="rect" id="node34" href="$Swift_8h.html" title=" " alt="" coords="1609,348,1799,375"/>
+<area shape="rect" id="node35" href="$MCSymbol_8h.html" title=" " alt="" coords="2083,348,2245,375"/>
+<area shape="rect" id="node44" href="$CodeGen_8h.html" title=" " alt="" coords="1405,348,1585,375"/>
+<area shape="rect" id="node27" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="2076,579,2268,606"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2577,579,2663,606"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1043,661,1098,688"/>
+<area shape="rect" id="node32" href="$Hashing_8h.html" title=" " alt="" coords="2089,497,2239,524"/>
+<area shape="rect" id="node33" title=" " alt="" coords="3460,579,3519,606"/>
+<area shape="rect" id="node36" href="$PointerIntPair_8h.html" title="This file defines the PointerIntPair class." alt="" coords="1065,497,1249,524"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title=" " alt="" coords="2697,497,2855,524"/>
+<area shape="rect" id="node41" href="$MCFragment_8h.html" title=" " alt="" coords="2689,423,2863,449"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2495,579,2553,606"/>
+<area shape="rect" id="node39" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="2737,579,2967,606"/>
+<area shape="rect" id="node40" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="3245,579,3435,606"/>
+<area shape="rect" id="node42" href="$SmallVector_8h.html" title=" " alt="" coords="2317,497,2491,524"/>
+<area shape="rect" id="node43" href="$Alignment_8h.html" title=" " alt="" coords="3557,497,3745,524"/>
+<area shape="rect" id="node47" href="$MCSection_8h.html" title=" " alt="" coords="3750,348,3911,375"/>
+<area shape="rect" id="node49" href="$SectionKind_8h.html" title=" " alt="" coords="4247,423,4417,449"/>
+<area shape="rect" id="node50" href="$MCSymbolELF_8h.html" title=" " alt="" coords="2918,273,3101,300"/>
+<area shape="rect" id="node48" href="$ilist_8h.html" title="This file defines classes to implement an intrusive doubly linked list class (i.e." alt="" coords="3769,497,3892,524"/>
+</map>

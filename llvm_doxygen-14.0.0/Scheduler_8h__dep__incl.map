@@ -1,0 +1,10 @@
+<map id="include/llvm/MCA/HardwareUnits/Scheduler.h" name="include/llvm/MCA/HardwareUnits/Scheduler.h">
+<area shape="rect" id="node1" title="A scheduler for Processor Resource Units and Processor Resource Groups." alt="" coords="387,5,589,47"/>
+<area shape="rect" id="node2" href="$ExecuteStage_8h.html" title="This file defines the execution stage of a default instruction pipeline." alt="" coords="188,95,372,136"/>
+<area shape="rect" id="node3" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units." alt="" coords="5,191,160,218"/>
+<area shape="rect" id="node5" href="$InstructionTables_8h.html" title="This file implements a custom stage to generate instruction tables." alt="" coords="396,95,580,136"/>
+<area shape="rect" id="node7" href="$Scheduler_8cpp.html" title=" " alt="" coords="604,95,777,136"/>
+<area shape="rect" id="node8" href="$DispatchStage_8cpp.html" title="This file models the dispatch component of an instruction pipeline." alt="" coords="801,102,1047,129"/>
+<area shape="rect" id="node4" href="$ExecuteStage_8cpp.html" title="This file defines the execution stage of an instruction pipeline." alt="" coords="185,191,423,218"/>
+<area shape="rect" id="node6" href="$InstructionTables_8cpp.html" title="This file implements the method InstructionTables::execute()." alt="" coords="447,184,641,225"/>
+</map>

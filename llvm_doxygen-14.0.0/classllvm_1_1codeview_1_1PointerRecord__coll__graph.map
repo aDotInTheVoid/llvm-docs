@@ -1,0 +1,9 @@
+<map id="llvm::codeview::PointerRecord" name="llvm::codeview::PointerRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="763,173,981,200"/>
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="403,7,606,33"/>
+<area shape="rect" id="node3" title=" " alt="" coords="18,7,145,33"/>
+<area shape="rect" id="node4" title=" " alt="" coords="44,201,119,228"/>
+<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference." alt="" coords="407,232,602,259"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title=" " alt="" coords="385,283,624,325"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title=" " alt="" coords="5,300,157,327"/>
+</map>

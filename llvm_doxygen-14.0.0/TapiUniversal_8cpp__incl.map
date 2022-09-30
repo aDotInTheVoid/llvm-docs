@@ -1,0 +1,52 @@
+<map id="lib/Object/TapiUniversal.cpp" name="lib/Object/TapiUniversal.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2237,5,2440,32"/>
+<area shape="rect" id="node2" href="$TapiUniversal_8h.html" title=" " alt="" coords="1349,80,1550,107"/>
+<area shape="rect" id="node20" href="$StringRef_8h.html" title=" " alt="" coords="1843,692,2000,719"/>
+<area shape="rect" id="node27" href="$llvm_2Object_2Error_8h.html" title=" " alt="" coords="2887,379,3030,405"/>
+<area shape="rect" id="node40" href="$MemoryBuffer_8h.html" title=" " alt="" coords="923,528,1136,555"/>
+<area shape="rect" id="node50" href="$TextAPIReader_8h.html" title=" " alt="" coords="2582,155,2794,181"/>
+<area shape="rect" id="node3" href="$Binary_8h.html" title=" " alt="" coords="1035,304,1189,331"/>
+<area shape="rect" id="node28" href="$llvm_2Support_2Error_8h.html" title=" " alt="" coords="2774,453,2925,480"/>
+<area shape="rect" id="node43" href="$TapiFile_8h.html" title=" " alt="" coords="1368,155,1531,181"/>
+<area shape="rect" id="node45" href="$InterfaceFile_8h.html" title=" " alt="" coords="2435,610,2635,637"/>
+<area shape="rect" id="node48" href="$Architecture_8h.html" title=" " alt="" coords="11,767,210,793"/>
+<area shape="rect" id="node4" href="$Types_8h.html" title=" " alt="" coords="697,692,813,719"/>
+<area shape="rect" id="node5" href="$Triple_8h.html" title=" " alt="" coords="1211,453,1344,480"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1609,767,1695,793"/>
+<area shape="rect" id="node16" title=" " alt="" coords="701,767,779,793"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1238,841,1298,868"/>
+<area shape="rect" id="node6" href="$Twine_8h.html" title=" " alt="" coords="2225,610,2359,637"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title=" " alt="" coords="2653,692,2827,719"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3420,841,3489,868"/>
+<area shape="rect" id="node22" title=" " alt="" coords="880,841,947,868"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2777,767,2836,793"/>
+<area shape="rect" id="node26" href="$llvm_2Support_2ErrorHandling_8h.html" title=" " alt="" coords="2075,692,2285,719"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title=" " alt="" coords="2137,767,2316,793"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1947,841,2018,868"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3989,767,4054,793"/>
+<area shape="rect" id="node13" title=" " alt="" coords="3225,767,3292,793"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4078,767,4165,793"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2391,767,2449,793"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3317,767,3366,793"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2802,841,2894,868"/>
+<area shape="rect" id="node21" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="1820,767,2012,793"/>
+<area shape="rect" id="node23" href="$STLFunctionalExtras_8h.html" title=" " alt="" coords="1305,767,1535,793"/>
+<area shape="rect" id="node24" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type." alt="" coords="337,767,527,793"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3410,692,3518,719"/>
+<area shape="rect" id="node29" href="$llvm-c_2Error_8h.html" title=" " alt="" coords="3251,528,3360,555"/>
+<area shape="rect" id="node30" href="$StringExtras_8h.html" title="This file contains some functions that are useful when dealing with strings." alt="" coords="2123,528,2301,555"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1319,692,1382,719"/>
+<area shape="rect" id="node33" title=" " alt="" coords="3384,528,3579,555"/>
+<area shape="rect" id="node34" href="$AlignOf_8h.html" title=" " alt="" coords="3695,767,3863,793"/>
+<area shape="rect" id="node35" href="$Debug_8h.html" title=" " alt="" coords="2912,528,3075,555"/>
+<area shape="rect" id="node36" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer." alt="" coords="3411,610,3578,637"/>
+<area shape="rect" id="node38" href="$Format_8h.html" title=" " alt="" coords="1830,528,1997,555"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title=" " alt="" coords="2862,610,3069,637"/>
+<area shape="rect" id="node31" href="$ArrayRef_8h.html" title=" " alt="" coords="1464,610,1619,637"/>
+<area shape="rect" id="node41" href="$CBindingWrapping_8h.html" title=" " alt="" coords="793,610,1034,637"/>
+<area shape="rect" id="node42" href="$MemoryBufferRef_8h.html" title=" " alt="" coords="1693,603,1896,644"/>
+<area shape="rect" id="node44" href="$SymbolicFile_8h.html" title=" " alt="" coords="1419,229,1615,256"/>
+<area shape="rect" id="node46" href="$BitmaskEnum_8h.html" title=" " alt="" coords="2860,767,3049,793"/>
+<area shape="rect" id="node47" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="2462,692,2629,719"/>
+<area shape="rect" id="node49" title=" " alt="" coords="5,841,216,868"/>
+</map>

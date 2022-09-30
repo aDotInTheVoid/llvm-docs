@@ -1,0 +1,8 @@
+<map id="llvm::MachineFunctionPassManager" name="llvm::MachineFunctionPassManager">
+<area shape="rect" id="node1" title="MachineFunctionPassManager adds/removes below features to/from the base PassManager template instanti..." alt="" coords="1491,29,1689,70"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="1187,21,1441,77"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,27,155,69"/>
+<area shape="rect" id="node5" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="387,50,589,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PassManager.html" title="Manages a sequence of passes over a particular unit of IR." alt="" coords="691,57,897,113"/>
+<area shape="rect" id="node6" title=" " alt="" coords="383,145,593,215"/>
+</map>

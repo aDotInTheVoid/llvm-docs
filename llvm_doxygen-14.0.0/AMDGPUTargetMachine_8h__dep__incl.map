@@ -1,0 +1,21 @@
+<map id="lib/Target/AMDGPU/AMDGPUTargetMachine.h" name="lib/Target/AMDGPU/AMDGPUTargetMachine.h">
+<area shape="rect" id="node1" title="The AMDGPU TargetMachine interface definition for hw codgen targets." alt="" coords="2006,5,2254,47"/>
+<area shape="rect" id="node2" href="$AMDGPUAlwaysInlinePass_8cpp.html" title="This pass marks all internal functions as always_inline and creates duplicates of all other functions..." alt="" coords="5,95,260,136"/>
+<area shape="rect" id="node3" href="$AMDGPUArgumentUsageInfo_8cpp.html" title=" " alt="" coords="285,95,557,136"/>
+<area shape="rect" id="node4" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel." alt="" coords="581,95,815,136"/>
+<area shape="rect" id="node5" href="$AMDGPUCodeGenPrepare_8cpp.html" title="This pass does misc." alt="" coords="839,95,1080,136"/>
+<area shape="rect" id="node6" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU." alt="" coords="1105,95,1382,136"/>
+<area shape="rect" id="node7" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target." alt="" coords="1406,95,1638,136"/>
+<area shape="rect" id="node8" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU." alt="" coords="1662,95,1929,136"/>
+<area shape="rect" id="node9" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst." alt="" coords="1839,184,2093,225"/>
+<area shape="rect" id="node10" href="$AMDGPUMCInstLower_8h.html" title="Header of lower AMDGPU MachineInstrs to their corresponding MCInst." alt="" coords="2003,95,2257,136"/>
+<area shape="rect" id="node12" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget." alt="" coords="2281,102,2579,129"/>
+<area shape="rect" id="node13" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for S..." alt="" coords="2573,184,2821,225"/>
+<area shape="rect" id="node14" href="$AMDGPUTargetTransformInfo_8cpp.html" title=" " alt="" coords="2654,95,2902,136"/>
+<area shape="rect" id="node15" href="$R600TargetMachine_8cpp.html" title="The AMDGPU&#45;R600 target machine contains all of the hardware specific information needed to emit code ..." alt="" coords="3001,184,3224,225"/>
+<area shape="rect" id="node16" href="$R600TargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets." alt="" coords="2927,95,3149,136"/>
+<area shape="rect" id="node17" href="$R600TargetTransformInfo_8cpp.html" title=" " alt="" coords="3225,95,3448,136"/>
+<area shape="rect" id="node18" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI." alt="" coords="3472,95,3657,136"/>
+<area shape="rect" id="node19" href="$SIMachineFunctionInfo_8cpp.html" title=" " alt="" coords="3682,95,3898,136"/>
+<area shape="rect" id="node11" href="$R600MCInstLower_8cpp.html" title="Code to lower R600 MachineInstrs to their corresponding MCInst." alt="" coords="2117,184,2343,225"/>
+</map>

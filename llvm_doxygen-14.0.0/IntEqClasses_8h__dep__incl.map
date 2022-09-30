@@ -1,0 +1,52 @@
+<map id="include/llvm/ADT/IntEqClasses.h" name="include/llvm/ADT/IntEqClasses.h">
+<area shape="rect" id="node1" title="Equivalence classes for small integers." alt="" coords="5397,5,5629,32"/>
+<area shape="rect" id="node2" href="$EdgeBundles_8h.html" title=" " alt="" coords="537,259,702,300"/>
+<area shape="rect" id="node10" href="$LiveInterval_8h.html" title=" " alt="" coords="4599,80,4765,121"/>
+<area shape="rect" id="node32" href="$ScheduleDAGInstrs_8cpp.html" title=" " alt="" coords="8083,266,8339,293"/>
+<area shape="rect" id="node50" href="$IntEqClasses_8cpp.html" title=" " alt="" coords="6408,87,6615,114"/>
+<area shape="rect" id="node3" href="$EdgeBundles_8cpp.html" title=" " alt="" coords="223,355,439,382"/>
+<area shape="rect" id="node4" href="$RegAllocGreedy_8cpp.html" title=" " alt="" coords="1798,445,2033,471"/>
+<area shape="rect" id="node5" href="$RegAllocGreedy_8h.html" title=" " alt="" coords="2650,355,2869,382"/>
+<area shape="rect" id="node8" href="$SpillPlacement_8cpp.html" title=" " alt="" coords="463,355,693,382"/>
+<area shape="rect" id="node9" href="$X86FloatingPoint_8cpp.html" title=" " alt="" coords="5,348,199,389"/>
+<area shape="rect" id="node6" href="$MLRegallocEvictAdvisor_8cpp.html" title=" " alt="" coords="4129,437,4341,479"/>
+<area shape="rect" id="node7" href="$RegAllocEvictionAdvisor_8cpp.html" title=" " alt="" coords="3065,437,3280,479"/>
+<area shape="rect" id="node11" href="$LiveIntervals_8h.html" title=" " alt="" coords="4454,169,4619,211"/>
+<area shape="rect" id="node12" href="$CalcSpillWeights_8cpp.html" title=" " alt="" coords="3678,266,3918,293"/>
+<area shape="rect" id="node13" href="$InlineSpiller_8cpp.html" title=" " alt="" coords="3310,355,3518,382"/>
+<area shape="rect" id="node15" href="$LiveDebugVariables_8cpp.html" title=" " alt="" coords="5059,266,5321,293"/>
+<area shape="rect" id="node16" href="$LiveInterval_8cpp.html" title=" " alt="" coords="7332,266,7541,293"/>
+<area shape="rect" id="node17" href="$LiveIntervals_8cpp.html" title=" " alt="" coords="5345,266,5561,293"/>
+<area shape="rect" id="node19" href="$LiveRegMatrix_8cpp.html" title=" " alt="" coords="1314,266,1541,293"/>
+<area shape="rect" id="node23" href="$MachineScheduler_8cpp.html" title=" " alt="" coords="5585,266,5835,293"/>
+<area shape="rect" id="node24" href="$MachineVerifier_8cpp.html" title=" " alt="" coords="2641,266,2873,293"/>
+<area shape="rect" id="node25" href="$PHIElimination_8cpp.html" title=" " alt="" coords="5860,266,6088,293"/>
+<area shape="rect" id="node26" href="$RegAllocBase_8cpp.html" title=" " alt="" coords="6113,266,6334,293"/>
+<area shape="rect" id="node27" href="$RegAllocEvictionAdvisor_8h.html" title=" " alt="" coords="4284,259,4499,300"/>
+<area shape="rect" id="node28" href="$RegAllocPBQP_8cpp.html" title=" " alt="" coords="1991,266,2213,293"/>
+<area shape="rect" id="node29" href="$RegisterCoalescer_8cpp.html" title=" " alt="" coords="1717,266,1967,293"/>
+<area shape="rect" id="node30" href="$RegisterPressure_8cpp.html" title=" " alt="" coords="6358,266,6601,293"/>
+<area shape="rect" id="node31" href="$RenameIndependentSubregs_8cpp.html" title=" " alt="" coords="7566,259,7806,300"/>
+<area shape="rect" id="node33" href="$SplitKit_8h.html" title=" " alt="" coords="4044,266,4208,293"/>
+<area shape="rect" id="node34" href="$StackSlotColoring_8cpp.html" title=" " alt="" coords="2897,266,3144,293"/>
+<area shape="rect" id="node35" href="$TwoAddressInstructionPass_8cpp.html" title=" " alt="" coords="6625,259,6875,300"/>
+<area shape="rect" id="node36" href="$VirtRegMap_8cpp.html" title=" " alt="" coords="3169,266,3377,293"/>
+<area shape="rect" id="node37" href="$HexagonExpandCondsets_8cpp.html" title=" " alt="" coords="6899,259,7118,300"/>
+<area shape="rect" id="node38" href="$SystemZInstrInfo_8cpp.html" title=" " alt="" coords="7142,259,7307,300"/>
+<area shape="rect" id="node39" href="$LiveIntervalUnion_8h.html" title=" " alt="" coords="1115,169,1281,211"/>
+<area shape="rect" id="node40" href="$InterferenceCache_8h.html" title=" " alt="" coords="1055,259,1239,300"/>
+<area shape="rect" id="node41" href="$LiveIntervalUnion_8cpp.html" title=" " alt="" coords="797,259,980,300"/>
+<area shape="rect" id="node42" href="$LiveRangeCalc_8h.html" title=" " alt="" coords="6117,169,6282,211"/>
+<area shape="rect" id="node43" href="$LiveRangeCalc_8cpp.html" title=" " alt="" coords="7831,266,8059,293"/>
+<area shape="rect" id="node44" href="$LiveRangeEdit_8h.html" title=" " alt="" coords="1759,169,1925,211"/>
+<area shape="rect" id="node45" href="$LiveStacks_8h.html" title=" " alt="" coords="2674,169,2839,211"/>
+<area shape="rect" id="node46" href="$LiveIntervalCalc_8cpp.html" title=" " alt="" coords="5389,169,5572,211"/>
+<area shape="rect" id="node47" href="$LiveRangeUtils_8h.html" title="This file contains helper functions to modify live ranges." alt="" coords="5151,177,5365,203"/>
+<area shape="rect" id="node48" href="$StackColoring_8cpp.html" title=" " alt="" coords="5596,177,5819,203"/>
+<area shape="rect" id="node49" href="$TargetRegisterInfo_8cpp.html" title=" " alt="" coords="5843,169,6041,211"/>
+<area shape="rect" id="node14" href="$InterferenceCache_8cpp.html" title=" " alt="" coords="1313,348,1497,389"/>
+<area shape="rect" id="node18" href="$LiveRangeEdit_8cpp.html" title=" " alt="" coords="2289,266,2515,293"/>
+<area shape="rect" id="node20" href="$LiveStacks_8cpp.html" title=" " alt="" coords="3451,266,3654,293"/>
+<area shape="rect" id="node21" href="$MachineBasicBlock_8cpp.html" title=" " alt="" coords="4574,259,4769,300"/>
+<area shape="rect" id="node22" href="$MachinePipeliner_8cpp.html" title=" " alt="" coords="4793,266,5035,293"/>
+</map>

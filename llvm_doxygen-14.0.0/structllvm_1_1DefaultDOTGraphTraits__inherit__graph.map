@@ -1,0 +1,27 @@
+<map id="llvm::DefaultDOTGraphTraits" name="llvm::DefaultDOTGraphTraits">
+<area shape="rect" id="node1" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="5,630,215,656"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DOTGraphTraits.html" title=" " alt="" coords="755,54,916,96"/>
+<area shape="rect" id="node3" href="$structllvm_1_1BFIDOTGraphTraitsBase.html" title=" " alt="" coords="264,150,560,206"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DOTGraphTraits.html" title="DOTGraphTraits &#45; Template class that can be specialized to customize how graphs are converted to &#39;dot..." alt="" coords="331,84,493,125"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DOTGraphTraits_3_01AADepGraph_01_5_01_4.html" title=" " alt="" coords="331,230,493,272"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DOTGraphTraits_3_01AttributorCallGraph_01_5_01_4.html" title=" " alt="" coords="317,296,507,337"/>
+<area shape="rect" id="node9" href="$structllvm_1_1DOTGraphTraits_3_01BoUpSLP_01_5_01_4.html" title=" " alt="" coords="331,361,493,402"/>
+<area shape="rect" id="node10" href="$structllvm_1_1DOTGraphTraits_3_01CallGraphDOTInfo_01_5_01_4.html" title=" " alt="" coords="322,426,502,468"/>
+<area shape="rect" id="node11" href="$structllvm_1_1DOTGraphTraits_3_01DOTFuncInfo_01_5_01_4.html" title=" " alt="" coords="331,492,493,533"/>
+<area shape="rect" id="node12" href="$structllvm_1_1DOTGraphTraits_3_01DOTFuncMSSAInfo_01_5_01_4.html" title=" " alt="" coords="320,557,504,598"/>
+<area shape="rect" id="node13" href="$structllvm_1_1DOTGraphTraits_3_01DomTreeNode_01_5_01_4.html" title=" " alt="" coords="331,622,493,664"/>
+<area shape="rect" id="node16" href="$structllvm_1_1DOTGraphTraits_3_01DotCfgDiffDisplayGraph_01_5_01_4.html" title=" " alt="" coords="303,688,521,729"/>
+<area shape="rect" id="node17" href="$structllvm_1_1DOTGraphTraits_3_01MachineGadgetGraph_01_5_01_4.html" title=" " alt="" coords="310,753,514,794"/>
+<area shape="rect" id="node18" href="$structllvm_1_1DOTGraphTraits_3_01PGOUseFunc_01_5_01_4.html" title=" " alt="" coords="331,818,493,860"/>
+<area shape="rect" id="node19" href="$structllvm_1_1DOTGraphTraits_3_01RegionNode_01_5_01_4.html" title=" " alt="" coords="331,884,493,925"/>
+<area shape="rect" id="node21" href="$structllvm_1_1DOTGraphTraits_3_01ScheduleDAG_01_5_01_4.html" title=" " alt="" coords="331,949,493,990"/>
+<area shape="rect" id="node22" href="$structllvm_1_1DOTGraphTraits_3_01ScheduleDAGMI_01_5_01_4.html" title=" " alt="" coords="329,1014,495,1056"/>
+<area shape="rect" id="node23" href="$structllvm_1_1DOTGraphTraits_3_01SelectionDAG_01_5_01_4.html" title=" " alt="" coords="331,1080,493,1121"/>
+<area shape="rect" id="node24" href="$structllvm_1_1DOTGraphTraits_3_01const_01DataDependenceGraph_01_5_01_4.html" title=" " alt="" coords="285,1145,539,1186"/>
+<area shape="rect" id="node25" href="$structllvm_1_1DOTGraphTraits_3_01const_01MachineFunction_01_5_01_4.html" title=" " alt="" coords="306,1210,518,1252"/>
+<area shape="rect" id="node4" href="$structllvm_1_1DOTGraphTraits_3_01BlockFrequencyInfo_01_5_01_4.html" title=" " alt="" coords="740,138,931,180"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DOTGraphTraits_3_01MachineBlockFrequencyInfo_01_5_01_4.html" title=" " alt="" coords="712,204,959,245"/>
+<area shape="rect" id="node14" href="$structllvm_1_1DOTGraphTraits_3_01DominatorTree_01_5_01_4.html" title=" " alt="" coords="755,590,916,632"/>
+<area shape="rect" id="node15" href="$structllvm_1_1DOTGraphTraits_3_01PostDominatorTree_01_5_01_4.html" title=" " alt="" coords="742,656,929,697"/>
+<area shape="rect" id="node20" href="$structllvm_1_1DOTGraphTraits_3_01RegionInfo_01_5_01_4.html" title=" " alt="" coords="755,884,916,925"/>
+</map>

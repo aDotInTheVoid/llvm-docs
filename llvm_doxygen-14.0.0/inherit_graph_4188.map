@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1ScheduleDAG.html" title=" " alt="" coords="5,107,152,133"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGInstrs.html" title="A ScheduleDAG for scheduling lists of MachineInstr." alt="" coords="212,81,395,108"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ScheduleDAGSDNodes.html" title="ScheduleDAGSDNodes &#45; A ScheduleDAG for scheduling SDNode&#45;based DAGs." alt="" coords="200,132,407,159"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DefaultVLIWScheduler.html" title=" " alt="" coords="455,31,659,57"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ScheduleDAGMI.html" title="ScheduleDAGMI is an implementation of ScheduleDAGInstrs that simply schedules machine instructions ac..." alt="" coords="475,81,638,108"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SwingSchedulerDAG.html" title="This class builds the dependence graph for the instructions in a loop, and attempts to schedule the i..." alt="" coords="461,132,652,159"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ScheduleDAGMILive.html" title="ScheduleDAGMILive is an implementation of ScheduleDAGInstrs that schedules machine instructions while..." alt="" coords="707,81,897,108"/>
+<area shape="rect" id="node6" href="$classllvm_1_1GCNIterativeScheduler.html" title=" " alt="" coords="951,5,1158,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1GCNScheduleDAGMILive.html" title=" " alt="" coords="945,56,1164,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SIScheduleDAGMI.html" title=" " alt="" coords="967,107,1142,133"/>
+<area shape="rect" id="node9" href="$classllvm_1_1VLIWMachineScheduler.html" title="Extend the standard ScheduleDAGMILive to provide more context and override the top&#45;level schedule() d..." alt="" coords="949,157,1160,184"/>
+</map>

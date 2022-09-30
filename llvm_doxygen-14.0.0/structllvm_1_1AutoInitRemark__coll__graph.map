@@ -1,0 +1,9 @@
+<map id="llvm::AutoInitRemark" name="llvm::AutoInitRemark">
+<area shape="rect" id="node1" title="Special case for &#45;ftrivial&#45;auto&#45;var&#45;init remarks." alt="" coords="709,85,871,112"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MemoryOpRemark.html" title=" " alt="" coords="477,85,660,112"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it." alt="" coords="179,5,314,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetLibraryInfo.html" title="Provides information about what library functions are available for the current target." alt="" coords="162,56,331,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1OptimizationRemarkEmitter.html" title="The optimization diagnostic interface." alt="" coords="149,107,344,149"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e." alt="" coords="187,173,306,200"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title=" " alt="" coords="5,173,65,200"/>
+</map>

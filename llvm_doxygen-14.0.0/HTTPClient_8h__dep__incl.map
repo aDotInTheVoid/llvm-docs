@@ -1,0 +1,5 @@
+<map id="include/llvm/Debuginfod/HTTPClient.h" name="include/llvm/Debuginfod/HTTPClient.h">
+<area shape="rect" id="node1" title="This file contains the declarations of the HTTPClient, HTTPMethod, HTTPResponseHandler,..." alt="" coords="149,5,330,47"/>
+<area shape="rect" id="node2" href="$Debuginfod_8cpp.html" title="This file defines the fetchInfo function, which retrieves any of the three supported artifact types: ..." alt="" coords="5,95,228,121"/>
+<area shape="rect" id="node3" href="$HTTPClient_8cpp.html" title="This file defines the methods of the HTTPRequest, HTTPClient, and BufferedHTTPResponseHandler classes..." alt="" coords="252,95,472,121"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="include/llvm/PassInfo.h" name="include/llvm/PassInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="7491,5,7663,32"/>
+<area shape="rect" id="node2" href="$PassSupport_8h.html" title=" " alt="" coords="5409,80,5606,107"/>
+<area shape="rect" id="node49" href="$Pass_8cpp.html" title=" " alt="" coords="7519,237,7634,263"/>
+<area shape="rect" id="node50" href="$PassRegistry_8cpp.html" title=" " alt="" coords="7659,237,7825,263"/>
+<area shape="rect" id="node3" href="$Pass_8h.html" title=" " alt="" coords="3594,155,3741,181"/>
+<area shape="rect" id="node4" href="$AliasAnalysis_8h.html" title=" " alt="" coords="820,229,981,271"/>
+<area shape="rect" id="node5" href="$BasicAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s primary stateless and local alias analysis." alt="" coords="5,319,167,360"/>
+<area shape="rect" id="node6" href="$CFLAndersAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s inclusion&#45;based alias analysis implemented with CFL graph reachabili..." alt="" coords="191,319,386,360"/>
+<area shape="rect" id="node7" href="$CFLSteensAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s unification&#45;based alias analysis implemented with CFL graph reachabi..." alt="" coords="411,319,604,360"/>
+<area shape="rect" id="node8" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals." alt="" coords="628,319,789,360"/>
+<area shape="rect" id="node9" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="813,319,975,360"/>
+<area shape="rect" id="node10" href="$ObjCARCAliasAnalysis_8h.html" title="This file declares a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance..." alt="" coords="999,319,1181,360"/>
+<area shape="rect" id="node11" href="$ScalarEvolutionAliasAnalysis_8h.html" title="This is the interface for a SCEV&#45;based alias analysis." alt="" coords="1206,319,1433,360"/>
+<area shape="rect" id="node12" href="$ScopedNoAliasAA_8h.html" title="This is the interface for a metadata&#45;based scoped no&#45;alias analysis." alt="" coords="1457,319,1619,360"/>
+<area shape="rect" id="node13" href="$TypeBasedAliasAnalysis_8h.html" title="This is the interface for a metadata&#45;based TBAA." alt="" coords="1643,319,1838,360"/>
+<area shape="rect" id="node14" href="$AliasAnalysisEvaluator_8h.html" title="This file implements a simple N^2 alias analysis accuracy evaluator." alt="" coords="1422,229,1609,271"/>
+<area shape="rect" id="node15" href="$AssumptionCache_8h.html" title=" " alt="" coords="1633,229,1795,271"/>
+<area shape="rect" id="node16" href="$BlockFrequencyInfo_8h.html" title=" " alt="" coords="1819,229,1985,271"/>
+<area shape="rect" id="node17" href="$LazyBlockFrequencyInfo_8h.html" title=" " alt="" coords="2073,408,2269,449"/>
+<area shape="rect" id="node18" href="$OptimizationRemarkEmitter_8h.html" title=" " alt="" coords="1913,319,2133,360"/>
+<area shape="rect" id="node19" href="$BranchProbabilityInfo_8h.html" title=" " alt="" coords="2111,229,2290,271"/>
+<area shape="rect" id="node20" href="$LazyBranchProbabilityInfo_8h.html" title=" " alt="" coords="2209,319,2417,360"/>
+<area shape="rect" id="node21" href="$CallGraph_8h.html" title="This file provides interfaces used to build and manipulate a call graph, which is a very useful tool ..." alt="" coords="2365,229,2527,271"/>
+<area shape="rect" id="node22" href="$CallGraphSCCPass_8h.html" title=" " alt="" coords="2551,229,2712,271"/>
+<area shape="rect" id="node23" href="$CycleAnalysis_8h.html" title="This file declares an analysis pass that computes CycleInfo for LLVM IR, specialized from GenericCycl..." alt="" coords="2736,229,2897,271"/>
+<area shape="rect" id="node24" href="$DDGPrinter_8h.html" title=" " alt="" coords="2921,229,3083,271"/>
+<area shape="rect" id="node25" href="$DemandedBits_8h.html" title=" " alt="" coords="3107,229,3268,271"/>
+<area shape="rect" id="node26" href="$DependenceAnalysis_8h.html" title=" " alt="" coords="3292,229,3467,271"/>
+<area shape="rect" id="node27" href="$DivergenceAnalysis_8h.html" title=" " alt="" coords="3491,229,3657,271"/>
+<area shape="rect" id="node28" href="$DominanceFrontier_8h.html" title=" " alt="" coords="3681,229,3843,271"/>
+<area shape="rect" id="node29" href="$IntervalPartition_8h.html" title=" " alt="" coords="3867,229,4028,271"/>
+<area shape="rect" id="node30" href="$IRSimilarityIdentifier_8h.html" title=" " alt="" coords="4053,229,4223,271"/>
+<area shape="rect" id="node31" href="$LazyValueInfo_8h.html" title=" " alt="" coords="4248,229,4409,271"/>
+<area shape="rect" id="node32" href="$LegacyDivergenceAnalysis_8h.html" title=" " alt="" coords="4434,229,4647,271"/>
+<area shape="rect" id="node33" href="$LoopAccessAnalysis_8h.html" title=" " alt="" coords="4672,229,4841,271"/>
+<area shape="rect" id="node34" href="$LoopInfo_8h.html" title=" " alt="" coords="4865,229,5027,271"/>
+<area shape="rect" id="node35" href="$LoopPass_8h.html" title=" " alt="" coords="4924,319,5085,360"/>
+<area shape="rect" id="node36" href="$MemoryDependenceAnalysis_8h.html" title=" " alt="" coords="5103,229,5331,271"/>
+<area shape="rect" id="node37" href="$ModuleSummaryAnalysis_8h.html" title="This is the interface to build a ModuleSummaryIndex for a module." alt="" coords="5355,229,5559,271"/>
+<area shape="rect" id="node38" href="$PhiValues_8h.html" title=" " alt="" coords="5583,229,5744,271"/>
+<area shape="rect" id="node39" href="$PostDominators_8h.html" title=" " alt="" coords="5768,229,5929,271"/>
+<area shape="rect" id="node40" href="$ProfileSummaryInfo_8h.html" title=" " alt="" coords="5953,229,6120,271"/>
+<area shape="rect" id="node41" href="$RegionInfo_8h.html" title=" " alt="" coords="6144,229,6305,271"/>
+<area shape="rect" id="node42" href="$RegionPass_8h.html" title=" " alt="" coords="6203,319,6364,360"/>
+<area shape="rect" id="node43" href="$ScalarEvolution_8h.html" title=" " alt="" coords="6381,229,6543,271"/>
+<area shape="rect" id="node44" href="$StackSafetyAnalysis_8h.html" title=" " alt="" coords="6567,229,6738,271"/>
+<area shape="rect" id="node45" href="$TargetLibraryInfo_8h.html" title=" " alt="" coords="6763,229,6924,271"/>
+<area shape="rect" id="node46" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes." alt="" coords="6949,229,7117,271"/>
+<area shape="rect" id="node47" href="$GCMetadata_8h.html" title=" " alt="" coords="7141,229,7306,271"/>
+<area shape="rect" id="node48" href="$LiveStacks_8h.html" title=" " alt="" coords="7330,229,7495,271"/>
+</map>

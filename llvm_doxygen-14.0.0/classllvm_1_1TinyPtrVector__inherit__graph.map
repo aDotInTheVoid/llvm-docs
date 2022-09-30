@@ -1,0 +1,6 @@
+<map id="llvm::TinyPtrVector&lt; EltTy &gt;" name="llvm::TinyPtrVector&lt; EltTy &gt;">
+<area shape="rect" id="node1" title="TinyPtrVector &#45; This class is specialized for cases where there are normally 0 or 1 element in a vect..." alt="" coords="5,71,152,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="361,5,532,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="359,71,535,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="370,136,523,177"/>
+</map>

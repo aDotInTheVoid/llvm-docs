@@ -1,0 +1,4 @@
+<map id="include/llvm/MCA/Stages/InstructionTables.h" name="include/llvm/MCA/Stages/InstructionTables.h">
+<area shape="rect" id="node1" title="This file implements a custom stage to generate instruction tables." alt="" coords="10,5,194,47"/>
+<area shape="rect" id="node2" href="$InstructionTables_8cpp.html" title="This file implements the method InstructionTables::execute()." alt="" coords="5,95,199,136"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="lib/Target/Hexagon/HexagonCopyToCombine.cpp" name="lib/Target/Hexagon/HexagonCopyToCombine.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2581,5,2797,47"/>
+<area shape="rect" id="node2" href="$HexagonInstrInfo_8h.html" title=" " alt="" coords="2213,169,2360,196"/>
+<area shape="rect" id="node11" href="$MachineBasicBlock_8h.html" title=" " alt="" coords="1739,512,1947,553"/>
+<area shape="rect" id="node12" href="$MachineInstr_8h.html" title=" " alt="" coords="1261,609,1475,635"/>
+<area shape="rect" id="node18" href="$DenseMap_8h.html" title="This file defines the DenseMap class." alt="" coords="602,609,769,635"/>
+<area shape="rect" id="node24" href="$MachineFunction_8h.html" title=" " alt="" coords="1413,430,1653,457"/>
+<area shape="rect" id="node25" href="$MachineInstrBuilder_8h.html" title=" " alt="" coords="1501,333,1704,375"/>
+<area shape="rect" id="node26" href="$TargetRegisterInfo_8h.html" title=" " alt="" coords="2502,423,2714,464"/>
+<area shape="rect" id="node31" href="$HexagonSubtarget_8h.html" title=" " alt="" coords="3237,95,3392,121"/>
+<area shape="rect" id="node39" href="$CodeGen_8h.html" title=" " alt="" coords="4433,519,4613,546"/>
+<area shape="rect" id="node43" href="$DenseSet_8h.html" title="This file defines the DenseSet and SmallDenseSet classes." alt="" coords="824,519,984,546"/>
+<area shape="rect" id="node44" href="$MachineFunctionPass_8h.html" title=" " alt="" coords="2502,333,2730,375"/>
+<area shape="rect" id="node45" href="$Pass_8h.html" title=" " alt="" coords="4237,519,4333,546"/>
+<area shape="rect" id="node46" href="$CodeGen_2Passes_8h.html" title=" " alt="" coords="4571,430,4746,457"/>
+<area shape="rect" id="node47" href="$CommandLine_8h.html" title=" " alt="" coords="3606,341,3821,367"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title=" " alt="" coords="3854,430,4061,457"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title=" " alt="" coords="4672,95,4835,121"/>
+<area shape="rect" id="node50" href="$llvm_2Target_2TargetMachine_8h.html" title=" " alt="" coords="4289,430,4495,457"/>
+<area shape="rect" id="node3" href="$HexagonBaseInfo_8h.html" title=" " alt="" coords="2014,244,2223,285"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title=" " alt="" coords="2224,519,2379,546"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title=" " alt="" coords="2290,765,2465,792"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2003,609,2066,635"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1580,765,1647,792"/>
+<area shape="rect" id="node17" href="$TargetInstrInfo_8h.html" title=" " alt="" coords="1320,244,1507,285"/>
+<area shape="rect" id="node28" href="$MachineValueType_8h.html" title=" " alt="" coords="2656,601,2856,643"/>
+<area shape="rect" id="node29" href="$ValueTypes_8h.html" title=" " alt="" coords="3261,519,3464,546"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1807,251,1990,278"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title=" " alt="" coords="1513,915,1692,941"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2511,840,2596,867"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2263,840,2340,867"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title=" " alt="" coords="811,840,1002,867"/>
+<area shape="rect" id="node16" title=" " alt="" coords="4171,609,4229,635"/>
+<area shape="rect" id="node13" href="$DenseMapInfo_8h.html" title="This file defines DenseMapInfo traits for DenseMap." alt="" coords="1181,691,1373,717"/>
+<area shape="rect" id="node15" href="$SmallSet_8h.html" title="This file defines the SmallSet class." alt="" coords="950,691,1106,717"/>
+<area shape="rect" id="node19" href="$EpochTracker_8h.html" title="This file defines the DebugEpochBase and DebugEpochBase::HandleBase classes." alt="" coords="691,691,874,717"/>
+<area shape="rect" id="node20" href="$AlignOf_8h.html" title=" " alt="" coords="144,691,312,717"/>
+<area shape="rect" id="node21" href="$MathExtras_8h.html" title=" " alt="" coords="2555,691,2749,717"/>
+<area shape="rect" id="node22" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;." alt="" coords="236,765,423,792"/>
+<area shape="rect" id="node23" href="$ReverseIteration_8h.html" title=" " alt="" coords="336,691,565,717"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title=" " alt="" coords="3803,519,3960,546"/>
+<area shape="rect" id="node32" href="$HexagonArch_8h.html" title=" " alt="" coords="3555,430,3677,457"/>
+<area shape="rect" id="node33" href="$HexagonFrameLowering_8h.html" title=" " alt="" coords="1880,430,2072,457"/>
+<area shape="rect" id="node34" href="$HexagonISelLowering_8h.html" title=" " alt="" coords="3305,430,3479,457"/>
+<area shape="rect" id="node35" href="$HexagonRegisterInfo_8h.html" title=" " alt="" coords="3035,251,3205,278"/>
+<area shape="rect" id="node36" href="$HexagonSelectionDAGInfo_8h.html" title=" " alt="" coords="2829,169,3035,196"/>
+<area shape="rect" id="node37" href="$ScheduleDAGMutation_8h.html" title=" " alt="" coords="2859,519,3135,546"/>
+<area shape="rect" id="node38" href="$TargetSubtargetInfo_8h.html" title=" " alt="" coords="2891,423,3112,464"/>
+<area shape="rect" id="node40" href="$MCInstrItineraries_8h.html" title=" " alt="" coords="3845,765,4053,792"/>
+<area shape="rect" id="node41" href="$Alignment_8h.html" title=" " alt="" coords="3489,519,3677,546"/>
+<area shape="rect" id="node42" title=" " alt="" coords="3059,169,3277,196"/>
+</map>

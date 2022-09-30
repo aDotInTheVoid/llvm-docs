@@ -1,0 +1,10 @@
+<map id="llvm::SCEVTruncateExpr" name="llvm::SCEVTruncateExpr">
+<area shape="rect" id="node1" title="This class represents a truncation of an integer value to a smaller integer value." alt="" coords="147,365,324,392"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SCEVIntegralCastExpr.html" title="This is the base class for unary integral cast operator classes." alt="" coords="135,289,336,316"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SCEVCastExpr.html" title="This is the base class for unary cast operator classes." alt="" coords="160,213,311,240"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SCEV.html" title="This class represents an analyzed expression in the program." alt="" coords="65,117,158,143"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title=" " alt="" coords="179,5,260,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="191,117,280,143"/>
+<area shape="rect" id="node8" title=" " alt="" coords="421,109,567,151"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::DIMacro" name="llvm::DIMacro">
+<area shape="rect" id="node1" title=" " alt="" coords="5,399,119,425"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DIMacroNode.html" title="Macro Info DWARF&#45;like metadata node." alt="" coords="70,323,217,349"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="95,231,210,257"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="77,139,199,165"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title=" " alt="" coords="5,5,87,32"/>
+</map>
